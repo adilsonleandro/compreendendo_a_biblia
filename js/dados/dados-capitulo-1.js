@@ -252,7 +252,7 @@ const CAPITULO_1 = {
         {
           numero: 21,
           pergunta: "Por quanto tempo subsistirá a Palavra de Deus?",
-          versiculo: "Mateus 4:1-11",
+          versiculo: "Mateus 24:35 e Is 40:80",
           versoes: {
             naa: "A seguir, Jesus foi levado pelo Espírito ao deserto, para ser tentado pelo diabo. Com isto, o diabo deixou Jesus, e eis que vieram anjos e o serviram.",
             ntlh: "Então o Espírito Santo levou Jesus ao deserto para ser tentado pelo Diabo. Então o Diabo foi embora, e vieram anjos e cuidaram de Jesus.",
