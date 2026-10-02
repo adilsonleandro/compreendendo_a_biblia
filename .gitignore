@@ -16,6 +16,8 @@ texto_bruto.txt
 resultado.json
 verificar.vbs
 data.js.bak
+*.bak
+*.bak2
 
 # Arquivos Python (ferramentas de desenvolvimento)
 *.py
