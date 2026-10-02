@@ -206,7 +206,8 @@ const CAPITULO_2 = {
             acf: "Quem comete o pecado é do diabo; porque o diabo peca desde o princípio. Para isto o Filho de Deus se manifestou: para desfazer as obras do diabo.",
           },
           resposta: "Com o diabo: \"Aquele que pratica o pecado procede do diabo, porque o diabo vive pecando desde o princípio\" (1Jo 3:8). O mistério da iniquidade não possui autor ou causa em Deus, cuja natureza é santa e imaculada, nem surgiu inerente à constituição do homem; originou-se de forma voluntária e indesculpável em Satanás."
-        },        {
+        },
+        {
           numero: 2,
           pergunta: "Onde surgiu o pecado?",
           versiculo: "Ap 12:7",
@@ -302,7 +303,6 @@ const CAPITULO_2 = {
           },
           resposta: "\"Deus amou ao mundo de tal maneira que deu o Seu Filho unigênito, para que todo o que Nele crê não pereça, mas tenha a vida eterna\" (Jo 3:16). O Deus paciente que ofereceu espaço para arrependimento antes do banimento dos anjos rebeldes do Céu (Ap 12:7-9) abriu à humanidade caída a porta da redenção mediante o sacrifício infinito de Seu Filho."
         },
-
       ]
     },
     {
@@ -1774,6 +1774,18 @@ const CAPITULO_2 = {
           resposta: "A morte judicial: \"O salário do pecado é a morte\" (Rm 6:23). A contraprestação legal e justa devida à transgressão da santa lei de Deus é a cessação definitiva da vida na segunda morte."
         },
         {
+          numero: 4,
+          pergunta: "Quantos foram atingidos pela transgressão de Adão?",
+          versiculo: "Rm 5:12",
+          versoes: {
+            naa: "Portanto, assim como por um só homem entrou o pecado no mundo, e pelo pecado veio a morte, assim também a morte passou a toda a humanidade, porque todos pecaram.",
+            ntlh: "O pecado entrou no mundo por meio de um só homem, e o seu pecado trouxe consigo a morte. Como resultado, a morte se espalhou por toda a raça humana porque todos pecaram.",
+            nvi: "Portanto, da mesma forma como o pecado entrou no mundo por um homem, e pelo pecado a morte, assim também a morte veio a todos os homens, porque todos pecaram;",
+            acf: "Portanto, como por um homem entrou o pecado no mundo, e pelo pecado a morte, assim também a morte passou a todos os homens por isso que todos pecaram.",
+          },
+          resposta: "A totalidade da família humana: \"por um só homem entrou o pecado no mundo, e pelo pecado a morte, assim também a morte passou a todos os homens, porque todos pecaram\" (Rm 5:12). A herança da mortalidade e a depravação das tendências morais alcançaram todo indivíduo nascido na linhagem adâmica decaída."
+        },
+        {
           numero: 5,
           pergunta: "Qual é o dom de Deus?",
           versiculo: "Rm 6:23",
@@ -1988,7 +2000,9 @@ const CAPITULO_2 = {
             acf: "E, se nós somos filhos, somos logo herdeiros também, herdeiros de Deus, e co-herdeiros de Cristo: se é certo que com ele padecemos, para que também com ele sejamos glorificados.",
           },
           resposta: "Com o próprio Filho unigênito: \"Se somos filhos, somos também herdeiros, herdeiros de Deus e coerdeiros com Cristo\" (Rm 8:17). O redimido foi alçado a partilhar com seu Salvador a herança imperecível da Terra Renovada e a glória de Seu reino celestial."
-        },        
+        },
+      ]
+    },
     {
       id: "2-10",
       titulo: "2.10 - Salvação Somente por Cristo - 25/07/2020",
