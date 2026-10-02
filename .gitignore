@@ -1,0 +1,31 @@
+# ============================================================
+# Arquivos que NÃO devem ser publicados no GitHub
+# ============================================================
+
+# Pastas de desenvolvimento/backup
+backup/
+estudos/
+prompts/
+biblia/
+
+# Arquivos temporários e de desenvolvimento
+appjs.txt
+stylecss.txt
+temp.txt
+texto_bruto.txt
+resultado.json
+verificar.vbs
+data.js.bak
+
+# Arquivos Python (ferramentas de desenvolvimento)
+*.py
+*.pyc
+__pycache__/
+
+# Arquivos de sistema
+Thumbs.db
+desktop.ini
+.DS_Store
+
+# Arquivos de log
+*.log
