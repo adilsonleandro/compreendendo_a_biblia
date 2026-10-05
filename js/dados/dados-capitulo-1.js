@@ -3,11 +3,11 @@
 // ============================================================
 const CAPITULO_1 = {
   id: "capitulo-1",
-  titulo: "Capítulo 1",
+  titulo: "Capítulo 1 - A Bíblia: Como Estudá-la e Compreendê-la",
   secoes: [
     {
       id: "1-1",
-      titulo: "1.1 As Escrituras Sagradas",
+      titulo: "1.1 - As Escrituras Sagradas",
       perguntas: [
         {
           numero: 1,
@@ -252,7 +252,7 @@ const CAPITULO_1 = {
         {
           numero: 21,
           pergunta: "Por quanto tempo subsistirá a Palavra de Deus?",
-          versiculo: "Mateus 4:1-11",
+          versiculo: "Mateus 24:35 e Is 40:80",
           versoes: {
             naa: "A seguir, Jesus foi levado pelo Espírito ao deserto, para ser tentado pelo diabo. Com isto, o diabo deixou Jesus, e eis que vieram anjos e o serviram.",
             ntlh: "Então o Espírito Santo levou Jesus ao deserto para ser tentado pelo Diabo. Então o Diabo foi embora, e vieram anjos e cuidaram de Jesus.",
@@ -265,7 +265,7 @@ const CAPITULO_1 = {
     },
     {
       id: "1-2",
-      titulo: "1.2 O Estudo das Escrituras",
+      titulo: "1.2 - O Estudo das Escrituras",
       perguntas: [
         {
           numero: 1,
@@ -511,7 +511,7 @@ const CAPITULO_1 = {
     },
     {
       id: "1-3",
-      titulo: "1.3 O Poder da Palavra de Deus",
+      titulo: "1.3 - O Poder da Palavra de Deus",
       perguntas: [
         {
           numero: 1,
@@ -805,7 +805,7 @@ const CAPITULO_1 = {
     },
     {
       id: "1-4",
-      titulo: "1.4 A Palavra Vivificante",
+      titulo: "1.4 - A Palavra Vivificante",
       perguntas: [
         {
           numero: 1,

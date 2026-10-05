@@ -3,11 +3,11 @@
 // ============================================================
 const CAPITULO_2 = {
   id: "capitulo-2",
-  titulo: "Capítulo 2",
+  titulo: "Capítulo 2 - O Pecado: Sua Origem, Resultados e Remédios",
   secoes: [
     {
       id: "2-1",
-      titulo: "2.1 - A Criação e o Criador - estudado dia 20/06/2020",
+      titulo: "2.1 - A Criação e o Criador - Estudado dia 20/06/2020",
       perguntas: [
         {
           numero: 1,
@@ -193,7 +193,7 @@ const CAPITULO_2 = {
     },
     {
       id: "2-2",
-      titulo: "2.2 - A Origem do Mal - estudado dia 20/06/2020",
+      titulo: "2.2 - A Origem do Mal - Estudado dia 20/06/2020",
       perguntas: [
         {
           numero: 1,

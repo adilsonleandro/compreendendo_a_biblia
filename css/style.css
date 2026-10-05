@@ -1888,7 +1888,7 @@ body {
   border-radius: 8px;
   line-height: 1.5;
 }
-.tema-secoes.aberto { max-height: 600px; }
+/* (a seção expandida pode usar a rolagem da .tema-sidebar) */
 
 /* ============================================================
    TEMA BÍBLIA — MOBILE: BARRA LATERAL EM GAVETA (DRAWER)
@@ -2017,4 +2017,96 @@ body {
     padding: 12px 16px;
     font-size: 0.9rem;
   }
+}
+
+/* ===== Bot�o Voltar ao Topo ===== */
+#btnVoltarTopo {
+  position: fixed;
+  bottom: 28px;
+  right: 28px;
+  width: 48px;
+  height: 48px;
+  border: none;
+  border-radius: 50%;
+  background: linear-gradient(135deg, var(--primary) 0%, var(--primary-dark) 100%);
+  color: #fff;
+  font-size: 20px;
+  line-height: 1;
+  cursor: pointer;
+  opacity: 0;
+  visibility: hidden;
+  transform: translateY(16px);
+  transition: opacity 0.3s ease, transform 0.3s ease, visibility 0.3s;
+  box-shadow: 0 4px 14px rgba(0, 0, 0, 0.25);
+  z-index: 999;
+}
+#btnVoltarTopo:hover {
+  background: var(--secondary);
+  transform: translateY(-4px);
+}
+#btnVoltarTopo.visivel {
+  opacity: 1;
+  visibility: visible;
+  transform: translateY(0);
+}
+@media (max-width: 600px) {
+  #btnVoltarTopo {
+    bottom: 18px;
+    right: 18px;
+    width: 42px;
+    height: 42px;
+    font-size: 18px;
+  }
+}
+
+/* Blocos da IntroduþÒo Ós Doutrinas */
+.introducao-p {
+  background: var(--bg-card);
+  border-radius: var(--radius-lg);
+  padding: 20px 24px;
+  box-shadow: var(--shadow);
+  border: 1px solid var(--border);
+  margin-bottom: 20px;
+  cursor: pointer;
+  transition: var(--transition);
+}
+.introducao-p:hover { box-shadow: var(--shadow-hover); transform: translateY(-2px); }
+.introducao-p p { margin: 0; line-height: 1.8; }
+.introducao-p.ativo {
+  background: #fdf3e2;
+  border-color: var(--secondary);
+  box-shadow: 0 4px 18px rgba(243, 156, 18, 0.25);
+}
+
+
+/* Referências das Leituras da Semana (link para abrir o texto) */
+.leitura-link {
+  color: var(--primary);
+  text-decoration: none;
+  font-weight: 600;
+  cursor: pointer;
+}
+.leitura-link:hover {
+  text-decoration: underline;
+  color: var(--secondary-dark);
+}
+
+
+/* ===== Estudo do Professor: visual "mapa mental" dinâmico ===== */
+/* Os itens já vêm abertos por padrão — o professor decide se fecha. */
+.mapa-mental-item .slide-topicos,
+.mapa-mental-item .slide-nota,
+.mapa-mental-item > p,
+.mapa-mental-item > ul {
+  display: block;
+}
+.mapa-mental-item.fechado .slide-topicos,
+.mapa-mental-item.fechado .slide-nota,
+.mapa-mental-item.fechado > p,
+.mapa-mental-item.fechado > ul {
+  display: none;
+}
+.mapa-mental-item h3,
+.mapa-mental-item h4 {
+  cursor: pointer;
 }

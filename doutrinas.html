@@ -3,8 +3,8 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Estudo Bíblico — Compreendendo a Lição da Escola Sabatina e a Bíblia</title>
-  <meta name="description" content="Estudo bíblico detalhado com perguntas e respostas para edificação espiritual.">
+  <title>Estudo das Doutrinas — Compreendendo a Lição da Escola Sabatina e a Bíblia</title>
+  <meta name="description" content="Estudo das doutrinas fundamentais da Igreja Adventista do Sétimo Dia, com textos bíblicos nas versões NAA, NTLH, NVI e ACF.">
   <link rel="stylesheet" href="css/style.css">
   <link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>📖</text></svg>">
 </head>
@@ -22,14 +22,25 @@
       <nav class="nav" id="nav">
         <a href="index.html">Início</a>
         <a href="licoes.html">Lições</a>
-        <a href="tema-biblia.html">Estudos</a>
+        <a href="tema-biblia.html" class="active">Estudos</a>
       </nav>
     </div>
   </header>
 
-  <main id="app">
-    <!-- Conteúdo renderizado via JavaScript -->
-  </main>
+  <div class="tema-container">
+    <aside class="tema-sidebar" id="temaSidebar">
+      <div class="tema-sidebar-header">
+        <h3>Estudo das Doutrinas — crenças, textos e perguntas</h3>
+        <button class="tema-sidebar-toggle" id="temaSidebarToggle">☰</button>
+      </div>
+      <nav class="tema-sidebar-nav" id="temaSidebarNav">
+        <!-- Links gerados via JavaScript -->
+      </nav>
+    </aside>
+    <main id="app" class="tema-main">
+      <!-- Conteúdo renderizado via JavaScript -->
+    </main>
+  </div>
 
   <footer class="footer">
     <div class="footer-content">
@@ -41,7 +52,7 @@
         <h3>Navegação</h3>
         <p><a href="index.html">Início</a></p>
         <p><a href="licoes.html">Lições da Escola Sabatina</a></p>
-        <a href="tema-biblia.html">Estudos</a>
+        <p><a href="tema-biblia.html">Estudos da Bíblia</a></p>
       </div>
       <div>
         <h3>Links Úteis</h3>
@@ -61,11 +72,9 @@
     </div>
   </footer>
 
-  <script src="js/dados/dados-capitulo-1.js"></script>
-  <script src="js/dados/dados-capitulo-2.js"></script>
+  <script src="js/dados/dados-dotrinas.js"></script>
   <script src="js/data.js"></script>
   <script src="js/data-loader.js"></script>
   <script src="js/app.js"></script>
-
 </body>
 </html>

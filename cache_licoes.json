@@ -68,5 +68,15 @@
     "titulo": "Perseguidos, mas não abandonados",
     "trimestre": 1,
     "ano": 2026
+  },
+  "https://mais.cpb.com.br/licao/o-chamado-de-um-profeta-4o-trimestre-2026": {
+    "periodo": [
+      "2026-10-03",
+      "2026-10-09"
+    ],
+    "numero": 2,
+    "titulo": "O chamado de um profeta",
+    "trimestre": 4,
+    "ano": 2026
   }
 }
