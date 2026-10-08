@@ -373,10 +373,11 @@ function renderDetalhePage() {
       ` : ''}
 
       ${isLicao && item.estudoProfessor ? `
-        <div style="text-align: center; margin: 32px 0;">
+        <div style="text-align: center; margin: 32px 0; display: grid; gap: 12px; justify-content: center;">
           <a href="estudo-professor.html?id=${item.id}" class="btn btn-primary" style="font-size: 1.1rem; padding: 16px 32px;">
             Estudo para Professores
           </a>
+          <a href="quiz.html" class="btn btn-outline">Quiz da Semana</a>
         </div>
       ` : ''}
 
@@ -519,7 +520,6 @@ function limparTituloSecao(titulo) {
   t = t.replace(/^(\d+\.\d+)\s*-\s*(.+)$/, '$1 $2');
   return t.trim();
 }
-
 
 // Aba lateral com capítulos expansíveis (acordeão)
 function renderTemaSidebar(capitulos) {
@@ -762,6 +762,7 @@ function renderEstudoProfessorPage() {
       <div class="navegacao-licoes">
         <a href="estudo-detalhe.html?tipo=licao&id=${licao.id}" class="nav-licao">← Voltar à Lição</a>
         <a href="licoes.html" class="btn btn-outline" style="color: var(--primary); border-color: var(--primary);">Todas as Lições</a>
+        <a href="quiz.html" class="btn btn-outline" style="color: var(--secondary); border-color: var(--secondary);">Quiz da Semana</a>
       </div>
     </div>
   `;
@@ -794,6 +795,7 @@ function initBackToTop() {
 
 // ============ PÁGINA ESTUDO DAS DOUTRINAS ============
 let doutrinasState = { tema: -1, versao: 'naa', refSel: {} };
+let quizState = null;
 
 function renderDoutrinasPage() {
   const app = getElement('app');
@@ -1002,6 +1004,102 @@ function toggleRespostaDoutrina(i) {
   if (el) el.classList.toggle('aberta');
 }
 
+// ============ PÁGINA QUIZ DA LIÇÃO ============
+function renderQuizPage() {
+  const app = getElement('app');
+  if (!app) return;
+
+  fetch('kahoot/licao-2026-4t-2-kahoot.json')
+    .then(r => r.json())
+    .then(perguntas => {
+      quizState = { perguntas: perguntas, index: 0, score: 0 };
+      app.innerHTML = `
+        <div class="detalhe-header">
+          <span class="card-badge" style="background: var(--secondary); color: white; padding: 4px 12px; border-radius: 20px; font-size: 0.75rem; font-weight: 600;">Quiz da Semana</span>
+          <h1>Quiz da Lição</h1>
+          <p>Teste seus conhecimentos sobre a lição da semana.</p>
+        </div>
+        <div class="detalhe-content" id="quiz-body"></div>
+        <div class="navegacao-licoes" style="margin-top: 24px;">
+          <a href="index.html" class="nav-licao">← Voltar ao Início</a>
+        </div>
+      `;
+      renderQuizPergunta();
+    })
+    .catch(err => {
+      app.innerHTML = '<p style="padding: 40px; text-align:center;">Não foi possível carregar o quiz. Verifique se o JSON existe.</p>';
+    });
+}
+
+function renderQuizPergunta() {
+  const el = getElement('quiz-body');
+  const q = quizState && quizState.perguntas[quizState.index];
+  if (!el || !q) { renderQuizResultado(); return; }
+  const letras = ['A', 'B', 'C', 'D'];
+  const opts = ['a', 'b', 'c', 'd']
+    .map((k, i) => ({ letra: letras[i], texto: q[k] }))
+    .filter(o => o.texto);
+
+  el.innerHTML = `
+    <div class="pergunta-card" style="margin-top: 24px; padding: 24px;">
+      <div style="display:flex;justify-content:space-between;align-items:center;gap:8px;flex-wrap:wrap;">
+        <span class="badge">Pergunta ${quizState.index + 1} de ${quizState.perguntas.length}</span>
+        <span class="badge" style="background:var(--secondary);color:white;">Corretas: ${quizState.score}</span>
+      </div>
+      <h2 style="margin-top: 16px;">${q.pergunta}</h2>
+      <p style="color:var(--primary); margin-top: 8px;"><em>${q.referencia_biblica || ''}</em></p>
+      <div style="margin-top: 20px; display: grid; gap: 10px;">
+        ${opts.map(o => `<button class="btn btn-outline" style="text-align:left;" data-letra="${o.letra}" onclick="responderQuiz(this)">${o.letra}) ${o.texto}</button>`).join('')}
+      </div>
+    </div>
+  `;
+}
+
+function responderQuiz(btn) {
+  const q = quizState && quizState.perguntas[quizState.index];
+  if (!q) return;
+  const certa = String(q.resposta_certa || '').toUpperCase();
+  const escolha = btn.getAttribute('data-letra');
+  document.querySelectorAll('#quiz-body button[data-letra]').forEach(b => { b.disabled = true; });
+
+  if (escolha === certa) {
+    btn.style.background = '#d4edda';
+    btn.style.borderColor = '#28a745';
+    quizState.score++;
+  } else {
+    btn.style.background = '#f8d7da';
+    btn.style.borderColor = '#dc3545';
+    const bx = document.querySelector('#quiz-body button[data-letra="' + certa + '"]');
+    if (bx) { bx.style.background = '#d4edda'; bx.style.borderColor = '#28a745'; }
+  }
+
+  const next = document.createElement('div');
+  next.style.cssText = 'text-align:center; margin-top:20px;';
+  const ultimo = quizState.index === quizState.perguntas.length - 1;
+  next.innerHTML = `<button class="btn btn-primary" onclick="proximaPerguntaQuiz()">${ultimo ? 'Ver Resultado' : 'Próxima'}</button>`;
+  document.getElementById('quiz-body').appendChild(next);
+}
+
+function proximaPerguntaQuiz() {
+  quizState.index++;
+  renderQuizPergunta();
+}
+
+function renderQuizResultado() {
+  const el = getElement('quiz-body');
+  if (!el || !quizState) return;
+  const total = quizState.perguntas.length;
+  const pct = Math.round((quizState.score / total) * 100);
+  el.innerHTML = `
+    <div class="card" style="margin-top:24px; text-align:center; padding:32px;">
+      <h2>Fim do Quiz! 🎉</h2>
+      <p style="font-size:1.3rem; margin-top:12px;">Você acertou <strong>${quizState.score}</strong> de <strong>${total}</strong> perguntas</p>
+      <p style="font-size:2.2rem; color:var(--primary); margin: 10px 0;">${pct}%</p>
+      <a href="index.html" class="btn btn-outline">Voltar ao Início</a>
+    </div>
+  `;
+}
+
 // ============ INICIALIZAÇÃO ============
 
 document.addEventListener('DOMContentLoaded', () => {
@@ -1018,6 +1116,8 @@ document.addEventListener('DOMContentLoaded', () => {
     renderTemaBibliaPage();
   } else if (path.includes('doutrinas.html')) {
     renderDoutrinasPage();
+  } else if (path.includes('quiz.html')) {
+    renderQuizPage();
   } else if (path.includes('estudo-professor.html')) {
     renderEstudoProfessorPage();
   } else if (path.includes('estudo-detalhe.html')) {
@@ -1028,105 +1128,85 @@ document.addEventListener('DOMContentLoaded', () => {
 });
 
 
-// ===== MOBILE: barra lateral vira gaveta (auto-detecção — não depende de classes) =====
-(function () {
-  'use strict';
+// ============================================================
+// ===== NAVEGAÇÃO MOBILE (não mexer) =====
+// ============================================================
 
-  function isMobile() { return window.innerWidth <= 768; }
+// Abre/fecha a gaveta lateral com a sombra (overlay)
+function abrirCapitulosMobile() {
+  const sidebar = document.getElementById('temaSidebar');
+  const overlay = document.getElementById('temaOverlay');
+  if (!sidebar) return;
+  const aberto = sidebar.classList.toggle('aberta');
+  if (overlay) overlay.classList.toggle('ativa', aberto);
+  document.body.style.overflow = aberto ? 'hidden' : '';
+}
 
-  // Injetar o CSS necessário direto (funciona mesmo sem mexer no style.css)
-  if (!document.getElementById('fix-mobile-estudo')) {
-    var st = document.createElement('style');
-    st.id = 'fix-mobile-estudo';
-    st.textContent = [
-      '#fix-gaveta-overlay{display:none;position:fixed;inset:0;background:rgba(0,0,0,.55);z-index:9998}',
-      '#fix-gaveta-overlay.ativa{display:block}',
-      '#fix-gaveta-btn{display:none;align-items:center;gap:8px;margin:10px 0;padding:10px 16px;background:#2f5d8a;color:#fff;border:none;border-radius:8px;font-size:15px;font-weight:600;cursor:pointer;max-width:220px}',
-      '#fix-gaveta-btn.aberto{display:inline-flex}',
-      '.fix-gaveta-lateral{position:fixed !important;top:0 !important;left:0 !important;bottom:0 !important;width:84% !important;max-width:320px !important;height:100vh !important;overflow-y:auto !important;z-index:9999 !important;background:#fff !important;transform:translateX(-105%) !important;transition:transform .3s ease !important;box-shadow:4px 0 20px rgba(0,0,0,.25) !important;margin:0 !important;border-radius:0 !important}',
-      '.fix-gaveta-lateral.aberta{transform:translateX(0) !important}',
-      '.fix-conteudo-cheio{margin-left:0 !important;padding:0 14px 40px !important;width:100% !important;max-width:100% !important}'
-    ].join('\n');
-    document.head.appendChild(st);
+// Fecha a gaveta
+function fecharGavetaMobile() {
+  const sidebar = document.getElementById('temaSidebar');
+  const overlay = document.getElementById('temaOverlay');
+  if (sidebar) sidebar.classList.remove('aberta');
+  if (overlay) overlay.classList.remove('ativa');
+  document.body.style.overflow = '';
+}
+
+// Fecha a gaveta ao escolher um capítulo/seção ou ao tocar fora dela
+document.addEventListener('click', function (e) {
+  if (e.target.closest('#temaSidebar') && e.target.closest('.tema-secao-btn')) {
+    // Pequeno atraso para o conteúdo renderizar antes de fechar
+    setTimeout(fecharGavetaMobile, 150);
+  }
+  if (e.target.id === 'temaOverlay') {
+    fecharGavetaMobile();
+  }
+});
+
+// Botões "← Anterior" e "Próximo →" da barra mobile
+function navegarCapitulo(direcao) {
+  const isDoutrinas = window.location.pathname.includes('doutrinas.html');
+
+  // ---- Doutrinas: navega entre os temas ----
+  if (isDoutrinas) {
+    if (typeof DOTRINAS === 'undefined' || !DOTRINAS.temas || !DOTRINAS.temas.length) return;
+    const total = DOTRINAS.temas.length;
+    let alvo = doutrinasState.tema + direcao;
+    if (alvo < -1) alvo = total - 1;   // antes da introdução vai para o último tema
+    if (alvo >= total) alvo = -1;      // depois do último volta para a introdução
+    if (alvo === -1) abrirIntroducaoDoutrinas();
+    else abrirDoutrinaTema(alvo);
+    return;
   }
 
-  // Descobre a barra lateral: o elemento com mais links de âncora (#) e fora do header
-  function acharSidebar() {
-    var melhor = null, melhorN = 3;
-    var todos = document.querySelectorAll('aside, nav, div, section');
-    Array.prototype.forEach.call(todos, function (el) {
-      if (el.closest('header')) return;
-      var links = el.querySelectorAll('a[href^="#"]');
-      if (links.length > melhorN && el.textContent.trim().length > 50) {
-        melhor = el; melhorN = links.length;
-      }
+  // ---- Tema Bíblia: navega seção por seção (1.1, 1.2, 1.3..., 2.1, 2.2...) ----
+  const capitulos = (typeof TEMA_BIBLIA !== 'undefined' && TEMA_BIBLIA && TEMA_BIBLIA.capitulos)
+    ? TEMA_BIBLIA.capitulos
+    : (DataLoader.getCapitulos && DataLoader.getCapitulos().capitulos) || [];
+
+  // Monta a lista PLANA de todas as seções de todos os capítulos, em ordem
+  const plano = [];
+  capitulos.forEach((cap, ci) => {
+    (cap && cap.secoes ? cap.secoes : []).forEach((secao, si) => {
+      plano.push({ c: ci, s: si });
     });
-    return melhor;
-  }
-
-  function aplicar() {
-    if (!isMobile()) return;
-    var sidebar = acharSidebar();
-    if (!sidebar || sidebar.classList.contains('fix-gaveta-lateral')) return;
-
-    // Fundo escuro
-    var overlay = document.createElement('div');
-    overlay.id = 'fix-gaveta-overlay';
-    document.body.appendChild(overlay);
-
-    // Conteúdo = irmão do sidebar com mais texto
-    var wrapper = sidebar.parentElement;
-    var conteudo = null;
-    if (wrapper) {
-      conteudo = Array.prototype.slice.call(wrapper.children)
-        .filter(function (f) { return f !== sidebar; })
-        .sort(function (a, b) { return b.textContent.length - a.textContent.length; })[0] || null;
-    }
-
-    sidebar.classList.add('fix-gaveta-lateral');
-
-    // Botão "☰ Capítulos"
-    var btn = document.createElement('button');
-    btn.id = 'fix-gaveta-btn';
-    btn.type = 'button';
-    btn.textContent = '☰ Capítulos';
-    if (conteudo) {
-      conteudo.classList.add('fix-conteudo-cheio');
-      conteudo.insertBefore(btn, conteudo.firstChild);
-    } else {
-      wrapper.insertBefore(btn, sidebar);
-    }
-    btn.classList.add('aberto');
-
-    function abrir() { sidebar.classList.add('aberta'); overlay.classList.add('ativa'); document.body.style.overflow = 'hidden'; }
-    function fechar() { sidebar.classList.remove('aberta'); overlay.classList.remove('ativa'); document.body.style.overflow = ''; }
-
-    btn.addEventListener('click', abrir);
-    overlay.addEventListener('click', fechar);
-
-    // Fecha ao escolher uma seção (links tipo #1-2, #2-2) — não fecha ao abrir capítulo
-    sidebar.addEventListener('click', function (e) {
-      var a = e.target.closest('a[href^="#"]');
-      if (a && /^#\d+-\d+$/.test((a.getAttribute('href') || '').trim())) fechar();
-    });
-  }
-
-  // Tenta agora e de novo quando o app.js criar a sidebar
-  aplicar();
-  var obs = new MutationObserver(aplicar);
-  obs.observe(document.body, { childList: true, subtree: true });
-
-  window.addEventListener('resize', function () {
-    if (isMobile()) { aplicar(); return; }
-    var s = document.querySelector('.fix-gaveta-lateral');
-    if (s) { s.classList.remove('fix-gaveta-lateral', 'aberta'); }
-    var o = document.getElementById('fix-gaveta-overlay');
-    if (o) o.classList.remove('ativa');
-    var b = document.getElementById('fix-gaveta-btn');
-    if (b) b.classList.remove('aberto');
-    document.body.style.overflow = '';
   });
-})();
+  if (!plano.length) return;
+
+  // Descnde onde estamos agora na lista plana e avança/recua 1 passo
+  const posAtual = plano.findIndex(x =>
+    x.c === temaBibliaState.capitulo && x.s === temaBibliaState.secao
+  );
+  const posNova = Math.min(
+    Math.max((posAtual === -1 ? 0 : posAtual) + direcao, 0),
+    plano.length - 1
+  );
+
+  abrirSecaoTema(plano[posNova].c, plano[posNova].s);
+}
+
+
+
+// ===== FIM DA NAVEGAÇÃO MOBILE =====
 
 
 // ============ QUESTION: trocar versão do texto ============

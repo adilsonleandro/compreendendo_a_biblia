@@ -252,12 +252,12 @@ const CAPITULO_1 = {
         {
           numero: 21,
           pergunta: "Por quanto tempo subsistirá a Palavra de Deus?",
-          versiculo: "Mateus 24:35 e Is 40:80",
+          versiculo: "Mateus 24:35 e Is 40:08",
           versoes: {
-            naa: "A seguir, Jesus foi levado pelo Espírito ao deserto, para ser tentado pelo diabo. Com isto, o diabo deixou Jesus, e eis que vieram anjos e o serviram.",
-            ntlh: "Então o Espírito Santo levou Jesus ao deserto para ser tentado pelo Diabo. Então o Diabo foi embora, e vieram anjos e cuidaram de Jesus.",
-            nvi: "Então Jesus foi levado pelo Espírito ao deserto, para ser tentado pelo Diabo. Então o Diabo o deixou, e anjos vieram e o serviram.",
-            acf: "ENTÃO foi conduzido Jesus pelo Espírito ao deserto, para ser tentado pelo diabo. Então o diabo o deixou; e, eis que chegaram os anjos, e o serviam.",
+            naa: "Mateus 24:35 — O céu e a terra passarão, mas as minhas palavras não passarão.\n\nIsaías 40:8 — A erva seca, e as flores caem, mas a palavra de nosso Deus permanece para sempre.",
+            ntlh: "Mateus 24:35 — O céu e a terra desaparecerão, mas as minhas palavras ficarão para sempre.\n\nIsaías 40:8 — A erva seca, e as flores caem, mas a palavra do nosso Deus dura para sempre.",
+            nvi: "Mateus 24:35 — Os céus e a terra passarão, mas as minhas palavras jamais passarão.\n\nIsaías 40:8 — A relva murcha e as flores caem, mas a palavra de nosso Deus permanece para sempre.",
+            acf: "Mateus 24:35 — O céu e a terra passarão, mas as minhas palavras não hão de passar.\n\nIsaías 40:8 — Seca-se a erva, e cai a flor, porém a palavra de nosso Deus subsiste eternamente.",
           },
           resposta: "Ela subsistirá por toda a eternidade. Ao passo que a natureza fenece, \"a palavra de nosso Deus permanece eternamente\" (Isaías 40:8), e o Senhor Jesus asseverou com majestade incomparável: \"passará o céu e a terra, porém as Minhas palavras não passarão\" (Mateus 24:35)."
         },
@@ -461,7 +461,7 @@ const CAPITULO_1 = {
         },
         {
           numero: 17,
-          pergunta: "Quando um doutor da lei perguntou a Jesus quanto às condições para herdar a Vida etema, para o que o Mestre lhe chamou a atenção?",
+          pergunta: "Quando um doutor da lei perguntou a Jesus quanto às condições para herdar a Vida eterna, para o que o Mestre lhe chamou a atenção?",
           versiculo: "Lc 10:26",
           versoes: {
             naa: "Então Jesus lhe perguntou: — O que está escrito na Lei? Como você a entende?",
@@ -497,7 +497,7 @@ const CAPITULO_1 = {
         },
         {
           numero: 20,
-          pergunta: "Que outro livro da Escritura Sagrada é especialmente recomendado ao nosso estudo? “Bem-aventurados aqueles que lêem e aqueles que ouvem [as palavras da profecia o livro de Apocalipse] e guardam as coisas nela escritas, pois o tempo está próximo” (Ap 1:3)?",
+          pergunta: "Que outro livro da Escritura Sagrada é especialmente recomendado ao nosso estudo?",
           versiculo: "Ap 1:3",
           versoes: {
             naa: "Bem-aventurado aquele que lê, e bem-aventurados aqueles que ouvem as palavras da profecia e guardam as coisas nela escritas, pois o tempo está próximo.",

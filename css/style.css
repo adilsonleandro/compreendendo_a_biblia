@@ -1,5 +1,5 @@
 /* ============================================================
-   ESTILOS DO SITE — Compreendendo a Bíblia
+   ESTILOS DO SITE � Compreendendo a B�blia
    ============================================================ */
 
 :root {
@@ -218,7 +218,7 @@ body {
   flex-wrap: wrap;
 }
 
-/* ============ BOTÕES ============ */
+/* ============ BOT�ES ============ */
 .btn {
   display: inline-flex;
   align-items: center;
@@ -364,7 +364,7 @@ body {
   color: var(--text-light);
 }
 
-/* ============ LIÇÃO DA SEMANA ============ */
+/* ============ LI��O DA SEMANA ============ */
 .licao-destaque {
   background: linear-gradient(135deg, var(--primary) 0%, var(--primary-dark) 100%);
   color: white;
@@ -467,7 +467,7 @@ body {
   border-color: var(--primary);
 }
 
-/* ============ PÁGINA DE DETALHE ============ */
+/* ============ P�GINA DE DETALHE ============ */
 .detalhe-header {
   background: linear-gradient(135deg, var(--primary) 0%, var(--primary-dark) 100%);
   color: white;
@@ -511,7 +511,7 @@ body {
   font-size: 0.95rem;
 }
 
-/* ============ ABERTURA DA LIÇÃO ============ */
+/* ============ ABERTURA DA LI��O ============ */
 .abertura-licao {
   background: linear-gradient(135deg, #f8f9fa 0%, #e9ecef 100%);
   border-left: 4px solid var(--secondary);
@@ -627,7 +627,7 @@ body {
   line-height: 1.7;
 }
 
-/* ============ NAVEGAÇÃO ENTRE LIÇÕES ============ */
+/* ============ NAVEGA��O ENTRE LI��ES ============ */
 .navegacao-licoes {
   display: flex;
   justify-content: space-between;
@@ -662,7 +662,7 @@ body {
   pointer-events: none;
 }
 
-/* ============ ESTATÍSTICAS ============ */
+/* ============ ESTAT�STICAS ============ */
 .stats {
   display: grid;
   grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
@@ -859,7 +859,7 @@ body {
   }
 }
 
-/* ============ ANIMAÇÕES ============ */
+/* ============ ANIMA��ES ============ */
 @keyframes fadeIn {
   from { opacity: 0; transform: translateY(10px); }
   to { opacity: 1; transform: translateY(0); }
@@ -876,7 +876,7 @@ body {
 .card:nth-child(5) { animation-delay: 0.25s; }
 .card:nth-child(6) { animation-delay: 0.3s; }
 
-/* ============ PÁGINA DO PROFESSOR ============ */
+/* ============ P�GINA DO PROFESSOR ============ */
 .professor-header {
   background: linear-gradient(135deg, var(--primary) 0%, var(--primary-dark) 100%);
   color: white;
@@ -1035,7 +1035,7 @@ body {
 }
 
 .professor-orientacoes li::before {
-  content: "✓";
+  content: "�";
   color: var(--accent);
   font-weight: bold;
   margin-right: 10px;
@@ -1123,7 +1123,7 @@ body {
 }
 
 .slide-topicos li::before {
-  content: "▸";
+  content: "�";
   color: var(--secondary);
   font-weight: bold;
   position: absolute;
@@ -1321,7 +1321,7 @@ body {
   }
 }
 
-/* ============ TEMA BÍBLIA ============ */
+/* ============ TEMA B�BLIA ============ */
 .tema-container {
   display: flex;
   min-height: calc(100vh - 200px);
@@ -1399,30 +1399,99 @@ body {
     flex-direction: column;
   }
 
-  .tema-sidebar {
+  .tema-sidebar.nav-open {
+    display: block;
     width: 100%;
-    position: relative;
-    top: 0;
-    height: auto;
-    border-right: none;
-    border-bottom: 1px solid var(--border);
+  }
+
+  .tema-sidebar-header {
+    padding: 14px 16px;
+  }
+
+  .tema-sidebar-header h3 {
+    font-size: 0.9rem;
   }
 
   .tema-sidebar-toggle {
-    display: block;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    width: 100%;
+    padding: 12px 16px;
+    background: var(--primary);
+    color: white;
+    border: none;
+    cursor: pointer;
+    font-size: 0.95rem;
+    font-weight: 600;
+  }
+
+  .tema-sidebar-toggle::after {
+    content: "���";
+    font-size: 1.2rem;
+    display: inline-block;
+    transition: transform 0.2s ease;
+  }
+
+  .tema-sidebar.nav-open .tema-sidebar-toggle::after {
+    content: "���";
+    transform: rotate(180deg);
   }
 
   .tema-sidebar-nav {
-    display: none;
-    padding: 8px 0;
+    display: block !important;
+    padding: 8px 0 8px 0;
+    width: 100%;
   }
 
-  .tema-sidebar-nav.open {
+  .tema-sidebar-nav a,
+  .tema-sidebar-nav .tema-capitulo-btn,
+  .tema-sidebar-nav .tema-secao-btn {
+    display: block;
+    width: 100%;
+    padding: 12px 20px;
+    text-decoration: none;
+    color: var(--text);
+    background: transparent;
+    border: none;
+    border-bottom: 1px solid var(--border);
+    font-size: 0.92rem;
+    cursor: pointer;
+    text-align: left;
+  }
+
+  .tema-sidebar-nav a:hover,
+  .tema-sidebar-nav .tema-capitulo-btn:hover,
+  .tema-sidebar-nav .tema-secao-btn:hover {
+    background: #f0f7ff;
+    color: var(--primary);
+  }
+
+  .tema-sidebar-nav a.active,
+  .tema-sidebar-nav .tema-capitulo-btn.open,
+  .tema-sidebar-nav .tema-secao-btn.active {
+    background: #e8f4fd;
+    color: var(--primary);
+    font-weight: 600;
+  }
+
+  .tema-sidebar-overlay {
+    display: none;
+    position: fixed;
+    inset: 0;
+    background: rgba(0, 0, 0, 0.35);
+    z-index: 999;
+    backdrop-filter: blur(2px);
+  }
+
+  .tema-sidebar-overlay.ativo {
     display: block;
   }
 
-  .tema-sidebar-nav a {
-    padding: 12px 20px;
+  .tema-main {
+    flex: 1;
+    padding: 0;
+    min-width: 0;
   }
 }
 .capitulo-titulo {
@@ -1449,7 +1518,7 @@ body {
   border-left: 4px solid var(--primary);
 }
 
-/* Seletor global de versão - FIXO NO TOPO */
+/* Seletor global de vers�o - FIXO NO TOPO */
 .versao-global {
   position: sticky;
   top: 74px;
@@ -1624,13 +1693,13 @@ body {
   letter-spacing: 0.5px;
 }
 
-/* Card de estudo na página de estudos */
+/* Card de estudo na p�gina de estudos */
 .estudo-card {
   cursor: pointer;
   transition: var(--transition);
 }
 
-/* Perguntas na página de detalhe */
+/* Perguntas na p�gina de detalhe */
 .pergunta-card {
   background: var(--bg-card);
   border: 1px solid var(--border);
@@ -1740,7 +1809,7 @@ body {
   box-shadow: var(--shadow-hover);
 }
 
-/* Botão voltar ao topo */
+/* Bot�o voltar ao topo */
 .back-to-top {
   position: fixed;
   bottom: 30px;
@@ -1794,7 +1863,7 @@ body {
 }
 
 
-/* ===== Menu lateral em acordeão (capítulos) — novo visual ===== */
+/* ===== Menu lateral em acorde�o (cap�tulos) � novo visual ===== */
 .tema-sidebar {
   width: 280px;
   background: linear-gradient(180deg, #f4f8fb 0%, #e9f1f8 100%);
@@ -1888,11 +1957,19 @@ body {
   border-radius: 8px;
   line-height: 1.5;
 }
-/* (a seção expandida pode usar a rolagem da .tema-sidebar) */
+/* (a se��o expandida pode usar a rolagem da .tema-sidebar) */
+
 
 /* ============================================================
-   TEMA BÍBLIA — MOBILE: BARRA LATERAL EM GAVETA (DRAWER)
+   TEMA BÍBLIA / DOUTRINAS — MOBILE (versão consolidada)
    ============================================================ */
+
+/* Barra mobile: escondida na versão web/desktop */
+.tema-nav-mobile {
+  display: none !important;
+}
+
+
 .tema-overlay {
   display: none;
   position: fixed;
@@ -1905,35 +1982,72 @@ body {
 }
 
 @media (max-width: 768px) {
-  /* Container: volta a empilhar, sem altura mínima forçada */
+  /* Container empilhado no celular */
   .tema-container {
-    flex-direction: column;
-    min-height: auto;
+    display: flex !important;
+    flex-direction: column !important;
   }
 
-  /* Sidebar vira gaveta fixa escondida fora da tela */
+  /* Barra mobile ocupa a linha inteira */
+  .tema-nav-mobile {
+    flex: 0 0 100%;
+    width: 100%;
+  }
+
+    .versao-global {
+    top: 132px;   /* antes era 126px — agora desce abaixo da barra de botões */
+  }
+
+  /* ===== Barra fixa: Capítulos / Anterior / Próximo ===== */
+  .tema-nav-mobile {
+    display: flex !important;
+    gap: 8px;
+    position: sticky;
+    top: 74px;              /* gruda logo abaixo do header */
+    z-index: 900;
+    background: #fff;
+    padding: 10px;
+    box-shadow: var(--shadow);
+    margin-bottom: 14px;
+  }
+  .tema-nav-mobile button {
+    flex: 1;
+    padding: 10px 8px;
+    font-size: 0.9rem;
+    font-weight: 600;
+    border: none;
+    border-radius: var(--radius);
+    background: var(--primary);
+    color: #fff;
+    cursor: pointer;
+  }
+
+
+  /* ===== Gaveta lateral (sidebar) — versão reforçada ===== */
   .tema-sidebar {
-    position: fixed;
-    top: 0;
-    left: 0;
-    bottom: 0;
-    width: 84%;
+    display: block !important;
+    position: fixed !important;
+    top: 0 !important;
+    left: 0 !important;
+    bottom: 0 !important;
+    width: 84% !important;
     max-width: 320px;
     height: 100vh;
-    z-index: 1050;
+    z-index: 1050 !important;
     transform: translateX(-105%);
     transition: transform 0.3s ease;
+    background: #fff !important;
     border-right: 1px solid #d3e0ea;
     box-shadow: 4px 0 20px rgba(0, 0, 0, 0.25);
-    border-bottom: none;
     overflow-y: auto;
   }
+
+  /* Quando aberta, entra na tela por cima do overlay */
   .tema-sidebar.aberta {
-    transform: translateX(0);
+    display: block !important;
+    transform: translateX(0) !important;
   }
 
-  /* A navegação fica SEMPRE visível dentro da gaveta
-     (quem abre/fecha agora é a gaveta inteira) */
   .tema-sidebar-nav {
     display: block !important;
   }
@@ -1941,51 +2055,24 @@ body {
     max-height: 2000px;
   }
 
-  /* Botão fixo "☰ Capítulos" — gruda logo abaixo do header */
-  .tema-abrir-gaveta {
-    display: inline-flex;
-    align-items: center;
-    gap: 8px;
+
+  /* ===== Seletor de versão (MANTIDO) ===== */
+  .versao-global {
     position: sticky;
-    top: 74px;
-    z-index: 900;
-    background: var(--primary);
-    color: #fff;
-    border: none;
-    border-radius: var(--radius);
-    padding: 10px 18px;
+    top: 126px;
+    z-index: 950;
+    margin-bottom: 10px;
+  }
+  .versao-global-titulo {
+    padding: 8px 16px;
     font-size: 0.9rem;
-    font-weight: 600;
-    cursor: pointer;
-    margin-bottom: 14px;
-    box-shadow: var(--shadow);
+  }
+  .versao-global-tabs .versao-tab {
+    padding: 10px 12px;
+    font-size: 0.8rem;
   }
 
-  /* Conteúdo ocupa a tela toda, com respiro */
-  .tema-main {
-    padding: 0 16px 48px;
-    width: 100%;
-  }
-
-/* Seletor de versão FICA FIXO no mobile, logo abaixo do menu */
-.versao-global {
-  position: sticky;
-  top: 126px;              /* gruda abaixo do header */
-  z-index: 950;           /* acima do conteúdo, abaixo do header */
-  margin-bottom: 10px;
-}
-.versao-global-titulo {
-  padding: 8px 16px;      /* mais compacto no celular */
-  font-size: 0.9rem;
-}
-.versao-global-tabs .versao-tab {
-  padding: 10px 12px;     /* abas menores, cabem na tela */
-  font-size: 0.8rem;
-}
-
-
-
-  /* Textos: tamanho confortável e espaçamento melhor */
+  /* ===== Tipografia (MANTIDA) ===== */
   .capitulo-titulo h2 {
     font-size: 1.3rem;
   }
@@ -2018,6 +2105,8 @@ body {
     font-size: 0.9rem;
   }
 }
+
+
 
 /* ===== Bot�o Voltar ao Topo ===== */
 #btnVoltarTopo {
@@ -2059,7 +2148,7 @@ body {
   }
 }
 
-/* Blocos da IntroduþÒo Ós Doutrinas */
+/* Blocos da Introdu��o �s Doutrinas */
 .introducao-p {
   background: var(--bg-card);
   border-radius: var(--radius-lg);
@@ -2079,7 +2168,7 @@ body {
 }
 
 
-/* Referências das Leituras da Semana (link para abrir o texto) */
+/* Refer�ncias das Leituras da Semana (link para abrir o texto) */
 .leitura-link {
   color: var(--primary);
   text-decoration: none;
@@ -2092,8 +2181,8 @@ body {
 }
 
 
-/* ===== Estudo do Professor: visual "mapa mental" dinâmico ===== */
-/* Os itens já vêm abertos por padrão — o professor decide se fecha. */
+/* ===== Estudo do Professor: visual "mapa mental" din�mico ===== */
+/* Os itens j� v�m abertos por padr�o � o professor decide se fecha. */
 .mapa-mental-item .slide-topicos,
 .mapa-mental-item .slide-nota,
 .mapa-mental-item > p,

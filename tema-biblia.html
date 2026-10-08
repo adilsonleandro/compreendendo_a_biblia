@@ -28,10 +28,20 @@
   </header>
 
   <div class="tema-container">
+
+    <div class="tema-overlay" id="temaOverlay"></div>
+    <!-- Barra de navegação mobile -->
+    <div class="tema-nav-mobile" id="temaNavMobile">
+      <button onclick="abrirCapitulosMobile()">☰ Capítulos</button>
+      <button onclick="navegarCapitulo(-1)">← Anterior</button>
+      <button onclick="navegarCapitulo(1)">Próximo →</button>
+    </div>
+
+
     <aside class="tema-sidebar" id="temaSidebar">
       <div class="tema-sidebar-header">
         <h3>Aprenda a Bíblia por meio de perguntas, leitura bíblica e respostas fundamentadas.</h3>
-        <button class="tema-sidebar-toggle" id="temaSidebarToggle">☰</button>
+        <!--<button class="tema-sidebar-toggle" id="temaSidebarToggle">☰</button> Botão apagado e troque o ☰ por &#9776; -->
       </div>
       <nav class="tema-sidebar-nav" id="temaSidebarNav">
         <!-- Links gerados via JavaScript -->
