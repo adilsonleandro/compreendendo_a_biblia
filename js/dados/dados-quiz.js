@@ -1,0 +1,69 @@
+// ============================================================
+// QUIZ DA LIÇÃO — 4º Trimestre 2026, Lição 2
+// Fonte: kahoot/licao-2026-4t-2-kahoot.csv
+// ============================================================
+const QUIZ_LICAO = [
+  {
+    pergunta: "Em Gênesis 20:7, Abraão é a primeira pessoa nas Escrituras a quem se atribui o título formal de profeta (navi). De acordo com a teologia pactual revelada em Gênesis 22:1-14, que aspecto central do plano da salvação foi profeticamente tipificado na experiência de Abraão no Monte Moriá?",
+    a: "A provisão divina da expiação substitutiva, demonstrando que Deus mesmo proveria o Cordeiro para morrer no lugar do pecador.",
+    b: "A superioridade das obras meritórias humanas como forma definitiva de alcançar o favor e a justificação divina.",
+    c: "A abolição antecipada da lei moral em decorrência da entrega irrestrita de um sacrifício físico.",
+    d: "A garantia de que a descendência de Abraão jamais enfrentaria exílio, escravidão ou perseguições terrenas.",
+    resposta_certa: "A",
+    referencia_biblica: "Gn 22:8, 13"
+  },
+  {
+    pergunta: "Durante a grave apostasia no reinado de Acabe narrada em 1 Reis 18:21-39, qual foi o ato inicial indispensável realizado por Elias no Monte Carmelo antes de suplicar para que o fogo do Céu consumisse o sacrifício?",
+    a: "Ele convocou os profetas de Baal para oferecerem orações conjuntas em busca de tolerância religiosa.",
+    b: "Ele restaurou o altar do Senhor que estava em ruínas, demonstrando que o reavivamento autêntico exige a recuperação do culto verdadeiro.",
+    c: "Ele executou preventivamente os sacerdotes pagãos antes de levantar qualquer súplica a Deus.",
+    d: "Ele ordenou a interrupção imediata da seca com um sinal prévio para obter a simpatia popular.",
+    resposta_certa: "B",
+    referencia_biblica: "1Rs 18:30"
+  },
+  {
+    pergunta: "No relato da vocação profética em Isaías 6:1-8, qual experiência fundamental precedeu o envio missionário do profeta, evidenciando a relação entre a graça santificadora e a capacitação para o ministério?",
+    a: "A obtenção de um mandato oficial chancelado pelas escolas proféticas e pelos sacerdotes de Jerusalém.",
+    b: "A revelação cronológica minuciosa do término da dinastia dos reis de Judá.",
+    c: "A consciência profunda de sua indignidade pessoal seguida pela purificação de seus lábios impuros mediante a brasa viva do altar.",
+    d: "A garantia incondicional de que as multidões acolheriam de bom grado toda advertência de juízo proclamada.",
+    resposta_certa: "C",
+    referencia_biblica: "Is 6:5-7"
+  },
+  {
+    pergunta: "Em Isaías 53, o dom profético descortina a missão do Messias com riqueza teológica singular. O que os versículos 5, 6 e 10-11 afirmam categoricamente a respeito da natureza da morte do Servo Sofredor e de Sua vitória posterior?",
+    a: "Que Ele pereceria tragicamente como mártir desprovido de qualquer propósito redentor previamente determinado por Deus.",
+    b: "Que Sua aflição expiaria unicamente os pecados dos descendentes literais da casa de Israel.",
+    c: "Que Seu sacrifício físico tornaria dispensáveis a conversão individual e o arrependimento do pecador.",
+    d: "Que o Senhor fez cair sobre Ele a iniquidade de todos nós em morte substitutiva, mas, após dar Sua vida em expiação, Ele prolongaria Seus dias e prosperaria o desígnio de Deus.",
+    resposta_certa: "D",
+    referencia_biblica: "Is 53:6, 10-11"
+  },
+  {
+    pergunta: "No livro de Daniel, a precisão profética atesta a soberania de Deus sobre a história humana. Segundo a interpretação de Daniel 2:41-44 a respeito dos pés e dedos da estátua (ferro misturado com barro), o que caracterizaria esse período político até o estabelecimento do Reino eterno?",
+    a: "As nações procurariam se misturar por meio de alianças e casamentos, mas não se ligariam de forma coesa, assim como o ferro não se mistura com o barro.",
+    b: "Um quinto império militar universal conquistaria o globo e fundiria todas as culturas em uma única confederação política perpétua.",
+    c: "O império babilônico ressurgiria com poder bélico renovado, absorvendo inteiramente as divisões territoriais do Ocidente.",
+    d: "Haveria a unificação pacífica do continente europeu por tratados comerciais duradouros antes do advento de Cristo.",
+    resposta_certa: "A",
+    referencia_biblica: "Dn 2:43-44"
+  },
+  {
+    pergunta: "Conforme Mateus 11:1-6, quando João Batista — profetizado como a voz que clama no deserto — enviou mensageiros da prisão para indagar se Jesus era de fato o Messias esperado, de que maneira o Salvador fortaleceu a convicção profética do Seu precursor?",
+    a: "Prometendo uma intervenção militar iminente para derrubar Herodes e libertar João dos cárceres terrenos.",
+    b: "Apontando para as evidências das profecias messiânicas em cumprimento: os cegos veem, os coxos andam, os leprosos são purificados e aos pobres é anunciado o evangelho.",
+    c: "Repreendendo João publicamente por alimentar dúvidas espirituais a respeito de Sua identidade messiânica.",
+    d: "Enviando aos discípulos de João uma declaração política assegurando que sua detenção seria anulada pelo Império Romano.",
+    resposta_certa: "B",
+    referencia_biblica: "Mt 11:4-5"
+  },
+  {
+    pergunta: "À luz de Apocalipse 12:17 e 19:10, a igreja remanescente no tempo do fim é identificada por guardar os mandamentos de Deus e reter o 'testemunho de Jesus'. Como as Escrituras definem esse testemunho e como ele se manifesta na condução do povo de Deus?",
+    a: "Como a capacidade dos líderes humanos de adivinhar o futuro por intuições místicas independentes das Escrituras.",
+    b: "Como a formulação de novos dogmas extrabíblicos com o objetivo de substituir o cânon sagrado no período escatológico.",
+    c: "Como o Espírito de profecia, dom concedido por Deus para instruir, consolar e orientar o Seu povo a manter os olhos firmemente fixos em Cristo e em Sua Palavra.",
+    d: "Como a preservação restrita das tradições orais e das cerimônias sacrificiais levíticas.",
+    resposta_certa: "C",
+    referencia_biblica: "Ap 19:10"
+  }
+];

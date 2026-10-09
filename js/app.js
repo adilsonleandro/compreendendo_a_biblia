@@ -1004,101 +1004,293 @@ function toggleRespostaDoutrina(i) {
   if (el) el.classList.toggle('aberta');
 }
 
-// ============ PÁGINA QUIZ DA LIÇÃO ============
-function renderQuizPage() {
-  const app = getElement('app');
-  if (!app) return;
+// ============ PÁGINA QUIZ DA LIÇÃO (v3 autossuficiente) ============
+const QUIZ_TEMPO = 30; // segundos por pergunta
+const QUIZ_PEDIR_NOME = false; // quando quiser coletar nome, mude para true
 
-  fetch('kahoot/licao-2026-4t-2-kahoot.json')
-    .then(r => r.json())
-    .then(perguntas => {
-      quizState = { perguntas: perguntas, index: 0, score: 0 };
-      app.innerHTML = `
-        <div class="detalhe-header">
-          <span class="card-badge" style="background: var(--secondary); color: white; padding: 4px 12px; border-radius: 20px; font-size: 0.75rem; font-weight: 600;">Quiz da Semana</span>
-          <h1>Quiz da Lição</h1>
-          <p>Teste seus conhecimentos sobre a lição da semana.</p>
-        </div>
-        <div class="detalhe-content" id="quiz-body"></div>
-        <div class="navegacao-licoes" style="margin-top: 24px;">
-          <a href="index.html" class="nav-licao">← Voltar ao Início</a>
-        </div>
-      `;
-      renderQuizPergunta();
-    })
-    .catch(err => {
-      app.innerHTML = '<p style="padding: 40px; text-align:center;">Não foi possível carregar o quiz. Verifique se o JSON existe.</p>';
-    });
-}
-
-function renderQuizPergunta() {
-  const el = getElement('quiz-body');
-  const q = quizState && quizState.perguntas[quizState.index];
-  if (!el || !q) { renderQuizResultado(); return; }
+function extrairOpcoesQuiz(q) {
   const letras = ['A', 'B', 'C', 'D'];
-  const opts = ['a', 'b', 'c', 'd']
+  let opts = ['a', 'b', 'c', 'd']
     .map((k, i) => ({ letra: letras[i], texto: q[k] }))
     .filter(o => o.texto);
+  if (!opts.length && Array.isArray(q.opcoes)) {
+    opts = q.opcoes.map((t, i) => ({ letra: letras[i], texto: typeof t === 'string' ? t : (t && (t.texto || t.text)) || '' }))
+      .filter(o => o.texto);
+  }
+  if (!opts.length && Array.isArray(q.respostas)) {
+    opts = q.respostas.map((t, i) => ({ letra: letras[i], texto: typeof t === 'string' ? t : (t && (t.texto || t.text)) || '' }))
+      .filter(o => o.texto);
+  }
+  return opts;
+}
 
-  el.innerHTML = `
-    <div class="pergunta-card" style="margin-top: 24px; padding: 24px;">
-      <div style="display:flex;justify-content:space-between;align-items:center;gap:8px;flex-wrap:wrap;">
-        <span class="badge">Pergunta ${quizState.index + 1} de ${quizState.perguntas.length}</span>
-        <span class="badge" style="background:var(--secondary);color:white;">Corretas: ${quizState.score}</span>
-      </div>
-      <h2 style="margin-top: 16px;">${q.pergunta}</h2>
-      <p style="color:var(--primary); margin-top: 8px;"><em>${q.referencia_biblica || ''}</em></p>
-      <div style="margin-top: 20px; display: grid; gap: 10px;">
-        ${opts.map(o => `<button class="btn btn-outline" style="text-align:left;" data-letra="${o.letra}" onclick="responderQuiz(this)">${o.letra}) ${o.texto}</button>`).join('')}
-      </div>
+function letraCorretaQuiz(q) {
+  let c = (q.resposta_certa !== undefined && q.resposta_certa !== null) ? q.resposta_certa : q.correta;
+  c = String(c).trim();
+  if (/^[0-9]+$/.test(c)) return ['A', 'B', 'C', 'D'][parseInt(c, 10) - 1] || 'A';
+  return c.toUpperCase();
+}
+
+function textoOpcaoQuiz(q, letra) {
+  if (!letra) return '';
+  const idx = ['A', 'B', 'C', 'D'].indexOf(letra.toUpperCase());
+  if (Array.isArray(q.opcoes) && q.opcoes[idx] !== undefined) {
+    const t = q.opcoes[idx];
+    return typeof t === 'string' ? t : (t && (t.texto || t.text)) || '';
+  }
+  if (Array.isArray(q.respostas) && q.respostas[idx] !== undefined) {
+    const t = q.respostas[idx];
+    return typeof t === 'string' ? t : (t && (t.texto || t.text)) || '';
+  }
+  return q[letra.toLowerCase()] || '';
+}
+
+function renderQuizPage() {
+  const app = document.getElementById('app');
+  if (!app) return;
+
+  function iniciar(perguntas) {
+    window.quizState = { perguntas: perguntas, index: 0, score: 0, respostas: [], timerId: null, tempoRestante: QUIZ_TEMPO, nome: '' };
+    if (QUIZ_PEDIR_NOME) {
+      pedirNomeQuiz();
+    } else {
+      mostrarInicioQuiz();
+    }
+  }
+
+  if (typeof QUIZ_LICAO !== 'undefined' && QUIZ_LICAO && QUIZ_LICAO.length) {
+    iniciar(QUIZ_LICAO);
+  } else {
+    app.innerHTML = '<p style="padding: 40px; text-align:center;">Não foi possível carregar as perguntas. Verifique o arquivo js/dados/dados-quiz.js.</p>';
+  }
+}
+
+function pedirNomeQuiz() {
+  const app = document.getElementById('app');
+  if (!app) return;
+  const nomeSalvo = localStorage.getItem('quiz_nome') || '';
+  app.innerHTML = `
+    <div class="quiz-nome-card">
+      <h1>Quiz da Lição</h1>
+      <p style="margin-top: 8px;">Antes de começar, identifique-se:</p>
+      <input type="text" id="quiz-nome-input" class="quiz-nome-input" placeholder="Digite seu nome" value="${nomeSalvo}">
+      <div><button class="btn btn-primary" onclick="confirmarNomeQuiz()">Começar o Quiz →</button></div>
     </div>
   `;
 }
 
-function responderQuiz(btn) {
-  const q = quizState && quizState.perguntas[quizState.index];
-  if (!q) return;
-  const certa = String(q.resposta_certa || '').toUpperCase();
-  const escolha = btn.getAttribute('data-letra');
-  document.querySelectorAll('#quiz-body button[data-letra]').forEach(b => { b.disabled = true; });
+function confirmarNomeQuiz() {
+  const input = document.getElementById('quiz-nome-input');
+  const nome = input ? input.value.trim() : '';
+  if (!nome) return;
+  localStorage.setItem('quiz_nome', nome);
+  if (window.quizState) window.quizState.nome = nome;
+  mostrarInicioQuiz();
+}
 
-  if (escolha === certa) {
-    btn.style.background = '#d4edda';
-    btn.style.borderColor = '#28a745';
-    quizState.score++;
-  } else {
-    btn.style.background = '#f8d7da';
-    btn.style.borderColor = '#dc3545';
-    const bx = document.querySelector('#quiz-body button[data-letra="' + certa + '"]');
-    if (bx) { bx.style.background = '#d4edda'; bx.style.borderColor = '#28a745'; }
+function mostrarInicioQuiz() {
+  const app = document.getElementById('app');
+  if (!app) return;
+  app.innerHTML = `
+    <div class="quiz-inicio-card">
+      <span class="card-badge" style="background: var(--secondary); color: white; padding: 4px 12px; border-radius: 20px; font-size: 0.75rem; font-weight: 600;">Quiz da Semana</span>
+      <h1>Quiz da Lição</h1>
+      <p style="margin-top: 10px; font-size: 1.05rem;">Teste seus conhecimentos sobre a lição da semana!</p>
+      <p class="quiz-inicio-aviso">⏱ Ao clicar no botão abaixo, a contagem de <strong>${QUIZ_TEMPO} segundos por pergunta</strong> começa imediatamente. Prepare-se!</p>
+      <button class="btn btn-primary quiz-inicio-btn" onclick="iniciarQuizVisual()">▶ Iniciar Quiz</button>
+    </div>
+  `;
+}
+
+function iniciarQuizVisual() {
+  const app = document.getElementById('app');
+  if (!app) return;
+  app.innerHTML = `
+    <div class="detalhe-header">
+      <span class="card-badge" style="background: var(--secondary); color: white; padding: 4px 12px; border-radius: 20px; font-size: 0.75rem; font-weight: 600;">Quiz da Semana</span>
+      <h1>Quiz da Lição</h1>
+      <p>Você tem ${QUIZ_TEMPO} segundos por pergunta. Boa prova! 🍀</p>
+    </div>
+    <div class="detalhe-content" id="quiz-body"></div>
+    <div class="navegacao-licoes" style="margin-top: 24px;">
+      <a href="index.html" class="nav-licao">← Voltar ao Início</a>
+    </div>
+  `;
+  renderQuizPergunta();
+}
+
+function pararTimerQuiz() {
+  if (window.quizState && window.quizState.timerId) {
+    clearInterval(window.quizState.timerId);
+    window.quizState.timerId = null;
   }
+}
 
-  const next = document.createElement('div');
-  next.style.cssText = 'text-align:center; margin-top:20px;';
-  const ultimo = quizState.index === quizState.perguntas.length - 1;
-  next.innerHTML = `<button class="btn btn-primary" onclick="proximaPerguntaQuiz()">${ultimo ? 'Ver Resultado' : 'Próxima'}</button>`;
-  document.getElementById('quiz-body').appendChild(next);
+function renderQuizPergunta() {
+  const el = document.getElementById('quiz-body');
+  const q = window.quizState && window.quizState.perguntas[window.quizState.index];
+  if (!el || !q) { renderQuizResultado(); return; }
+
+  pararTimerQuiz();
+  window.quizState.tempoRestante = QUIZ_TEMPO;
+
+  const opts = extrairOpcoesQuiz(q);
+  const pct = Math.round((window.quizState.index / window.quizState.perguntas.length) * 100);
+
+  el.innerHTML = `
+    <div class="quiz-progresso">
+      <div class="quiz-progresso-barra"><div class="quiz-progresso-preenchido" style="width: ${pct}%;"></div></div>
+      <div class="quiz-progresso-info">
+        <span class="badge">Pergunta ${window.quizState.index + 1} de ${window.quizState.perguntas.length}</span>
+        <span class="quiz-badge-corretas">✅ Corretas: ${window.quizState.score}</span>
+      </div>
+    </div>
+
+    <div class="quiz-timer">
+      <div class="quiz-timer-rotulo">⏱ <span id="quiz-timer-num">${QUIZ_TEMPO}</span>s</div>
+      <div class="quiz-timer-barra"><div class="quiz-timer-preenchido" id="quiz-timer-barra" style="width: 100%;"></div></div>
+    </div>
+
+    <div class="pergunta-card" style="margin-top: 24px; padding: 24px;">
+      <h2 style="margin-top: 0;">${q.pergunta}</h2>
+      <div style="margin-top: 20px; display: grid; gap: 10px;" id="quiz-opcoes">
+        ${opts.map(o => `<button class="btn btn-outline quiz-opcao" style="text-align:left;" data-letra="${o.letra}" onclick="responderQuiz(this)">${o.letra}) ${o.texto}</button>`).join('')}
+      </div>
+      <div id="quiz-feedback"></div>
+    </div>
+  `;
+
+  window.quizState.timerId = setInterval(() => {
+    window.quizState.tempoRestante--;
+    const num = document.getElementById('quiz-timer-num');
+    const barra = document.getElementById('quiz-timer-barra');
+    if (num) num.textContent = window.quizState.tempoRestante;
+    if (barra) barra.style.width = (window.quizState.tempoRestante / QUIZ_TEMPO * 100) + '%';
+    if (window.quizState.tempoRestante <= 5 && num) num.parentElement.classList.add('quiz-timer-alerta');
+    if (window.quizState.tempoRestante <= 0) {
+      pararTimerQuiz();
+      esgotouTempoQuiz();
+    }
+  }, 1000);
+}
+
+function responderQuiz(btn) {
+  const q = window.quizState && window.quizState.perguntas[window.quizState.index];
+  if (!q) return;
+  pararTimerQuiz();
+
+  const certa = letraCorretaQuiz(q);
+  const escolha = btn ? btn.getAttribute('data-letra') : null;
+  const acertou = escolha === certa;
+
+  document.querySelectorAll('#quiz-opcoes button').forEach(b => {
+    b.disabled = true;
+    if (btn && b === btn) b.classList.add('quiz-escolhida');
+  });
+
+  if (acertou) window.quizState.score++;
+  window.quizState.respostas.push({
+    pergunta: q.pergunta,
+    escolha: escolha,
+    certa: certa,
+    acertou: acertou,
+    referencia: q.referencia_biblica || q.referencia || ''
+  });
+
+  const fb = document.getElementById('quiz-feedback');
+  if (fb) {
+    fb.innerHTML = `
+      <div class="quiz-feedback ${acertou ? 'quiz-feedback-ok' : 'quiz-feedback-erro'}">
+        <div class="quiz-feedback-titulo">${acertou ? '✅ Correto!' : '❌ Não foi essa.'}</div>
+        <div class="quiz-ref">📖 <strong>Referência bíblica:</strong> ${q.referencia_biblica || q.referencia || '—'}</div>
+      </div>
+      <div style="text-align:center; margin-top:20px;">
+        <button class="btn btn-primary" onclick="proximaPerguntaQuiz()">${window.quizState.index === window.quizState.perguntas.length - 1 ? 'Ver Resultado' : 'Próxima →'}</button>
+      </div>
+    `;
+  }
+}
+
+function esgotouTempoQuiz() {
+  const q = window.quizState && window.quizState.perguntas[window.quizState.index];
+  if (!q) return;
+
+  document.querySelectorAll('#quiz-opcoes button').forEach(b => b.disabled = true);
+
+  window.quizState.respostas.push({
+    pergunta: q.pergunta,
+    escolha: null,
+    certa: letraCorretaQuiz(q),
+    acertou: false,
+    referencia: q.referencia_biblica || q.referencia || ''
+  });
+
+  const fb = document.getElementById('quiz-feedback');
+  if (fb) {
+    fb.innerHTML = `
+      <div class="quiz-feedback quiz-feedback-erro">
+        <div class="quiz-feedback-titulo">⏰ Tempo esgotado — seguindo para a próxima…</div>
+      </div>
+    `;
+  }
+  setTimeout(proximaPerguntaQuiz, 1500);
 }
 
 function proximaPerguntaQuiz() {
-  quizState.index++;
+  window.quizState.index++;
   renderQuizPergunta();
 }
 
 function renderQuizResultado() {
-  const el = getElement('quiz-body');
-  if (!el || !quizState) return;
-  const total = quizState.perguntas.length;
-  const pct = Math.round((quizState.score / total) * 100);
+  pararTimerQuiz();
+  const el = document.getElementById('quiz-body');
+  if (!el || !window.quizState) return;
+  const total = window.quizState.perguntas.length;
+  const pct = Math.round((window.quizState.score / total) * 100);
+
+  let mensagem;
+  if (pct === 100) mensagem = '🏆 Perfeito! Você domina esta lição!';
+  else if (pct >= 70) mensagem = '🎉 Muito bem! Continue estudando a Palavra.';
+  else if (pct >= 40) mensagem = '💪 Bom começo! Revise a lição e tente de novo.';
+  else mensagem = '📖 Que tal reler a lição da semana e tentar novamente?';
+
+
+
   el.innerHTML = `
     <div class="card" style="margin-top:24px; text-align:center; padding:32px;">
       <h2>Fim do Quiz! 🎉</h2>
-      <p style="font-size:1.3rem; margin-top:12px;">Você acertou <strong>${quizState.score}</strong> de <strong>${total}</strong> perguntas</p>
+      <p style="font-size:1.3rem; margin-top:12px;">Você acertou <strong>${window.quizState.score}</strong> de <strong>${total}</strong> perguntas</p>
       <p style="font-size:2.2rem; color:var(--primary); margin: 10px 0;">${pct}%</p>
-      <a href="index.html" class="btn btn-outline">Voltar ao Início</a>
+      <p style="font-size:1.05rem; color:var(--text-light, #555);">${mensagem}</p>
+      <div style="display:flex; gap:12px; justify-content:center; flex-wrap:wrap; margin-top:16px;">
+        <button class="btn btn-primary" onclick="reiniciarQuiz()">🔄 Jogar de novo</button>
+        <a href="index.html" class="btn btn-outline">Voltar ao Início</a>
+      </div>
+    </div>
+
+    <div class="quiz-revisao">
+      <h2 style="margin-top: 32px;">📋 Revisão das Respostas</h2>
+      ${window.quizState.respostas.map((r, i) => `
+        <div class="quiz-revisao-item ${r.acertou ? 'quiz-revisao-ok' : 'quiz-revisao-erro'}">
+          <div class="quiz-revisao-header">
+            <span class="pergunta-numero">${i + 1}</span>
+            <span class="quiz-revisao-status">${r.acertou ? '✅' : '❌'}</span>
+          </div>
+          <p style="font-weight: 600; margin: 8px 0;">${r.pergunta}</p>
+          <p style="margin: 6px 0;"><strong>Sua resposta:</strong> ${r.escolha ? `${r.escolha}) ${textoOpcaoQuiz(window.quizState.perguntas[i], r.escolha)}` : '⏰ Tempo esgotado'}</p>
+          <p style="margin: 6px 0;"><strong>Resposta correta:</strong> ${r.certa}) ${textoOpcaoQuiz(window.quizState.perguntas[i], r.certa)}</p>
+          <div class="quiz-ref">📖 ${r.referencia || '—'}</div>
+        </div>
+      `).join('')}
     </div>
   `;
 }
+
+function reiniciarQuiz() {
+  renderQuizPage();
+}
+
+
 
 // ============ INICIALIZAÇÃO ============
 
@@ -1268,3 +1460,4 @@ document.addEventListener('click', function (e) {
     window.scrollTo({ top: 0, behavior: 'smooth' });
   });
 })();
+
