@@ -1092,10 +1092,10 @@ function renderQuizPage() {
     }
   }
 
-  if (typeof QUIZ_LICAO !== 'undefined' && QUIZ_LICAO && QUIZ_LICAO.length) {
-    iniciar(QUIZ_LICAO);
+  if (typeof QUIZ_ATUAL !== 'undefined' && QUIZ_ATUAL && QUIZ_ATUAL.length) {
+    iniciar(QUIZ_ATUAL);
   } else {
-    app.innerHTML = '<p style="padding: 40px; text-align:center;">Não foi possível carregar as perguntas. Verifique o arquivo js/dados/dados-quiz.js.</p>';
+    app.innerHTML = '<p style="padding: 40px; text-align:center;">Não foi possível carregar as perguntas. Rode: python novo_quiz.py kahoot/licao-...-kahoot.json</p>';
   }
 }
 
