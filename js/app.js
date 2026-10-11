@@ -27,6 +27,63 @@ function initNavToggle() {
   }
 }
 
+// Garante o link "Doutrinas" em TODOS os menus e rodapés (insere ao lado de "Estudos")
+// Clona o link "Estudos" para herdar o mesmo visual/classes; na página de
+// doutrinas, move o destaque "active" para o item correto.
+function initMenuDoutrinas() {
+  const ehDoutrinas = location.pathname.includes('doutrinas.html');
+  document.querySelectorAll('a[href="tema-biblia.html"]').forEach(a => {
+    const container = a.parentElement;
+    if (container && !container.querySelector('a[href="doutrinas.html"]')) {
+      const novo = a.cloneNode(true);
+      novo.setAttribute('href', 'doutrinas.html');
+      novo.textContent = 'Doutrinas';
+      novo.classList.remove('active');   // ← NOVA LINHA: nunca herda o destaque do Estudos
+      if (ehDoutrinas) novo.classList.add('active');
+      a.insertAdjacentElement('afterend', novo);
+    }
+    if (ehDoutrinas) a.classList.remove('active');
+  });
+}
+
+// Garante o link "Doutrinas" em TODOS os menus e rodapés (insere ao lado de "Estudos")
+// Clona o link "Estudos" para herdar o mesmo visual/classes; na página de
+// doutrinas, move o destaque "active" para o item correto.
+function initMenuDoutrinas() {
+  const ehDoutrinas = location.pathname.includes('doutrinas.html');
+  document.querySelectorAll('a[href="tema-biblia.html"]').forEach(a => {
+    const container = a.parentElement;
+    if (container && !container.querySelector('a[href="doutrinas.html"]')) {
+      const novo = a.cloneNode(true);
+      novo.setAttribute('href', 'doutrinas.html');
+      novo.textContent = 'Doutrinas';
+      novo.classList.remove('active');   // ← NOVA LINHA: nunca herda o destaque do Estudos
+      if (ehDoutrinas) novo.classList.add('active');
+      a.insertAdjacentElement('afterend', novo);
+    }
+    if (ehDoutrinas) a.classList.remove('active');
+  });
+}
+
+// Garante o link "Doutrinas" em TODOS os menus e rodapés (insere ao lado de "Estudos")
+// Clona o link "Estudos" para herdar o mesmo visual/classes; na página de
+// doutrinas, move o destaque "active" para o item correto.
+function initMenuDoutrinas() {
+  const ehDoutrinas = location.pathname.includes('doutrinas.html');
+  document.querySelectorAll('a[href="tema-biblia.html"]').forEach(a => {
+    const container = a.parentElement;
+    if (container && !container.querySelector('a[href="doutrinas.html"]')) {
+      const novo = a.cloneNode(true);
+      novo.setAttribute('href', 'doutrinas.html');
+      novo.textContent = 'Doutrinas';
+      novo.classList.remove('active');   // ← NOVA LINHA: nunca herda o destaque do Estudos
+      if (ehDoutrinas) novo.classList.add('active');
+      a.insertAdjacentElement('afterend', novo);
+    }
+    if (ehDoutrinas) a.classList.remove('active');
+  });
+}
+
 // ============ PÁGINA INICIAL ============
 
 function renderHomePage() {
@@ -1362,6 +1419,7 @@ function reiniciarQuiz() {
 
 document.addEventListener('DOMContentLoaded', () => {
   initNavToggle();
+  initMenuDoutrinas();
   initBackToTop();
 
   const path = window.location.pathname;
