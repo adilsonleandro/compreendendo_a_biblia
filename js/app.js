@@ -839,6 +839,40 @@ function renderDoutrinasPage() {
 
   renderDoutrinasSidebar(D);
   initTemaSidebarToggle();
+  
+  // Adicionar botão "☰ Doutrinas" no celular (acima do seletor de versões)
+  if (window.innerWidth <= 768) {
+    const aside = document.getElementById('temaSidebar');
+    const main = document.getElementById('app');
+    if (aside && main && !document.getElementById('fix-gaveta-btn-doutrina')) {
+      const btn = document.createElement('button');
+      btn.id = 'fix-gaveta-btn-doutrina';
+      btn.className = 'aberto';
+      btn.innerHTML = '☰ Doutrinas';
+      btn.style.cssText = 'display:inline-flex;align-items:center;gap:8px;margin:10px 0;padding:10px 16px;background:#2f5d8a;color:#fff;border:none;border-radius:8px;font-size:15px;font-weight:600;cursor:pointer;max-width:220px';
+      main.parentNode.insertBefore(btn, main);
+      btn.addEventListener('click', () => {
+        aside.classList.toggle('aberta');
+        document.getElementById('fix-gaveta-overlay')?.classList.toggle('ativa');
+      });
+      // Overlay
+      const overlay = document.createElement('div');
+      overlay.id = 'fix-gaveta-overlay';
+      overlay.style.cssText = 'display:none;position:fixed;inset:0;background:rgba(0,0,0,.55);z-index:9998';
+      document.body.appendChild(overlay);
+      overlay.addEventListener('click', () => {
+        aside.classList.remove('aberta');
+        overlay.classList.remove('ativa');
+      });
+      // Fechar ao escolher uma doutrina
+      aside.addEventListener('click', function(e) {
+        if (e.target.closest('button')) {
+          aside.classList.remove('aberta');
+          overlay.classList.remove('ativa');
+        }
+      });
+    }
+  }
 }
 
 function renderIntroducaoHTML() {
