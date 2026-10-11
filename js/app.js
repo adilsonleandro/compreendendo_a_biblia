@@ -377,7 +377,7 @@ function renderDetalhePage() {
           <a href="estudo-professor.html?id=${item.id}" class="btn btn-primary" style="font-size: 1.1rem; padding: 16px 32px;">
             Estudo para Professores
           </a>
-          <a href="quiz.html" class="btn btn-outline">Quiz da Semana</a>
+          <a href="quiz.html?licao=${item.id}" class="btn btn-outline">Quiz da Semana</a>
         </div>
       ` : ''}
 
@@ -762,7 +762,7 @@ function renderEstudoProfessorPage() {
       <div class="navegacao-licoes">
         <a href="estudo-detalhe.html?tipo=licao&id=${licao.id}" class="nav-licao">← Voltar à Lição</a>
         <a href="licoes.html" class="btn btn-outline" style="color: var(--primary); border-color: var(--primary);">Todas as Lições</a>
-        <a href="quiz.html" class="btn btn-outline" style="color: var(--secondary); border-color: var(--secondary);">Quiz da Semana</a>
+        <a href="quiz.html?licao=${licao.id}" class="btn btn-outline" style="color: var(--secondary); border-color: var(--secondary);">Quiz da Semana</a>
       </div>
     </div>
   `;
@@ -1083,8 +1083,38 @@ function renderQuizPage() {
   const app = document.getElementById('app');
   if (!app) return;
 
-  function iniciar(perguntas) {
-    window.quizState = { perguntas: perguntas, index: 0, score: 0, respostas: [], timerId: null, tempoRestante: QUIZ_TEMPO, nome: '' };
+  // Se a URL pedir o quiz de uma lição específica (ex.: quiz.html?licao=2), usa ela
+  const params = new URLSearchParams(location.search);
+  const idPedido = params.get('licao');
+  const registro = window.QUIZ_REGISTRO || null;
+
+  // Normaliza a chave: aceita '2', 'licao-2026-4t-2' ou o id que o data.js usar
+  function chaveRegistro(id) {
+    if (!registro || !id) return null;
+    if (registro[id] && registro[id].length) return id;
+    const n = String(id).replace(/\D/g, '');            // extrai só os dígitos
+    if (n) {
+      const k = Object.keys(registro).find(ch => ch.endsWith('t-' + n)); // licao-2026-4t-2
+      if (k && registro[k].length) return k;
+    }
+    return null;
+  }
+
+  let perguntas = null;
+  let tituloLicao = '';
+  const chave = chaveRegistro(idPedido);
+  if (chave) {
+    perguntas = registro[chave];
+    if (typeof LICOES !== 'undefined') {
+      const l = LICOES.find(x => String(x.id) === String(idPedido) || x.id === chave);
+      if (l) tituloLicao = l.titulo || '';
+    }
+  } else if (typeof QUIZ_ATUAL !== 'undefined' && QUIZ_ATUAL && QUIZ_ATUAL.length) {
+    perguntas = QUIZ_ATUAL;
+  }
+
+  function iniciar(pergs) {
+    window.quizState = { perguntas: pergs, index: 0, score: 0, respostas: [], timerId: null, tempoRestante: QUIZ_TEMPO, nome: '', licaoTitulo: tituloLicao };
     if (QUIZ_PEDIR_NOME) {
       pedirNomeQuiz();
     } else {
@@ -1092,12 +1122,13 @@ function renderQuizPage() {
     }
   }
 
-  if (typeof QUIZ_ATUAL !== 'undefined' && QUIZ_ATUAL && QUIZ_ATUAL.length) {
-    iniciar(QUIZ_ATUAL);
+  if (perguntas) {
+    iniciar(perguntas);
   } else {
-    app.innerHTML = '<p style="padding: 40px; text-align:center;">Não foi possível carregar as perguntas. Rode: python novo_quiz.py kahoot/licao-...-kahoot.json</p>';
+    app.innerHTML = '<p style="padding: 40px; text-align:center;">Não foi possível carregar as perguntas' + (idPedido ? ' desta lição (' + idPedido + ').' : '.') + ' Rode: python novo_quiz.py kahoot/licao-...-kahoot.json</p>';
   }
 }
+
 
 function pedirNomeQuiz() {
   const app = document.getElementById('app');
@@ -1129,6 +1160,7 @@ function mostrarInicioQuiz() {
     <div class="quiz-inicio-card">
       <span class="card-badge" style="background: var(--secondary); color: white; padding: 4px 12px; border-radius: 20px; font-size: 0.75rem; font-weight: 600;">Quiz da Semana</span>
       <h1>Quiz da Lição</h1>
+      ${window.quizState && window.quizState.licaoTitulo ? `<p style="margin: 4px 0 0; font-weight: 600;">${window.quizState.licaoTitulo}</p>` : ''}
       <p style="margin-top: 10px; font-size: 1.05rem;">Teste seus conhecimentos sobre a lição da semana!</p>
       <p class="quiz-inicio-aviso">⏱ Ao clicar no botão abaixo, a contagem de <strong>${QUIZ_TEMPO} segundos por pergunta</strong> começa imediatamente. Prepare-se!</p>
       <button class="btn btn-primary quiz-inicio-btn" onclick="iniciarQuizVisual()">▶ Iniciar Quiz</button>
