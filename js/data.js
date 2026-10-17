@@ -6,6 +6,307 @@
 
 const LICOES = [
   {
+    id: 4,
+    titulo: "Profetas do Novo Testamento",
+    data: "17 de Outubro de 2026",
+    semana: "Lição 4 - 4º Trimestre 2026",
+    versiculo: "1Co 12:4-6",
+    texto: "Ora, os dons são diversos, mas o Espírito é o mesmo. E também há diversidade nos serviços, mas o Senhor é o mesmo. E há diversidade nas realizações, mas o mesmo Deus é quem opera tudo em todos",
+    resumo: "A lição aborda a continuidade do dom profético no Novo Testamento sob a atuação do mesmo Espírito Santo. Examina o papel profético supremo de Jesus, a relação entre apóstolos e profetas, e a atuação diversificada de homens e mulheres no ministério. Também adverte contra os enganos dos falsos profetas nos últimos dias, destacando a Bíblia e Cristo como o centro inegociável da fé.",
+    leituras: [{"ref": "Mt 16:13-16", "versoes": {"naa": "Indo Jesus para a região de Cesareia de Filipe, perguntou a seus discípulos: — Quem os outros dizem que é o Filho do Homem? E eles responderam: — Uns dizem que é João Batista; outros dizem que é Elias; e outros dizem que é Jeremias ou um dos profetas. Ao que Jesus perguntou: — E vocês, quem dizem que eu sou? Respondendo, Simão Pedro disse: — O senhor é o Cristo, o Filho do Deus vivo.", "ntlh": "Jesus foi para a região que fica perto da cidade de Cesareia de Filipe. Ali perguntou aos discípulos: — Quem o povo diz que o Filho do Homem é? Eles responderam: — Alguns dizem que o senhor é João Batista; outros, que é Elias; e outros, que é Jeremias ou algum outro profeta. — E vocês? Quem vocês dizem que eu sou? — perguntou Jesus. Simão Pedro respondeu: — O senhor é o Messias, o Filho do Deus vivo.", "nvi": "Chegando Jesus à região de Cesareia de Filipe, perguntou aos seus discípulos: “Quem os outros dizem que o Filho do homem é?” Eles responderam: “Alguns dizem que é João Batista; outros, Elias; e, ainda outros, Jeremias ou um dos profetas”. “E vocês?”, perguntou ele. “Quem vocês dizem que eu sou?” Simão Pedro respondeu: “Tu és o Cristo, o Filho do Deus vivo”.", "acf": "E, chegando Jesus às partes de Cesaréia de Filipe, interrogou os seus discípulos, dizendo: Quem dizem os homens ser o Filho do homem? E eles disseram: Uns, João o Batista; outros, Elias; e outros, Jeremias, ou um dos profetas. Disse-lhes ele: E vós, quem dizeis que eu sou? E Simão Pedro, respondendo, disse: Tu és o Cristo, o Filho do Deus vivo."}}, {"ref": "Ef 2:20", "versoes": {"naa": "edificados sobre o fundamento dos apóstolos e profetas, sendo ele mesmo, Cristo Jesus, a pedra angular.", "ntlh": "Vocês são como um edifício e estão construídos sobre o alicerce que os apóstolos e os profetas colocaram. E a pedra fundamental desse edifício é o próprio Cristo Jesus.", "nvi": "edificados sobre o fundamento dos apóstolos e dos profetas, tendo Jesus Cristo como pedra angular,", "acf": "Edificados sobre o fundamento dos apóstolos e dos profetas, de que Jesus Cristo é a principal pedra da esquina;"}}, {"ref": "Ap 22:6", "versoes": {"naa": "Então o anjo me disse: — Estas palavras são fiéis e verdadeiras. O Senhor, o Deus dos espíritos dos profetas, enviou o seu anjo para mostrar aos seus servos as coisas que em breve devem acontecer.", "ntlh": "Então o anjo me disse: — Essas palavras são verdadeiras e merecem confiança. O Senhor Deus, que dá o seu Espírito aos profetas, enviou o seu anjo para mostrar aos seus servos as coisas que precisam acontecer logo.", "nvi": "O anjo me disse: “Estas palavras são dignas de confiança e verdadeiras. O Senhor, o Deus dos espíritos dos profetas, enviou o seu anjo para mostrar aos seus servos as coisas que em breve hão de acontecer.", "acf": "E disse-me: Estas palavras são fiéis e verdadeiras; e o Senhor, o Deus dos santos profetas, enviou o seu anjo, para mostrar aos seus servos as coisas que em breve hão de acontecer."}}, {"ref": "Lc 2:36-38", "versoes": {"naa": "Havia uma profetisa, chamada Ana, filha de Fanuel, da tribo de Aser. Ela era bem idosa, tendo vivido com o marido sete anos desde que tinha se casado. Agora era viúva de oitenta e quatro anos. Ela não deixava o templo, mas adorava noite e dia, com jejuns e orações. E, chegando naquela hora, dava graças a Deus e falava a respeito do menino a todos os que esperavam a redenção de Jerusalém.", "ntlh": "Havia ali também uma profetisa chamada Ana, que era viúva e muito idosa. Ela era filha de Fanuel, da tribo de Aser. Sete anos depois que ela havia casado, o seu marido morreu. Agora ela estava com oitenta e quatro anos de idade. Nunca saía do pátio do Templo e adorava a Deus dia e noite, jejuando e fazendo orações. Naquele momento ela chegou e começou a louvar a Deus e a falar a respeito do menino para todos os que esperavam a libertação de Jerusalém.", "nvi": "Estava ali a profetisa Ana, filha de Fanuel, da tribo de Aser. Era muito idosa; tinha vivido com seu marido sete anos depois de se casar e então permanecera viúva até a idade de oitenta e quatro anos. Nunca deixava o templo: adorava a Deus jejuando e orando dia e noite. Tendo chegado ali naquele exato momento, deu graças a Deus e falava a respeito do menino a todos os que esperavam a redenção de Jerusalém.", "acf": "E estava ali a profetisa Ana, filha de Fanuel, da tribo de Aser. Esta era já avançada em idade, e tinha vivido com o marido sete anos, desde a sua virgindade; E era viúva, de quase oitenta e quatro anos, e não se afastava do templo, servindo a Deus em jejuns e orações, de noite e de dia. E sobrevindo na mesma hora, ela dava graças a Deus, e falava dele a todos os que esperavam a redenção em Jerusalém."}}, {"ref": "At 21:9", "versoes": {"naa": "Filipe tinha quatro filhas solteiras, que profetizavam.", "ntlh": "Ele tinha quatro filhas solteiras que profetizavam.", "nvi": "Ele tinha quatro filhas virgens, que profetizavam.", "acf": "E tinha este quatro filhas virgens, que profetizavam."}}, {"ref": "Ef 6:10-18", "versoes": {"naa": "Quanto ao mais, sejam fortalecidos no Senhor e na força do seu poder. Vistam-se com toda a armadura de Deus, para poderem ficar firmes contra as ciladas do diabo. Porque a nossa luta não é contra o sangue e a carne, mas contra os principados e as potestades, contra os dominadores deste mundo tenebroso, contra as forças espirituais do mal, nas regiões celestiais. Por isso, peguem toda a armadura de Deus, para que vocês possam resistir no dia mau e, depois de terem vencido tudo, permanecer inabaláveis. Portanto, fiquem firmes, cingindo-se com a verdade e vestindo a couraça da justiça. Tenham os pés calçados com a preparação do evangelho da paz, segurando sempre o escudo da fé, com o qual poderão apagar todos os dardos inflamados do Maligno. Usem também o capacete da salvação e a espada do Espírito, que é a palavra de Deus. Orem em todo tempo no Espírito, com todo tipo de oração e súplica, e para isto vigiem com toda perseverança e súplica por todos os santos.", "ntlh": "Para terminar: tornem-se cada vez mais fortes, vivendo unidos com o Senhor e recebendo a força do seu grande poder. Vistam-se com toda a armadura que Deus dá a vocês, para ficarem firmes contra as armadilhas do Diabo. Pois nós não estamos lutando contra seres humanos, mas contra as forças espirituais do mal que vivem nas alturas, isto é, os governos, as autoridades e os poderes que dominam completamente este mundo de escuridão . Por isso peguem agora a armadura que Deus lhes dá. Assim, quando chegar o dia de enfrentarem as forças do mal, vocês poderão resistir aos ataques do inimigo e, depois de lutarem até o fim, vocês continuarão firmes, sem recuar. Portanto, estejam preparados. Usem a verdade como cinturão. Vistam-se com a couraça da justiça e calcem, como sapatos, a prontidão para anunciar a boa notícia de paz. E levem sempre a fé como escudo, para poderem se proteger de todos os dardos de fogo do Maligno . Recebam a salvação como capacete e a palavra de Deus como a espada que o Espírito Santo lhes dá. Façam tudo isso orando a Deus e pedindo a ajuda dele. Orem sempre, guiados pelo Espírito de Deus. Fiquem alertas. Não desanimem e orem sempre por todo o povo de Deus.", "nvi": "Finalmente, fortaleçam-se no Senhor e no seu forte poder. Vistam toda a armadura de Deus, para poderem ficar firmes contra as ciladas do Diabo, pois a nossa luta não é contra seres humanos , mas contra os poderes e autoridades, contra os dominadores deste mundo de trevas, contra as forças espirituais do mal nas regiões celestiais. Por isso, vistam toda a armadura de Deus, para que possam resistir no dia mau e permanecer inabaláveis, depois de terem feito tudo. Assim, mantenham-se firmes, cingindo-se com o cinto da verdade, vestindo a couraça da justiça e tendo os pés calçados com a prontidão do evangelho da paz. Além disso, usem o escudo da fé, com o qual vocês poderão apagar todas as setas inflamadas do Maligno. Usem o capacete da salvação e a espada do Espírito, que é a palavra de Deus. Orem no Espírito em todas as ocasiões, com toda oração e súplica; tendo isso em mente, estejam atentos e perseverem na oração por todos os santos.", "acf": "No demais, irmãos meus, fortalecei-vos no Senhor e na força do seu poder. Revesti-vos de toda a armadura de Deus, para que possais estar firmes contra as astutas ciladas do diabo. Porque não temos que lutar contra a carne e o sangue, mas, sim, contra os principados, contra as potestades, contra os príncipes das trevas deste século, contra as hostes espirituais da maldade, nos lugares celestiais. Portanto, tomai toda a armadura de Deus, para que possais resistir no dia mau e, havendo feito tudo, ficar firmes. Estai, pois, firmes, tendo cingidos os vossos lombos com a verdade, e vestida a couraça da justiça; E calçados os pés na preparação do evangelho da paz; Tomando sobretudo o escudo da fé, com o qual podereis apagar todos os dardos inflamados do maligno. Tomai também o capacete da salvação, e a espada do Espírito, que é a palavra de Deus; Orando em todo o tempo com toda a oração e súplica no Espírito, e vigiando nisto com toda a perseverança e súplica por todos os santos,"}}],
+    abertura: {
+      versiculo: "Ora, os dons são diversos, mas o Espírito é o mesmo. E também há diversidade nos serviços, mas o Senhor é o mesmo. E há diversidade nas realizações, mas o mesmo Deus é quem opera tudo em todos",
+      periodo: "17 de outubro a 23 de outubro de 2026",
+      resumo: "Verso para memorizar:\n\n“Ora, os dons são diversos, mas o Espírito é o mesmo. E também há diversidade nos serviços, mas o Senhor é o mesmo. E há diversidade nas realizações, mas o mesmo Deus é quem opera tudo em todos” (1Co 12:4-6).\n\nLeituras da semana:\n\nMt 16:13-16; Ef 2:20; Ap 22:6; Lc 2:36-38; At 21:9; Ef 6:10-18\n\nPai e filho viajavam por uma estrada. Em certo momento, o pai apontou para um carro e exclamou: “Filho, aquele é igual ao meu primeiro carro!” Quando chegaram em casa, o pai pegou o manual do primeiro carro e o do carro atual, mostrando ao filho as características de cada veículo e destacando especialmente as diferenças entre os tipos. Porém, ao comparar os motores, eram idênticos. Muita coisa havia mudado, mas o motor continuava o mesmo.\n\nDeus falou por meio de profetas tanto no Antigo quanto no Novo Testamento, e há continuidade e harmonia em suas mensagens porque o Espírito Santo – a Fonte, o “motor” da inspiração divina – permanece o mesmo. É o Espírito Santo que sempre capacita os verdadeiros profetas por meio do dom de profecia. Ele também mantém Cristo no centro das mensagens proféticas, como vemos em Hebreus 1:1 a 3.\n\nNesta semana, vamos estudar o dom de profecia no Novo Testamento, analisando o trabalho dos profetas, quem eles eram, como sua atuação se relacionava com a dos apóstolos e o perigo representado pelos falsos profetas.",
+      reflexao: "Que Deus nos fale por meio desta lição."
+    },
+    perguntas: [
+      {
+        pergunta: "Qual é o papel profético de Jesus? Como essa questão foi respondida no tempo de Cristo?",
+        resposta: "Jesus é o Messias prometido e o cumprimento das profecias do Antigo Testamento. Embora muitos o vissem como apenas um profeta redivivo, Pedro confessou acertadamente que Ele é o Cristo, o Filho do Deus vivo.",
+        versoes: {}
+      },
+      {
+        pergunta: "Qual era o papel de apóstolos e profetas em relação a Cristo e à igreja?",
+        resposta: "Eles serviram como fundamento doutrinário da igreja primitiva, recebendo revelações divinas para edificar o corpo de crentes e anunciar a Cristo como a pedra angular.",
+        versoes: {}
+      },
+      {
+        pergunta: "O que 1 Coríntios 14:3; Efésios 4:11-13; e Apocalipse 22:6 revelam sobre o papel dos profetas do Novo Testamento?",
+        resposta: "Eles tinham a incumbência de edificar, exortar, consolar e aperfeiçoar os santos para a unidade da fé, transmitindo revelações confiáveis e verdadeiras procedentes de Deus.",
+        versoes: {}
+      },
+      {
+        pergunta: "O que esses textos nos ensinam sobre profetisas?",
+        resposta: "Ensinam que o dom profético foi legitimamente concedido por Deus a mulheres no Novo Testamento, demonstrando que Ele capacita servos de todas as idades para proclamar a Sua verdade.",
+        versoes: {}
+      },
+      {
+        pergunta: "Que advertência Jesus nos apresenta? Por que devemos levá-la tão a sério?",
+        resposta: "Jesus adverte sobre o surgimento de falsos mestres e cristos com sinais convincentes; devemos levar isso a sério para não sermos seduzidos por enganos espirituais nos últimos dias.",
+        versoes: {}
+      },
+      {
+        pergunta: "De acordo com Efésios 6:10-18, como podemos nos proteger de qualquer tipo de engano?",
+        resposta: "Vestindo toda a armadura de Deus por meio da oração, da fé, da couraça da justiça e do apego resoluto à verdade contida na Palavra de Deus.",
+        versoes: {}
+      },
+    ],
+    dias: [
+      {
+        dia: "Sábado",
+        titulo: "Introdução: Profetas do Novo Testamento",
+        resumo: "Assim como veículos de épocas distintas podem compartilhar do mesmo tipo de motor, as mensagens proféticas do Antigo e do Novo Testamento possuem plena continuidade e harmonia porque procedem do mesmo Espírito Santo.\n\nO Espírito capacita os mensageiros do Senhor e mantém Jesus Cristo no centro de toda a revelação divina. Ao longo desta semana, analisa-se a manifestação do dom de profecia na igreja apostólica e a necessidade de vigilância contra os enganos espirituais.",
+        perguntas: [
+        ]
+      },
+      {
+        dia: "Domingo",
+        titulo: "Jesus como Profeta",
+        resumo: "Jesus é o cumprimento definitivo da promessa feita por meio de Moisés acerca de um profeta semelhante a ele. Ele é Aquele para quem todas as profecias veterotestamentárias apontavam, sendo o próprio Verbo encarnado e o Criador de todas as coisas.\n\nSua atuação profética dissipa as trevas espirituais deste mundo por meio do plano da redenção. Enquanto a Estrela da Manhã não regressa para estabelecer Seu reino eterno, Sua Palavra profética permanece como lâmpada segura para iluminar a caminhada cristã.",
+        perguntas: [
+          {
+            pergunta: "Qual é o papel profético de Jesus? Como essa questão foi respondida no tempo de Cristo?",
+            resposta: "Jesus é o Messias prometido e o cumprimento das profecias do Antigo Testamento. Embora muitos o vissem como apenas um profeta redivivo, Pedro confessou acertadamente que Ele é o Cristo, o Filho do Deus vivo.",
+            versoes: {"naa": "Indo Jesus para a região de Cesareia de Filipe, perguntou a seus discípulos: — Quem os outros dizem que é o Filho do Homem? E eles responderam: — Uns dizem que é João Batista; outros dizem que é Elias; e outros dizem que é Jeremias ou um dos profetas. Ao que Jesus perguntou: — E vocês, quem dizem que eu sou? Respondendo, Simão Pedro disse: — O senhor é o Cristo, o Filho do Deus vivo. Então Jesus e os seus discípulos foram para as aldeias de Cesareia de Filipe. No caminho, perguntou-lhes: — Quem os outros dizem que eu sou? Os discípulos responderam: — Uns dizem que é João Batista; outros dizem que é Elias; e ainda outros dizem que é um dos profetas. Então Jesus perguntou: — E vocês, quem dizem que eu sou? Respondendo, Pedro lhe disse: — O senhor é o Cristo. E aconteceu que, enquanto Jesus estava orando em particular, achavam-se presentes os discípulos, a quem perguntou: — Quem as multidões dizem que eu sou? Eles responderam: — Uns dizem que é João Batista; outros dizem que é Elias; e ainda outros dizem que um dos antigos profetas ressuscitou. Então Jesus perguntou: — E vocês, quem dizem que eu sou? Respondendo, Pedro disse: — O Cristo de Deus.", "ntlh": "Jesus foi para a região que fica perto da cidade de Cesareia de Filipe. Ali perguntou aos discípulos: — Quem o povo diz que o Filho do Homem é? Eles responderam: — Alguns dizem que o senhor é João Batista; outros, que é Elias; e outros, que é Jeremias ou algum outro profeta. — E vocês? Quem vocês dizem que eu sou? — perguntou Jesus. Simão Pedro respondeu: — O senhor é o Messias, o Filho do Deus vivo. Depois Jesus e os seus discípulos foram para os povoados que ficam perto de Cesareia de Filipe. No caminho, ele lhes perguntou: — Quem o povo diz que eu sou? Os discípulos responderam: — Alguns dizem que o senhor é João Batista; outros, que é Elias; e outros, que é um dos profetas. — E vocês? Quem vocês dizem que eu sou? — perguntou Jesus. — O senhor é o Messias! — respondeu Pedro. Certa vez Jesus estava sozinho, orando, e os discípulos chegaram perto dele. Então ele perguntou: — Quem o povo diz que eu sou? Eles responderam: — Alguns dizem que o senhor é João Batista; outros, que é Elias; e outros, que é um dos profetas antigos que ressuscitou. — E vocês? Quem vocês dizem que eu sou? — perguntou Jesus. Pedro respondeu: — O Messias que Deus enviou.", "nvi": "Chegando Jesus à região de Cesareia de Filipe, perguntou aos seus discípulos: “Quem os outros dizem que o Filho do homem é?” Eles responderam: “Alguns dizem que é João Batista; outros, Elias; e, ainda outros, Jeremias ou um dos profetas”. “E vocês?”, perguntou ele. “Quem vocês dizem que eu sou?” Simão Pedro respondeu: “Tu és o Cristo, o Filho do Deus vivo”. Jesus e os seus discípulos dirigiram-se para os povoados nas proximidades de Cesareia de Filipe. No caminho, ele lhes perguntou: “Quem o povo diz que eu sou?” Eles responderam: “Alguns dizem que és João Batista; outros, Elias; e, ainda outros, um dos profetas”. “E vocês?”, perguntou ele. “Quem vocês dizem que eu sou?” Pedro respondeu: “Tu és o Cristo ”. Certa vez Jesus estava orando em particular, e com ele estavam os seus discípulos; então lhes perguntou: “Quem as multidões dizem que eu sou?” Eles responderam: “Alguns dizem que és João Batista; outros, Elias; e, ainda outros, que és um dos profetas do passado que ressuscitou”. “E vocês, o que dizem?”, perguntou. “Quem vocês dizem que eu sou?” Pedro respondeu: “O Cristo de Deus”.", "acf": "E, chegando Jesus às partes de Cesaréia de Filipe, interrogou os seus discípulos, dizendo: Quem dizem os homens ser o Filho do homem? E eles disseram: Uns, João o Batista; outros, Elias; e outros, Jeremias, ou um dos profetas. Disse-lhes ele: E vós, quem dizeis que eu sou? E Simão Pedro, respondendo, disse: Tu és o Cristo, o Filho do Deus vivo. E saiu Jesus, e os seus discípulos, para as aldeias de Cesaréia de Filipe; e no caminho perguntou aos seus discípulos, dizendo: Quem dizem os homens que eu sou? E eles responderam: João o Batista; e outros: Elias; mas outros: Um dos profetas. E ele lhes disse: Mas vós, quem dizeis que eu sou? E, respondendo Pedro, lhe disse: Tu és o Cristo. E aconteceu que, estando ele só, orando, estavam com ele os discípulos; e perguntou-lhes, dizendo: Quem diz a multidão que eu sou? E, respondendo eles, disseram: João o Batista; outros, Elias, e outros que um dos antigos profetas ressuscitou. E disse-lhes: E vós, quem dizeis que eu sou? E, respondendo Pedro, disse: O Cristo de Deus."}
+          },
+        ]
+      },
+      {
+        dia: "Segunda-feira",
+        titulo: "Apóstolos e profetas",
+        resumo: "No Novo Testamento, os termos 'apóstolos' e 'profetas' designam mensageiros escolhidos diretamente por Deus para edificar o fundamento da igreja. Ambos partilhavam do mesmo nível de inspiração divina concedida pelo Espírito Santo.\n\nO dom de profecia não ficou restrito aos doze discípulos originais ou aos apóstolos em geral, estendendo-se a outros líderes da congregação primitiva. Toda a autoridade das mensagens transmitidas por eles concentrava-se na pessoa, ministério e sacrifício de Cristo.",
+        perguntas: [
+          {
+            pergunta: "Qual era o papel de apóstolos e profetas em relação a Cristo e à igreja?",
+            resposta: "Eles serviram como fundamento doutrinário da igreja primitiva, recebendo revelações divinas para edificar o corpo de crentes e anunciar a Cristo como a pedra angular.",
+            versoes: {"naa": "edificados sobre o fundamento dos apóstolos e profetas, sendo ele mesmo, Cristo Jesus, a pedra angular.", "ntlh": "Vocês são como um edifício e estão construídos sobre o alicerce que os apóstolos e os profetas colocaram. E a pedra fundamental desse edifício é o próprio Cristo Jesus.", "nvi": "edificados sobre o fundamento dos apóstolos e dos profetas, tendo Jesus Cristo como pedra angular,", "acf": "Edificados sobre o fundamento dos apóstolos e dos profetas, de que Jesus Cristo é a principal pedra da esquina;"}
+          },
+        ]
+      },
+      {
+        dia: "Terça-feira",
+        titulo: "Funções dos profetas do Novo Testamento",
+        resumo: "Os profetas neo-testamentários exerciam funções vitais de edificação, exortação e consolação do povo de Deus. O ministério profético atuava na capacitação dos crentes para a maturidade espiritual e na manutenção da unidade e fé em Cristo.\n\nEles também encorajavam os irmãos em tempos difíceis de perseguição, funcionando como instrumentos da voz consoladora de Deus. Suas advertências e ensinos derivavam da soberania divina, provendo segurança aos que confiavam na mensagem do Senhor.",
+        perguntas: [
+          {
+            pergunta: "O que 1 Coríntios 14:3; Efésios 4:11-13; e Apocalipse 22:6 revelam sobre o papel dos profetas do Novo Testamento?",
+            resposta: "Eles tinham a incumbência de edificar, exortar, consolar e aperfeiçoar os santos para a unidade da fé, transmitindo revelações confiáveis e verdadeiras procedentes de Deus.",
+            versoes: {"naa": "Mas o que profetiza fala para as pessoas, edificando, exortando e consolando. E ele mesmo concedeu uns para apóstolos, outros para profetas, outros para evangelistas e outros para pastores e mestres, com vistas ao aperfeiçoamento dos santos para o desempenho do seu serviço, para a edificação do corpo de Cristo, até que todos cheguemos à unidade da fé e do pleno conhecimento do Filho de Deus, ao estado de pessoa madura, à medida da estatura da plenitude de Cristo, Então o anjo me disse: — Estas palavras são fiéis e verdadeiras. O Senhor, o Deus dos espíritos dos profetas, enviou o seu anjo para mostrar aos seus servos as coisas que em breve devem acontecer.", "ntlh": "Porém quem anuncia a mensagem de Deus fala para as pessoas, ajudando-as e dando-lhes coragem e consolo. Foi ele quem “deu dons às pessoas”. Ele escolheu alguns para serem apóstolos, outros para profetas, outros para evangelistas e ainda outros para pastores e mestres da Igreja. Ele fez isso para preparar o povo de Deus para o serviço cristão, a fim de construir o corpo de Cristo. Desse modo todos nós chegaremos a ser um na nossa fé e no nosso conhecimento do Filho de Deus. E assim seremos pessoas maduras e alcançaremos a altura espiritual de Cristo. Então o anjo me disse: — Essas palavras são verdadeiras e merecem confiança. O Senhor Deus, que dá o seu Espírito aos profetas, enviou o seu anjo para mostrar aos seus servos as coisas que precisam acontecer logo.", "nvi": "Mas quem profetiza o faz para edificação, encorajamento e consolação dos homens. E ele designou alguns para apóstolos, outros para profetas, outros para evangelistas, e outros para pastores e mestres, com o fim de preparar os santos para a obra do ministério, para que o corpo de Cristo seja edificado, até que todos alcancemos a unidade da fé e do conhecimento do Filho de Deus, e cheguemos à maturidade, atingindo a medida da plenitude de Cristo. O anjo me disse: “Estas palavras são dignas de confiança e verdadeiras. O Senhor, o Deus dos espíritos dos profetas, enviou o seu anjo para mostrar aos seus servos as coisas que em breve hão de acontecer.", "acf": "Mas o que profetiza fala aos homens, para edificação, exortação e consolação. E ele mesmo deu uns para apóstolos, e outros para profetas, e outros para evangelistas, e outros para pastores e doutores, Querendo o aperfeiçoamento dos santos, para a obra do ministério, para edificação do corpo de Cristo; Até que todos cheguemos à unidade da fé, e ao conhecimento do Filho de Deus, a homem perfeito, à medida da estatura completa de Cristo, E disse-me: Estas palavras são fiéis e verdadeiras; e o Senhor, o Deus dos santos profetas, enviou o seu anjo, para mostrar aos seus servos as coisas que em breve hão de acontecer."}
+          },
+        ]
+      },
+      {
+        dia: "Quarta-feira",
+        titulo: "Profetisas e jovens pastores",
+        resumo: "O Novo Testamento confirma que Deus derramou Seu dom profético sobre homens e mulheres sem distinção, como se observa no ministério da idosa Ana e das quatro filhas solteiras do evangelista Filipe. Suas profecias eram autênticas, embora não fizessem parte do cânon bíblico.\n\nParalelamente, os apóstolos exerceram discipulado e mentoria com líderes mais jovens, tais como Timóteo e Tito. A liderança cristã foi fortalecida pelo encorajamento bíblico e pelas admoestações proféticas direcionadas a esses novos servos.",
+        perguntas: [
+          {
+            pergunta: "O que esses textos nos ensinam sobre profetisas?",
+            resposta: "Ensinam que o dom profético foi legitimamente concedido por Deus a mulheres no Novo Testamento, demonstrando que Ele capacita servos de todas as idades para proclamar a Sua verdade.",
+            versoes: {"naa": "Havia uma profetisa, chamada Ana, filha de Fanuel, da tribo de Aser. Ela era bem idosa, tendo vivido com o marido sete anos desde que tinha se casado. Agora era viúva de oitenta e quatro anos. Ela não deixava o templo, mas adorava noite e dia, com jejuns e orações. E, chegando naquela hora, dava graças a Deus e falava a respeito do menino a todos os que esperavam a redenção de Jerusalém. Filipe tinha quatro filhas solteiras, que profetizavam.", "ntlh": "Havia ali também uma profetisa chamada Ana, que era viúva e muito idosa. Ela era filha de Fanuel, da tribo de Aser. Sete anos depois que ela havia casado, o seu marido morreu. Agora ela estava com oitenta e quatro anos de idade. Nunca saía do pátio do Templo e adorava a Deus dia e noite, jejuando e fazendo orações. Naquele momento ela chegou e começou a louvar a Deus e a falar a respeito do menino para todos os que esperavam a libertação de Jerusalém. Ele tinha quatro filhas solteiras que profetizavam.", "nvi": "Estava ali a profetisa Ana, filha de Fanuel, da tribo de Aser. Era muito idosa; tinha vivido com seu marido sete anos depois de se casar e então permanecera viúva até a idade de oitenta e quatro anos. Nunca deixava o templo: adorava a Deus jejuando e orando dia e noite. Tendo chegado ali naquele exato momento, deu graças a Deus e falava a respeito do menino a todos os que esperavam a redenção de Jerusalém. Ele tinha quatro filhas virgens, que profetizavam.", "acf": "E estava ali a profetisa Ana, filha de Fanuel, da tribo de Aser. Esta era já avançada em idade, e tinha vivido com o marido sete anos, desde a sua virgindade; E era viúva, de quase oitenta e quatro anos, e não se afastava do templo, servindo a Deus em jejuns e orações, de noite e de dia. E sobrevindo na mesma hora, ela dava graças a Deus, e falava dele a todos os que esperavam a redenção em Jerusalém. E tinha este quatro filhas virgens, que profetizavam."}
+          },
+        ]
+      },
+      {
+        dia: "Quinta-feira",
+        titulo: "Falsos profetas no Novo Testamento",
+        resumo: "Jesus advertiu que o tempo do fim seria marcado pelo surgimento de falsos profetas operando grandes sinais e prodígios para enganar, se possível, até mesmo os escolhidos. A realização de milagres e prodígios não é, por si só, um atestado de autenticidade divina.\n\nPara enfrentar as hostes espirituais da maldade e não sucumbir aos ardis do engano, o cristão precisa estar revestido de toda a armadura de Deus. A proteção real contra as distorções teológicas consiste em permanecer firmado na oração, na justiça de Cristo e na verdade bíblica.",
+        perguntas: [
+          {
+            pergunta: "Que advertência Jesus nos apresenta? Por que devemos levá-la tão a sério?",
+            resposta: "Jesus adverte sobre o surgimento de falsos mestres e cristos com sinais convincentes; devemos levar isso a sério para não sermos seduzidos por enganos espirituais nos últimos dias.",
+            versoes: {"naa": "— Então, se alguém disser a vocês: “Olhem! Aqui está o Cristo!” ou: “Ali está ele!”, não acreditem. Porque surgirão falsos cristos e falsos profetas, operando grandes sinais e prodígios, para enganar, se possível, os próprios eleitos.", "ntlh": "— Portanto, se alguém disser para vocês: “Vejam! O Messias está aqui” ou “O Messias está ali”, não acreditem. Porque aparecerão falsos profetas e falsos messias, que farão milagres e maravilhas para enganar, se possível, até o povo escolhido de Deus.", "nvi": "Se, então, alguém disser: ‘Vejam, aqui está o Cristo!’ ou: ‘Ali está ele!’, não acreditem. Pois aparecerão falsos cristos e falsos profetas que realizarão grandes sinais e maravilhas para, se possível, enganar até os eleitos.", "acf": "Então, se alguém vos disser: Eis que o Cristo está aqui, ou ali, não lhe deis crédito; Porque surgirão falsos cristos e falsos profetas, e farão tão grandes sinais e prodígios que, se possível fora, enganariam até os escolhidos."}
+          },
+          {
+            pergunta: "De acordo com Efésios 6:10-18, como podemos nos proteger de qualquer tipo de engano?",
+            resposta: "Vestindo toda a armadura de Deus por meio da oração, da fé, da couraça da justiça e do apego resoluto à verdade contida na Palavra de Deus.",
+            versoes: {"naa": "Quanto ao mais, sejam fortalecidos no Senhor e na força do seu poder. Vistam-se com toda a armadura de Deus, para poderem ficar firmes contra as ciladas do diabo. Porque a nossa luta não é contra o sangue e a carne, mas contra os principados e as potestades, contra os dominadores deste mundo tenebroso, contra as forças espirituais do mal, nas regiões celestiais. Por isso, peguem toda a armadura de Deus, para que vocês possam resistir no dia mau e, depois de terem vencido tudo, permanecer inabaláveis. Portanto, fiquem firmes, cingindo-se com a verdade e vestindo a couraça da justiça. Tenham os pés calçados com a preparação do evangelho da paz, segurando sempre o escudo da fé, com o qual poderão apagar todos os dardos inflamados do Maligno. Usem também o capacete da salvação e a espada do Espírito, que é a palavra de Deus. Orem em todo tempo no Espírito, com todo tipo de oração e súplica, e para isto vigiem com toda perseverança e súplica por todos os santos.", "ntlh": "Para terminar: tornem-se cada vez mais fortes, vivendo unidos com o Senhor e recebendo a força do seu grande poder. Vistam-se com toda a armadura que Deus dá a vocês, para ficarem firmes contra as armadilhas do Diabo. Pois nós não estamos lutando contra seres humanos, mas contra as forças espirituais do mal que vivem nas alturas, isto é, os governos, as autoridades e os poderes que dominam completamente este mundo de escuridão . Por isso peguem agora a armadura que Deus lhes dá. Assim, quando chegar o dia de enfrentarem as forças do mal, vocês poderão resistir aos ataques do inimigo e, depois de lutarem até o fim, vocês continuarão firmes, sem recuar. Portanto, estejam preparados. Usem a verdade como cinturão. Vistam-se com a couraça da justiça e calcem, como sapatos, a prontidão para anunciar a boa notícia de paz. E levem sempre a fé como escudo, para poderem se proteger de todos os dardos de fogo do Maligno . Recebam a salvação como capacete e a palavra de Deus como a espada que o Espírito Santo lhes dá. Façam tudo isso orando a Deus e pedindo a ajuda dele. Orem sempre, guiados pelo Espírito de Deus. Fiquem alertas. Não desanimem e orem sempre por todo o povo de Deus.", "nvi": "Finalmente, fortaleçam-se no Senhor e no seu forte poder. Vistam toda a armadura de Deus, para poderem ficar firmes contra as ciladas do Diabo, pois a nossa luta não é contra seres humanos , mas contra os poderes e autoridades, contra os dominadores deste mundo de trevas, contra as forças espirituais do mal nas regiões celestiais. Por isso, vistam toda a armadura de Deus, para que possam resistir no dia mau e permanecer inabaláveis, depois de terem feito tudo. Assim, mantenham-se firmes, cingindo-se com o cinto da verdade, vestindo a couraça da justiça e tendo os pés calçados com a prontidão do evangelho da paz. Além disso, usem o escudo da fé, com o qual vocês poderão apagar todas as setas inflamadas do Maligno. Usem o capacete da salvação e a espada do Espírito, que é a palavra de Deus. Orem no Espírito em todas as ocasiões, com toda oração e súplica; tendo isso em mente, estejam atentos e perseverem na oração por todos os santos.", "acf": "No demais, irmãos meus, fortalecei-vos no Senhor e na força do seu poder. Revesti-vos de toda a armadura de Deus, para que possais estar firmes contra as astutas ciladas do diabo. Porque não temos que lutar contra a carne e o sangue, mas, sim, contra os principados, contra as potestades, contra os príncipes das trevas deste século, contra as hostes espirituais da maldade, nos lugares celestiais. Portanto, tomai toda a armadura de Deus, para que possais resistir no dia mau e, havendo feito tudo, ficar firmes. Estai, pois, firmes, tendo cingidos os vossos lombos com a verdade, e vestida a couraça da justiça; E calçados os pés na preparação do evangelho da paz; Tomando sobretudo o escudo da fé, com o qual podereis apagar todos os dardos inflamados do maligno. Tomai também o capacete da salvação, e a espada do Espírito, que é a palavra de Deus; Orando em todo o tempo com toda a oração e súplica no Espírito, e vigiando nisto com toda a perseverança e súplica por todos os santos,"}
+          },
+        ]
+      },
+      {
+        dia: "Sexta-feira",
+        titulo: "Mantendo Jesus e Sua Palavra no centro",
+        resumo: "Todo profeta genuíno tem como missão prioritária conduzir as pessoas a um relacionamento redentor com Jesus e submetê-las à autoridade das Sagradas Escrituras. Isso se confirma de modo claro na trajetória e nos escritos de Ellen G. White.\n\nEla caracterizou o seu ministério profético como uma luz menor destinada a guiar os seres humanos para a luz maior, que é a Bíblia. A regra definitiva de fé e prática deve permanecer centrada exclusivamente na Palavra inspirada por Deus.",
+        perguntas: [
+        ]
+      },
+    ],
+    estudoProfessor: {
+      "titulo": "Profetas do Novo Testamento",
+      "subtitulo": "Recurso Didático para Professores da Escola Sabatina - Lição 04",
+      "versoChave": "Ora, os dons são diversos, mas o Espírito é o mesmo. E também há diversidade nos serviços, mas o Senhor é o mesmo. E há diversidade nas realizações, mas o mesmo Deus é quem opera tudo em todos. - 1 Coríntios 12:4-6",
+      "objetivo": "Compreender que o mesmo Espírito Santo que atuou nos profetas do Antigo Testamento continua guiando a igreja no Novo Testamento através de dons espirituais, alinhando a vida aos ensinos de Cristo e desenvolvendo discernimento espiritual contra os enganos do tempo do fim.",
+      "slides": [
+        {
+          "titulo": "Capa e Verso de Memorização",
+          "topicos": [
+            "Unidade trinitária na concessão e operação dos dons espirituais",
+            "Diversidade de ministérios voltada para o bem comum da igreja",
+            "Os dons existem para a edificação coletiva e não para a exaltação pessoal"
+          ],
+          "nota": "Destaque para a classe que o foco dos dons espirituais no Novo Testamento nunca é a exaltação do indivíduo, mas a unidade e a missão coletiva da igreja."
+        },
+        {
+          "titulo": "A Harmonia entre os Testamentos",
+          "topicos": [
+            "O Espírito Santo é a fonte imutável da revelação através das eras",
+            "A revelação do Novo Testamento cumpre e amplia o Antigo Testamento",
+            "O sacrifício e a redenção em Cristo formam o centro de toda a profecia"
+          ],
+          "nota": "Responda à falsa ideia de que o Antigo Testamento foi abolido. Enfatize que a Bíblia dos apóstolos era o Antigo Testamento."
+        },
+        {
+          "titulo": "O Cumprimento da Promessa de Moisés",
+          "topicos": [
+            "Tipologia bíblica entre o ministério de Moisés e a liderança de Jesus",
+            "Diferença entre profetas humanos e a autoridade inerente de Cristo",
+            "Reconhecimento pleno de Jesus como o Messias e Filho do Deus vivo"
+          ],
+          "nota": "Explique que definir Jesus apenas como profeta é incompleto; Ele é o Messias, o Criador e a plenitude da divindade."
+        },
+        {
+          "titulo": "A Palavra Encarnada",
+          "topicos": [
+            "A Palavra de Deus manifestada de forma falada, escrita e encarnada",
+            "Cristo como agente criador, Luz do Mundo e Estrela da Manhã",
+            "A profecia bíblica centralizada na vida, morte, ressurreição e volta de Jesus"
+          ],
+          "nota": "Peça aos alunos para refletirem no impacto de o Criador do universo ter se humanizado para ser o nosso substituto e salvador."
+        },
+        {
+          "titulo": "Chamado, Autoridade e Liderança",
+          "topicos": [
+            "Definição de apóstolo como enviado em missão por Cristo",
+            "Distinção funcional entre o ofício apostólico e o dom de profecia",
+            "Igualdade na autoridade inspirativa outorgada pelo Espírito Santo"
+          ],
+          "nota": "Esclareça que a autoridade das palavras proféticas não provém da posição eclesiástica da pessoa, mas da fonte divina da mensagem."
+        },
+        {
+          "titulo": "A Pedra Angular e o Alicerce",
+          "topicos": [
+            "O fundamento da igreja edificado sobre apóstolos e profetas",
+            "Jesus Cristo como a Pedra Angular que sustenta toda a estrutura da fé",
+            "A revelação inclusiva da salvação para todos os povos em um só corpo"
+          ],
+          "nota": "Use a metáfora da construção civil: sem a pedra angular (Cristo), a estrutura rui; sem o fundamento (Escrituras), a igreja perde prumo."
+        },
+        {
+          "titulo": "Edificar, Exortar e Consolar",
+          "topicos": [
+            "A profecia neotestamentária como proclamação da vontade divina presente",
+            "Edificação contínua da maturidade espiritual dos crentes",
+            "Exortação amorosa contra desvios e consolo em períodos difíceis"
+          ],
+          "nota": "Destaque que a profecia aplica a Palavra de Deus às lutas e necessidades reais dos crentes."
+        },
+        {
+          "titulo": "O Crescimento do Corpo de Cristo",
+          "topicos": [
+            "Capacitação de cada membro para o serviço e aperfeiçoamento",
+            "Promoção da unidade doutrinária rumo à estatura de Cristo",
+            "Proteção da comunidade cristã contra enganos e ventos de doutrina"
+          ],
+          "nota": "Pergunte à classe como a voz profética nos ajuda a permanecer firmes em meio à confusão doutrinária do mundo moderno."
+        },
+        {
+          "titulo": "Mensageiros Fiéis sem Livros na Bíblia",
+          "topicos": [
+            "Exemplos bíblicos de profetas como Ágabo, Judas e Silas",
+            "Reconhecimento da inspiração profética fora dos livros canônicos",
+            "Submissão de qualquer manifestação profética ao Cânon sagrado"
+          ],
+          "nota": "Esclareça que a ausência de um livro no Cânon não torna o ministério de um profeta menos inspirado ou falso."
+        },
+        {
+          "titulo": "Deus Chama a Quem Quer",
+          "topicos": [
+            "O ministério da profetisa Ana servindo no templo e exaltando o Messias",
+            "O exercício legítimo do dom profético pelas quatro filhas de Filipe",
+            "Soberania de Deus ao derramar dons espirituais sem distinção de gênero"
+          ],
+          "nota": "Ressalte como a narrativa bíblica valoriza a atuação ativa das mulheres no avanço do reino e no testemunho profético."
+        },
+        {
+          "titulo": "Preparando a Próxima Geração",
+          "topicos": [
+            "Discipulado e mentoria de Paulo com jovens líderes como Timóteo e Tito",
+            "Reconhecimento e confirmação do ministério pela igreja",
+            "Importância do exemplo de pureza, dedicação e firmeza na Palavra"
+          ],
+          "nota": "Incentive os membros da classe a apoiarem e mentorearem a juventude da igreja local nas responsabilidades missionárias."
+        },
+        {
+          "titulo": "A Advertência Escatológica de Jesus",
+          "topicos": [
+            "Alerta sobre o surgimento de falsos profetas nos últimos dias",
+            "Sinais e prodígios sobrenaturais usados como ferramentas de engano",
+            "O perigo de mensagens que misturam verdades com ensinamentos errôneos"
+          ],
+          "nota": "Alerte a classe para não julgar a veracidade de um ministério apenas por manifestações emocionais ou milagres aparentes."
+        },
+        {
+          "titulo": "Como Discernir o Verdadeiro do Falso",
+          "topicos": [
+            "Conformidade obrigatória com a lei de Deus e com o testemunho bíblico",
+            "Avaliação do caráter, da vida diária e dos frutos espirituais do mensageiro",
+            "Exaltação exclusiva de Jesus Cristo e obediência à Sua revelação"
+          ],
+          "nota": "Enfatize o exemplo dos crentes de Bereia, que examinavam diariamente as Escrituras para confirmar o ensino recebido."
+        },
+        {
+          "titulo": "A Proteção Espiritual contra a Falsidade",
+          "topicos": [
+            "A realidade do conflito contra principados e potestades espirituais",
+            "A apropriação diária da armadura da fé e da Espada do Espírito",
+            "Oração perseverante e estudo bíblico constante como escudos de defesa"
+          ],
+          "nota": "Mostre que a única segurança sólida contra o engano é o arraigamento diário e pessoal no estudo da Bíblia."
+        },
+        {
+          "titulo": "Ellen G. White e a Luz Menor",
+          "topicos": [
+            "O dom profético no remanescente escatológico descrito no Apocalipse",
+            "Escritos proféticos que atuam como luz menor direcionando à Bíblia",
+            "Inexistência de novas doutrinas e subordinação total ao Cânon bíblico"
+          ],
+          "nota": "Reforce que os escritos inspirados de Ellen White são uma bênção para fortalecer o estudo da Bíblia e a devoção pessoal a Cristo."
+        },
+        {
+          "titulo": "Mantendo Jesus e a Bíblia no Centro",
+          "topicos": [
+            "Toda autêntica profecia conduz à exaltação e senhorio de Jesus",
+            "Chamado ao amadurecimento espiritual, comunhão e fidelidade missionária",
+            "A Bíblia Sagrada como a regra suprema e inegociável de fé e conduta"
+          ],
+          "nota": "Finalize com uma oração fervorosa pedindo discernimento, amor pelas Escrituras e prontidão para a breve volta de Jesus."
+        }
+      ],
+      "aprofundamentos": [
+        {
+          "titulo": "A Tipologia de Moisés e a Superioridade do Logos Profético em Cristo",
+          "texto": "No Antigo Testamento, a promessa de Deuteronômio 18:15 indicava que Deus suscitaria um profeta semelhante a Moisés. Embora a profecia encontre um cumprimento imediato no ministério dos profetas sucessores, o Novo Testamento aplica este texto de forma definitiva a Jesus Cristo. Contudo, Jesus transcende o modelo tipológico: enquanto os demais profetas atuavam como intermediários declarando a mensagem recebida, Jesus é o próprio Logos encarnado que fala com autoridade própria, sendo a personificação viva da salvação e o Criador de todas as coisas."
+        },
+        {
+          "titulo": "A Relação Eclesiológica entre o Apostolado e o Dom Profético",
+          "texto": "Existe uma distinção eclesiológica marcante entre apóstolos e profetas no Novo Testamento. Os apóstolos eram testemunhas oculares da ressurreição de Cristo, encarregados de estabelecer as diretrizes e a liderança da igreja nascente, enquanto os profetas atuavam diretamente na proclamação inspirada para edificação, exortação e consolo. Em termos de autoridade inspirativa, no entanto, ambos recebiam revelações diretamente do Espírito Santo, formando o fundamento eclesial cuja pedra angular é o próprio Cristo."
+        },
+        {
+          "titulo": "A Distinção Teológica entre Profetas Canônicos e Não-Canônicos e o Papel do Espírito de Profecia",
+          "texto": "A manifestação do dom profético nas Escrituras é mais abrangente do que os autores do Cânon bíblico. Diversos mensageiros autênticos desempenharam seus ministérios sem redigir livros sagrados. Da mesma forma, o ministério profético no tempo do fim atua na categoria não-canônica, servindo como uma luz menor destinada a clarear o entendimento da luz maior, que são as Sagradas Escrituras, sem adicionar doutrinas ou substituir o princípio da Sola Scriptura."
+        },
+        {
+          "titulo": "Sinais Sobrenaturais versus Conformidade Doutrinária: O Combate à Escatologia do Engano",
+          "texto": "As advertências de Cristo em Mateus 24 revelam que milagres e sinais grandiosos não servem de validação exclusiva para a verdade, visto que forças malignas realizam prodígios para enganar. O parâmetro definitivo de discernimento permanece a plena harmonia com a lei e o testemunho das Escrituras, além da coerência moral e fidelidade aos ensinos de Cristo manifestados na conduta do mensageiro."
+        }
+      ],
+      "capa": "img/licoes/licao-2026-4t-4.png"
+    }
+
+  },
+  {
     id: 3,
     titulo: "Profetas do Antigo Testamento",
     data: "10 de Outubro de 2026",

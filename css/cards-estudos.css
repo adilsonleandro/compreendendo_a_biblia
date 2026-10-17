@@ -1,0 +1,214 @@
+/* =====================================================================
+   CARDS DE ESTUDOS (lista de estudos, estudos-profundos.html)
+   Seletor base: #epGrid (container dos cards)
+   ===================================================================== */
+
+/* Card individual: fundo azul, borda dourada no topo, cantos arredondados */
+#epGrid .ep-card {
+  background: #1b3a5c !important;      /* cor de fundo do card */
+  color: #ffffff !important;           /* cor padrão do texto dentro do card */
+  border-top: 4px solid #f5a623 !important; /* faixa dourada superior */
+  border-radius: 14px !important;      /* arredondamento dos cantos */
+  padding: 18px 20px !important;       /* espaço interno */
+  display: flex !important;
+  flex-direction: column !important;   /* organiza ícone, título, gancho e CTA em coluna */
+  gap: 6px !important;                 /* espaço entre os elementos do card */
+  text-decoration: none !important;    /* remove sublinhado (o card é um link) */
+  box-shadow: 0 4px 14px rgba(0, 0, 0, 0.18) !important; /* sombra normal */
+}
+
+/* Efeito ao passar o mouse no card: sombra maior e leve subida */
+#epGrid .ep-card:hover {
+  box-shadow: 0 8px 20px rgba(0, 0, 0, 0.28) !important;
+  transform: translateY(-2px);         /* quantidade da subida (em px) */
+}
+
+/* Ícone (emoji ou símbolo) no topo do card */
+#epGrid .ep-card .ep-card-icone {
+  font-size: 1.5rem;                   /* tamanho do ícone */
+  color: #ffffff !important;
+}
+
+/* Título do estudo dentro do card */
+#epGrid .ep-card .ep-card-titulo {
+  color: #ffffff !important;
+  font-size: 1.1rem;                   /* tamanho do título */
+  font-weight: 700;
+}
+
+/* Frase de apoio (gancho) abaixo do título */
+#epGrid .ep-card .ep-card-gancho {
+  color: #e2e8f0 !important;           /* cinza claro para não competir com o título */
+  font-size: 0.95rem;
+}
+
+/* Chamada para ação no rodapé do card (ex.: "Ler estudo →") */
+#epGrid .ep-card .ep-card-cta {
+  color: #f5a623 !important;           /* cor dourada do destaque */
+  font-weight: 700;
+  font-size: 0.9rem;
+  margin-top: auto;                    /* empurra o CTA para o fim do card */
+}
+
+/* Título de cada tema agrupador (ex.: "A Doutrina de Deus") na lista */
+#epGrid .ep-tema-titulo {
+  color: #1b3a5c !important;
+  font-size: 1.25rem;
+  font-weight: 700;
+  border-bottom: 2px solid #f5a623;    /* linha dourada sob o tema */
+  padding-bottom: 6px;
+  margin: 28px 0 4px;                  /* espaço acima (28px) e abaixo (4px) do tema */
+}
+
+
+/* =====================================================================
+   LEITOR DE ESTUDO (página aberta ao clicar em um estudo)
+   Seletor base: #epEstudo (área do texto)
+   ===================================================================== */
+
+/* Área do texto: largura máxima, centralização e espaçamento interno */
+#epEstudo {
+  max-width: 860px;                    /* largura máxima da coluna de leitura */
+  margin: 0 auto;                      /* centraliza a coluna na tela */
+  padding: 24px 20px 48px;            /* espaço interno: topo, laterais, base */
+  box-sizing: border-box;
+  line-height: 1.7;                    /* espaço entre linhas do texto */
+  color: #1e293b;                      /* cor do texto corrido */
+}
+
+/* Bloco "Verso para memorizar" (caixa azul clara com barra lateral) */
+#epEstudo .ep-verso {
+  background: #eef3f8;                 /* cor de fundo da caixa */
+  border-left: 5px solid #1b3a5c;      /* barra lateral azul */
+  border-radius: 10px;                 /* arredondamento da caixa */
+  padding: 16px 20px;                  /* espaço interno */
+  margin: 0 0 28px;                    /* espaço abaixo da caixa */
+  color: #1e293b;
+}
+
+/* Títulos do estudo */
+#epEstudo h1 {                         /* título principal do estudo */
+  color: #1b3a5c;
+  font-size: 2rem;
+  font-weight: 700;
+  margin: 0 0 16px;
+}
+#epEstudo h2 {                         /* títulos de parte (ex.: "Parte 4") */
+  color: #1b3a5c;
+  font-size: 1.4rem;
+  font-weight: 700;
+  margin: 36px 0 12px;                 /* espaço acima (36px) e abaixo (12px) */
+  border-bottom: 2px solid #1b3a5c;    /* linha azul sob o título */
+  padding-bottom: 6px;
+}
+#epEstudo h3 {                         /* subtítulos (ex.: "3.5 ...") */
+  color: #1b3a5c;
+  font-size: 1.15rem;
+  font-weight: 700;
+  margin: 24px 0 8px;
+}
+
+/* Referências bíblicas no texto (pílulas clicáveis que abrem o popup) */
+#epEstudo .ep-vers {
+  cursor: pointer;                     /* mãozinha ao passar o mouse */
+  color: #1b3a5c;                      /* cor do texto da referência */
+  background: #eef3f8;                 /* fundo da pílula */
+  border: 1px solid #c9d6e3;           /* borda da pílula */
+  border-radius: 999px;                /* 999px deixa a forma totalmente arredondada */
+  padding: 2px 10px;                   /* espaço interno da pílula */
+  font-size: 0.95em;                   /* tamanho em relação ao texto ao redor */
+  white-space: nowrap;                 /* impede a referência de quebrar de linha */
+}
+
+/* Pílula ao passar o mouse */
+#epEstudo .ep-vers:hover {
+  background: #dfe9f3;                 /* fundo um pouco mais escuro */
+}
+
+/* =====================================================================
+   PERGUNTAS PARA REFLEXÃO COM RESPOSTA (leitor de estudo)
+   Afeta: a caixa "Perguntas para reflexão" no fim do estudo.
+   Estrutura gerada pelo estudos-app.js:
+   section.ep-perguntas > h2 + ol > li.ep-pergunta-item
+     > p.ep-pergunta-texto + button.ep-btn-resposta + div.ep-resposta
+   ===================================================================== */
+
+/* Caixa que envolve todas as perguntas */
+#epEstudo .ep-perguntas {
+  background: #f6f1ea;               /* cor de fundo bege */
+  border-radius: 14px;               /* arredondamento dos cantos */
+  padding: 20px 22px;                /* espaço interno */
+  margin: 30px 0;                    /* espaço acima e abaixo da caixa */
+}
+
+/* Título "Perguntas para reflexão" */
+#epEstudo .ep-perguntas h2 {
+  color: #1b3a5c;                    /* azul do site */
+  font-size: 1.15rem;
+  margin: 0 0 12px;
+  border-bottom: none;               /* remove a linha azul que os h2 do texto têm */
+  padding-bottom: 0;
+}
+
+/* Lista numerada das perguntas */
+#epEstudo .ep-perguntas ol {
+  padding-left: 22px;                /* recuo dos números */
+  margin: 0;
+}
+
+/* Cada pergunta, com seu botão e sua resposta */
+#epEstudo .ep-pergunta-item {
+  margin-bottom: 16px;               /* espaço entre uma pergunta e a próxima */
+}
+
+/* Texto da pergunta */
+#epEstudo .ep-pergunta-texto {
+  font-weight: 600;                  /* negrito leve */
+  margin: 0 0 6px;                   /* espaço abaixo, antes do botão */
+  color: #1e293b;
+}
+
+/* Botão "Ver resposta" / "Ocultar resposta" */
+#epEstudo .ep-btn-resposta {
+  background: #1b3a5c;               /* fundo azul */
+  color: #ffffff;                    /* texto branco */
+  border: 0;
+  border-radius: 999px;              /* formato de pílula */
+  padding: 6px 14px;                 /* tamanho interno do botão */
+  font-size: .9rem;
+  cursor: pointer;
+}
+#epEstudo .ep-btn-resposta:hover {
+  background: #142d47;               /* azul mais escuro ao passar o mouse */
+}
+
+/* Resposta exibida ao clicar no botão */
+#epEstudo .ep-resposta {
+  margin-top: 10px;                  /* distância do botão */
+  padding: 12px 14px;                /* espaço interno */
+  background: #ffffff;               /* fundo branco */
+  border-left: 4px solid #f5a623;    /* barra laranja do site */
+  border-radius: 8px;
+  line-height: 1.6;                  /* espaço entre linhas do texto */
+}
+
+
+/*
+Onde mexer para cada ajuste
+
+Cor principal (azul): #1b3a5c. Aparece em quase todos os blocos. Trocar esse valor muda o padrão em todo o arquivo, mas precisa ser feito com Ctrl+H (substituir tudo), porque é usado em vários lugares.
+Cor de destaque (dourado): #f5a623. Aparece na faixa dos cards, nos CTAs e na linha sob o tema.
+Largura da leitura: max-width: 860px em #epEstudo. Aumente para ter mais texto por linha.
+Tamanho dos títulos: font-size em #epEstudo h1, h2 e h3.
+Espaço entre títulos e texto: margin em h2 e h3.
+Aparência das referências: bloco #epEstudo .ep-vers. Para deixá-las mais discretas, troque o background por transparent e remova a border.
+Tamanho dos cards: padding e gap em #epGrid .ep-card.
+
+Observações
+
+Texto escondido. O hidden no HTML da resposta esconde o bloco. Se você remover o atributo hidden no JavaScript, a resposta fica sempre visível.
+Cor do botão. #1b3a5c e #142d47 são os mesmos valores usados nos cards. Se trocar a cor do site, troque nos dois lugares, ou use as variáveis --cb-azul (com Ctrl+H).
+Estilo do h2. border-bottom: none evita herdar a linha azul dos títulos do texto. Se preferir a linha, apague essa linha.
+
+*/
+

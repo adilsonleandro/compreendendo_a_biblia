@@ -1,0 +1,98 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Estudos Profundos — Compreendendo a Bíblia</title>
+  <meta name="description" content="Estudos bíblicos profundos sobre temas que geram dúvidas: mil anos, sinais do fim, segunda vinda, estado dos mortos, santuário e juízo. Com textos em 4 versões.">
+  <link rel="stylesheet" href="css/style.css">
+  <link rel="stylesheet" href="css/estudos.css">
+  <link rel="stylesheet" href="css/cards-estudos.css">
+  <link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>📖</text></svg>">
+</head>
+<body>
+  <header class="header">
+    <div class="header-top">
+      <a href="index.html" class="logo">
+        <div class="logo-icon">CB</div>
+        <div class="logo-text">
+          Compreendendo a Bíblia
+          <span>Lições da Escola Sabatina & Estudos da Bíblia</span>
+        </div>
+      </a>
+      <button class="nav-toggle" id="navToggle" aria-label="Menu">☰</button>
+      <nav class="nav" id="nav">
+        <a href="index.html">Início</a>
+        <a href="licoes.html">Lições</a>
+        <p><a href="tema-biblia.html">Estudos</a></p>
+        <a href="estudos-profundos.html" class="active">Estudos Profundos</a>
+      </nav>
+    </div>
+  </header>
+
+  <main id="app">
+    <section class="ep-hero">
+      <h1>Estudos Profundos</h1>
+      <p>Temas que geram dúvidas — respondidos pela Bíblia, versículo por versículo, em 4 versões (NAA, NTLH, NVI e ACF).</p>
+      <div class="ep-busca">
+        <input type="search" id="epBusca" placeholder="Buscar um tema... (ex.: mil anos, mortos, juízo)" autocomplete="off">
+      </div>
+    </section>
+
+    <div class="ep-main">
+      <div class="ep-grid" id="epGrid"></div>
+      <p class="ep-vazio" id="epVazio" hidden>Nenhum tema encontrado com essa busca. 😊<br>Que tal sugerir esse tema no formulário abaixo?</p>
+    </div>
+
+    <section class="ep-form-section" id="sugestao">
+      <h2>💡 Não encontrou o seu tema?</h2>
+      <p>Sugira um tema de estudo. Sua sugestão chega direto para a nossa equipe e pode virar o próximo estudo do site.</p>
+      <div class="ep-form-wrap">
+        <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSei2r3zlX6Eqt1eH175PmhJSAMgJzg4NcQwk0MaGoIwT6VBbQ/viewform?embedded=true" width="100%" height="620" frameborder="0" marginheight="0" marginwidth="0">Carregando…</iframe>
+      </div>
+    </section>
+  </main>
+
+  <footer class="footer">
+    <div class="footer-content">
+      <div>
+        <h3>Compreendendo a Lição da Escola Sabatina e a Bíblia</h3>
+        <p>Site dedicado ao estudo da Palavra de Deus, com lições da Escola Sabatina e estudos da Bíblia.</p>
+      </div>
+      <div>
+        <h3>Navegação</h3>
+        <p><a href="index.html">Início</a></p>
+        <p><a href="licoes.html">Lições da Escola Sabatina</a></p>
+        <p><a href="tema-biblia.html">Estudos</a></p>
+        <p><a href="estudos-profundos.html">Estudos Profundos</a></p>
+      </div>
+      <div>
+        <h3>Links Úteis</h3>
+        <p><a href="https://www.novotempo.com/" target="_blank" rel="noopener">Novo Tempo</a></p>
+        <p><a href="https://www.novotempo.com/radio/" target="_blank" rel="noopener">Rádio Novo Tempo</a></p>
+        <p><a href="https://www.youtube.com/@GravadoraNT" target="_blank" rel="noopener">Gravadora NT</a></p>
+        <p><a href="https://www.anjosdaesperanca.com/" target="_blank" rel="noopener">Anjos da Esperança</a></p>
+        <p><a href="https://novotempocursos.com/pt/" target="_blank" rel="noopener">Cursos Novo Tempo</a></p>
+        <p><a href="https://www.ntplay.com/home/index.html" target="_blank" rel="noopener">NT Play</a></p>
+        <p><a href="https://loja.novotempo.com/" target="_blank" rel="noopener">Loja NT</a></p>
+        <p><a href="https://igrejas.adventistas.org/" target="_blank" rel="noopener">Encontre uma Igreja</a></p>
+        <p><a href="https://www.adventistas.org/pt/comunicacao/projeto/onevoice27/" target="_blank" rel="noopener">OneVoice27</a></p>
+        <p><a href="https://reavivadosporsuapalavra.org/" target="_blank" rel="noopener">Estudo diário reavivado</a></p>
+      </div>
+    </div>
+    <div class="footer-bottom">
+      <p>&copy; 2026 Compreendendo a Bíblia. Todos os direitos reservados.</p>
+    </div>
+  </footer>
+
+  <script>
+    document.getElementById('navToggle').addEventListener('click', () => {
+      document.getElementById('nav').classList.toggle('open');
+    });
+  </script>
+  <script src="dados/indice.js"></script>
+  <script src="js/dados-estudos.js"></script>
+  <script src="js/versiculos.js"></script>
+  <script src="js/estudos-app.js"></script>
+</body>
+</html>
