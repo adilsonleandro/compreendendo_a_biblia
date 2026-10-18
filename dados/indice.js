@@ -1,6 +1,6 @@
 window.INDICE_ESTUDOS = {
-  "gerado_em": "2026-10-17T16:47:46",
-  "total_estudos": 6,
+  "gerado_em": "2026-10-18T11:36:33",
+  "total_estudos": 14,
   "temas": [
     {
       "nome": "Escatologia",
@@ -49,6 +49,60 @@ window.INDICE_ESTUDOS = {
           "ordem": 3,
           "versiculo": "Mateus 24:33",
           "arquivo": "js/estudos/sinais-do-fim.json"
+        },
+        {
+          "id": "apocalipse-17-a-grande-babilonia",
+          "tema": "Escatologia",
+          "titulo": "Apocalipse 17 — A Grande Babilônia",
+          "subtitulo": "Apocalipse 17:5",
+          "ordem": 4,
+          "versiculo": "Apocalipse 17:5",
+          "arquivo": "js/estudos/apocalipse-17-a-grande-babilonia.json"
+        },
+        {
+          "id": "rapto-ou-arrebatamento-secreto",
+          "tema": "Escatologia",
+          "titulo": "Rapto ou Arrebatamento Secreto",
+          "subtitulo": "1 Tessalonicenses 4:16-17",
+          "ordem": 5,
+          "versiculo": "1 Tessalonicenses 4:16-17",
+          "arquivo": "js/estudos/rapto-ou-arrebatamento-secreto.json"
+        },
+        {
+          "id": "como-me-preparar-para-a-volta-de-jesus",
+          "tema": "Escatologia",
+          "titulo": "Como Me Preparar Para A Volta De Jesus",
+          "subtitulo": "Mateus 24:42",
+          "ordem": 6,
+          "versiculo": "Mateus 24:42",
+          "arquivo": "js/estudos/como-me-preparar-para-a-volta-de-jesus.json"
+        },
+        {
+          "id": "ec-12-7-o-que-a-biblia-fala-sobre-a-morte",
+          "tema": "Escatologia",
+          "titulo": "Ec 12.7 — O Que a Bíblia Fala Sobre a Morte",
+          "subtitulo": "Eclesiastes 12:7",
+          "ordem": 7,
+          "versiculo": "Eclesiastes 12:7",
+          "arquivo": "js/estudos/ec-12-7-o-que-a-biblia-fala-sobre-a-morte.json"
+        },
+        {
+          "id": "porque-deus-nao-destruiu-o-diabo",
+          "tema": "Escatologia",
+          "titulo": "Porque Deus Não Destrou o Diabo",
+          "subtitulo": "Apocalipse 20:10",
+          "ordem": 8,
+          "versiculo": "Apocalipse 20:10",
+          "arquivo": "js/estudos/porque-deus-nao-destruiu-o-diabo.json"
+        },
+        {
+          "id": "a-nova-terra",
+          "tema": "Escatologia",
+          "titulo": "A Nova Terra",
+          "subtitulo": "Apocalipse 21:1",
+          "ordem": 10,
+          "versiculo": "Apocalipse 21:1",
+          "arquivo": "js/estudos/a-nova-terra.json"
         }
       ]
     },
@@ -63,6 +117,34 @@ window.INDICE_ESTUDOS = {
           "ordem": 1,
           "versiculo": "Eclesiastes 9:5",
           "arquivo": "js/estudos/o-que-ocorre-na-morte.json"
+        }
+      ]
+    },
+    {
+      "nome": "Grande Conflito",
+      "estudos": [
+        {
+          "id": "porque-existe-o-sofrimento",
+          "tema": "Grande Conflito",
+          "titulo": "Porque Existe o Sofrimento",
+          "subtitulo": "Apocalipse 21:4",
+          "ordem": 11,
+          "versiculo": "Apocalipse 21:4",
+          "arquivo": "js/estudos/porque-existe-o-sofrimento.json"
+        }
+      ]
+    },
+    {
+      "nome": "Posso escolher qualeur dia para guardar?",
+      "estudos": [
+        {
+          "id": "posso-escolher-qualquer-dia",
+          "tema": "Posso escolher qualeur dia para guardar?",
+          "titulo": "Posso Escolher Qualquer Dia Como Dia de Descanso e Adoração?",
+          "subtitulo": "Êxodo 20:8-11",
+          "ordem": 9,
+          "versiculo": "Êxodo 20:11",
+          "arquivo": "js/estudos/posso-escolher-qualquer-dia.json"
         }
       ]
     }

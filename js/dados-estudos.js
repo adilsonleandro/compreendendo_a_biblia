@@ -1,4 +1,726 @@
 window.ESTUDOS_JSON = {
+  "a-nova-terra": {
+    "id": "a-nova-terra",
+    "tema": "Escatologia",
+    "titulo": "A Nova Terra",
+    "subtitulo": "Apocalipse 21:1",
+    "ordem": 10,
+    "versiculo_memorizar": {
+      "texto": "\"E vi um novo céu, e uma nova Terra. Porque já o primeiro céu e a primeira Terra passaram.\"",
+      "referencia": "Apocalipse 21:1"
+    },
+    "secoes": [
+      {
+        "titulo": "Introdução",
+        "paragrafos": [
+          "\"E vi um novo céu, e uma nova Terra. Porque já o primeiro céu e a primeira Terra passaram.\" (Apocalipse 21:1) Depois do milênio, do juízo final e do fogo purificador, Deus recriará a Terra como era no princípio: um lar eterno para os redimidos, onde habita a justiça. A Nova Terra não é uma abstração espiritual, mas a restauração real do plano original de Deus: o homem vivendo em comunhão direta com o Criador, no mundo que foi feito para ele. Este estudo apresenta, com base na Escritura e nos princípios da Igreja Adventista do Sétimo Dia, o que é a Nova Terra, como será a vida ali, o que não existirá, e as respostas bíblicas às perguntas mais comuns sobre o lar eterno."
+        ]
+      },
+      {
+        "titulo": "Parte 1 — A Terra purificada e restaurada",
+        "paragrafos": [],
+        "subsecoes": [
+          {
+            "titulo": "1.1 O fogo purificador (2 Pedro 3:10-13; Malaquias 4:1-3)",
+            "paragrafos": [
+              "O fogo que consome os ímpios purifica a Terra. Todo vestígio de maldição é removido. Nenhum inferno a arder eternamente conservará perante os resgatados as terríveis consequências do pecado: \"Mas o dia do Senhor virá como o ladrão de noite, no qual os céus passarão com estrondo, e os elementos, ardendo, se desfarão, e a terra e as obras que nela haverão se queimarão... Mas nós, segundo a sua promessa, esperamos novos céus e nova terra, em que habita a justiça.\" (2 Pedro 3:10, 13) \"Porque eis que o dia vem, que arderá como um forno; e todos os soberbos, e todos os que cometem impiedade, serão como palha... E pisareis os perversos, porque se farão cinzas debaixo das plantas de vossos pés, naquele dia que prepararei, diz o SENHOR dos Exércitos.\" (Malaquias 4:1-3)"
+            ]
+          },
+          {
+            "titulo": "1.2 A única lembrança que permanece (João 20:27; Zacarias 13:6)",
+            "paragrafos": [
+              "Apenas uma lembrança permanece: nosso Redentor sempre levará os sinais de Sua crucifixão. Em Sua fronte, em Seu lado, em Suas mãos e pés estão os únicos vestígios da obra cruel que o pecado efetuou: \"Então disse a Tomé: Põe aqui o teu dedo, e vê as minhas mãos; e chega a tua mão, e palpa o meu lado; e não sejas incrédulo, mas fiel.\" (João 20:27) Essas cicatrizes serão para a eternidade o memorial do amor que pagou o preço da redenção."
+            ]
+          },
+          {
+            "titulo": "1.3 O reino resgatado (Salmo 37:29; Miquéias 4:8; Mateus 5:5)",
+            "paragrafos": [
+              "\"A ti, ó torre do rebanho, monte da filha de Sião, a ti virá; sim, a ti virá o primeiro domínio.\" (Miquéias 4:8) O reino perdido pelo pecado, Cristo resgatou-o, e os redimidos o possuirão com Ele: \"Os justos herdarão a Terra e habitarão nela para sempre.\" (Salmo 37:29) \"Bem-aventurados os mansos, porque eles herdarão a terra.\" (Mateus 5:5) Um receio de fazer com que a herança futura pareça demasiado material tem levado muitos a espiritualizar as mesmas verdades que nos levam a considerá-la nosso lar. Mas a Bíblia é clara: a herança é real, a Terra é real, e a vida ali é real."
+            ]
+          }
+        ]
+      },
+      {
+        "titulo": "Parte 2 — Deus habitará com os homens",
+        "paragrafos": [],
+        "subsecoes": [
+          {
+            "titulo": "2.1 A Nova Jerusalém desce à Terra (Apocalipse 21:2-3)",
+            "paragrafos": [
+              "\"E eu, João, vi a santa cidade, a nova Jerusalém, que descia do céu, da parte de Deus, adereçada como uma noiva ataviada para o seu marido. E ouvi uma grande voz do trono, dizendo: Eis o tabernáculo de Deus com os homens, pois com eles habitará, e eles serão o seu povo, e o mesmo Deus estará com eles, e será o seu Deus.\" (Apocalipse 21:2-3) O lar eterno dos remidos não é o céu distante, mas a Terra restaurada, onde a capital do universo — a Nova Jerusalém — descerá e Deus mesmo habitará com Seu povo."
+            ]
+          },
+          {
+            "titulo": "2.2 O que não existirá na Nova Terra (Apocalipse 21:4; 22:3; 1 Coríntios 15:26)",
+            "paragrafos": [
+              "\"E Deus limpará de seus olhos toda lágrima; e não haverá mais morte, nem pranto, nem clamor, nem dor; porque já as primeiras coisas são passadas.\" (Apocalipse 21:4) \"E não haverá mais maldição; e o trono de Deus e do Cordeiro estará nela; e seus servos o servirão.\" (Apocalipse 22:3) \"O último inimigo que será destruído é a morte.\" (1 Coríntios 15:26) O mal, a doença e a morte não serão encontrados na Terra restaurada."
+            ]
+          }
+        ]
+      },
+      {
+        "titulo": "Parte 3 — A vida na Nova Terra",
+        "paragrafos": [],
+        "subsecoes": [
+          {
+            "titulo": "3.1 O conhecimento será progressivo (Apocalipse 22:3-5)",
+            "paragrafos": [
+              "Todos os tesouros do universo estarão abertos ao estudo dos remidos de Deus. Livres da mortalidade, alçarão voo incansável para os mundos distantes — mundos que fremiram de tristeza ante o espetáculo da desgraça humana, e ressoaram com cânticos de alegria ao ouvir as novas de uma alma resgatada. Com indizível deleite os filhos da Terra entram de posse da alegria e sabedoria dos seres não caídos. A pura comunhão com seres santos, a vida social harmoniosa com os santos anjos e com os fiéis de todos os tempos, a santa associação que reúne \"toda a família no céu e na terra\", tudo fará parte da experiência do além. \"E verão o seu rosto, e nas suas testas estará o seu nome. E ali nunca mais haverá noite, e não terão necessidade de lâmpada nem de luz do sol, porque o Senhor Deus os ilumina; e reinarão para todo o sempre.\" (Apocalipse 22:4-5)"
+            ]
+          },
+          {
+            "titulo": "3.2 As ocupações na Nova Terra",
+            "paragrafos": [
+              "Os maiores empreendimentos serão levados avante, as mais altas aspirações realizadas, as maiores ambições satisfeitas. E, todavia, surgirão novas elevações a galgar, novas maravilhas a admirar, novas verdades a compreender, novos assuntos a apelarem para as forças do corpo, espírito e alma. O céu é uma escola; o campo de seus estudos, o universo; seu professor, o Ser Infinito. Uma ramificação desta escola foi estabelecida no Éden; e, cumprido o plano da redenção, reassumir-se-á a educação na escola edênica."
+            ]
+          }
+        ]
+      },
+      {
+        "titulo": "Parte 4 — Perguntas sobre a Nova Terra",
+        "paragrafos": [],
+        "subsecoes": [
+          {
+            "titulo": "4.1 Haverá casamentos e nascimentos? (Lucas 20:35; Mateus 22:30)",
+            "paragrafos": [
+              "Nos tempos de Jesus, havia uma classe de pessoas que possuía uma filosofia materialista e cética. Entendendo que eles queriam pegá-Lo em contradição, e sabendo que não acreditavam em ressurreição, Jesus lhes diz como seriam as questões conjugais no céu: \"Mas os que são havidos por dignos de alcançar a era vindoura e a ressurreição dentre os mortos não casam, nem se dão em casamento.\" (Lucas 20:35; ver Mateus 22:30) O Comentário Bíblico Adventista (vol. 5, pág. 483) explica: \"Não se casam — É evidente que não haverá necessidade de matrimônio, porque prevalecerá uma ordem de vida totalmente diferente. Como os anjos — Os anjos são seres criados e não procriados.\" Ellen G. White escreveu: \"Homens há hoje que expressam a crença de que haverá casamentos e nascimentos na nova Terra; os que creem nas Escrituras, porém, não podem admitir tais doutrinas... Nenhum dos que forem despertados da morte, nem dos que forem trasladados sem ver a morte, casará ou será dado em casamento. Eles serão como os anjos de Deus, membros da família real.\" (Medicina e Salvação, pág. 100)"
+            ]
+          },
+          {
+            "titulo": "4.2 O \"pecador de cem anos\" de Isaías 65:20 (Isaías 65:17-25)",
+            "paragrafos": [
+              "Como entender expressões como \"o menino morrerá de cem anos\" e \"o pecador de cem anos será amaldiçoado\" junto a versículos que parecem se referir à Nova Terra? A passagem de Isaías 65:17-25 tem duas aplicações. A descrição da nova terra nesta aplicação secundária deve ser submetida e compreendida sob a luz das mensagens do Novo Testamento, com relação ao paraíso futuro que será estabelecido por Deus. Sendo assim, temos que entender o sentido secundário desta passagem num aspecto apenas metafórico, pois: a) na nova terra que Deus estabelecerá, não haverá morte (Apocalipse 21:4); b) em Isaías 65:23, o profeta menciona o nascimento de crianças, mas de acordo com as palavras de Jesus (Lucas 20:35), na nova terra não haverá casamento nem procriação. O mais seguro é não conjecturar sobre assuntos encobertos, pois: \"As coisas encobertas pertencem ao SENHOR, nosso Deus, porém as reveladas nos pertencem, a nós e a nossos filhos, para sempre, para que cumpramos todas as palavras desta lei.\" (Deuteronômio 29:29)"
+            ]
+          },
+          {
+            "titulo": "4.3 O sábado na Nova Terra (Isaías 66:23)",
+            "paragrafos": [
+              "O sábado foi santificado na criação. Instituído para o homem, teve sua origem quando \"as estrelas da alva juntas alegremente cantavam, e todos os filhos de Deus rejubilavam\" (Jó 38:7). Pairava sobre o mundo a paz; pois a Terra estava em harmonia com o céu. E quando o Éden florescer novamente na Terra, o santo e divino dia de repouso será honrado por todos debaixo do sol: \"Desde um sábado até ao outro, os habitantes da glorificada nova Terra irão adorar perante Mim, diz o Senhor.\" (Isaías 66:23) O sábado, instituição do Éden, atravessa toda a história da redenção e permanece na eternidade como memorial da criação e da redenção."
+            ]
+          }
+        ]
+      },
+      {
+        "titulo": "Conclusão",
+        "paragrafos": [
+          "A Nova Terra é o desfecho glorioso do grande conflito: a Terra purificada pelo fogo, o reino perdido resgatado por Cristo e possuído pelos redimidos, a Nova Jerusalém descendo do céu, e Deus mesmo habitando com Seu povo. Ali não haverá mais morte, nem pranto, nem clamor, nem dor; as primeiras coisas passaram. A única lembrança do pecado serão as cicatrizes no corpo do Redentor — o memorial eterno do amor que nos salvou. A vida na Nova Terra será real e progressiva: estudo, comunhão, trabalho, adoração e o sábado honrado por todos, de um sábado a outro. As perguntas sobre casamentos e nascimentos têm resposta clara nas palavras de Jesus: os dignos da era vindoura serão como os anjos. E as coisas encobertas pertencem ao Senhor, nosso Deus; as reveladas nos pertencem para sempre. \"E o que está assentado sobre o trono disse: Eis que faço novas todas as coisas.\" (Apocalipse 21:5) Que esta esperança nos sustente e nos prepare para o lar que Jesus foi preparar: \"Na casa de meu Pai há muitas moradas... vou preparar-vos lugar.\" (João 14:2)"
+        ]
+      }
+    ],
+    "linha_do_tempo": [],
+    "perguntas": [
+      {
+        "pergunta": "O que é a Nova Terra?",
+        "resposta": "A Terra restaurada após o fogo purificador, onde os redimidos habitarão para sempre com Deus: \"E vi um novo céu, e uma nova Terra. Porque já o primeiro céu e a primeira Terra passaram\" (Apocalipse 21:1; 2 Pedro 3:13)."
+      },
+      {
+        "pergunta": "Como a Terra será purificada?",
+        "resposta": "Pelo fogo que consome os ímpios: todo vestígio de maldição é removido, e nenhum inferno a arder eternamente conservará perante os resgatados as terríveis consequências do pecado (2 Pedro 3:10-12; Malaquias 4:1-3)."
+      },
+      {
+        "pergunta": "Quem herdará a Terra?",
+        "resposta": "Os justos: \"Os justos herdarão a Terra e habitarão nela para sempre\" (Salmo 37:29; Mateus 5:5); o reino perdido pelo pecado, Cristo resgatou-o, e os redimidos o possuirão com Ele (Miquéias 4:8)."
+      },
+      {
+        "pergunta": "O que não existirá na Nova Terra?",
+        "resposta": "A morte, o pranto, o clamor e a dor: \"E Deus limpará de seus olhos toda lágrima; e não haverá mais morte, nem pranto, nem clamor, nem dor\" (Apocalipse 21:4; 22:3; 1 Coríntios 15:26)."
+      },
+      {
+        "pergunta": "Haverá casamentos e nascimentos na Nova Terra?",
+        "resposta": "Não. \"Os que são havidos por dignos de alcançar a era vindoura e a ressurreição dentre os mortos não casam, nem se dão em casamento\" (Lucas 20:35; Mateus 22:30); serão como os anjos, membros da família real."
+      },
+      {
+        "pergunta": "Como entender o \"pecador de cem anos\" de Isaías 65:20?",
+        "resposta": "Isaías 65:17-25 tem duas aplicações; a descrição da Nova Terra deve ser compreendida sob a luz do Novo Testamento, em sentido metafórico, pois na Nova Terra não haverá morte (Apocalipse 21:4) nem procriação (Lucas 20:35)."
+      },
+      {
+        "pergunta": "O sábado será guardado na Nova Terra?",
+        "resposta": "Sim. \"Desde um sábado até ao outro, os habitantes da glorificada nova Terra irão adorar perante Mim, diz o Senhor\" (Isaías 66:23)."
+      },
+      {
+        "pergunta": "O que os remidos farão na Nova Terra?",
+        "resposta": "Estudarão os tesouros do universo, alçarão voo incansável para os mundos distantes, terão comunhão com os santos anjos e com os fiéis de todos os tempos, e surgirão novas elevações a galgar, novas maravilhas a admirar, novas verdades a compreender (Apocalipse 22:3-5)."
+      },
+      {
+        "pergunta": "Qual a única lembrança do pecado que permanecerá?",
+        "resposta": "Os sinais da crucifixão no corpo do Redentor: em Sua fronte, em Seu lado, em Suas mãos e pés estão os únicos vestígios da obra cruel que o pecado efetuou (João 20:27; Zacarias 13:6)."
+      },
+      {
+        "pergunta": "Onde Deus habitará com os remidos?",
+        "resposta": "Na Terra restaurada: \"Eis o tabernáculo de Deus com os homens, pois com eles habitará\" (Apocalipse 21:3); a Nova Jerusalém descerá do céu para a Terra (Apocalipse 21:2)."
+      }
+    ],
+    "fontes": [
+      "CAT5238 — A Nova Terra (Escola Bíblica Novo Tempo)",
+      "CAT4007 — Descrições da Nova Terra (Escola Bíblica Novo Tempo)",
+      "CAT5184 — Is 65.17-25 — Pecador de Cem anos na Nova Terra (Escola Bíblica Novo Tempo)",
+      "CAT4032 — Mt 22.30 e Lc 20.35 — Casamento na Nova Terra (Escola Bíblica Novo Tempo; cita o Comentário Bíblico Adventista, vol. 5, pág. 483)",
+      "CAT8033 — O Sábado na Nova Terra (Escola Bíblica Novo Tempo)",
+      "CAT8163 — O Milênio e a Nova Terra (Escola Bíblica Novo Tempo)",
+      "Ellen G. White, O Grande Conflito, capítulo 42",
+      "Ellen G. White, Educação, págs. 301-307",
+      "Bíblia Sagrada, versão Almeida Revista e Corrigida"
+    ]
+  },
+  "apocalipse-17-a-grande-babilonia": {
+    "id": "apocalipse-17-a-grande-babilonia",
+    "tema": "Escatologia",
+    "titulo": "Apocalipse 17 — A Grande Babilônia",
+    "subtitulo": "Apocalipse 17:5",
+    "ordem": 4,
+    "versiculo_memorizar": {
+      "texto": "\"Na sua fronte achava-se escrito um nome, mistério: Babilônia, a grande, a mãe das meretrizes e das abominações da terra.\"",
+      "referencia": "Apocalipse 17:5"
+    },
+    "secoes": [
+      {
+        "titulo": "Introdução",
+        "paragrafos": [
+          "[Normal] \"Um dos sete anjos que tem as sete taças\" mostrou ao profeta João o \"julgamento da grande meretriz que se acha sentada sobre muitas águas\" (Apocalipse 17:1). A Babilônia simbólica é o grande poder religioso apostatado dos últimos dias, e Apocalipse 17 revela sua identidade, sua origem, sua união com os poderes políticos e seu destino final. Este estudo apresenta, com base na Escritura e nos princípios da Igreja Adventista do Sétimo Dia, o simbolismo da mulher, da besta escarlate e dos dez chifres, a composição da Babilônia moderna, a queda anunciada e o último convite divino."
+        ]
+      },
+      {
+        "titulo": "Parte 1 — A mulher: símbolo da igreja",
+        "paragrafos": [],
+        "subsecoes": [
+          {
+            "titulo": "1.1 A mulher pura e a mulher apóstata (Jeremias 6:2; 2 Coríntios 11:2; Jeremias 3:20)",
+            "paragrafos": [
+              "[Normal] A Bíblia usa o símbolo de uma mulher para representar a igreja. Uma \"virgem\" representa a igreja de Deus em sua pureza: \"Porque estou zeloso de vós com zelo de Deus, porque vos tenho preparado para vos apresentar como uma virgem pura a um marido, a saber, Cristo.\" (2 Coríntios 11:2) E uma mulher de conduta moral duvidosa (meretriz) simboliza igreja(s) apostatada(s): \"Porém, como a mulher que se desvia do seu companheiro, assim te desviaste de mim, ó casa de Israel, diz o SENHOR.\" (Jeremias 3:20)",
+              "[Normal] \"Em Apocalipse, capítulo 17, Babilônia é representada por uma mulher — figura que a Bíblia usa como símbolo da igreja, sendo uma mulher virtuosa a igreja pura, e uma mulher abjeta a igreja apóstata.\" (O Grande Conflito, cap. 21)"
+            ]
+          },
+          {
+            "titulo": "1.2 A prostituição com os reis da terra (João 18:36; Apocalipse 17:15)",
+            "paragrafos": [
+              "[Normal] O fato de \"os reis da terra\" haverem se prostituído com a meretriz significa uma união ilícita que tem havido entre a igreja e o Estado. Jesus disse: \"O meu reino não é deste mundo\" (João 18:36); \"Não sois deste mundo\" (João 15:19). As \"muitas águas\" sobre as quais a meretriz está sentada são \"povos, e multidões, e nações, e línguas\" (Apocalipse 17:15)."
+            ]
+          },
+          {
+            "titulo": "1.3 As cores púrpura e escarlate (Mateus 27:28; Isaías 1:18; Apocalipse 12:3)",
+            "paragrafos": [
+              "[Normal] Nas vestes da mulher predominam as cores púrpura e escarlate; tais cores eram símbolos da realeza (Mateus 27:28), posição que a senhora \"Babilônia\" se arroga possuir (Apocalipse 18:7). A cor escarlate também é usada na Bíblia como símbolo do pecado (Isaías 1:18) e como referência a Satanás (Apocalipse 12:3, o dragão vermelho)."
+            ]
+          },
+          {
+            "titulo": "1.4 O nome escrito na testa (Apocalipse 17:5)",
+            "paragrafos": [
+              "[Normal] \"Na sua fronte achava-se escrito um nome, mistério: Babilônia, a grande, a mãe das meretrizes e das abominações da terra.\" (Apocalipse 17:5) Ao tempo do Império Romano, algumas prostitutas costumavam escrever despudoradamente seu nome em suas próprias testas, e eram assim facilmente identificáveis. Assim também acontece com o poder representado pela profecia — o nome identifica o seu possuidor. O nome é \"Mistério\", mas ao mesmo tempo indica que é compreensível, pois é desdobrado nas palavras seguintes: \"Babilônia, a grande...\" (Apocalipse 17:5)"
+            ]
+          }
+        ]
+      },
+      {
+        "titulo": "Parte 2 — A besta escarlate: Roma em suas duas fases",
+        "paragrafos": [],
+        "subsecoes": [
+          {
+            "titulo": "2.1 Sete cabeças e dez chifres (Apocalipse 17:3; Daniel 7)",
+            "paragrafos": [
+              "[Normal] João contemplou em visão uma mulher montada numa besta escarlate, repleta de nomes de blasfêmias, com sete cabeças e dez chifres (Apocalipse 17:3). A besta sobre a qual a mulher está sentada inicialmente representa Roma pagã, e sua subsequente divisão em 10 partes (10 chifres), que ocorreu no ano 476 da era cristã, quando o Império Romano foi invadido e dividido por tribos bárbaras."
+            ]
+          },
+          {
+            "titulo": "2.2 As características comuns dos poderes perseguidores (Daniel 7:21, 25; Apocalipse 13:5-7)",
+            "paragrafos": [
+              "[Normal] No contexto de cada um dos animais apresentados nas profecias há características em comum: 1. Autoridade para perseguir os filhos de Deus (Daniel 7:21, 25; Apocalipse 12:13-17; 13:5-7; 17:12-14). 2. Profere blasfêmias, arrogâncias e se levanta contra Deus (Daniel 7:25; Apocalipse 13:5-6; 17:3, 13-14). 3. O elemento \"tempo\" está presente (Daniel 7:25; Apocalipse 12:6, 14; 13:5; 17:10, 12). 4. Todos eles serão destruídos por Deus (Daniel 7:27; Apocalipse 17:14)."
+            ]
+          },
+          {
+            "titulo": "2.3 Os dez chifres: dez reis (Apocalipse 17:12-14)",
+            "paragrafos": [
+              "[Normal] \"Os dez chifres que viste são dez reis, os quais ainda não receberam reino, mas recebem autoridade como reis, com a besta, durante uma hora. Têm estes um só pensamento, e oferecem à besta o poder e a autoridade que possuem.\" (Apocalipse 17:12-13) Os chifres representam as divisões do Império Romano, os quais hoje estão espalhados por toda a Europa e também pelo mundo afora. Todos os poderes políticos do mundo se unirão ao papado em sua luta contra Cristo. O \"único pensamento\" é combater o Cordeiro na pessoa dos Seus fiéis seguidores: \"Pelejarão contra o Cordeiro, e o Cordeiro os vencerá, porque é o Senhor dos senhores e o Rei dos reis; e os que estão com ele são chamados, e eleitos, e fiéis.\" (Apocalipse 17:14)"
+            ]
+          }
+        ]
+      },
+      {
+        "titulo": "Parte 3 — A composição da Babilônia moderna",
+        "paragrafos": [],
+        "subsecoes": [
+          {
+            "titulo": "3.1 A tríplice união (Apocalipse 16:13-14, 19)",
+            "paragrafos": [
+              "[Normal] \"E a grande cidade se dividiu em três partes, e caíram as cidades das nações. E lembrou-se Deus da grande Babilônia para dar-lhe o cálice do vinho do furor da sua ira.\" (Apocalipse 16:19) A Babilônia simbólica dos últimos dias estará composta pelo papado, o protestantismo apóstata e o espiritismo moderno (Apocalipse 16:13-14); mas diante da voz de Deus (Apocalipse 16:17; 17:17), esta tríplice união de forças religiosas apóstatas perderá sua ligação, unidade e poder de ação."
+            ]
+          },
+          {
+            "titulo": "3.2 A origem: Babel e a salvação pelas obras (Gênesis 11:1-9)",
+            "paragrafos": [
+              "[Normal] A palavra Babilônia aparece no Novo Testamento, no livro de Apocalipse, precisamente 6 vezes. O número 6 é preeminente no misterioso culto da antiga Babilônia. Esta antiga cidade teve origem quando os homens conscientemente afastaram-se da graça de Deus e procuraram a salvação por suas próprias obras (Gênesis 11:1-9). No Novo Testamento, e especialmente no Apocalipse, essas duas cidades — Jerusalém e Babilônia — representam dois reinos espirituais: Jerusalém, o centro do reino terrestre de Deus; Babilônia, o centro do governo terrestre de Satanás."
+            ]
+          },
+          {
+            "titulo": "3.3 Cada falsa doutrina da antiga Babilônia na moderna",
+            "paragrafos": [
+              "[Normal] Cada falsa doutrina encontrada na antiga Babilônia, com todos os males que as acompanhavam, pode ser encontrada na moderna Babilônia. Os cristãos, a exemplo dos antigos edificadores de Babel, voltaram-se do evangelho eterno para seguirem sua própria diversão, com a teoria da evolução substituindo o relato bíblico da criação. Visto que ela está condenada, Deus está chamando o Seu povo para que se separe dela."
+            ]
+          }
+        ]
+      },
+      {
+        "titulo": "Parte 4 — A queda de Babilônia e o último convite divino",
+        "paragrafos": [],
+        "subsecoes": [
+          {
+            "titulo": "4.1 \"Caiu, caiu a grande Babilônia\" (Apocalipse 14:8; 18:1-5)",
+            "paragrafos": [
+              "[Normal] \"Vi descer do céu outro anjo que tinha grande poder, e a Terra foi iluminada com a sua glória. E clamou fortemente com grande voz, dizendo: Caiu, caiu a grande Babilônia, e se tornou morada de demônios, e coito de todo o espírito imundo, e coito de toda a ave imunda e aborrecível.\" (Apocalipse 18:1-2) Esta passagem indica um tempo em que o anúncio da queda de Babilônia, conforme foi feito pelo segundo anjo do capítulo 14 do Apocalipse, deve repetir-se com a menção adicional das corrupções que têm estado a se introduzir nas várias organizações que constituem Babilônia, desde que esta mensagem foi pela primeira vez proclamada."
+            ]
+          },
+          {
+            "titulo": "4.2 \"Sai dela, povo Meu\" (Apocalipse 18:4; 2 Coríntios 6:17)",
+            "paragrafos": [
+              "[Normal] \"E ouvi outra voz do céu, que dizia: Sai dela, povo Meu, para que não sejas participante dos seus pecados, e para que não incorras nas suas pragas.\" (Apocalipse 18:4) A respeito de Babilônia, no tempo referido nesta profecia, declara-se: \"Os seus pecados se acumularam até ao céu, e Deus Se lembrou das iniqüidades dela.\" (Apocalipse 18:5) Encheu a medida de sua culpa, e a destruição está a ponto de cair sobre ela. Mas Deus ainda tem um povo em Babilônia; e, antes de sobrevirem Seus juízos, esses fiéis devem ser chamados a sair, para que não sejam participantes dos seus pecados e não incorram nas suas pragas. Estes anúncios, unindo-se à mensagem do terceiro anjo, constituem a advertência final a ser dada aos habitantes da Terra. \"Saí do meio deles, e apartai-vos, diz o Senhor... e Eu vos receberei.\" (2 Coríntios 6:17)"
+            ]
+          },
+          {
+            "titulo": "4.3 A destruição de Babilônia (Apocalipse 17:16; 19:17-21; Ezequiel 39:17-23)",
+            "paragrafos": [
+              "[Normal] E a esta altura, demasiado tarde, o povo em geral chegará à conclusão da falácia das imposições da grande Babilônia, da grande meretriz. Eles \"odiarão a meretriz, e a farão devastada e despojada, e lhe comerão as carnes, e a consumirão no fogo\" (Apocalipse 17:16). O povo vê que foi iludido. Enquanto isso, os ímpios se matam uns aos outros e ocorre a cena que os profetas descrevem como sendo \"a ceia do grande Deus\", que consiste no fato de todos os animais e aves de rapina se banquetearem com os cadáveres daqueles que queriam poucos dias antes ver todos os filhos de Deus mortos (Ezequiel 39:17-23; Apocalipse 19:17-21)."
+            ]
+          }
+        ]
+      },
+      {
+        "titulo": "Parte 5 — A Igreja Adventista não é Babilônia",
+        "paragrafos": [],
+        "subsecoes": [
+          {
+            "titulo": "5.1 A resposta à objeção (Apocalipse 14:6-12)",
+            "paragrafos": [
+              "[Normal] Babilônia representa os sistemas religiosos de falsa adoração que se opõem a Deus e à Sua autoridade. A Igreja Adventista do Sétimo Dia não é Babilônia: ela é o movimento que proclama as três mensagens angélicas (Apocalipse 14:6-12), o evangelho eterno, o anúncio de que \"vinda é a hora do Seu juízo\" e o chamado \"Sai dela, povo Meu\" — a mensagem que Deus usa para chamar Seu povo para fora de Babilônia. Quem proclama o chamado de saída não pode ser a própria Babilônia."
+            ]
+          }
+        ]
+      },
+      {
+        "titulo": "Conclusão",
+        "paragrafos": [
+          "[Normal] Apocalipse 17 revela a identidade, a composição e o destino da grande Babilônia: a igreja apostatada unida ao poder civil, montada sobre Roma em suas fases pagã e papal, composta pela tríplice união do papado, do protestantismo apóstata e do espiritismo. Ela pelejará contra o Cordeiro, mas o Cordeiro a vencerá (Apocalipse 17:14). Antes disso, Deus envia o último convite: \"Sai dela, povo Meu, para que não sejas participante dos seus pecados, e para que não incorras nas suas pragas\" (Apocalipse 18:4). Amigo leitor, você quer estar ao lado do Cordeiro naquele dia e ser um dos que hão de vencer porque foram chamados, eleitos e achados fiéis (Apocalipse 17:14)? Siga o Cordeiro agora, estudando profundamente a Palavra de Deus com espírito de oração, para que seu nome possa permanecer no livro da vida."
+        ]
+      }
+    ],
+    "linha_do_tempo": [],
+    "perguntas": [
+      {
+        "pergunta": "O que representa a mulher em Apocalipse 17?",
+        "resposta": "A Bíblia usa o símbolo de uma mulher para representar a igreja: uma virgem representa a igreja de Deus em sua pureza (Jeremias 6:2; 2 Coríntios 11:2), e uma meretriz simboliza igreja apostatada (Jeremias 3:20; Ezequiel 16)."
+      },
+      {
+        "pergunta": "O que significa a prostituição da meretriz com os reis da terra?",
+        "resposta": "Significa a união ilícita entre a igreja e o Estado, pois Cristo disse que Seu reino não é deste mundo (João 18:36; João 15:19; Apocalipse 17:15)."
+      },
+      {
+        "pergunta": "O que representam as cores púrpura e escarlate das vestes da mulher?",
+        "resposta": "Símbolos da realeza que Babilônia se arroga possuir (Mateus 27:28; Apocalipse 18:7); o escarlate também é símbolo do pecado (Isaías 1:18) e do dragão vermelho, Satanás (Apocalipse 12:3)."
+      },
+      {
+        "pergunta": "O que representa a besta escarlate com sete cabeças e dez chifres?",
+        "resposta": "Roma em suas duas fases, pagã e papal; a divisão em dez partes ocorreu em 476 d.C., quando o Império Romano foi invadido e dividido por tribos bárbaras (Apocalipse 17:3; Daniel 7)."
+      },
+      {
+        "pergunta": "Quais as características comuns dos poderes perseguidores das profecias?",
+        "resposta": "Autoridade para perseguir os filhos de Deus (Daniel 7:21, 25; Apocalipse 13:5-7), blasfêmias contra Deus (Apocalipse 13:5-6), o elemento tempo (Daniel 7:25; Apocalipse 12:6, 14; 13:5) e destruição final por Deus (Daniel 7:27; Apocalipse 17:14)."
+      },
+      {
+        "pergunta": "O que são os dez chifres e o que farão?",
+        "resposta": "Dez reis que receberão autoridade com a besta; têm um só pensamento: combater o Cordeiro na pessoa de Seus fiéis seguidores, mas o Cordeiro os vencerá (Apocalipse 17:12-14)."
+      },
+      {
+        "pergunta": "O que é a Babilônia simbólica dos últimos dias?",
+        "resposta": "A união do papado, do protestantismo apóstata e do espiritismo moderno, que se dividirá em três partes diante da voz de Deus (Apocalipse 16:13-14, 19; 17:5, 18)."
+      },
+      {
+        "pergunta": "O que significa \"Caiu, caiu a grande Babilônia\"?",
+        "resposta": "O anúncio da queda de Babilônia, feito pelo segundo anjo de Apocalipse 14:8, se repete com a menção adicional das corrupções introduzidas nas organizações que constituem Babilônia (Apocalipse 18:1-5)."
+      },
+      {
+        "pergunta": "O que Deus pede ao Seu povo que está em Babilônia?",
+        "resposta": "\"Sai dela, povo Meu, para que não sejas participante dos seus pecados, e para que não incorras nas suas pragas\" (Apocalipse 18:4; 2 Coríntios 6:17)."
+      },
+      {
+        "pergunta": "A Igreja Adventista do Sétimo Dia é Babilônia?",
+        "resposta": "Não. Babilônia representa os sistemas religiosos de falsa adoração que se opõem a Deus; a igreja adventista proclama as três mensagens angélicas e o chamado de saída de Babilônia (Apocalipse 14:6-12; 18:4)."
+      }
+    ],
+    "fontes": [
+      "CAT4307 — Ap 17 — A Grande Babilônia (Escola Bíblica Novo Tempo)",
+      "CAT4096 — O Último Convite Divino — A Queda da Babilônia (Escola Bíblica Novo Tempo)",
+      "CAT5031 — O que quer dizer Babilônia (Escola Bíblica Novo Tempo)",
+      "CAT5399 — O que é Babilônia? Não seria a Igreja Adventista do Sétimo Dia? (Escola Bíblica Novo Tempo)",
+      "CAT8065 — Apocalipse 16.19 — Cidade dividida em três partes (Escola Bíblica Novo Tempo)",
+      "Ellen G. White, O Grande Conflito, capítulo 21",
+      "Bíblia Sagrada, versão Almeida Revista e Corrigida"
+    ]
+  },
+  "como-me-preparar-para-a-volta-de-jesus": {
+    "id": "como-me-preparar-para-a-volta-de-jesus",
+    "tema": "Escatologia",
+    "titulo": "Como Me Preparar Para A Volta De Jesus",
+    "subtitulo": "Mateus 24:42",
+    "ordem": 6,
+    "versiculo_memorizar": {
+      "texto": "\"Portanto, vigiai, porque não sabeis em que dia vem o vosso Senhor.\"",
+      "referencia": "Mateus 24:42"
+    },
+    "secoes": [
+      {
+        "titulo": "Introdução",
+        "paragrafos": [
+          "A volta de Jesus será o evento mais glorioso da história da humanidade, e a pergunta mais importante que alguém pode fazer é: como me preparar para ele? A resposta bíblica não é uma lista de rituais, mas um relacionamento: estar em Cristo, comungando com Ele e permanecendo nEle. Este estudo apresenta, com base na Escritura e nos princípios da Igreja Adventista do Sétimo Dia, os passos práticos da preparação: crer, batizar-se, permanecer, perseverar, vigiar e reunir-se com o povo de Deus."
+        ]
+      },
+      {
+        "titulo": "Parte 1 — Estar em Cristo: a nova criatura",
+        "paragrafos": [],
+        "subsecoes": [
+          {
+            "titulo": "1.1 A melhor maneira de preparar-se (2 Coríntios 5:17)",
+            "paragrafos": [
+              "A melhor maneira de preparar-se para este glorioso evento, que será a volta de Jesus, é estando em Cristo, comungando com Ele e permanecendo nEle: \"E, assim, se alguém está em Cristo, é nova criatura; as coisas antigas já passaram; eis que se fizeram novas.\" (2 Coríntios 5:17) A preparação para a volta de Jesus não começa com um esforço humano, mas com uma nova vida recebida de Deus."
+            ]
+          },
+          {
+            "titulo": "1.2 Permanecer na videira (João 15:4-5)",
+            "paragrafos": [
+              "\"Permanecei em mim, e eu permanecerei em vós. Como não pode o ramo produzir fruto de si mesmo, se não permanecer na videira, assim, nem vós o podeis dar, se não permanecerdes em mim.\" (João 15:4) \"Eu sou a videira, vós, os ramos. Quem permanece em Mim, e Eu, nele, esse dá muito fruto; porque sem Mim nada podeis fazer.\" (João 15:5) Por que o ser humano lê tanto e nunca se transforma? Para sermos transformados, precisamos primeiramente nos colocar nas mãos de Deus, pois somos transformados mediante a Sua luz. Sem Cristo, nada podemos fazer."
+            ]
+          }
+        ]
+      },
+      {
+        "titulo": "Parte 2 — Crer e aceitar: o primeiro passo",
+        "paragrafos": [],
+        "subsecoes": [
+          {
+            "titulo": "2.1 Crer em Jesus (João 3:16)",
+            "paragrafos": [
+              "A fim de permanecer em Cristo, primeiramente a pessoa deve crer em Jesus e aceitá-Lo como seu salvador pessoal: \"Porque Deus amou o mundo de tal maneira que deu o seu Filho unigênito, para que todo o que nele crê não pereça, mas tenha a vida eterna.\" (João 3:16) A fé é o fundamento de toda a preparação: sem crer, não há permanência, nem transformação, nem esperança."
+            ]
+          },
+          {
+            "titulo": "2.2 O batismo por imersão (Marcos 16:16; Atos 22:16)",
+            "paragrafos": [
+              "A aceitação de Jesus e Seu sacrifício é evidenciada pelo batismo por imersão: \"Quem crer e for batizado será salvo; quem, porém, não crer será condenado.\" (Marcos 16:16) Se você ainda não deu esse passo, deverá fazê-lo: \"Levanta-te, recebe o batismo e lava os teus pecados, invocando o nome dele.\" (Atos 22:16) O batismo é a porta pública da nova vida em Cristo e o primeiro marco visível da preparação."
+            ]
+          }
+        ]
+      },
+      {
+        "titulo": "Parte 3 — Permanecer e perseverar",
+        "paragrafos": [],
+        "subsecoes": [
+          {
+            "titulo": "3.1 Perseverar em seguir ao Senhor (Hebreus 12:1; 10:38)",
+            "paragrafos": [
+              "É fundamental que perseveremos em seguir ao Senhor: \"Portanto, nós também, visto que estamos rodeados de uma tão grande nuvem de testemunhas, deixemos todo embaraço e o pecado que tenazmente nos assedia e corramos, com perseverança, a carreira que nos está proposta.\" (Hebreus 12:1) Não devemos permitir que os problemas da vida e as provações nos façam esmorecer na fé, pois: \"Todavia, o meu justo viverá pela fé; e: se retroceder, nele não se compraz a minha alma.\" (Hebreus 10:38)"
+            ]
+          },
+          {
+            "titulo": "3.2 Permanecer na Palavra e na oração",
+            "paragrafos": [
+              "Permanecer em Cristo significa perseverar em estudar Sua Palavra e em nossas orações. \"Lâmpada para os meus pés é a tua palavra e luz para os meus caminhos.\" (Salmo 119:105) \"Orai sem cessar.\" (1 Tessalonicenses 5:17) Qualquer coisa que façamos de modo que estejamos investindo em nossa vida espiritual contribuirá para nossa preparação."
+            ]
+          }
+        ]
+      },
+      {
+        "titulo": "Parte 4 — Vigiar",
+        "paragrafos": [],
+        "subsecoes": [
+          {
+            "titulo": "4.1 O mandato de Jesus (Mateus 24:42, 44)",
+            "paragrafos": [
+              "É recomendado pelo próprio Jesus que vigiemos, ou seja, que tenhamos cuidado em aperfeiçoar pelo poder de Deus nosso caráter e estejamos atentos aos sinais da volta de Jesus: \"Portanto, vigiai, porque não sabeis em que dia vem o vosso Senhor.\" (Mateus 24:42) \"Por isso, ficai também vós apercebidos; porque, à hora em que não cuidais, o Filho do Homem virá.\" (Mateus 24:44)"
+            ]
+          },
+          {
+            "titulo": "4.2 A esperança diante dos sinais (Lucas 21:28)",
+            "paragrafos": [
+              "Vigiar não é viver com medo, mas com esperança: \"Ora, ao começarem estas coisas a suceder, exultai e erguei a vossa cabeça; porque a vossa redenção se aproxima.\" (Lucas 21:28) Para o crente preparado, os sinais do tempo do fim não são motivo de terror, mas a confirmação de que a redenção está próxima."
+            ]
+          }
+        ]
+      },
+      {
+        "titulo": "Parte 5 — Ir à igreja",
+        "paragrafos": [],
+        "subsecoes": [
+          {
+            "titulo": "5.1 Não abandonar a congregação (Hebreus 10:25)",
+            "paragrafos": [
+              "A preparação não é individualista: \"não deixando a nossa congregação, como fazem alguns, antes exortando-nos uns aos outros; e tanto mais, quanto vedes que se aproxima aquele dia.\" (Hebreus 10:25) Ir à igreja, reunir-se com o povo de Deus e exortar uns aos outros é parte essencial da preparação, especialmente quanto mais se aproxima o dia do Senhor."
+            ]
+          }
+        ]
+      },
+      {
+        "titulo": "Parte 6 — O resumo da preparação",
+        "paragrafos": [],
+        "subsecoes": [
+          {
+            "titulo": "6.1 Os cinco passos",
+            "paragrafos": [
+              "Em suma, para preparar-nos para a volta de Jesus devemos: 1. Crer nEle e aceitá-Lo como salvador, evidenciando tal disposição através do batismo; 2. Permanecer nEle, perseverando em estudar Sua Palavra e em nossas orações; 3. Perseverar diante dos problemas da vida; 4. Vigiar; 5. Ir à igreja (Hebreus 10:25). Qualquer coisa que façamos de modo que estejamos investindo em nossa vida espiritual contribuirá para nossa preparação."
+            ]
+          }
+        ]
+      },
+      {
+        "titulo": "Conclusão",
+        "paragrafos": [
+          "A preparação para a volta de Jesus é, em essência, um relacionamento vivo com Cristo: crer nEle, batizar-se em Seu nome, permanecer na videira, perseverar na fé, vigiar com esperança e reunir-se com o povo de Deus. Não é um esforço humano de auto-transformação, mas a entrega diária nas mãos de Deus, que nos transforma mediante a Sua luz. E você? Por que não permite que Jesus tome conta da sua vida? Por que não O aceita como seu salvador? Você pode fazer isso agora mesmo e começar sua preparação para a vida eterna hoje. Ele está muito desejoso de dar-lhe a vida eterna! Tome a decisão por Jesus; Ele está esperando por você: \"Eis que estou à porta e bato; se alguém ouvir a minha voz e abrir a porta, entrarei em sua casa e cearei com ele, e ele, comigo.\" (Apocalipse 3:20)"
+        ]
+      }
+    ],
+    "linha_do_tempo": [],
+    "perguntas": [
+      {
+        "pergunta": "Qual a melhor maneira de preparar-se para a volta de Jesus?",
+        "resposta": "Estar em Cristo, comungando com Ele e permanecendo nEle: \"se alguém está em Cristo, é nova criatura\" (2 Coríntios 5:17); \"Permanecei em mim, e eu permanecerei em vós\" (João 15:4)."
+      },
+      {
+        "pergunta": "Qual o primeiro passo da preparação?",
+        "resposta": "Crer em Jesus e aceitá-Lo como salvador pessoal: \"Porque Deus amou o mundo de tal maneira que deu o seu Filho unigênito, para que todo o que nele crê não pereça, mas tenha a vida eterna\" (João 3:16)."
+      },
+      {
+        "pergunta": "Como se evidencia a aceitação de Jesus e Seu sacrifício?",
+        "resposta": "Pelo batismo por imersão: \"Quem crer e for batizado será salvo; quem, porém, não crer será condenado\" (Marcos 16:16; Atos 22:16)."
+      },
+      {
+        "pergunta": "Por que é fundamental perseverar?",
+        "resposta": "Porque não devemos permitir que os problemas da vida e as provações nos façam esmorecer na fé: \"o meu justo viverá pela fé; e: se retroceder, nele não se compraz a minha alma\" (Hebreus 10:38; Hebreus 12:1)."
+      },
+      {
+        "pergunta": "O que significa vigiar?",
+        "resposta": "Ter cuidado em aperfeiçoar pelo poder de Deus nosso caráter e estar atentos aos sinais da volta de Jesus: \"Portanto, vigiai, porque não sabeis em que dia vem o vosso Senhor\" (Mateus 24:42, 44; Lucas 21:28)."
+      },
+      {
+        "pergunta": "Qual o papel da igreja na preparação?",
+        "resposta": "Ir à igreja, não abandonando a nossa congregação: \"não deixando a nossa congregação, como fazem alguns, antes exortando-nos uns aos outros\" (Hebreus 10:25)."
+      },
+      {
+        "pergunta": "Como somos transformados?",
+        "resposta": "Somos transformados mediante a luz de Deus, permanecendo em Cristo: \"Eu sou a videira, vós, os ramos. Quem permanece em Mim, e Eu, nele, esse dá muito fruto; porque sem Mim nada podeis fazer\" (João 15:5)."
+      },
+      {
+        "pergunta": "O que Jesus promete a quem O ouve?",
+        "resposta": "\"Eis que estou à porta e bato; se alguém ouvir a minha voz e abrir a porta, entrarei em sua casa e cearei com ele, e ele, comigo\" (Apocalipse 3:20)."
+      }
+    ],
+    "fontes": [
+      "CAT4388 — Como me preparar para a volta de Jesus (Escola Bíblica Novo Tempo)",
+      "CAT6357 — Como Preparar-se Para A Volta De Jesus (Escola Bíblica Novo Tempo)",
+      "Bíblia Sagrada, versão Almeida Revista e Corrigida"
+    ]
+  },
+  "ec-12-7-o-que-a-biblia-fala-sobre-a-morte": {
+    "id": "ec-12-7-o-que-a-biblia-fala-sobre-a-morte",
+    "tema": "Escatologia",
+    "titulo": "Ec 12.7 — O Que a Bíblia Fala Sobre a Morte",
+    "subtitulo": "Eclesiastes 12:7",
+    "ordem": 7,
+    "versiculo_memorizar": {
+      "texto": "\"E o pó volte à terra, como o era, e o espírito volte a Deus, que o deu.\"",
+      "referencia": "Eclesiastes 12:7"
+    },
+    "secoes": [
+      {
+        "titulo": "Introdução",
+        "paragrafos": [
+          "Eclesiastes 12:7 é um dos textos mais citados para defender a doutrina da imortalidade da alma: \"E o pó volte à terra, como o era, e o espírito volte a Deus, que o deu.\" (Eclesiastes 12:7) A pergunta que o texto levanta é imediata: que espírito é esse que volta a Deus? Seria uma entidade consciente que sobrevive ao corpo? Ou o fôlego de vida que Deus soprou nas narinas do homem? Este estudo examina o texto no contexto de todo o livro de Eclesiastes e do conjunto das Escrituras, applying the principle of interpretation sola scriptura: a Bíblia deve explicar a Bíblia."
+        ]
+      },
+      {
+        "titulo": "Parte 1 — O texto e seu contexto",
+        "paragrafos": [],
+        "subsecoes": [
+          {
+            "titulo": "1.1 O texto de Eclesiastes 12:7 (Eclesiastes 12:1, 7)",
+            "paragrafos": [
+              "O texto está no encerramento do livro, no chamado do pregador: \"Lembra-te do teu Criador nos dias da tua mocidade, antes que... o pó volte à terra, como o era, e o espírito volte a Deus, que o deu.\" (Eclesiastes 12:1, 7) O versículo descreve o que acontece na morte por meio de dois movimentos: o corpo, formado do pó, retorna ao pó; e o espírito, o fôlego de vida, retorna a Deus, que o deu. A direção de cada elemento é a origem de cada elemento: o pó volta ao solo, o fôlego volta ao Doador."
+            ]
+          },
+          {
+            "titulo": "1.2 Eclesiastes 9:5-10 e 12:7 se contradizem? (Eclesiastes 9:5-10; Salmo 13:3; João 11:11-14)",
+            "paragrafos": [
+              "Estaria a Bíblia em contradição no livro de Eclesiastes? Enquanto no capítulo 9, versos 5-10, é dito que os mortos \"não sabem coisa nenhuma\", o capítulo 12 afirma que o \"espírito volta para Deus\". Sendo que Eclesiastes 9:5 indiscutivelmente trata a respeito da morte como sendo um estado de total inconsciência — \"Porque os vivos sabem que hão de morrer, mas os mortos não sabem coisa nenhuma, nem tampouco têm mais recompensa; porque a sua memória fica sepultada\" (Eclesiastes 9:5) —, Eclesiastes 12:7 não irá contradizer esta afirmação que provém da Palavra de Deus. A mesma inconsciência é confirmada por Salmo 13:3, onde Davi ora para não \"adormecer na morte\", e por João 11:11-14, onde Jesus compara a morte a um sono: \"Lázaro, o nosso amigo, dorme, mas vou despertá-lo do sono... Então Jesus lhes disse claramente: Lázaro morreu.\" (João 11:11-14)"
+            ]
+          }
+        ]
+      },
+      {
+        "titulo": "Parte 2 — A fórmula da vida e da morte",
+        "paragrafos": [],
+        "subsecoes": [
+          {
+            "titulo": "2.1 A criação do homem (Gênesis 2:7; Jó 33:4)",
+            "paragrafos": [
+              "Quando o homem foi criado, Deus pegou o pó da terra (corpo sem vida) e o fôlego de vida (sopro de Deus), e então uniu os dois, e o homem passou a se chamar alma vivente: \"E formou o SENHOR Deus o homem do pó da terra, e lhe soprou nas narinas o fôlego de vida; e o homem passou a ser alma vivente.\" (Gênesis 2:7) No livro de Jó lemos o seguinte a respeito deste homem que foi fiel a Deus: \"O espírito de Deus me fez, e o assopro do Todo-Poderoso me deu vida.\" (Jó 33:4)"
+            ]
+          },
+          {
+            "titulo": "2.2 A fórmula invertida na morte (Eclesiastes 12:7; Gênesis 3:19; Eclesiastes 3:20)",
+            "paragrafos": [
+              "Ao morrermos, nossa alma vivente (ser vivo) se separa do fôlego de vida (sopro de Deus), e o que resta? O pó da terra (corpo sem vida), do qual fomos formados. A fórmula é: Pó da Terra + Fôlego de Vida = Alma vivente; e, invertida na morte: Alma Vivente - Fôlego de Vida = Pó da Terra. \"No suor do teu rosto comerás o teu pão, até que tornes à terra, porque dela foste tomado; porque és pó e ao pó tornarás.\" (Gênesis 3:19) \"Todos procedem do pó, e ao pó tornarão.\" (Eclesiastes 3:20)"
+            ]
+          },
+          {
+            "titulo": "2.3 O fôlego de vida no Antigo Testamento (Jó 27:3-4; 34:14-15; Gênesis 7:21-22)",
+            "paragrafos": [
+              "Jó descreve a vida como o fôlego de Deus nas narinas: \"Enquanto em mim estiver a minha vida, e o sopro de Deus nos meus narizes, nunca os meus lábios falarão injustiça, nem a minha língua pronunciará engano.\" (Jó 27:3-4) Enquanto em mim houver alento (fôlego), e o sopro de Deus no meu nariz, estamos vivos. Agora, no momento em que a morte chega, o espírito (fôlego) volta para Deus: \"Se Deus pensasse apenas em si mesmo e para si recolhesse o seu espírito e o seu sopro, toda a carne juntamente expiraria, e o homem voltaria para o pó.\" (Jó 34:14-15) O espírito, ou seja, o fôlego da vida, volta porque veio de Deus e Ele o recolhe para Si.",
+              "O mesmo fôlego está em todos os seres vivos: quando veio o dilúvio, \"expirou toda a carne que se movia sobre a terra, tanto de ave como de gado e feras, e de todo o réptil que se roja sobre a terra, e todo o homem. Tudo o que tinha fôlego de espírito de vida em seus narizes... morreu.\" (Gênesis 7:21-22) Perceba que o texto afirma que o espírito de todos sobe a Deus, e não apenas o dos bons."
+            ]
+          }
+        ]
+      },
+      {
+        "titulo": "Parte 3 — Que espírito volta a Deus?",
+        "paragrafos": [],
+        "subsecoes": [
+          {
+            "titulo": "3.1 O significado de ruach (Eclesiastes 3:21; Gênesis 8:1; Tiago 2:26)",
+            "paragrafos": [
+              "A palavra hebraica traduzida como \"espírito\" em Eclesiastes 12:7 é ruach, que significa alento, fôlego, vento, sopro. Outro exemplo do uso da palavra: \"Deus enviou um vento (ruach) sobre a terra, e as águas começaram a baixar.\" (Gênesis 8:1) No Novo Testamento, a palavra grega correspondente é pneuma, da qual derivamos palavras como pneu: \"Porque assim como o corpo sem espírito é morto, assim também a fé sem obras é morta.\" (Tiago 2:26) Quando falta o espírito, a tradução correta é morte, pois um corpo sem o princípio de vida de Deus está morto.",
+              "Este princípio de vida (o espírito) não pertence ao reino físico, pois volta a Deus (Eclesiastes 12:7); certo é que não se sabe o que acontece com o mesmo, se vai para cima ou para baixo: \"Quem sabe se o espírito dos filhos dos homens sobe para o alto, e se o espírito dos animais desce para baixo da terra?\" (Eclesiastes 3:21) Porém, não nos esqueçamos de que esta energia de Deus, este princípio de vida, faz parte dEle; não é algo pensante."
+            ]
+          },
+          {
+            "titulo": "3.2 O espírito não é uma entidade consciente (Eclesiastes 9:5; 12:7)",
+            "paragrafos": [
+              "A consciência do ser humano passou a existir a partir do momento em que os dois elementos foram unidos; antes, não eram conscientes. Sendo assim, se o texto de Eclesiastes 12:7 estivesse dizendo que um espírito consciente torna a Deus, teríamos de aceitar que inclusive os maus teriam o direito de estar na presença do Senhor no paraíso, o que seria uma heresia. Aqui é tratado a respeito do princípio de vida de Deus (espírito — ruach no hebraico significa alento, fôlego). De modo algum o texto está falando de uma espécie de entidade imaterial capaz de sobreviver fora do corpo.",
+              "O espírito (princípio vital que Deus soprou nas narinas do ser humano) volta para o Criador, quer a pessoa seja santa ou pecadora. O homem simplesmente deixa de ser uma alma ou um ser vivente até o momento em que o doador da vida reunir novamente os dois elements (corpo e espírito = fôlego de vida) no dia da ressurreição (Lucas 14:14). Esse espírito, esse fôlego de vida, não consegue pensar, adorar nem cantar."
+            ]
+          },
+          {
+            "titulo": "3.3 O uso figurado de ruach (Gênesis 4:10; 9:4)",
+            "paragrafos": [
+              "O Comentário Bíblico Adventista (vol. III) observa que o uso figurado de ruach para significar \"vida\" é similar ao uso figurado de \"sangue\": \"a voz dos teus irmãos clama a mim desde a terra\" (Gênesis 4:10); \"Porque é impossível que o sangue de touros e de bodes remova pecados\" (Hebreus 10:4). Assim como o sangue representa a vida derramada, o ruach representa o alento que anima o corpo — ambos são símbolos da vida, não entidades conscientes separadas do ser."
+            ]
+          }
+        ]
+      },
+      {
+        "titulo": "Parte 4 — Homens e animais: o mesmo destino na morte",
+        "paragrafos": [],
+        "subsecoes": [
+          {
+            "titulo": "4.1 Eclesiastes 3:16-21 (Eclesiastes 3:16-22)",
+            "paragrafos": [
+              "\"Vi ainda debaixo do sol que no lugar do juízo reinava a maldade e no lugar da justiça, maldade ainda. Então, disse comigo: Deus julgará o justo e o perverso; pois há tempo para todo propósito e para toda obra... Porque o que sucede aos filhos dos homens, sucede aos animais; o mesmo lhes sucede. Como morre um, assim morre o outro, todos têm o mesmo fôlego de vida, e nenhuma vantagem tem o homem sobre os animais; todos vão para o mesmo lugar; todos procedem do pó, e ao pó tornarão.\" (Eclesiastes 3:16-20) Salomão expõe de modo sábio dois principais assuntos: acerca do juízo e acerca do mesmo destino de homens e animais na morte, antes, claro, da eternidade."
+            ]
+          },
+          {
+            "titulo": "4.2 A diferença está no destino, não no estado intermediário (1 Coríntios 15:51-58)",
+            "paragrafos": [
+              "As consequências físicas da morte são as mesmas para homens e animais. Certo é que Deus remirá o homem do poder da sepultura: \"Eis aqui vos digo um mistério: Nem todos dormiremos, mas todos seremos transformados, num momento, num abrir e fechar de olhos, ao ressoar da última trombeta... porque é necessário que esta corrupção se revista da incorruptibilidade, e que esta mortalidade se revista da imortalidade.\" (1 Coríntios 15:51-53) O que indica que a perspectiva eterna do homem é superior. Este texto indica que a doutrina da \"imortalidade da alma humana\" é contrária às Escrituras. Ninguém quererá afirmar que uma entidade consciente deixa o animal por ocasião da morte; por que tentar, pois, fazer Eclesiastes 12:7 ensinar a doutrina de um espírito consciente a respeito do homem? Todos nós cremos que a Bíblia ensina existir uma vasta diferença entre os homens e os animais — a diferença está no destino, não no estado intermediário."
+            ]
+          }
+        ]
+      },
+      {
+        "titulo": "Parte 5 — A imortalidade da alma e as Escrituras",
+        "paragrafos": [],
+        "subsecoes": [
+          {
+            "titulo": "5.1 Só Deus tem imortalidade (1 Timóteo 6:16)",
+            "paragrafos": [
+              "A imortalidade não é uma possessão natural do ser humano, mas um atributo exclusivo de Deus: \"Ao Rei dos séculos, imortal, invisível, ao único Deus seja honra e glória para todo o sempre.\" (1 Timóteo 6:16) O homem era imortal, condicionalmente — a condição era a obediência à vontade divina (Gênesis 2:16-17). Com o pecado, perdeu o acesso à árvore da vida (Gênesis 3:22-24) e tornou-se mortal."
+            ]
+          },
+          {
+            "titulo": "5.2 A imortalidade é dom na ressurreição (1 Coríntios 15:51-55)",
+            "paragrafos": [
+              "A imortalidade dos salvos é concedida na ressurreição, não na morte: \"Porque é necessário que esta corrupção se revista da incorruptibilidade, e que esta mortalidade se revista da imortalidade. E, quando isto que é corruptível se revestir da incorruptibilidade, e esta mortalidade se revestir da imortalidade, então se cumprirá a palavra que está escrita: Tragada foi a morte na vitória.\" (1 Coríntios 15:53-54) A resposta para a morte é a ressurreição, quando então os justos receberão a imortalidade, em corpos recriados e perfeitos."
+            ]
+          },
+          {
+            "titulo": "5.3 O que irá para o céu: todo o nosso ser (Filipenses 3:20-21; Mateus 8:11)",
+            "paragrafos": [
+              "Além disto, a Bíblia não diz que será apenas nosso espírito (fôlego de vida) o que irá para o céu, mas todo o nosso ser: teremos lá um corpo glorificado — \"transformado o nosso corpo abatido, para ser conforme o seu corpo glorioso\" (Filipenses 3:20-21; ver também 1 Coríntios 15:51-55) —, capaz inclusive de alimentar-se: \"Muitos virão do oriente e do ocidente, e se assentarão à mesa no reino dos céus.\" (Mateus 8:11) Este é o correto ensino bíblico."
+            ]
+          }
+        ]
+      },
+      {
+        "titulo": "Parte 6 — As duas perguntas decisivas",
+        "paragrafos": [],
+        "subsecoes": [
+          {
+            "titulo": "6.1 Por que a ressurreição no último dia? (1 Coríntios 15:23; João 5:28-29)",
+            "paragrafos": [
+              "Duas perguntas nos ajudam a decidir se continuaremos ou não crendo na doutrina da imortalidade da alma. Primeira: você crê na ressurreição? As Escrituras ensinam que ela ocorrerá no último dia, quando Jesus retornar: \"Mas cada um na sua própria ordem: Cristo, as primícias; depois, os que são de Cristo, na Sua vinda.\" (1 Coríntios 15:23) Por que essa ressurreição no último dia, se já recebemos nossa recompensa ou castigo quando morremos? \"Não vos maravilheis disso, porque vem a hora em que todos os que se acham nos sepulcros ouvirão a sua voz e sairão: os que tiverem feito o bem, para a ressurreição da vida; e os que praticaram o mal, para a ressurreição do juízo.\" (João 5:28-29)"
+            ]
+          },
+          {
+            "titulo": "6.2 Para que serve o juízo final? (Apocalipse 20:11-15)",
+            "paragrafos": [
+              "Segunda: se os salvos já estão no céu e os perdidos já estão no inferno, para que serve o juízo final diante do grande trono branco? \"E vi os mortos, grandes e pequenos, que estavam diante de Deus; e abriram-se os livros; e foi aberto outro livro, que é o da vida; e os mortos foram julgados pelas coisas que estavam escritas nos livros, segundo as suas obras.\" (Apocalipse 20:12) E para que serve a ressurreição dos ímpios (João 5:29; Apocalipse 20:5)? A Bíblia é coerente: os mortos dormem, aguardam a ressurreição, e a recompensa ou o castigo só ocorrem depois do juízo."
+            ]
+          }
+        ]
+      },
+      {
+        "titulo": "Conclusão",
+        "paragrafos": [
+          "O que a Bíblia fala sobre a morte em Eclesiastes 12:7? Que o pó volte à terra, de onde veio, e o espírito — o fôlego de vida, o princípio vital que Deus soprou nas narinas do homem — volte a Deus, que o deu. Não é uma entidade consciente que sobrevive ao corpo: a consciência nasceu da união dos dois elementos e cessa quando eles se separam. Eclesiastes 9:5-10 e 12:7 são coerentes: os mortos não sabem coisa nenhuma, e o fôlego retorna ao Doador. Homens e animais têm o mesmo fôlego e o mesmo destino físico na morte; a diferença está no destino eterno, pois Deus remirá o homem do poder da sepultura na ressurreição do último dia. A imortalidade não é possessão do homem, mas dom de Deus concedido na ressurreição, quando a mortalidade se revestir de imortalidade e a morte for tragada na vitória. Até então, os mortos dormem no pó da terra, aguardando a voz do arcanjo e a trombeta de Deus: \"Porquanto o Senhor mesmo, dada a sua palavra de ordem, ouvida a voz do arcanjo, e ressoada a trombeta de Deus, descerá dos céus, e os mortos em Cristo ressuscitarão primeiro.\" (1 Tessalonicenses 4:16) Consolai-vos, pois, uns aos outros com estas palavras."
+        ]
+      }
+    ],
+    "linha_do_tempo": [],
+    "perguntas": [
+      {
+        "pergunta": "O que diz Eclesiastes 12:7?",
+        "resposta": "\"E o pó volte à terra, como o era, e o espírito volte a Deus, que o deu\" (Eclesiastes 12:7): na morte, o corpo retorna ao pó e o fôlego de vida retorna ao Criador."
+      },
+      {
+        "pergunta": "Como o homem foi criado segundo a Bíblia?",
+        "resposta": "Deus formou o homem do pó da terra e soprou em suas narinas o fôlego de vida, e o homem passou a ser alma vivente (Gênesis 2:7); \"O espírito de Deus me fez, e o assopro do Todo-Poderoso me deu vida\" (Jó 33:4)."
+      },
+      {
+        "pergunta": "O que acontece na morte segundo a fórmula bíblica?",
+        "resposta": "Pó da Terra + Fôlego de Vida = Alma vivente; na morte, Alma Vivente - Fôlego de Vida = Pó da Terra (Eclesiastes 12:7; Gênesis 3:19; Eclesiastes 3:20)."
+      },
+      {
+        "pergunta": "Que espírito volta a Deus em Eclesiastes 12:7?",
+        "resposta": "O fôlego de vida (ruach, no hebraico, significa alento, sopro), o princípio vital que veio de Deus e que Ele recolhe para Si (Jó 27:3-4; 34:14-15; Eclesiastes 3:21)."
+      },
+      {
+        "pergunta": "Eclesiastes 12:7 contradiz Eclesiastes 9:5?",
+        "resposta": "Não. Eclesiastes 9:5-10 trata a morte como estado de total inconsciência (Salmo 13:3; João 11:11-14), e Eclesiastes 12:7 não contradiz essa afirmação: fala do princípio de vida, não de uma entidade pensante."
+      },
+      {
+        "pergunta": "O espírito que volta a Deus é consciente?",
+        "resposta": "Não. A consciência do ser humano passou a existir quando os dois elementos foram unidos; se o espírito fosse consciente, inclusive os maus teriam o direito de estar na presença do Senhor no paraíso, o que seria uma heresia (Eclesiastes 9:5; 12:7)."
+      },
+      {
+        "pergunta": "O que os animais têm a ver com Eclesiastes 12:7?",
+        "resposta": "Homens e animais têm o mesmo fôlego de vida e vão para o mesmo lugar na morte (Eclesiastes 3:19-21; Gênesis 7:21-22); a diferença está no destino eterno, pois Deus remirá o homem do poder da sepultura (1 Coríntios 15:51-58)."
+      },
+      {
+        "pergunta": "O que a Bíblia diz sobre a imortalidade da alma?",
+        "resposta": "É contrária às Escrituras; só Deus tem imortalidade por natureza (1 Timóteo 6:16), e a imortalidade dos salvos é dom concedido na ressurreição (1 Coríntios 15:51-55)."
+      },
+      {
+        "pergunta": "O que irá para o céu segundo a Bíblia?",
+        "resposta": "Não apenas o espírito, mas todo o nosso ser, com corpo glorificado (1 Coríntios 15:51-55; Filipenses 3:20-21), capaz inclusive de alimentar-se (Mateus 8:11)."
+      },
+      {
+        "pergunta": "Qual a resposta de Deus para a morte?",
+        "resposta": "A ressurreição no último dia: \"Eu sou a ressurreição e a vida\" (João 11:25); os mortos em Cristo ressuscitarão primeiro (1 Tessalonicenses 4:16-17; João 5:28-29)."
+      }
+    ],
+    "fontes": [
+      "CAT5045 — Ec 12.7 — O que a Bíblia fala sobre a morte (Escola Bíblica Novo Tempo)",
+      "CAT8190 — O \"Espírito Volta para Deus\"? (Escola Bíblica Novo Tempo)",
+      "CAT6653 — Eclesiastes 12:7 — o espírito volta para Deus (Escola Bíblica Novo Tempo)",
+      "CAT6217 — Ecl 3.16-21 — Sono da Alma (Escola Bíblica Novo Tempo; cita o Comentário Bíblico Adventista, vol. III)",
+      "CAT5284 — Alma é imortal ou não (Escola Bíblica Novo Tempo)",
+      "CAT5172 — Espírito e Alma (Escola Bíblica Novo Tempo; comentários de Gleason Archer)",
+      "Bíblia Sagrada, versão Almeida Revista e Corrigida"
+    ]
+  },
   "fim-do-tempo-da-graca": {
     "id": "fim-do-tempo-da-graca",
     "tema": "Escatologia",
@@ -853,6 +1575,755 @@ window.ESTUDOS_JSON = {
       "O Santuário detalhado — Evidências Proféticas (blog adventista)",
       "Ellen G. White, O Grande Conflito, capítulos 22 e 23",
       "Lição da Escola Sabatina, 3º Trimestre de 2001, Casa Publicadora Brasileira",
+      "Bíblia Sagrada, versão Almeida Revista e Corrigida"
+    ]
+  },
+  "porque-deus-nao-destruiu-o-diabo": {
+    "id": "porque-deus-nao-destruiu-o-diabo",
+    "tema": "Escatologia",
+    "titulo": "Porque Deus Não Destrou o Diabo",
+    "subtitulo": "Apocalipse 20:10",
+    "ordem": 8,
+    "versiculo_memorizar": {
+      "texto": "\"E o Diabo, que os enganava, foi lançado no lago de fogo e enxofre, onde estão a besta e o falso profeta; e serão atormentados dia e noite, para todo o sempre.\"",
+      "referencia": "Apocalipse 20:10"
+    },
+    "secoes": [
+      {
+        "titulo": "Introdução",
+        "paragrafos": [
+          "Uma das perguntas mais frequentes sobre o grande conflito é: por que Deus não destruiu o Diabo imediatamente quando ele se rebelou? Se Deus é todo-poderoso, por que permitiu que Satanás continuasse existindo, tentando e destruindo? A resposta bíblica envolve três verdades: a natureza do amor de Deus, que não deseja adoração por temor; o livre-arbítrio concedido a toda criatura; e a paciência divina em deixar que o universo veja os resultados do pecado. Este estudo apresenta, com base na Escritura e nos princípios da Igreja Adventista do Sétimo Dia, a origem de Satanás, sua queda, a razão de sua permanência e seu destino final."
+        ]
+      },
+      {
+        "titulo": "Parte 1 — A origem de Satanás",
+        "paragrafos": [],
+        "subsecoes": [
+          {
+            "titulo": "1.1 Lúcifer: o querubim da guarda (Ezequiel28:14-15)",
+            "paragrafos": [
+              "Três passagens das Escrituras são fundamentais para a compreensão de como Lúcifer, um ser criado por Deus, perfeito, tornou-se Satanás, a fonte e o principal instigador de todo o mal. Em Ezequiel 28 é dito que Lúcifer era perfeito e exercia a função de querubim da guarda antes da sua rebelião: \"Tu eras querubim da guarda ungido, e te estabeleci; permanecias no monte santo de Deus, no brilho das pedras andavas. Perfeito eras nos teus caminhos, desde o dia em que foste criado até que se achou iniqüidade em ti.\" (Ezequiel28:14-15)"
+            ]
+          },
+          {
+            "titulo": "1.2 O orgulho no coração (Isaías14:12-14)",
+            "paragrafos": [
+              "Isaías 14 esclarece que foi através do orgulho que surgiu o mal no coração de Lúcifer: \"Como caíste do céu, ó estrela da manhã, filho da alva! Como foste lançado por terra, tu que debilitavas as nações! Tu dizias no teu coração: Eu subirei ao céu; acima das estrelas de Deus exaltarei o meu trono e no monte da congregação me assentarei, nas extremidades do Norte; subirei acima das mais altas nuvens e serei semelhante ao Altíssimo.\" (Isaías14:12-14) Usando seu livre-arbítrio, Lúcifer ajuntou o orgulho no coração (Ezequiel28:17). Ele cobiçou a posição do próprio Deus. O orgulho moveu Satanás a se rebelar contra seu Criador."
+            ]
+          },
+          {
+            "titulo": "1.3 A terça parte dos anjos (Apocalipse12:3-4, 7-9)",
+            "paragrafos": [
+              "Apocalipse 12 declara que a terça parte das hostes angélicas se uniu a Lúcifer em sua rebelião contra Deus e acabou sendo expulsa do céu: \"Houve peleja no céu. Miguel e os seus anjos pelejaram contra o dragão. Também pelejaram o dragão e seus anjos; todavia, não prevaleceram; nem mais se achou no céu o lugar deles. E foi expulso o grande dragão, a antiga serpente, que se chama diabo e Satanás, o sedutor de todo o mundo, sim, foi atirado para a terra, e, com ele, os seus anjos.\" (Apocalipse12:7-9) Usando sua extraordinária inteligência para o mal e empregando a mentira, Satanás seduziu a terça parte dos anjos (Apocalipse12:3-4)."
+            ]
+          },
+          {
+            "titulo": "1.4 O pecado é um intruso (Efésios6:12;1Pedro5:8)",
+            "paragrafos": [
+              "O surgimento do pecado no coração de Lúcifer é, em realidade, um mistério que não pode ser explicado a contento, pois ele teve início e continua existindo sem qualquer motivo que o justifique. Não sendo originado em Deus, mas em Lúcifer, o pecado é um intruso que continua existindo no mundo: \"não temos que lutar contra a carne e o sangue, mas sim contra os principados, contra as potestades, contra os príncipes do mundo destas trevas, contra as malícias espirituais, nas alturas celestiais.\" (Efésios6:12) \"Sede sóbrios e vigiai; porque o diabo, vosso adversário, anda em derredor, como leão que ruge, buscando a quem possa tragar.\" (1Pedro5:8) A despeito de não possuir o direito legítimo de existência, o pecado persiste — mas a promessa divina é que chegará finalmente o dia em que tanto o pecado, em todas as suas formas, quanto o seu autor serão, definitivamente, erradicados do universo (2Pedro3:7, 10-13;Apocalipse20:10), não permanecendo deles nem raiz nem ramo (Malaquias4:1)."
+            ]
+          }
+        ]
+      },
+      {
+        "titulo": "Parte 2 — A queda de Lúcifer",
+        "paragrafos": [],
+        "subsecoes": [
+          {
+            "titulo": "2.1 O primeiro em honra depois do Filho de Deus",
+            "paragrafos": [
+              "Lúcifer, no céu, antes de sua rebelião, foi um elevado e exaltado anjo, o primeiro em honra depois do amado Filho de Deus. Seu semblante, como o dos outros anjos, era suave e exprimia felicidade. A testa era alta e larga, demonstrando grande inteligência. Sua forma era perfeita, o porte nobre e majestoso. Uma luz especial resplandecia de seu semblante e brilhava ao seu redor, mais viva do que ao redor dos outros anjos; todavia, Cristo, o amado Filho de Deus, tinha preeminência sobre todo o exército angelical. Ele era um com o Pai, antes que os anjos focem criados. Lúcifer invejou a Cristo, e gradualmente pretendeu o comando que pertencia unicamente a Cristo."
+            ]
+          },
+          {
+            "titulo": "2.2 A honra conferida ao Filho",
+            "paragrafos": [
+              "O grande Criador convocou os exércitos celestiais para, na presença de todos os anjos, conferir honra especial a Seu Filho. O Pai então fez saber que, por Sua própria decisão, Cristo, Seu Filho, devia ser considerado igual a Ele, assim que em qualquer lugar que estivesse presente Seu Filho, isto valeria pela Sua própria presença. A palavra do Filho devia ser obedecida tão prontamente como à palavra do Pai. Seu Filho foi por Ele investido com autoridade para comandar os exércitos celestiais. Lúcifer estava invejoso e enciumado de Jesus Cristo. Todavia, quando todos os anjos se curvaram ante Jesus reconhecendo Sua supremacia e alta autoridade e direito de governar, ele curvou-se com eles, mas seu coração estava cheio de inveja e rancor."
+            ]
+          },
+          {
+            "titulo": "2.3 A rebelião e a guerra no céu",
+            "paragrafos": [
+              "Lúcifer deixou a imediata presença do Pai, insatisfeito e cheio de inveja contra Jesus Cristo. Dissimulando seu real propósito, convocou os exércitos angelicais e introduziu seu assunto, que era ele mesmo. Declarou que os tinha reunido para assegurar-lhes que ele não mais se submeteria à invasão dos direitos seus e deles; que nunca mais ele se prostraria ante Cristo. Houve controvérsia entre os anjos. Os anjos que eram leais e sinceros procuraram reconciliar este poderoso rebelde à vontade de seu Criador. Muitos dos simpatizantes de Lúcifer ouviram o conselho dos anjos leais, se arrependeram de sua insatisfação, e de novo receberam a confiança do Pai e Seu amado Filho. Mas o grande rebelde declarou que estava familiarizado com a Lei de Deus e que se submetesse a uma obediência servil seria despojado de sua honra; que ele mesmo e os que com ele se uniram tinham ido muito longe para voltarem.",
+              "Então houve guerra no céu. O Filho de Deus, o Príncipe do céu, e Seus anjos leais empenharam-se num conflito com o grande rebelde e com aqueles que se uniram a ele. O Filho de Deus e os anjos verdadeiros e leais prevaleceram; e Satanás e seus simpatizantes foram expulsos do céu. Todo o exército celestial reconheceu e adorou o Deus da justiça. Nenhuma mácula de rebelião foi deixada no céu. Tudo voltara a ser paz e harmonia como antes."
+            ]
+          }
+        ]
+      },
+      {
+        "titulo": "Parte 3 — Por que Deus não o destruiu imediatamente",
+        "paragrafos": [],
+        "subsecoes": [
+          {
+            "titulo": "3.1 Adoração por amor, não por temor",
+            "paragrafos": [
+              "Se você fosse um anjo de Deus e estivesse lá no céu quando Lúcifer se rebelou, o que pensaria se Deus resolvesse, imediatamente, sentenciá-lo à morte? Você passaria a adorar a Deus por temor, por medo, e não por amor. Esse tipo de adoração nunca satisfez a Deus. Deus é sábio e paciente e deixou que o diabo semeasse a sua semente e colhesse os resultados. Evidentemente, Satanás e seus anjos recusaram o oferecimento do perdão que Deus lhes deve ter feito e persistiram no erro. Dessa maneira, eles se confirmaram no pecado; foram além dos limites da misericórdia de Deus, e tornaram-se irreconciliáveis inimigos do seu Criador e do bem. Hoje, todo o universo está convicto da maldade de Satanás."
+            ]
+          },
+          {
+            "titulo": "3.2 O livre-arbítrio e o preço pago (Gênesis2:16-17;João3:16)",
+            "paragrafos": [
+              "Na luta entre o bem e o mal, entre o Diabo e Cristo, Deus permitiu que o homem lhe desse as costas, isto é, pecasse. Essa ação do homem se deu numa obediência ao Diabo. Mas por que Deus permitiu isso? É porque se o homem só tivesse uma alternativa (obedecer a Deus), não teria o livre-arbítrio, que é a liberdade de escolha: \"E o SENHOR Deus lhe deu esta ordem: De toda árvore do jardim comerás livremente, mas da árvore do conhecimento do bem e do mal não comerás; porque, no dia em que dela comeres, certamente morrerás.\" (Gênesis2:16-17) Dando liberdade ao homem, Deus estava preparado para arcar com as consequências, para pagar o preço. Para que o homem não morresse eternamente, Jesus Cristo se ofereceu para morrer (a morte eterna) no seu lugar. Isso Ele fez por amor a nós: \"Porque Deus amou o mundo de tal maneira que deu o seu Filho unigênito, para que todo o que nele crê não pereça, mas tenha a vida eterna.\" (João3:16)"
+            ]
+          }
+        ]
+      },
+      {
+        "titulo": "Parte 4 — Por que Satanás permanece na terra",
+        "paragrafos": [],
+        "subsecoes": [
+          {
+            "titulo": "4.1 O príncipe deste mundo (João16:11;Gênesis3:1-6)",
+            "paragrafos": [
+              "A Bíblia não fornece todas as informações a respeito deste assunto, pois tal conhecimento não é essencial para a nossa salvação. Satanás veio para a terra porque iria tentar o ser humano; permaneceu neste planeta porque o ser humano perdeu para ele o direito de propriedade da terra, pois Satanás venceu-o no Éden induzindo-o a comer da árvore que Deus tinha proibido (eles pecaram, transgrediram a lei de Deus), tornando-se assim o príncipe deste mundo: \"e o príncipe deste mundo está julgado.\" (João16:11) Deus não o expulsou porque o homem, ao pecar, deu-lhe permissão para morar aqui e influenciar."
+            ]
+          },
+          {
+            "titulo": "4.2 O poder de Cristo é superior (Tiago4:7;1Pedro5:8-9)",
+            "paragrafos": [
+              "O Diabo existe e tem poder até para tomar posse das pessoas. Porém é necessário entender que o poder de Cristo é superior e que os espíritos imundos tremem diante de Jesus. Só existe um modo de ser vitorioso: é viver uma vida de comunhão permanente com Jesus. Com o Diabo não pode existir diálogo. Devemos simplesmente colocar tudo nas mãos de Deus e pedir que Ele expulse o inimigo das nossas vidas: \"Sujeitai-vos, portanto, a Deus; resisti, porém, ao diabo, e ele fugirá de vós.\" (Tiago4:7) \"Resisti-lhe, firmes na fé, sabendo que as mesmas aflições se cumprem entre os vossos irmãos no mundo.\" (1Pedro5:9)"
+            ]
+          }
+        ]
+      },
+      {
+        "titulo": "Parte 5 — Satanás não é eterno",
+        "paragrafos": [],
+        "subsecoes": [
+          {
+            "titulo": "5.1 A imortalidade condicional (Gênesis2:16-17;Malaquias4:1-3)",
+            "paragrafos": [
+              "Embora Satanás e todos os ímpios recebam uma punição proporcional aos seus atos (Apocalipse20:10), a Bíblia afirma que um dia estes serão totalmente aniquilados: \"Os ímpios, no entanto, perecerão, e os inimigos do SENHOR serão como o viço das pastagens; serão aniquilados e se desfarão em fumaça.\" (Salmo37:20) \"Porque eis que o dia vem, que arderá como um forno; e todos os soberbos, e todos os que cometem impiedade, serão como palha... E pisareis os perversos, porque se farão cinzas debaixo das plantas de vossos pés, naquele dia que prepararei, diz o SENHOR dos Exércitos.\" (Malaquias4:1-3) \"E o Deus da paz, em breve, esmagará debaixo dos vossos pés a Satanás.\" (Romanos16:20)",
+              "Este fato indica que, assim como ocorreu com o ser humano no princípio da criação (Gênesis2:16-17), Satanás e outros anjos foram dotados de uma imortalidade condicional, ou seja, teriam que estar em harmonia com a vontade de Deus (obedecer) para que pudessem desfrutar da imortalidade. Só Deus não pode deixar de existir; mas, por Sua graça, sustenta todos os níveis de vida. Hoje Satanás permanece vivo porque Deus o mantém; sua natureza espiritual proporciona-lhe capacidade de viver por milênios; mas isto depende única e exclusivamente de Deus o permitir e de sua obediência ao seu Criador. Sendo que ele decidiu rebelar-se contra toda espécie de governo de Deus, perdeu o direito da imortalidade. Logo será destruído, por sua própria escolha."
+            ]
+          }
+        ]
+      },
+      {
+        "titulo": "Parte 6 — O destino final de Satanás",
+        "paragrafos": [],
+        "subsecoes": [
+          {
+            "titulo": "6.1 O lago de fogo (Apocalipse19:20;20:10, 14)",
+            "paragrafos": [
+              "Não precisamos ter medo de nada. O inimigo já está vencido, seus dias estão contados. Veja o que João viu em visão, a respeito do que está para acontecer: \"Mas a besta foi aprisionada, e com ela o falso profeta... Os dois foram lançados vivos dentro do lago de fogo que arde com enxofre.\" (Apocalipse19:20) \"E o Diabo, que os enganava, foi lançado no lago de fogo e enxofre, onde estão a besta e o falso profeta; e serão atormentados dia e noite, para todo o sempre.\" (Apocalipse20:10) \"Então, a morte e o inferno foram lançados para dentro do lago de fogo. Esta é a segunda morte.\" (Apocalipse20:14) Ele não terá mais o direito de atormentar a nossa vida!"
+            ]
+          }
+        ]
+      },
+      {
+        "titulo": "Conclusão",
+        "paragrafos": [
+          "Por que Deus não destruiu o Diabo? Porque o amor não governa pelo temor: uma execução imediata teria ensinado ao universo a adorar a Deus por medo, e não por amor. Deus é sábio e paciente: deixou que o diabo semeasse a sua semente e colhesse os resultados, até que todo o universo estivesse convicto da maldade de Satanás e da justiça do governo de Deus. O pecado não nasceu em Deus, mas em Lúcifer — um ser perfeito que, pelo orgulho, cobiçou o lugar do Altíssimo e arrastou consigo a terça parte dos anjos. Deus concedeu liberdade de escolha a toda criatura e estava preparado para arcar com as consequências: Cristo pagou o preço com a Sua própria vida. Satanás não é eterno: tinha imortalidade condicional e, rebelando-se, perdeu o direito dela. Seu destino está selado: o lago de fogo, a segunda morte, a erradicação final do pecado e de seu autor. Deus seja louvado pelos séculos sem fim da eternidade, porque nos amou e derramou Seu sangue para o perdão dos nossos pecados. Esta é a grande oferta gratuita do evangelho. Aceite-a e seja feliz para sempre! Seja fiel até à morte, e você vai receber a coroa da vida eterna: \"E Deus limpará de seus olhos toda lágrima; e não haverá mais morte, nem pranto, nem clamor, nem dor; porque já as primeiras coisas são passadas.\" (Apocalipse21:4)"
+        ]
+      }
+    ],
+    "linha_do_tempo": [],
+    "perguntas": [
+      {
+        "pergunta": "Por que Deus não destruiu o Diabo imediatamente quando ele se rebelou?",
+        "resposta": "Porque os anjos passariam a adorar a Deus por temor, e não por amor; Deus é sábio e paciente e deixou que o diabo semeasse a sua semente e colhesse os resultados (Ezequiel28:17;Isaías14:13-14)."
+      },
+      {
+        "pergunta": "Qual a origem de Satanás?",
+        "resposta": "Lúcifer, um ser criado por Deus, perfeito, que exercia a função de querubim da guarda, tornou-se Satanás pelo orgulho (Ezequiel28:14-15;Isaías14:12-14)."
+      },
+      {
+        "pergunta": "Quem se uniu a Lúcifer em sua rebelião?",
+        "resposta": "A terça parte das hostes angélicas, que acabou sendo expulsa do céu com ele (Apocalipse12:3-4, 7-9)."
+      },
+      {
+        "pergunta": "O pecado teve origem em Deus?",
+        "resposta": "Não. O pecado é um intruso que surgiu em Lúcifer, sem qualquer motivo que o justifique, e não possui o direito legítimo de existência (Efésios6:12;1Pedro5:8)."
+      },
+      {
+        "pergunta": "Por que Deus permitiu que o homem pecasse?",
+        "resposta": "Porque se o homem só tivesse uma alternativa, não teria o livre-arbítrio; Deus estava preparado para arcar com as consequências e pagou o preço em Cristo (Gênesis2:16-17;João3:16)."
+      },
+      {
+        "pergunta": "Satanás é eterno?",
+        "resposta": "Não. Ele tinha imortalidade condicional; rebelando-se, perdeu o direito da imortalidade e será destruído por sua própria escolha (Malaquias4:1-3;Romanos16:20;Apocalipse20:10)."
+      },
+      {
+        "pergunta": "Por que Deus expulsou Satanás para a terra?",
+        "resposta": "Porque o homem, ao pecar, deu-lhe permissão para morar aqui; Satanás venceu o homem no Éden e tornou-se o príncipe deste mundo (João16:11;Gênesis2:16-17)."
+      },
+      {
+        "pergunta": "Quando Satanás será destruído?",
+        "resposta": "No fim dos mil anos, será lançado no lago de fogo, onde serão erradicados o pecado e seu autor (Apocalipse19:20;20:10, 14;Malaquias4:1)."
+      },
+      {
+        "pergunta": "Como ser vitorioso contra o Diabo?",
+        "resposta": "Vivendo uma vida de comunhão permanente com Jesus; com o Diabo não pode existir diálogo; resisti ao diabo, e ele fugirá de vós (Tiago4:7;1Pedro5:8-9)."
+      }
+    ],
+    "fontes": [
+      "CAT5065 — Por que Deus não destruiu o Diabo? (Escola Bíblica Novo Tempo)",
+      "CAT8746 — Qual é a origem de Satanás? por Alberto R. Timm, PhD (Escola Bíblica Novo Tempo)",
+      "CAT5240 — A Queda de Lúcifer (Escola Bíblica Novo Tempo)",
+      "CAT6607 — Satanás é eterno? (Escola Bíblica Novo Tempo)",
+      "CAT6171 — Por que Deus expulsou satanás para a terra? (Escola Bíblica Novo Tempo)",
+      "Ellen G. White, Patriarcas e Profetas, capítulo 1",
+      "Bíblia Sagrada, versão Almeida Revista e Corrigida"
+    ]
+  },
+  "porque-existe-o-sofrimento": {
+    "id": "porque-existe-o-sofrimento",
+    "tema": "Grande Conflito",
+    "titulo": "Porque Existe o Sofrimento",
+    "subtitulo": "Apocalipse 21:4",
+    "ordem": 11,
+    "versiculo_memorizar": {
+      "texto": "\"E Deus limpará de seus olhos toda lágrima; e não haverá mais morte, nem pranto, nem clamor, nem dor; porque já as primeiras coisas são passadas.\"",
+      "referencia": "Apocalipse 21:4"
+    },
+    "secoes": [
+      {
+        "titulo": "Introdução",
+        "paragrafos": [
+          "Para muitas pessoas, a origem do pecado e a razão de sua existência são causa de grande perplexidade. Veem a obra do mal, com seus terríveis resultados de miséria e desolação, e põem em dúvida como tudo isso possa existir sob o reinado de um Ser que é infinito em sabedoria, poder e amor. Eis um mistério, para o qual não encontram explicação. E, em sua incerteza e dúvida, tornam-se cegos para verdades plenamente reveladas na Palavra de Deus, e essenciais à salvação. Este estudo apresenta, com base na Escritura e nos princípios da Igreja Adventista do Sétimo Dia, o que a Bíblia revela sobre a origem do sofrimento, o caráter de Deus diante do mal e a promessa de seu fim."
+        ]
+      },
+      {
+        "titulo": "Parte 1 — O mistério do mal",
+        "paragrafos": [],
+        "subsecoes": [
+          {
+            "titulo": "1.1 Esquadrinhar o que Deus não revelou (Deuteronômio 29:29)",
+            "paragrafos": [
+              "Existem os que, em suas pesquisas concernentes à existência do pecado, se esforçam por esquadrinhar aquilo que Deus nunca revelou; por isso não encontram solução para suas dificuldades; e os que mostram tal disposição para a dúvida e astúcia, aproveitam-se disto como desculpa para rejeitar as palavras das Sagradas Escrituras. Outros, entretanto, deixam de ter uma compreensão satisfatória a respeito do grande problema do mal, devido a terem a tradição e a interpretação errônea obscurecido o ensino da Bíblia relativo ao caráter de Deus, à natureza de Seu governo, e aos princípios que regem Seu trato com o pecado. O princípio bíblico é claro: \"As coisas encobertas pertencem ao SENHOR, nosso Deus, porém as reveladas nos pertencem, a nós e a nossos filhos, para sempre, para que cumpramos todas as palavras desta lei.\" (Deuteronômio 29:29)"
+            ]
+          },
+          {
+            "titulo": "1.2 Deus não é responsável pelo pecado (Deuteronômio 32:4; Salmo 145:17)",
+            "paragrafos": [
+              "É impossível explicar a origem do pecado de maneira a dar a razão de sua existência. Todavia, bastante se pode compreender em relação à origem, bem como à disposição final do pecado, para que se faça amplamente manifesta a justiça e benevolência de Deus em todo o Seu trato com o mal. Nada é mais claramente ensinado nas Escrituras do que o fato de não haver sido Deus de maneira alguma responsável pela manifestação do pecado; e de não ter havido qualquer retirada arbitrária da graça divina, nem deficiência no governo divino, para que dessem motivos ao irrompimento da rebelião: \"Ele é a Rocha; a sua obra é perfeita, porque todos os seus caminhos são justiça; Deus de fidelidade e sem iniqüidade, justo e reto é.\" (Deuteronômio 32:4) \"Justo é o Senhor em todos os seus caminhos, e benevolente em todas as suas obras.\" (Salmo 145:17)"
+            ]
+          }
+        ]
+      },
+      {
+        "titulo": "Parte 2 — A origem do pecado",
+        "paragrafos": [],
+        "subsecoes": [
+          {
+            "titulo": "2.1 No coração de Lúcifer (Ezequiel 28:17; Isaías 14:13-14)",
+            "paragrafos": [
+              "O pecado surgiu no coração de Lúcifer, um ser criado perfeito, que exercia a função de querubim da guarda: \"O teu coração se elevou por causa da tua formosura, corrompeste a tua sabedoria por causa do teu resplendor.\" (Ezequiel 28:17) Usando seu livre-arbítrio, Lúcifer ajuntou o orgulho no coração e cobiçou a posição do próprio Deus: \"Tu dizias no teu coração: Eu subirei ao céu; acima das estrelas de Deus exaltarei o meu trono... subirei acima das mais altas nuvens e serei semelhante ao Altíssimo.\" (Isaías 14:13-14) O surgimento do pecado no coração de Lúcifer é, em realidade, um mistério que não pode ser explicado a contento, pois ele teve início e continua existindo sem qualquer motivo que o justifique. Não sendo originado em Deus, mas em Lúcifer, o pecado é um intruso que não possui o direito legítimo de existência."
+            ]
+          },
+          {
+            "titulo": "2.2 O pecado entrou no mundo pelo homem (Romanos 5:12; Gênesis 3:17-19)",
+            "paragrafos": [
+              "Do céu, o pecado chegou à Terra pela desobediência do homem: \"Por um homem entrou o pecado no mundo, e pelo pecado a morte, assim também a morte passou a todos os homens, porquanto todos pecaram.\" (Romanos 5:12) Com a queda, a maldição e o sofrimento entraram no mundo: \"maldita é a terra por tua causa... e comerás o teu pão com o suor do teu rosto, até que tornes à terra, porque dela foste tomado; porque és pó e ao pó tornarás.\" (Gênesis 3:17-19) Todo o sofrimento que a humanidade conhece — doença, dor, morte, luto — é consequência da transgressão que separou o homem do Criador."
+            ]
+          }
+        ]
+      },
+      {
+        "titulo": "Parte 3 — O livre-arbítrio e a escolha do homem",
+        "paragrafos": [],
+        "subsecoes": [
+          {
+            "titulo": "3.1 Por que Deus permitiu (Gênesis 2:16-17; Josué 24:15)",
+            "paragrafos": [
+              "Por que Deus permitiu que o homem pecasse? É porque se o homem só tivesse uma alternativa (obedecer a Deus), não teria o livre-arbítrio, que é a liberdade de escolha: \"E o SENHOR Deus lhe deu esta ordem: De toda árvore do jardim comerás livremente, mas da árvore do conhecimento do bem e do mal não comerás; porque, no dia em que dela comeres, certamente morrerás.\" (Gênesis 2:16-17) A liberdade de escolher é o fundamento do amor verdadeiro: adoração forçada não é adoração. \"E, se vos parece mal servir ao SENHOR, escolhei hoje a quem sirvais.\" (Josué 24:15) Dando liberdade ao homem, Deus estava preparado para arcar com as consequências, para pagar o preço: para que o homem não morresse eternamente, Jesus Cristo se ofereceu para morrer em nosso lugar."
+            ]
+          },
+          {
+            "titulo": "3.2 Deus apenas deixou as coisas correrem (Lamentações 3:33)",
+            "paragrafos": [
+              "Deus apenas deixou as coisas correrem seu percurso, pois foi isso que o ser humano escolheu. O Senhor, por ser sábio e misericordioso, precisa deixar as coisas correrem em seu percurso normal, pois foi isso que Adão e Eva escolheram. Mas isso não significa que Deus concorde com o sofrimento: \"Porque não aflige voluntariamente, nem aflige aos filhos dos homens.\" (Lamentações 3:33) Deus não deseja o sofrimento de ninguém: \"Digo-vos que não há prazer na morte do ímpio, mas que o ímpio se converta do seu caminho e viva.\" (Ezequiel 33:11)"
+            ]
+          }
+        ]
+      },
+      {
+        "titulo": "Parte 4 — Deus e o sofrimento",
+        "paragrafos": [],
+        "subsecoes": [
+          {
+            "titulo": "4.1 A promessa do Salmo 91:15 e a realidade (Salmo 91:15; 23:4)",
+            "paragrafos": [
+              "Como conciliar a promessa do Salmo 91:15 com a nossa realidade hoje, que é de sofrimento? \"Ele me invocará, e eu lhe responderei; na sua angústia eu estarei com ele, livrá-lo-ei e o glorificarei.\" (Salmo 91:15) A angústia existe como consequência do pecado. Sendo que o homem fez sua escolha, Deus não pode obrigá-lo a obedecer-Lhe. Como Seu amor por nós é infinito (João 3:16), Ele nos livra da angústia. Por enquanto, Deus tem de deixar as coisas acontecerem conforme a escolha feita pelo ser humano. A Palavra de Deus não promete que nunca iremos sofrer; mas a promessa bíblica é que, mesmo em meio ao sofrimento, Deus está conosco aliviando nossas angústias: \"Ainda que eu ande pelo vale da sombra da morte, não temerei mal algum, porque tu estás comigo; a tua vara e o teu cajado me consolam.\" (Salmo 23:4)"
+            ]
+          },
+          {
+            "titulo": "4.2 O sofrimento à luz da eternidade (Romanos 8:18; 2 Coríntios 4:17; 1 Pedro 5:10)",
+            "paragrafos": [
+              "Para o crente, o sofrimento presente tem um horizonte: \"Para mim tenho por certo que os sofrimentos do presente tempo não são dignos de ser comparados com a glória que em nós há de ser revelada.\" (Romanos 8:18) \"Porque a nossa leve e momentânea tribulação produz para nós um peso eterno de glória muito excelente.\" (2 Coríntios 4:17) \"E o Deus de toda a graça, que em Cristo vos chamou à sua eterna glória, depois de haverdes sofrido um pouco, ele mesmo vos aperfeiçoe, confirme, fortaleça e fundamente.\" (1 Pedro 5:10)"
+            ]
+          }
+        ]
+      },
+      {
+        "titulo": "Parte 5 — Cristo e o sofrimento",
+        "paragrafos": [],
+        "subsecoes": [
+          {
+            "titulo": "5.1 O Salvador cheio de sofrimento (Isaías 53:3-5; Mateus 8:17)",
+            "paragrafos": [
+              "Satanás contestava tudo a que o Filho do homem visava, empregando os homens como seus agentes a fim de encher de sofrimento e tristeza a vida do Salvador. Mas Cristo transformou o sofrimento no instrumento da redenção: \"Era desprezado, e rejeitado dos homens; homem de dores, e experimentado nos trabalhos... Verdadeiramente, ele tomou sobre si as nossas enfermidades, e as nossas dores levou sobre si... e pelas suas pisaduras fomos sarados.\" (Isaías 53:3-5) \"Para que se cumprisse o que foi dito pelo profeta Isaías, que diz: Ele mesmo tomou as nossas enfermidades, e levou as nossas doenças.\" (Mateus 8:17) Quem pergunta por que existe o sofrimento encontra, na cruz, a resposta de um Deus que não ficou distante da dor, mas a carregou em Si mesmo."
+            ]
+          }
+        ]
+      },
+      {
+        "titulo": "Parte 6 — O fim do sofrimento",
+        "paragrafos": [],
+        "subsecoes": [
+          {
+            "titulo": "6.1 A promessa (Apocalipse 21:4; Romanos 16:20; Malaquias 4:1)",
+            "paragrafos": [
+              "A promessa de Deus é que um dia Ele irá terminar com o sofrimento e com o seu causador: Satanás. \"E Deus limpará de seus olhos toda lágrima; e não haverá mais morte, nem pranto, nem clamor, nem dor; porque já as primeiras coisas são passadas.\" (Apocalipse 21:4) \"E o Deus da paz, em breve, esmagará debaixo dos vossos pés a Satanás.\" (Romanos 16:20) \"Porque eis que o dia vem, que arderá como um forno; e todos os soberbos, e todos os que cometem impiedade, serão como palha... ao qual não deixará nem raiz nem ramo.\" (Malaquias 4:1) E um dia, muito em breve, estaremos para sempre com Deus e nunca mais iremos sofrer."
+            ]
+          },
+          {
+            "titulo": "6.2 Na execução final do juízo (Romanos 3:19; Apocalipse 20:10)",
+            "paragrafos": [
+              "Na execução final do juízo ver-se-á que nenhuma causa existe para o pecado. Quando o Juiz de toda a Terra perguntar a Satanás: \"Por que te rebelaste contra Mim, e Me roubaste os súditos de Meu reino?\", o originador do mal não poderá apresentar resposta alguma. Toda boca se fechará e todas as hostes rebeldes estarão mudas: \"Ora, sabemos que tudo o que a lei diz, aos que estão debaixo da lei o diz, para que toda a boca esteja cerrada e todo o mundo seja condenável diante de Deus.\" (Romanos 3:19) \"E o Diabo, que os enganava, foi lançado no lago de fogo e enxofre... e serão atormentados dia e noite, para todo o sempre.\" (Apocalipse 20:10) O universo inteiro estará convicto da justiça e benevolência de Deus em todo o Seu trato com o mal."
+            ]
+          }
+        ]
+      },
+      {
+        "titulo": "Conclusão",
+        "paragrafos": [
+          "Por que existe o sofrimento? Porque o pecado é um intruso: nasceu no coração de Lúcifer pelo orgulho, chegou à Terra pela desobediência do homem e espalhou miséria e desolação por todo o mundo. Deus não é responsável pelo pecado, nem retirou Sua graça, nem falhou em Seu governo; Ele concedeu liberdade de escolha e estava preparado para pagar o preço — e o pagou na cruz, onde o próprio Filho carregou as nossas dores. Deus não concorda com o sofrimento: não aflige voluntariamente os filhos dos homens, e, mesmo em meio à angústia, está conosco aliviando-a. A Palavra não promete que nunca sofreremos, mas promete que Deus estará conosco no sofrimento — e que um dia, muito em breve, o sofrimento e seu causador serão erradicados para sempre. Confie nesta promessa e verá que sua vida será mais feliz ao lado de Jesus. Siga o Senhor: \"E o que está assentado sobre o trono disse: Eis que faço novas todas as coisas.\" (Apocalipse 21:5)"
+        ]
+      }
+    ],
+    "linha_do_tempo": [],
+    "perguntas": [
+      {
+        "pergunta": "Por que existe o sofrimento?",
+        "resposta": "O sofrimento é consequência do pecado, que entrou no mundo pela desobediência do homem: \"Por um homem entrou o pecado no mundo, e pelo pecado a morte\" (Romanos 5:12; Gênesis 3:17-19)."
+      },
+      {
+        "pergunta": "Deus é responsável pelo pecado?",
+        "resposta": "Não. Nada é mais claramente ensinado nas Escrituras do que o fato de não haver sido Deus de maneira alguma responsável pela manifestação do pecado (Deuteronômio 32:4; Salmo 145:17)."
+      },
+      {
+        "pergunta": "É possível explicar a origem do pecado?",
+        "resposta": "É impossível explicar a origem do pecado de maneira a dar a razão de sua existência; mas bastante se pode compreender para que se faça manifesta a justiça e benevolência de Deus (Deuteronômio 29:29)."
+      },
+      {
+        "pergunta": "Como o pecado surgiu?",
+        "resposta": "No coração de Lúcifer, pelo orgulho e pela cobiça da posição de Deus (Ezequiel 28:17; Isaías 14:13-14)."
+      },
+      {
+        "pergunta": "Por que Deus permitiu que o homem pecasse?",
+        "resposta": "Porque o livre-arbítrio é a liberdade de escolha; se o homem só tivesse uma alternativa, não teria liberdade (Gênesis 2:16-17; Josué 24:15)."
+      },
+      {
+        "pergunta": "Deus concorda com o sofrimento?",
+        "resposta": "Não. Deus não aflige voluntariamente os filhos dos homens; Ele apenas deixou as coisas correrem seu percurso, pois foi isso que o ser humano escolheu (Lamentações 3:33)."
+      },
+      {
+        "pergunta": "Como conciliar a promessa do Salmo 91:15 com a realidade do sofrimento?",
+        "resposta": "A angústia existe como consequência do pecado; a promessa bíblica é que, mesmo em meio ao sofrimento, Deus está conosco aliviando nossas angústias (Salmo 91:15; 23:4)."
+      },
+      {
+        "pergunta": "O que Cristo fez com o sofrimento?",
+        "resposta": "Satanás empregou os homens como seus agentes para encher de sofrimento a vida do Salvador; Cristo tomou sobre Si as nossas enfermidades e as nossas dores (Isaías 53:3-5; Mateus 8:17)."
+      },
+      {
+        "pergunta": "Quando terminará o sofrimento?",
+        "resposta": "Um dia Deus irá terminar com o sofrimento e com o seu causador: satanás (Apocalipse 21:4; Romanos 16:20; Malaquias 4:1)."
+      },
+      {
+        "pergunta": "O que acontecerá na execução final do juízo?",
+        "resposta": "Ver-se-á que nenhuma causa existe para o pecado; Satanás não poderá apresentar resposta alguma; toda boca se fechará (Romanos 3:19; Apocalipse 20:10)."
+      }
+    ],
+    "fontes": [
+      "CAT5244 — Por que Existe o Sofrimento? (Escola Bíblica Novo Tempo)",
+      "CAT6127 — Deus não concorda com o Sofrimento (Escola Bíblica Novo Tempo)",
+      "CAT6032 — Sal 91.15 — Como conciliar a promessa com a realidade do sofrimento (Escola Bíblica Novo Tempo)",
+      "CAT5065 — Por que Deus não destruiu o Diabo? (Escola Bíblica Novo Tempo)",
+      "CAT8746 — Qual é a origem de Satanás? por Alberto R. Timm, PhD (Escola Bíblica Novo Tempo)",
+      "Ellen G. White, O Grande Conflito, capítulo 29 — A Origem do Mal",
+      "Bíblia Sagrada, versão Almeida Revista e Corrigida"
+    ]
+  },
+  "posso-escolher-qualquer-dia": {
+    "id": "posso-escolher-qualquer-dia",
+    "tema": "Posso escolher qualeur dia para guardar?",
+    "titulo": "Posso Escolher Qualquer Dia Como Dia de Descanso e Adoração?",
+    "subtitulo": "Êxodo 20:8-11",
+    "ordem": 9,
+    "versiculo_memorizar": {
+      "texto": "\"Porque em seis dias fez o Senhor os céus e a terra, o mar e tudo o que neles há, e ao sétimo dia descansou: por isso o Senhor abençoou o dia de sábado, e o santificou.\"",
+      "referencia": "Êxodo 20:11"
+    },
+    "secoes": [
+      {
+        "titulo": "Introdução",
+        "paragrafos": [
+          "Às vezes pensamos que Deus não foi tão específico quanto ao dia que devemos guardar. Defendemos o princípio de que Ele quer um dia entre os sete, e isto basta. Seria isso assim? A resposta bíblica é clara: a Palavra de Deus não deixa a critério das nossas conveniências o assunto do dia de repouso. Do Gênesis ao Apocalipse não temos nada para dar apoio a essa ideia. Este estudo apresenta, com base na Escritura e nos princípios da Igreja Adventista do Sétimo Dia, por que o dia de descanso não é escolha humana, mas instituição divina desde a Criação."
+        ]
+      },
+      {
+        "titulo": "Parte 1 — O sábado: instituição divina, não escolha humana",
+        "paragrafos": [],
+        "subsecoes": [
+          {
+            "titulo": "1.1 Estabelecido no Éden (Gênesis 2:1-3)",
+            "paragrafos": [
+              "Deus deu o sábado ao homem lá no Jardim do Éden, por ocasião da Criação: \"E os céus e a terra e todo o seu exército acabaram. E Deus acabou no dia sétimo a sua obra, que tinha feito, e descansou no sétimo dia de toda a sua obra, que tinha feito. E abençoou Deus o dia sétimo, e o santificou; porque nele descansou de toda a sua obra que tinha criado, para fazer.\" (Gênesis 2:1-3) O sábado é uma das únicas instituições — a outra é o casamento — que ainda possuímos de um mundo sem pecado. Deus estabeleceu o repouso do sétimo dia com o propósito de que o ser humano dedicasse um tempo exclusivo de 24 horas em amoroso companheirismo com seu Criador e com a família."
+            ]
+          },
+          {
+            "titulo": "1.2 Confirmado no mandamento (Êxodo 20:8-11)",
+            "paragrafos": [
+              "E quando escreveu o mandamento em tábuas de pedra, Deus confirmou o sábado. O texto é claro: \"Lembra-te do dia de descanso, para o santificar... Porque em seis dias fez o Senhor os céus e a terra, o mar e tudo o que neles há, e ao sétimo dia descansou: por isso o Senhor abençoou o dia de sábado, e o santificou.\" (Êxodo 20:8-11) Não qualquer dia, mas o sétimo dia! O mandamento aponta para o sábado da Criação, indicando que aquele dia era sábado."
+            ]
+          },
+          {
+            "titulo": "1.3 Por que não o dia que julgarmos mais especial",
+            "paragrafos": [
+              "Todos nós teríamos um dia mais conveniente para guardar. Alguém poderia querer guardar a sexta-feira, por achar que esse é o dia mais especial para a humanidade, pois nesse dia Jesus deu a Sua vida pelos nossos pecados. Outro, de igual forma, poderia guardar o domingo, alegando ser esse o dia da ressurreição gloriosa de Cristo. Outro ainda poderia guardar a segunda-feira, por achar que nesse dia Jesus subiu para os céus. Não somos nós que determinamos um dia de guarda de acordo com conveniências humanas ou por aquilo que julgamos ser mais importante. A guarda do sábado está relacionada com o aniversário da Criação; mesmo que mudemos o dia de guarda, não podemos mudar o fato de que o sábado é a celebração da criação do mundo, do nascimento da humanidade, do início da jornada de Deus com o homem. Nada poderá mudar esse fato."
+            ]
+          }
+        ]
+      },
+      {
+        "titulo": "Parte 2 — Jesus e o sábado",
+        "paragrafos": [],
+        "subsecoes": [
+          {
+            "titulo": "2.1 O Senhor do sábado (Marcos 2:27-28; Mateus 12:12)",
+            "paragrafos": [
+              "Nos tempos do Novo Testamento, o próprio Jesus confirmou o mandamento: \"E disse-lhes: O sábado foi feito por causa do homem, e não o homem por causa do sábado; portanto, o Filho do Homem é Senhor também do sábado.\" (Marcos 2:27-28) \"Quanto mais vale um homem do que uma ovelha? É lícito fazer o bem aos sábados.\" (Mateus 12:12) Jesus não aboliu o sábado; Ele o defendeu contra os abusos e o colocou em seu verdadeiro lugar: um presente para o homem, sob o senhorio de Deus."
+            ]
+          },
+          {
+            "titulo": "2.2 O sábado depois da cruz (Mateus 24:20)",
+            "paragrafos": [
+              "Falando das perseguições e da destruição de Jerusalém que iria acontecer 40 anos depois — a destruição da cidade foi no ano 70 d.C. —, Jesus disse que todos deveriam \"orar para que a vossa fuga não suceda no inverno nem no sábado\" (Mateus 24:20). Por quê? Porque o sábado deveria, mesmo depois da morte e ressurreição de Cristo, ainda ser guardado, não deveria ser ocupado com correrias, preocupações, trabalhos e negócios."
+            ]
+          },
+          {
+            "titulo": "2.3 Jesus não mudou a lei (Mateus 5:17-19)",
+            "paragrafos": [
+              "\"Não penseis que vim revogar a Lei ou os Profetas; não vim para revogar, vim para cumprir. Porque em verdade vos digo: até que o céu e a terra passem, nem um i ou um til jamais passará da Lei, até que tudo se cumpra. Aquele, pois, que violar um destes mandamentos, posto que dos menores, e assim ensinar aos homens, será considerado mínimo no reino dos céus; aquele, porém, que os observar e ensinar, esse será considerado grande no reino dos céus.\" (Mateus 5:17-19) De acordo com as Escrituras, Jesus não mudou a lei. Portanto, esta não deve ser modificada."
+            ]
+          }
+        ]
+      },
+      {
+        "titulo": "Parte 3 — O sétimo dia sempre foi sábado",
+        "paragrafos": [],
+        "subsecoes": [
+          {
+            "titulo": "3.1 O nome desde a Criação (Hebreus 4:4, 9; Êxodo 23:13)",
+            "paragrafos": [
+              "O sétimo dia sempre foi designado por sábado; não foi a partir do Êxodo que recebeu nome, apesar da nomenclatura não ter sido mencionada em Gênesis. Isso porque o mandamento de Êxodo 20:8-11 aponta para o sábado da Criação, indicando que aquele dia era sábado. Hebreus 4:4 e 9, conquanto se referia ao repouso da fé, esclarece o assunto: \"Porque em certo lugar falou assim do sétimo dia: E descansou Deus no sétimo dia de toda a sua obra... Portanto, resta que alguns entrem nele, e que os mesmos que primeiro receberam as boas novas não entraram por causa da desobediência... Ora, reste que os filhos de Deus entrem no repouso.\" (Hebreus 4:4, 6, 9) O escritor entendia ser o sétimo dia da criação o sábado. Os escritores e profetas bíblicos jamais iriam familiarizar-se com um costume pagão, como, por exemplo, em escrever ou mencionar nas Escrituras um dia da semana cujo nome se refira a um deus pagão: \"Em tudo o que vos tenho dito, andai apercebidos; do nome de outros deuses nem vos lembreis, nem se ouça de vossa boca.\" (Êxodo 23:13) Se tivessem feito isso em relação ao sábado, todos eles estariam em conflito com esta ordem de Deus."
+            ]
+          },
+          {
+            "titulo": "3.2 O significado primário de Shabbath",
+            "paragrafos": [
+              "Mesmo sendo o sábado conhecido pelos caldeus como dia de Saturno, o certo é que o significado primário da palavra é descanso (hebraico Shabbath). Foi Deus quem nomeou esse dia como sendo descanso, ou sábado, com o mesmo sentido. Ainda que o termo sábado signifique descanso, a santificação desse dia repousa sobre uma base muito mais sólida do que uma possível razão linguística: num insofismável \"Assim diz o Senhor\" (Gênesis 2:1-3; Êxodo 20:8-11; Isaías 56:2; 58:13-14; Mateus 5:17-19; Marcos 2:28; João 14:15)."
+            ]
+          }
+        ]
+      },
+      {
+        "titulo": "Parte 4 — Uma questão moral, de adoração e de senhorio",
+        "paragrafos": [],
+        "subsecoes": [
+          {
+            "titulo": "4.1 Aceitar o senhorio de Deus (Êxodo 20:8-11; Isaías 58:13-14)",
+            "paragrafos": [
+              "Mas trata-se de uma questão moral, de adoração e de aceitação do senhorio de Deus em nossa vida. Guardando o sábado demonstramos que aceitamos a soberania de Deus e não do homem; mostramos que seguimos o padrão moral e de adoração estabelecido pelo Criador e não o padrão moral e de adoração estabelecido pelo ser humano. \"Se desviares do sábado o teu pé, de fazeres a tua vontade no meu santo dia, e chamares ao sábado deleitoso, e o dia santo do Senhor, honroso, e o honrares, não seguindo os teus caminhos, nem te agradando na tua própria maneira, nem falando palavras vãs, então te deleitarás no Senhor, e te farei cavalgar sobre as alturas da terra, e te sustentarei com a herança de teu pai Jacó; porque a boca do Senhor o tem falado.\" (Isaías 58:13-14)"
+            ]
+          },
+          {
+            "titulo": "4.2 O memorial da criação (Êxodo 20:11)",
+            "paragrafos": [
+              "O sábado é um memorial da criação; é uma lembrança perpétua, a cada sete dias, de que não somos filhos do acaso, nem de qualquer acidente, mas filhos de um Criador amoroso. Assim também a observância do sábado como dia de repouso é um reconhecimento de que Deus é o nosso Criador; desse modo, o sábado não é um dia qualquer, mas o dia santificado por Deus que aponta para o Seu poder criador, seja na criação ou na redenção. Por outro lado, o sábado, embora criado para o homem, é um dia que pertence a Deus, que graciosamente o concedeu ao homem como um presente tremendamente necessário e valioso."
+            ]
+          },
+          {
+            "titulo": "4.3 O testemunho do Cardeal Gibbons",
+            "paragrafos": [
+              "Há importantes comentários de autores de outras religiões acerca do sábado. Vejamos uma delas: \"Podeis ler a Bíblia do Gênesis ao Apocalipse, e não encontrareis uma única linha que autorize a santificação do domingo. As Escrituras ordenam a observância religiosa do Sábado, dia que nós nunca santificamos.\" (Cardeal Católico Gibbons, em The Faith of Our Fathers, edição de 1892, pág. 111) Isto nos mostra que guardar o domingo não é aceitar a vontade divina, mas sim a vontade humana, conquanto não seja errado adorar a Deus neste ou em qualquer outro dia. O mais importante é que o sábado, o dia especial, não seja esquecido."
+            ]
+          },
+          {
+            "titulo": "4.4 A oferta de Caim (Gênesis 4:3-5)",
+            "paragrafos": [
+              "Deus é honrado por nossa lembrança do túmulo vazio, mas a observância do domingo, por mais sincera que seja, viola especificamente, pelo menos um dos dez mandamentos de Deus, pois aqueles que observam o domingo não estão observando o dia que Deus ordenou. Podemos esperar que Deus se agrade com um memorial que seja realizado com a quebra da lei? Cremos que não! O que Deus faz não pode ser mudado pelo homem. Não há base bíblica para tal mudança, e a perda para o cristianismo foi irreparável, pois o sábado foi feito para ser uma bênção para o homem; na realidade é um grande presente de Deus para Seus filhos, e Deus não erra. Portanto, como a oferta de Caim não foi agradável a Deus, pois não tinha nenhuma relação com a Sua vontade e o plano da Redenção, a observância de outro dia que não seja o dia escolhido por Deus é considerado pelo Senhor uma oferta igual à de Caim: \"E o SENHOR olhou para Abel e para a sua oferta; mas para Caim e para a sua oferta não atentou.\" (Gênesis 4:4-5)"
+            ]
+          }
+        ]
+      },
+      {
+        "titulo": "Parte 5 — Obedecer a Deus do que aos homens",
+        "paragrafos": [],
+        "subsecoes": [
+          {
+            "titulo": "5.1 A verdadeira fé se manifesta pela obediência (João 14:15; Atos 5:29)",
+            "paragrafos": [
+              "A verdadeira fé, que confia inteiramente em Cristo, manifestar-se-á pela obediência a todos os mandamentos de Deus. Desde o tempo de Adão até o presente, o grande conflito tem sido com referência à obediência à lei de Deus. Jesus disse: \"Se me amais, guardareis os meus mandamentos.\" (João 14:15) E os apóstolos, diante da autoridade humana que lhes proibia pregar, responderam: \"Então, Pedro e os demais apóstolos afirmaram: Antes, importa obedecer a Deus do que aos homens.\" (Atos 5:29)"
+            ]
+          }
+        ]
+      },
+      {
+        "titulo": "Conclusão",
+        "paragrafos": [
+          "Posso escolher qualquer dia como dia de descanso e adoração? Biblicamente, não. Deus estabeleceu o sábado no Éden, confirmou-o no mandamento, Jesus o defendeu como Senhor dele e orou para que os discípulos o guardassem mesmo depois da cruz. O sétimo dia sempre foi o sábado, e a santificação desse dia repousa sobre o insofismável \"Assim diz o Senhor\". Guardar o sábado é questão moral, de adoração e de aceitação do senhorio de Deus em nossa vida: demonstramos que aceitamos a soberania do Criador e não do homem. Não somos nós que determinamos o dia de guarda de acordo com conveniências humanas; o sábado é a celebração da criação do mundo, e nada poderá mudar esse fato. A observância de outro dia que não seja o dia escolhido por Deus é considerada pelo Senhor uma oferta igual à de Caim. Que possam ser nossas as palavras dos apóstolos: \"Antes, importa obedecer a Deus do que aos homens.\" (Atos 5:29)"
+        ]
+      }
+    ],
+    "linha_do_tempo": [],
+    "perguntas": [
+      {
+        "pergunta": "Deus deixou a nosso critério a escolha do dia de descanso e adoração?",
+        "resposta": "Não. A Palavra de Deus não deixa a critério das nossas conveniências o assunto do dia de repouso; do Gênesis ao Apocalipse não temos nada para dar apoio a essa ideia (Êxodo 20:8-11)."
+      },
+      {
+        "pergunta": "Quando Deus estabeleceu o sábado?",
+        "resposta": "No Jardim do Éden, por ocasião da Criação: \"E Deus abençoou o sétimo dia, e o santificou\" (Gênesis 2:1-3), e o confirmou ao escrever o mandamento em tábuas de pedra (Êxodo 20:8-11)."
+      },
+      {
+        "pergunta": "Por que não podemos guardar o dia que julgarmos mais especial?",
+        "resposta": "Porque não somos nós que determinamos um dia de guarda de acordo com conveniências humanas; a guarda do sábado está relacionada com o aniversário da Criação, fato que não podemos mudar (Êxodo 20:11)."
+      },
+      {
+        "pergunta": "O que Jesus ensinou sobre o sábado?",
+        "resposta": "Confirmou o mandamento: \"O Filho do Homem é o Senhor do sábado\" (Marcos 2:27-28); \"É lícito fazer o bem aos sábados\" (Mateus 12:12); e orou para que a fuga não acontecesse no sábado (Mateus 24:20)."
+      },
+      {
+        "pergunta": "Jesus mudou a lei?",
+        "resposta": "Não. \"Não penseis que vim revogar a Lei ou os Profetas; não vim para revogar, vim para cumprir\" (Mateus 5:17-19)."
+      },
+      {
+        "pergunta": "O sétimo dia sempre foi chamado de sábado?",
+        "resposta": "Sim. O mandamento de Êxodo 20:8-11 aponta para o sábado da Criação, e Hebreus 4:4, 9 esclarece que o escritor entendia ser o sétimo dia da criação o sábado; o significado primário de Shabbath é descanso."
+      },
+      {
+        "pergunta": "Guardar o sábado é questão moral ou de conveniência?",
+        "resposta": "É questão moral, de adoração e de aceitação do senhorio de Deus em nossa vida; guardando o sábado demonstramos que aceitamos a soberania de Deus e não do homem (Êxodo 20:8-11; Isaías 58:13-14)."
+      },
+      {
+        "pergunta": "Existe base bíblica para a santificação do domingo?",
+        "resposta": "Não. \"Podeis ler a Bíblia do Gênesis ao Apocalipse, e não encontrareis uma única linha que autorize a santificação do domingo\" (Cardeal Gibbons, The Faith of Our Fathers, 1892, pág. 111)."
+      },
+      {
+        "pergunta": "O que fazer quando a vontade humana conflita com a vontade divina?",
+        "resposta": "\"Antes, importa obedecer a Deus do que aos homens\" (Atos 5:29; João 14:15)."
+      }
+    ],
+    "fontes": [
+      "CAT5098 — Posso escolher qualquer dia como dia de descanso e adoração a Deus? (Escola Bíblica Novo Tempo)",
+      "CAT6287 — Guardar qualquer dia (Escola Bíblica Novo Tempo)",
+      "CAT6530 — O sétimo dia era chamado de sábado desde a criação — Guardar qualquer dia (Escola Bíblica Novo Tempo)",
+      "Cardeal Gibbons, The Faith of Our Fathers, edição de 1892, pág. 111",
+      "Bíblia Sagrada, versão Almeida Revista e Corrigida"
+    ]
+  },
+  "rapto-ou-arrebatamento-secreto": {
+    "id": "rapto-ou-arrebatamento-secreto",
+    "tema": "Escatologia",
+    "titulo": "Rapto ou Arrebatamento Secreto",
+    "subtitulo": "1 Tessalonicenses 4:16-17",
+    "ordem": 5,
+    "versiculo_memorizar": {
+      "texto": "\"Porquanto o Senhor mesmo, dada a sua palavra de ordem, ouvida a voz do arcanjo, e ressoada a trombeta de Deus, descerá dos céus, e os mortos em Cristo ressuscitarão primeiro; depois, nós, os vivos, os que ficarmos, seremos arrebatados juntamente com eles, entre nuvens, para o encontro do Senhor nos ares, e, assim, estaremos para sempre com o Senhor.\"",
+      "referencia": "1 Tessalonicenses 4:16-17"
+    },
+    "secoes": [
+      {
+        "titulo": "Introdução",
+        "paragrafos": [
+          "A data é um dia qualquer no futuro próximo. O lugar, um avião voando sobre o Atlântico. De repente, alguns passageiros desaparecem — e o mundo descobre que os \"verdadeiros cristãos\" foram arrebatados secretamente para o céu, sete anos antes da segunda vinda de Cristo. Essa é a cena popularizada pela teoria do arrebatamento secreto, que capturou a imaginação de milhões de cristãos sinceros. Este estudo investiga, com base na Escritura e nos princípios da Igreja Adventista do Sétimo Dia, a origem dessa teoria, seus pressupostos e o que a Bíblia realmente ensina sobre a ordem dos eventos finais."
+        ]
+      },
+      {
+        "titulo": "Parte 1 — A origem histórica da teoria",
+        "paragrafos": [],
+        "subsecoes": [
+          {
+            "titulo": "1.1 Da Contra-Reforma ao dispensacionalismo",
+            "paragrafos": [
+              "As origens da teoria do arrebatamento secreto podem ser traçadas a partir do tempo da Contra-Reforma. Os reformadores protestantes no século 16 identificaram o papado como o anticristo da profecia. Muitos eruditos jesuítas assumiram a tarefa de defender o papado contra esse ataque. O cardeal Robert Bellarmina (1542-1621) buscou invalidar o princípio \"dia-ano\" da profecia. O jesuíta espanhol Francisco Ribera (1537-1591) projetou a profecia do anticristo no futuro (futurismo), e outro espanhol, Luiz de Alcazar (1554-1613), defendeu que essas profecias já tinham se cumprido no tempo do Império Romano (preterismo).",
+              "Por quase três séculos, o futurismo foi largamente confinado à Igreja Católica Romana, até que, em 1826, Samuel R. Maitland (1792-1866), bibliotecário do arcebispo de Canterbury, publicou um panfleto promovendo a ideia de Ribera de um futuro anticristo. John Nelson Darby (1800-1882) afirmava que a vinda de Cristo poderia ocorrer em dois estágios: o primeiro, um invisível \"arrebatamento secreto\" dos verdadeiros crentes, fecharia a era da Igreja; em seguida, as profecias concernentes a Israel seriam literalmente cumpridas, levando à grande tribulação que terminaria na segunda vinda de Cristo em glória.",
+              "A doutrina foi disseminada ao redor do mundo, primariamente através do Movimento dos Irmãos e da Bíblia de Referência de Scofield. No século 20, foi ensinada em escolas como o Instituto Moody e no Seminário Teológico de Dallas, e propagada por livros como O Futuro do Grande Planeta Terra, de Hal Lindsey. O próprio C. I. Scofield retratou o arrebatamento como algo completamente novo, algo que não foi mencionado pelos profetas bíblicos."
+            ]
+          }
+        ]
+      },
+      {
+        "titulo": "Parte 2 — O arrebatamento secreto não está na Bíblia",
+        "paragrafos": [],
+        "subsecoes": [
+          {
+            "titulo": "2.1 O verso mais barulhento da Bíblia (1Tessalonicenses4:16-17)",
+            "paragrafos": [
+              "O verso que fala de maneira mais vívida sobre os santos sendo levados ao céu está em 1 Tessalonicenses 4: \"Porquanto o Senhor mesmo, dada a sua palavra de ordem, ouvida a voz do arcanjo, e ressoada a trombeta de Deus, descerá dos céus, e os mortos em Cristo ressuscitarão primeiro; depois, nós, os vivos, os que ficarmos, seremos arrebatados juntamente com eles, entre nuvens, para o encontro do Senhor nos ares, e, assim, estaremos para sempre com o Senhor.\" (1Tessalonicenses4:16-17) Aqui temos um clamor, a voz do arcanjo e a trombeta de Deus. Nenhuma dessas coisas indicaria uma vinda secreta. Não é por acaso que esse texto é chamado de \"o verso mais barulhento da Bíblia\"."
+            ]
+          },
+          {
+            "titulo": "2.2 O vocabulário do Segundo Advento não oferece respaldo",
+            "paragrafos": [
+              "Nenhuma das três palavras gregas usadas no Novo Testamento para descrever o retorno de Cristo — parousia (vinda), apokalypsis (revelação) e epiphaneia (aparecimento) — sugere um arrebatamento secreto antes da tribulação. Os pré-tribulacionistas alegam que em 1 Tessalonicenses 4:15 Paulo usou parousia para descrever o arrebatamento secreto; mas em 1 Tessalonicenses 3:13 ele usou a mesma palavra para descrever \"a vinda de nosso Senhor Jesus com todos os seus santos\", e em 2 Tessalonicenses 2:8 para a vinda que causará a destruição do anticristo. Da mesma forma, apokalypsis e epiphaneia são usadas tanto para o que chamam de arrebatamento (1Coríntios1:7;1Timóteo6:14) como para o que chamam de segunda fase da vinda (2Tessalonicenses1:7-8;2:8). O Novo Testamento não contém traços de um arrebatamento secreto e invisível da igreja."
+            ]
+          }
+        ]
+      },
+      {
+        "titulo": "Parte 3 — A ordem dos eventos: dispensacionalismo x Escritura",
+        "paragrafos": [],
+        "subsecoes": [
+          {
+            "titulo": "3.1 A ordem dispensacionalista",
+            "paragrafos": [
+              "O arrebatamento secreto foi baseado num processo da teologia conhecido como dispensacionalismo. A ordem dos eventos ensinada por este sistema é: 1. O arrebatamento (ressurreição dos justos, santos sendo levados ao céu); 2. A grande tribulação; 3. A segunda vinda (na realidade, a terceira) em poder e glória; 4. O milênio."
+            ]
+          },
+          {
+            "titulo": "3.2 A ordem bíblica (Mateus24:29-31;Marcos13:24-26;Lucas21:25-27)",
+            "paragrafos": [
+              "Esta ordem difere da ordem apresentada nas Escrituras. Em Mateus 24: 1. A grande tribulação (verso 29); 2. O escurecimento do Sol e da lua, a queda de estrelas (verso 29); 3. A vinda gloriosa do Salvador em poder e majestade (verso 30); 4. O arrebatamento visível dos justos (verso 31). Em Marcos 13: a tribulação (verso 24), os sinais no céu (versos 24-25), a segunda vinda em poder e glória (verso 26), os santos levados ao céu (verso 27). Em Lucas 21: os eventos da tribulação (versos 25-26), os sinais no Sol, na Lua e nas estrelas (verso 25), a segunda vinda em poder e glória (verso 27). Em Joel 2: o escurecimento do Sol e da Lua (verso 31), a segunda vinda em glória e majestade (verso 32). Não é surpreendente que nenhuma das referências bíblicas dê a ordem dispensacionalista dos eventos."
+            ]
+          },
+          {
+            "titulo": "3.3 O paralelismo entre Mateus 24 e 1 Tessalonicenses 4",
+            "paragrafos": [
+              "Notável é a semelhança entre a descrição de Cristo da Sua segunda vinda em Mateus 24:30-31 e a de Paulo em 1 Tessalonicenses 4:16-17. Ambos os textos mencionam a descida do Senhor, a trombeta que soa, os anjos acompanhantes e a reunião do povo de Deus. No entanto, os pré-tribulacionistas dizem que a passagem de 1 Tessalonicenses descreve o arrebatamento antes da tribulação, mas a passagem de Mateus descreve a segunda vinda após a tribulação. O paralelismo entre as duas passagens indica claramente que o arrebatamento da igreja não precede, mas, pelo contrário, segue-se à grande tribulação."
+            ]
+          }
+        ]
+      },
+      {
+        "titulo": "Parte 4 — Os pressupostos da teoria examinados",
+        "paragrafos": [],
+        "subsecoes": [
+          {
+            "titulo": "4.1 A 70ª semana de Daniel 9 (Daniel9:26-27)",
+            "paragrafos": [
+              "Uma das colunas da teoria é que a última das setenta semanas proféticas de Daniel 9:24 ainda está no futuro. Entretanto, não há razão lógica ou exegética para separar a 70ª semana das outras 69 semanas. Não existe nenhuma outra profecia de tempo nas Escrituras que tenha tal vácuo. O assunto nos versos 26 e 27 de Daniel 9 é o Messias, não o anticristo. O \"ele\" do verso 27 deve reportar-se ao Messias no início do verso 26. Em Daniel 9:27 lemos que \"Ele fará firme aliança com muitos\": a expressão hebraica \"cortar uma aliança\" não é usada nesse texto; ao contrário, o Messias fortalecerá ou fará o concerto prevalecer. A referência não é de um novo concerto, mas a um concerto já feito."
+            ]
+          },
+          {
+            "titulo": "4.2 A \"ira vindoura\" (1Tessalonicenses1:10;5:9;2Tessalonicenses1:7-10)",
+            "paragrafos": [
+              "Segundo o dispensacionalismo, a tribulação depois do arrebatamento durará sete anos, com o propósito de levar à conversão uma multidão de judeus. A base apresentada são as passagens de 1 Tessalonicenses 1:10; 5:9; Romanos 5:9; Apocalipse 3:10. Cuidadosa exegese indica que \"a ira vindoura\" refere-se à ira de Deus que destruirá o ímpio por ocasião da segunda vinda, conforme indicado em 2 Tessalonicenses 1:7-10. Trata-se da manifestação da ira de Deus no juízo final, não da tribulação precedente à vinda de Jesus. Paulo fala de esperarmos \"dos céus o Seu Filho... que nos livra da ira vindoura\" (1Tessalonicenses1:10): é o segundo advento de Jesus, em cuja ocasião o arrebatamento terá lugar, onde nos liberta da ira vindoura. Consequentemente, essa ira não pode vir antes do segundo advento."
+            ]
+          },
+          {
+            "titulo": "4.3 Os santos passarão pela tribulação (Mateus24:9, 21-22;Apocalipse7:14)",
+            "paragrafos": [
+              "A frase \"Eu te guardarei\" em Apocalipse 3:10 origina-se de duas palavras gregas: tereo e ek — o texto não diz que o povo de Deus não experimentará a provação. Nenhum dos textos usados para apoiar a ideia de que a igreja não passará pela grande tribulação está realmente dizendo isso. Na verdade, as Escrituras ensinam claramente que os santos de Deus passarão pela grande tribulação (Mateus24:9;Marcos13:11;Lucas21:12-19;Apocalipse13:14-17). Jesus prometeu que \"por causa dos escolhidos tais dias serão abreviados\" (Mateus24:22) — os escolhidos estarão presentes. E João descreve uma incontável multidão de crentes que passarão pela grande tribulação: \"Estes são os que vieram da grande tribulação, e lavaram as suas vestes e as branquearam no sangue do Cordeiro.\" (Apocalipse7:14)"
+            ]
+          },
+          {
+            "titulo": "4.4 Paulo e o Apocalipse negam o arrebatamento pré-tribulacional (2Tessalonicenses2:1-3)",
+            "paragrafos": [
+              "Em 2 Tessalonicenses 2, Paulo refutou um equívoco presumido entre os cristãos de Tessalônica, que acreditavam que o dia do Senhor já tinha chegado. Para refutá-lo, Paulo citou dois grandes eventos que devem ocorrer antes da vinda do Senhor: a rebelião e o aparecimento do \"homem da iniqüidade\" que perseguirá o povo de Deus (2Tessalonicenses2:3). Se Paulo esperasse que a igreja fosse arrebatada deste mundo antes da tribulação causada pelo anticristo, ele dificilmente teria ensinado que os crentes veriam tal evento antes da vinda do Senhor. E o livro do Apocalipse, que trata dos eventos da grande tribulação em maior detalhe do que qualquer outro livro do Novo Testamento, nunca menciona ou sugere um advento de Cristo secreto e pré-tribulacional para levar embora a igreja."
+            ]
+          }
+        ]
+      },
+      {
+        "titulo": "Parte 5 — As passagens alegadas examinadas",
+        "paragrafos": [],
+        "subsecoes": [
+          {
+            "titulo": "5.1 Mateus 24:40-41: \"um será levado e o outro deixado\"",
+            "paragrafos": [
+              "\"Então, estando dois no campo, será levado um, e deixado o outro; estando duas moendo no moinho, será levada uma, e deixada outra.\" (Mateus24:40-41) Existem três razões por que esta passagem não se refere a um arrebatamento secreto: 1. No contexto de Mateus, vemos uma aparição literal e visível de Cristo: \"Porque, assim como o relâmpago sai do oriente e se mostra até o ocidente, assim será também a vinda do Filho do homem\" (verso 27); \"todas as tribos da terra\" verão Sua chegada (verso 30); Sua vinda será \"sobre as nuvens do céu, com poder e grande glória\" (verso 30); Seus anjos vão reunir os eleitos com um \"clamor de trombeta\" (verso 31). 2. Tudo que está relacionado à natureza de uma vinda secreta é atribuído aos \"falsos cristos\" (versos 24-26). 3. Os que são deixados para trás não podem continuar em seus afazeres normais, como a teoria ensina: seu destino é descrito no verso 51: \"e separá-lo-á, e destinará a sua parte com os hipócritas; ali haverá pranto e ranger de dentes.\"",
+              "Os próprios teólogos dispensacionalistas admitem que o arrebatamento não está em Mateus 24. John Darby, um dos criadores do ensino, e John Walvoord, importante teólogo dispensacionalista, dizem: \"É importante ter em mente, no estudo de Mateus 24 e 25, que o arrebatamento não é mencionado nesses capítulos\" (Kelly, The Writings of J. N. Darby, vol. IV, págs. 52-53); \"o arrebatamento não é encontrado em lugar nenhum em Mateus, Marcos, ou Lucas\" (Walvoord, Bibliotheca Sacra CXXVIII, 1971, pág. 114)."
+            ]
+          },
+          {
+            "titulo": "5.2 Os dias de Noé (Mateus24:37-39;Lucas17:26-27)",
+            "paragrafos": [
+              "\"Pois assim como foi nos dias de Noé, também será a vinda do Filho do Homem. Porquanto, assim como nos dias anteriores ao dilúvio comiam e bebiam, casavam e davam-se em casamento, até ao dia em que Noé entrou na arca, e não o perceberam, senão quando veio o dilúvio e os levou a todos, assim será também a vinda do Filho do Homem.\" (Mateus24:37-39) Jesus estabelece uma comparação de Sua volta com o tempo de Noé, mostrando que assim como naqueles dias muitos foram destruídos pelo dilúvio, nos últimos dias ocorrerá o mesmo. Mateus mostra duas classes de pessoas contrastadas diante do juízo divino. Não há aqui ideia de arrebatamento secreto: o julgamento virá de súbito, apanhando a muitos em suas ocupações diárias, e assim um será tomado, isto é, apanhado pelo juízo, enquanto outro será deixado, ou seja, escapará do juízo. Tirar de Mateus 24:41 a ideia de arrebatamento secreto é forçar a compreensão do texto, pois nele não há tal significado. A posição ali expressa é de julgamento e seleção, que terão lugar na volta de Jesus."
+            ]
+          },
+          {
+            "titulo": "5.3 O \"ladrão de noite\" (Mateus24:43;1Tessalonicenses5:2;Apocalipse3:3)",
+            "paragrafos": [
+              "A ilustração de um \"ladrão\" que vem à noite é usada três vezes na Bíblia: por Cristo, em Mateus 24:43; por Paulo, em 1 Tessalonicenses 5:2; e por João, em Apocalipse 3:3. Duas perguntas precisam ser respondidas: 1. Qual o propósito da ilustração? Seria inconcebível assumir que a vinda de Cristo seria como um ladrão em todos os aspectos. Ele é desonesto quanto um ladrão? Ele é digno de desprezo quanto um ladrão? 1 Tessalonicenses 5 começa com o assunto \"dos tempos e das estações\" (verso 1), e os versos 3 e 4 falam sobre a repentina destruição que virá. Paulo está falando claramente que a segunda vinda de Cristo será tão repentina quanto a de um ladrão que chega à noite. A ilustração do ladrão em Mateus 24 é usada exatamente da mesma maneira: os versos 36-44 falam sobre a natureza inesperada da vinda de Cristo. Apocalipse 3:3 diz: \"E, se não vigiardes, virei sobre ti como um ladrão, e não saberás a que hora sobre ti virei.\" Mais uma vez, a analogia do ladrão ilustra Seu aparecimento repentino. 2. Qual o contexto das passagens? Todas as três falam sobre uma aparição pública: \"Eis que vem com as nuvens e todo olho o verá\" (Apocalipse1:7); \"quando disserem: Há paz e segurança, então lhes sobrevirá repentina destruição\" (1Tessalonicenses5:3). Nenhuma das ilustrações do \"ladrão de noite\" sugere uma vinda secreta. Apenas se tiradas de seu contexto elas poderiam dar essa impressão."
+            ]
+          }
+        ]
+      },
+      {
+        "titulo": "Parte 6 — As consequências do erro",
+        "paragrafos": [],
+        "subsecoes": [
+          {
+            "titulo": "6.1 Por que o erro é perigoso (Apocalipse22:15;Mateus24:30-31)",
+            "paragrafos": [
+              "Qual é o erro em crer que Jesus \"já veio\" ou que \"virá secretamente\"? Primeiro: isto não é ensinado pelas Escrituras. Segundo: todo aquele que pratica ou aceita algo que não é verdade ficará fora do reino dos céus (Apocalipse22:15). Terceiro: crer que Cristo já veio ou que \"arrebatará a igreja secretamente\" trará consequências muito sérias às pessoas que advogam tal crença, pois estarão totalmente despreparadas quando Jesus vier em glória (Mateus24:30-31). Assim, elas ficarão apavoradas ao ver o Senhor, pois não acreditavam na Sua vinda visível."
+            ]
+          },
+          {
+            "titulo": "6.2 A theory já passou do prazo (Mateus24:32-34)",
+            "paragrafos": [
+              "Muitos acreditam que o arrebatamento está iminente porque sua principal pré-condição, o restabelecimento do Estado de Israel e a posse da antiga Jerusalém, já teve lugar. De acordo com os cálculos iniciais de Hal Lindsey, em O Futuro do Grande Planeta Terra, \"em quarenta anos desde 1948, ou por volta disso, tudo isso poderia ter lugar\". Lindsey calcula os \"quarenta anos\" da duração bíblica de uma geração e alega, com base na parábola da figueira (Mateus24:32-33), que a formação do Estado de Israel em 1948 assinala o início da última \"geração\" (Mateus24:34). Sendo que o arrebatamento, de acordo com os dispensacionalistas, ocorre sete anos antes do retorno visível de Cristo em glória, já deveria ter ocorrido em 1981 ou 1982. O tempo já se esgotou para essas predições sensacionais, porém sem sentido."
+            ]
+          }
+        ]
+      },
+      {
+        "titulo": "Conclusão",
+        "paragrafos": [
+          "A teoria do arrebatamento secreto, de origem recente, está fundamentada em pressuposições extrabíblicas: a separação artificial da 70ª semana de Daniel, a leitura do \"ladrão de noite\" fora de contexto e a negação de que os santos passarão pela tribulação. O vocabulário do Segundo Advento (parousia, apokalypsis, epiphaneia) não oferece respaldo a duas fases; 1 Tessalonicenses 4:16-17 é a passagem mais barulhenta da Bíblia; a ordem bíblica é clara: grande tribulação, sinais no céu, vinda gloriosa e arrebatamento visível dos justos. De acordo com as Escrituras, a igreja passará pela grande tribulação, mas será liberta através do arrebatamento, por ocasião da segunda vinda de Jesus. Esta é a bendita esperança que une \"toda nação, e tribo, e língua e povo\" (Apocalipse14:6). Portanto, aceite o verdadeiro ensino bíblico sobre o assunto e siga o conselho do Senhor: \"Portanto, vigiai, porque não sabeis em que dia vem o vosso Senhor.\" (Mateus24:42)"
+        ]
+      }
+    ],
+    "linha_do_tempo": [],
+    "perguntas": [
+      {
+        "pergunta": "O arrebatamento secreto está na Bíblia?",
+        "resposta": "Não. O texto que fala dos santos sendo levados ao céu, 1 Tessalonicenses 4:16-17, menciona a voz do arcanjo e a trombeta de Deus — é chamado de \"o verso mais barulhento da Bíblia\", o oposto de uma vinda secreta."
+      },
+      {
+        "pergunta": "Qual a origem histórica da teoria do arrebatamento secreto?",
+        "resposta": "Nasceu da Contra-Reforma: o jesuíta Francisco Ribera projetou o anticristo no futuro (futurismo), Luiz de Alcazar no passado (preterismo); a ideia foi retomada por Samuel Maitland (1826) e sistematizada por John Darby, sendo disseminada pela Bíblia de Referência de Scofield."
+      },
+      {
+        "pergunta": "Qual a ordem dos eventos segundo o dispensacionalismo e qual a ordem bíblica?",
+        "resposta": "O dispensacionalismo ensina: arrebatamento, grande tribulação, segunda vinda, milênio. A ordem bíblica é: grande tribulação, sinais no céu, vinda gloriosa de Cristo, arrebatamento visível dos justos (Mateus24:29-31;Marcos13:24-26;Lucas21:25-27;Joel2:31-32)."
+      },
+      {
+        "pergunta": "Por que a 70ª semana de Daniel 9 não pode ser separada das outras 69?",
+        "resposta": "Não há razão lógica ou exegética para separá-la; não existe outra profecia de tempo nas Escrituras com tal vácuo; o assunto de Daniel 9:26-27 é o Messias, não o anticristo, e o \"ele\" do verso 27 reporta-se ao Messias (Daniel9:26-27)."
+      },
+      {
+        "pergunta": "O que significa Mateus 24:40-41, \"um será levado e o outro deixado\"?",
+        "resposta": "Não se refere a arrebatamento secreto: o contexto é uma aparição visível de Cristo (Mateus24:27, 30-31); a vinda secreta é atribuída aos falsos cristos (Mateus24:24-26); e os deixados não continuam em afazeres normais — seu destino é o juízo (Mateus24:51)."
+      },
+      {
+        "pergunta": "O que ensina a ilustração do \"ladrão de noite\"?",
+        "resposta": "A ilustração, usada três vezes (Mateus24:43;1Tessalonicenses5:2;Apocalipse3:3), ensina a natureza repentina e inesperada da vinda, não o sigilo; o contexto das três passagens é uma aparição pública (Apocalipse1:7;1Tessalonicenses5:3)."
+      },
+      {
+        "pergunta": "A igreja passará pela grande tribulação?",
+        "resposta": "Sim. As Escrituras ensinam que os santos passarão pela grande tribulação (Mateus24:9, 21-22;Apocalipse7:14;13:14-17), mas serão libertos pelo arrebatamento na segunda vinda de Jesus."
+      },
+      {
+        "pergunta": "O que Paulo e o Apocalipse ensinam sobre a ordem dos eventos?",
+        "resposta": "Paulo ensinou que os crentes veriam a rebelião e o aparecimento do homem da iniqüidade antes da vinda do Senhor (2Tessalonicenses2:1-3), e João descreve uma multidão incontável que veio da grande tribulação (Apocalipse7:14) — nenhum dos dois menciona um arrebatamento pré-tribulacional."
+      },
+      {
+        "pergunta": "Quais as consequências de crer no arrebatamento secreto?",
+        "resposta": "Não é ensinado pelas Escrituras; quem aceita o que não é verdade ficará fora do reino dos céus (Apocalipse22:15); e quem espera uma vinda secreta estará despreparado e apavorado quando Jesus vier em glória (Mateus24:30-31)."
+      }
+    ],
+    "fontes": [
+      "CAT4385 — Rapto ou Arrebatamento Secreto (Escola Bíblica Novo Tempo)",
+      "CAT6330 — Arrebatamento Secreto (Escola Bíblica Novo Tempo)",
+      "CAT5289 — Lc 17 e Mt 24 — Arrebatamento Secreto (Escola Bíblica Novo Tempo)",
+      "CAT6407 — 1 Tessalonicenses 5:2 — Arrebatamento Secreto (Escola Bíblica Novo Tempo)",
+      "Um Estudo Sobre o Arrebatamento Secreto (documento do Drive, baseado nos escritos do Dr. Gerhard Pfandl)",
+      "Ellen G. White, O Grande Conflito, capítulo 18",
       "Bíblia Sagrada, versão Almeida Revista e Corrigida"
     ]
   },
