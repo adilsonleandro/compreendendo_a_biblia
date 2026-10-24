@@ -162,6 +162,404 @@ window.ESTUDOS_JSON = {
       "Bíblia Sagrada, versão Almeida Revista e Corrigida"
     ]
   },
+  "a-purificacao-do-santuario-celestial": {
+    "id": "a-purificacao-do-santuario-celestial",
+    "tema": "Escatologia",
+    "titulo": "A Purificação do Santuário Celestial",
+    "subtitulo": "Daniel 8:14",
+    "ordem": 13,
+    "versiculo_memorizar": {
+      "texto": "\"Até duas mil e trezentas tardes e manhãs; e o santuário será purificado.\"",
+      "referencia": "Daniel 8:14"
+    },
+    "secoes": [
+      {
+        "titulo": "Introdução",
+        "paragrafos": [
+          "Entender o assunto bíblico da purificação do santuário, predita em Daniel 8:14, é uma aventura fascinante. O povo cristão que primeiro compreendeu estes temas foi um grupo de protestantes, de várias denominações, em torno do ano de 1850. A passagem que, mais que todas as outras, havia sido tanto a base como a coluna central da fé do advento foi a declaração: \"Até duas mil e trezentas tardes e manhãs; e o santuário será purificado.\" (Daniel 8:14) Este estudo apresenta, com base na Escritura e nos princípios da Igreja Adventista do Sétimo Dia, o que é a purificação do santuário celestial, por que ela é necessária, quando começou, como se harmoniza com Hebreus 9 e qual é o seu significado para o crente."
+        ]
+      },
+      {
+        "titulo": "Parte 1 — O que é a purificação do santuário",
+        "paragrafos": [],
+        "subsecoes": [
+          {
+            "titulo": "1.1 A purificação não é de impurezas físicas (Hebreus 9:23)",
+            "paragrafos": [
+              "Em 1844, com a terminação dos 2300 dias, não mais existia o santuário terrestre havia já séculos; portanto, o santuário celestial era o único que poderia ser trazido à luz nessa declaração de Daniel 8:14. Mas, como o santuário celestial necessitava de purificação? Retornando às Escrituras, os estudantes das profecias aprenderam que a purificação não era uma remoção de impurezas físicas, pois isso devia ser realizado com sangue e, portanto, devia ser uma purificação do pecado: \"Era bem necessário que as figuras das coisas que estão no céu assim se purificassem [o sangue de animais]; mas as próprias coisas celestiais com sacrifícios melhores do que estes [o precioso sangue de Cristo].\" (Hebreus 9:23)"
+            ]
+          },
+          {
+            "titulo": "1.2 A remoção dos pecados registrados (Levítico 16:16; Hebreus 9:23)",
+            "paragrafos": [
+              "Como antigamente os pecados do povo eram transferidos, em figura, para o santuário terrestre mediante o sangue da oferta pelo pecado, assim nossos pecados são, de fato, transferidos para o santuário celestial, mediante o sangue de Cristo. E como a purificação típica do santuário terrestre se efetuava mediante a remoção dos pecados pelos quais se poluíra, consequentemente, a real purificação do santuário celeste deve efetuar-se pela remoção, ou apagamento, dos pecados que ali estão registrados: \"Fará expiação pelo santuário por causa das imundícias dos filhos de Israel e das suas transgressões, segundo todos os seus pecados.\" (Levítico 16:16)"
+            ]
+          },
+          {
+            "titulo": "1.3 A purificação envolve um juízo investigativo (Daniel 7:9-10)",
+            "paragrafos": [
+              "Isso necessita um exame dos livros de registro para determinar quem, pelo arrependimento dos pecados e fé em Cristo, tem direito aos benefícios de Sua expiação. A purificação do santuário, portanto, envolve uma obra de juízo investigativo. Isto deve efetuar-se antes da vinda de Cristo para resgatar Seu povo, pois quando vier, Sua recompensa estará com Ele para dar a cada um segundo as suas obras: \"E, eis que venho sem demora, e comigo está o galardão que tenho para retribuir a cada um segundo as suas obras.\" (Apocalipse 22:12) \"Um rio de fogo manava e saía de diante dele; milhares de milhares o serviam, e miríades estavam diante dele; assentou-se o tribunal, e se abriram os livros.\" (Daniel 7:10)"
+            ]
+          }
+        ]
+      },
+      {
+        "titulo": "Parte 2 — O modelo bíblico do juízo investigativo",
+        "paragrafos": [],
+        "subsecoes": [
+          {
+            "titulo": "2.1 O modelo desde o Éden (Gênesis 3:9-13)",
+            "paragrafos": [
+              "Gerhard Pfandl, PhD, diretor associado do Instituto de Pesquisa Bíblica da Associação Geral da IASD, afirmou: \"Desde o início, no trato de Deus com a humanidade caída, a Bíblia apresenta um modelo de julgamento que inclui uma fase investigativa seguindo-se o anúncio da sentença.\" Em Gênesis 3 vemos o modelo de processo judicial. Primeiramente, em sua fase investigativa — e veja que Deus já sabia que Adão e Eva haviam pecado — Deus perguntou: \"Onde estás?\" \"Quem te fez saber que estavas nu? Comeste da árvore?\" \"Que é isso que fizeste?\" (Gênesis 3:9-13) Na sequência dessa investigação, Deus anuncia o veredicto nos versos 14-19."
+            ]
+          },
+          {
+            "titulo": "2.2 Caim e Sodoma (Gênesis 4:9-12; Gênesis 18-19)",
+            "paragrafos": [
+              "Tal abordagem também é vista no trato de Deus com Caim: \"E disse o SENHOR a Caim: Onde está Abel, teu irmão?\" (Gênesis 4:9) E no incidente envolvendo as cidades de Sodoma e Gomorra: \"Descerei agora, e verei se, com efeito, tudo o que fizeram é conforme o clamor que a mim chegou; e, se não, sabê-lo-ei.\" (Gênesis 18:21) É significativo que o Novo Testamento projeta o juízo sobre Sodoma e Gomorra como um exemplo ou tipo do juízo final de Deus (2 Pedro 2:9; Judas 7). A maior parte dos capítulos 18 e 19 de Gênesis descreve atos investigativos e deliberativos de Deus antes de uma ação punitiva de Sua parte."
+            ]
+          },
+          {
+            "titulo": "2.3 Daniel 7: o juízo pré-advento (Daniel 7:9-14, 22)",
+            "paragrafos": [
+              "Daniel 7 descreve, sem margem para dúvidas, um juízo investigativo pré-advento. A passagem de Daniel 7:9-14 contém três cenas: um julgamento no céu (versos 9 e 10); o fim do quarto animal, isto é, o resultado do julgamento (versos 11 e 12); e a recepção do reino pelo Filho do homem (versos 13 e 14). Nestes versos vemos a cena do julgamento celestial na qual o chifre pequeno é condenado, os santos são vindicados e recebem de \"um como o Filho do homem\" o domínio, a glória e o reino: \"até que veio o Ancião de dias, e se fez justiça aos santos do Altíssimo; e veio o tempo em que os santos possuíram o reino.\" (Daniel 7:22)"
+            ]
+          }
+        ]
+      },
+      {
+        "titulo": "Parte 3 — Por que os santos precisam ser julgados",
+        "paragrafos": [],
+        "subsecoes": [
+          {
+            "titulo": "3.1 A vindicação diante do universo (1 Pedro 4:17)",
+            "paragrafos": [
+              "Neste momento a vida dos santos é repassada não porque Jesus não sabe quem é dEle, mas porque todo o universo precisa testemunhar que tais filhos de Deus são dignos de salvação por terem aceito a Jesus como Salvador e permanecido fiéis. O fato de Jesus ser onisciente não contradiz a ideia de que há no céu livros com o registro de nossas vidas (Daniel 7:9-10; Apocalipse 20:12). Este é o modo de Deus lidar com o pecado: Ele não quer que exista qualquer dúvida na mente dos anjos. \"Porque já é tempo que comece o julgamento pela casa de Deus; e, se primeiro começa por nós, qual será o fim daqueles que são desobedientes ao evangelho de Deus?\" (1 Pedro 4:17)"
+            ]
+          },
+          {
+            "titulo": "3.2 O nome pode ser riscado do livro da vida (Apocalipse 3:5; Êxodo 32:32-33)",
+            "paragrafos": [
+              "Se alguém abandonou a Jesus, Seu sangue não poderá expiar seus pecados e assim terá o nome tirado do livro da vida: \"Ao vencedor, assim o vestirei com vestes brancas; e não riscarei o seu nome do livro da vida, mas o confessarei diante de meu Pai e diante dos seus anjos.\" (Apocalipse 3:5) \"Risca-me, pois, agora, do teu livro que escreveste... Ao que pecar contra mim, a este riscarei do meu livro.\" (Êxodo 32:32-33) Outras passagens confirmam que alguns abandonarão a fé: \"Examinai-vos a vós mesmos se permaneceis na fé\" (2 Coríntios 13:5); \"guarda o que tens, para que ninguém tome a tua coroa\" (Apocalipse 3:11)."
+            ]
+          },
+          {
+            "titulo": "3.3 Uma bênção, não um temor (Daniel 7:22)",
+            "paragrafos": [
+              "O juízo investigativo para os santos é uma bênção porque, após este momento, de acordo com Daniel 7, o reino lhes é entregue e inclusive o caráter de Deus é mais uma vez vindicado perante todos. Este texto mostra que os filhos de Deus não precisam temer o juízo investigativo. Este julgamento pré-advento não é da mesma natureza do julgamento mencionado em João 5:24: o juízo investigativo para os santos é uma bênção; já o julgamento de João 5:24 é para os ímpios, pois a palavra grega para juízo neste texto é krisis, que se refere também ao juízo condenatório."
+            ]
+          }
+        ]
+      },
+      {
+        "titulo": "Parte 4 — As três fases do julgamento de Deus",
+        "paragrafos": [],
+        "subsecoes": [
+          {
+            "titulo": "4.1 Antes da segunda vinda (Daniel 7:9-15)",
+            "paragrafos": [
+              "O julgamento de Deus divide-se em pelo menos três fases. A primeira é o julgamento antes da segunda vinda — pré-advento (Daniel 7:9-15) — no qual o caráter dos justos é vindicado. É a fase da purificação do santuário, iniciada em 1844 ao terminarem os 2300 dias."
+            ]
+          },
+          {
+            "titulo": "4.2 Por ocasião da segunda vinda (Mateus 25:31-46)",
+            "paragrafos": [
+              "A segunda fase é o julgamento por ocasião da segunda vinda, no qual as ovelhas são separadas dos bodes: \"Quando, pois, vier o Filho do homem na sua glória, e todos os santos anjos, se assentará no trono da sua glória; e diante dele se ajuntarão todas as nações; e apartará uns dos outros, como o pastor aparta dos bodes as ovelhas.\" (Mateus 25:31-32)"
+            ]
+          },
+          {
+            "titulo": "4.3 Após a segunda vinda (Apocalipse 20; 1 Coríntios 6:2-3)",
+            "paragrafos": [
+              "A terceira fase é o julgamento após a segunda vinda — a condenação dos ímpios (Apocalipse 20; 1 Coríntios 6:2-3), durante o milênio, quando os santos participam do julgamento: \"Não sabeis vós que os santos hão de julgar o mundo?... Não sabeis vós que havemos de julgar os anjos?\" (1 Coríntios 6:2-3)"
+            ]
+          }
+        ]
+      },
+      {
+        "titulo": "Parte 5 — Entendendo Hebreus 9:12",
+        "paragrafos": [],
+        "subsecoes": [
+          {
+            "titulo": "5.1 O sacrifício perfeito e o ministério sumo-sacerdotal (Hebreus 9:24-28)",
+            "paragrafos": [
+              "Como se poderia conciliar a passagem de Hebreus 9, que afirma que Jesus ofereceu um sacrifício para sempre, com a doutrina do juízo investigativo iniciado em 1844? \"Não por meio de sangue de bodes e de bezerros, mas pelo seu próprio sangue, entrou no santuário, uma vez por todas, tendo obtido eterna redenção.\" (Hebreus 9:12) Realmente, o sacrifício de Jesus foi perfeito e suficiente para pagar por nossos pecados de uma vez por todas, sem precisar que Ele morra uma segunda vez: \"E, como aos homens está ordenado morrerem uma vez, vindo depois disso o juízo, assim também Cristo, oferecendo-se uma vez para tirar os pecados de muitos, aparecerá segunda vez, sem pecado, aos que o esperam para salvação.\" (Hebreus 9:27-28)",
+              "Mesmo assim, a expiação de Cristo na cruz é parte do processo de salvação estabelecido por Deus, que envolve também o ministério sumo-sacerdotal de Jesus no santuário celestial — o livro de Hebreus trata especificamente desta função de Jesus (Hebreus 2:17; 3:1; 4:14-15; 5:5, 10; 6:20; 8:1, 3) — além de sua função de Intercessor e Juiz: \"Porque o Pai a ninguém julga, mas deu ao Filho todo o juízo.\" (João 5:22) Com base em João 5:22, não podemos negar que, além de intercessor, Jesus é Juiz. Isto porque Ele, que viveu entre nós, é digno de avaliar a cada um com amor e misericórdia. O fato de Jesus acumular no santuário celestial mais de uma função deve nos encher de esperança."
+            ]
+          },
+          {
+            "titulo": "5.2 A tradução de Hebreus 9:12 (Hebreus 9:12)",
+            "paragrafos": [
+              "Há um detalhe neste verso 12 de Hebreus 9 que não devemos passar por alto: o fato de em nossas Bíblias estar escrito que Jesus adentrou \"diretamente no santíssimo\" não significa que Jesus precise ficar trancafiado dentro de um compartimento do santuário celestial. É bíblico que Ele, antes de começar Sua obra no Lugar Santíssimo, iniciou a primeira parte de Seu trabalho no céu — de intercessão — no Lugar Santo. Hoje Ele acumula a função de Intercessor e Sumo Sacerdote desde 1844, quando adentrou no Lugar Santíssimo para cumprir outra parte de Sua tarefa, a de Sumo Sacerdote e Juiz, prefigurada pelo Dia da Expiação, na época do santuário terrestre, \"figura e sombra do verdadeiro\" (Êxodo 25:8; Hebreus 9:24).",
+              "Então, por que Hebreus 9:12 afirma que por ocasião de Sua ascensão Jesus não começou a obra primeiramente no Lugar Santo? Na verdade, Hebreus 9:12 não está corretamente traduzido. Ao invés de constar \"santos dos santos\", deveria estar \"santuário\". Isto porque a palavra grega para \"santos dos santos\" é hágia hagíon e não aparece neste texto de Hebreus, mas sim ta hágia, cuja melhor tradução é \"santuário\". A versão Almeida Revista e Corrigida acertadamente traduziu o texto da seguinte forma: \"nem por sangue de bodes e bezerros, mas por seu próprio sangue, entrou uma vez no santuário, havendo efetuado uma eterna redenção.\" (Hebreus 9:12)"
+            ]
+          },
+          {
+            "titulo": "5.3 O véu e a ordem do ministério (Hebreus 6:19-20)",
+            "paragrafos": [
+              "A palavra véu possui três significados; portanto, não podemos afirmar dogmaticamente que Jesus entrou diretamente no lugar santíssimo do santuário celestial. Podemos sim entender que Ele foi ao santuário para consagrá-lo e depois começar Sua obra de intercessão no Lugar Santo. O fato de haver um lugar santíssimo no santuário celestial indica que deve haver um lugar santo e que esta realidade — ministério no lugar santo — teria que se cumprir antes de Cristo iniciar o ministério no Lugar Santíssimo. A existência do Lugar Santíssimo pressupõe a existência do Lugar Santo. Como o santuário celestial e a ordem de seus serviços estavam prefigurados pelo santuário terrestre, quando Cristo ascendeu ao céu \"entrou\" no lugar santo — o primeiro compartimento — para começar a primeira fase de seu ministério celestial (Comentário Bíblico Adventista do Sétimo Dia, vol. 7)."
+            ]
+          }
+        ]
+      },
+      {
+        "titulo": "Parte 6 — O significado para o crente",
+        "paragrafos": [],
+        "subsecoes": [
+          {
+            "titulo": "6.1 A certeza da vindicação (Daniel 7:22; 1 Pedro 4:17)",
+            "paragrafos": [
+              "O juízo investigativo será uma bênção para o povo de Deus, pois servirá para que o universo comprove que os filhos de Deus que aceitaram o sacrifício de Jesus continuam firmes na fé. Jesus quer dizer perante todos os anjos e seres de outros mundos, durante o juízo investigativo, que você é digno da salvação e de continuar tendo seu nome no livro da vida porque continuou firme ao Seu lado. Este tema, quando bem compreendido, enche-nos de esperança e estimula-nos a permanecermos ao lado do Senhor."
+            ]
+          },
+          {
+            "titulo": "6.2 A recompensa prometida (Mateus 24:30-31; João 14:1-3; Hebreus 10:37)",
+            "paragrafos": [
+              "Nunca desista do Senhor, pois a recompensa virá quando Jesus voltar para buscá-lo: \"Então aparecerá no céu o sinal do Filho do homem; e todas as tribos da terra se lamentarão, e verão o Filho do homem sobre as nuvens do céu, com poder e grande glória. E ele enviará os seus anjos, com grande clamor de trombeta, os quais reunirão os seus escolhidos, dos quatro ventos, de uma a outra extremidade dos céus.\" (Mateus 24:30-31) \"Não se turbe o vosso coração; credes em Deus, crede também em mim. Na casa de meu Pai há muitas moradas; se não fosse assim, eu vos teria dito. Vou preparar-vos lugar. E quando eu for e vos preparar lugar, voltarei e vos receberei para mim mesmo, para que onde eu estiver estejais vós também.\" (João 14:1-3) \"Porque, ainda dentro de pouco tempo, aquele que vem virá e não tardará.\" (Hebreus 10:37)"
+            ]
+          }
+        ]
+      },
+      {
+        "titulo": "Conclusão",
+        "paragrafos": [
+          "A purificação do santuário celestial é a remoção dos pecados registrados no santuário, mediante o exame dos livros — obra de juízo investigativo iniciada em 1844, ao terminarem os 2300 dias de Daniel 8:14. Não é uma purificação de impurezas físicas, mas do pecado, efetuada com o precioso sangue de Cristo. O modelo desse juízo está em toda a Escritura: desde o \"Onde estás?\" do Éden, passando por Caim e por Sodoma e Gomorra, até o tribunal de Daniel 7, onde os santos são vindicados e recebem o reino. Os santos não precisam temer: o juízo investigativo é uma bênção, pois todo o universo testemunhará que são dignos da salvação. Hebreus 9 não contradiz essa doutrina: o sacrifício de Cristo foi perfeito e suficiente, e a expiação na cruz é parte do processo que inclui Seu ministério sumo-sacerdotal, de Intercessor e de Juiz. O julgamento de Deus tem três fases: antes da segunda vinda, por ocasião dela e após ela. Nunca desista do Senhor, pois a recompensa virá quando Jesus voltar: \"Aquele que vem virá e não tardará.\" (Hebreus 10:37)"
+        ]
+      }
+    ],
+    "linha_do_tempo": [],
+    "perguntas": [
+      {
+        "pergunta": "O que é a purificação do santuário celestial?",
+        "resposta": "É a remoção, ou apagamento, dos pecados registrados no santuário celestial, mediante exame dos livros de registro — obra de juízo investigativo (Hebreus 9:23; Daniel 8:14)."
+      },
+      {
+        "pergunta": "Por que o santuário celestial precisava de purificação?",
+        "resposta": "Porque os pecados são transferidos para ele mediante o sangue de Cristo, como no serviço típico; a purificação real deve efetuar-se pela remoção dos pecados ali registrados (Hebreus 9:23; Levítico 16:16)."
+      },
+      {
+        "pergunta": "Quando começou a purificação do santuário?",
+        "resposta": "Em 1844, ao terminarem os 2300 dias de Daniel 8:14, quando Cristo entrou no lugar santíssimo para a obra final da expiação (Daniel 8:14; Daniel 7:13)."
+      },
+      {
+        "pergunta": "Como se concilia Hebreus 9:12 com o juízo investigativo?",
+        "resposta": "O sacrifício de Cristo foi perfeito e suficiente, mas a expiação na cruz é parte do processo que envolve também Seu ministério sumo-sacerdotal no santuário celestial (Hebreus 9:24-28; Hebreus 8:1-2; João 5:22)."
+      },
+      {
+        "pergunta": "Hebreus 9:12 diz que Jesus entrou no Santo dos Santos?",
+        "resposta": "A palavra grega do texto é ta hágia (santuário), não hágia hagíon (santos dos santos); a Almeida Revista e Corrigida traduz corretamente: \"entrou uma vez no santuário\" (Hebreus 9:12)."
+      },
+      {
+        "pergunta": "O juízo investigativo é bíblico?",
+        "resposta": "Sim. Daniel 7:9-14 descreve um juízo pré-advento com tribunal assentado e livros abertos, no qual os santos são vindicados e recebem o reino (Daniel 7:9-10, 22)."
+      },
+      {
+        "pergunta": "Por que os santos precisam ser julgados se já estão salvos?",
+        "resposta": "Não porque Jesus não saiba quem é dEle, mas porque todo o universo precisa testemunhar que tais filhos de Deus são dignos da salvação (1 Pedro 4:17; Daniel 7:22)."
+      },
+      {
+        "pergunta": "O nome pode ser riscado do livro da vida?",
+        "resposta": "Sim, se a pessoa abandonar a fé: \"Ao vencedor... não riscarei o seu nome do livro da vida\" (Apocalipse 3:5; Êxodo 32:32-33; 1 Coríntios 9:27)."
+      },
+      {
+        "pergunta": "Quais são as três fases do julgamento de Deus?",
+        "resposta": "1. Antes da segunda vinda (pré-advento, Daniel 7:9-15); 2. Por ocasião da segunda vinda (Mateus 25:31-46); 3. Após a segunda vinda (Apocalipse 20; 1 Coríntios 6:2-3)."
+      },
+      {
+        "pergunta": "Qual o modelo bíblico de julgamento investigativo?",
+        "resposta": "Desde o Éden Deus conduz um processo com fase investigativa antes da sentença: \"Onde estás?\" (Gênesis 3:9-13), o caso de Caim (Gênesis 4:9-12) e Sodoma e Gomorra (Gênesis 18-19; 2 Pedro 2:9)."
+      }
+    ],
+    "fontes": [
+      "CAT5350 — A Purificação do Santuário Celestial (Escola Bíblica Novo Tempo)",
+      "CAT6673 — Hebreus 9-12 — Expiação de Jesus e o Juízo Investigativo (Escola Bíblica Novo Tempo)",
+      "CAT6808 — O Juízo Investigativo na Bíblia (Escola Bíblica Novo Tempo)",
+      "CAT4005 — O Santuário e o Desapontamento (Escola Bíblica Novo Tempo)",
+      "Gerhard Pfandl, artigo na Revista Ministério",
+      "C. Mervyn Maxwell, Uma Nova Era Segundo as Profecias do Apocalipse, Casa Publicadora Brasileira, 2002, p. 361",
+      "Comentário Bíblico Adventista do Sétimo Dia, vol. 7",
+      "Ellen G. White, O Grande Conflito, capítulo 23",
+      "Bíblia Sagrada, versão Almeida Revista e Corrigida"
+    ]
+  },
+  "alma-e-imortal-ou-nao": {
+    "id": "alma-e-imortal-ou-nao",
+    "tema": "Estado dos mortos",
+    "titulo": "Alma é Imortal ou Não?",
+    "subtitulo": "Gênesis 2:7",
+    "ordem": 12,
+    "versiculo_memorizar": {
+      "texto": "\"Então formou o SENHOR Deus ao homem do pó da terra, e lhe soprou nas narinas o fôlego de vida, e o homem passou a ser alma vivente.\"",
+      "referencia": "Gênesis 2:7"
+    },
+    "secoes": [
+      {
+        "titulo": "Introdução",
+        "paragrafos": [
+          "A pergunta sobre a imortalidade da alma é uma das mais decisivas de toda a teologia. Se a alma é imortal por natureza, a morte não é realmente morte, e a ressurreição perde o sentido; se a alma não é imortal, então a vida eterna é um dom de Deus concedido na ressurreição, e a morte é um sono real do qual se desperta. A Bíblia responde a essa pergunta com clareza, e a resposta está na própria definição de alma dada na criação. Este estudo aplica o princípio de interpretação sola scriptura: a Escritura explica a Escritura, e nenhuma tradição filosófica pode substituir o que Deus revelou."
+        ]
+      },
+      {
+        "titulo": "Parte 1 — O que é a alma segundo a Bíblia",
+        "paragrafos": [],
+        "subsecoes": [
+          {
+            "titulo": "1.1 A criação do homem (Gênesis 2:7)",
+            "paragrafos": [
+              "De acordo com a Bíblia, a alma só existe enquanto o ser humano está vivo. Isso mesmo: alma não é uma entidade consciente que pode ser separada do corpo, mas o próprio corpo vivo. Para entendermos o conceito de alma, não deveríamos recorrer à filosofia grega, mas à origem de vida como foi descrita por Deus em Gênesis 2:7: \"Então formou o SENHOR Deus ao homem do pó da terra, e lhe soprou nas narinas o fôlego de vida, e o homem passou a ser alma vivente.\" (Gênesis 2:7)",
+              "Perceba que Deus reuniu duas coisas: pó da terra e fôlego de vida (que vem de Deus). Com Seu poder criador, ordenou que da mistura dessas duas coisas aparecesse o homem vivo, uma alma vivente. Gênesis 2:7 não diz que o ser humano tem, mas que ele é uma alma. Homem vivo e alma vivente é a mesma coisa. A fórmula bíblica é: PÓ DA TERRA + FÔLEGO DE VIDA = ALMA VIVENTE."
+            ]
+          },
+          {
+            "titulo": "1.2 O significado da palavra (Ezequiel 18:4)",
+            "paragrafos": [
+              "A palavra hebraica nephesh, traduzida como alma, significa vida, pessoa, ser vivente. Por isso a Bíblia pode dizer que setenta pessoas desceram ao Egito usando a expressão setenta almas (Deuteronômio 10:22), e que toda alma esteja sujeita às autoridades, no sentido de toda pessoa (Romanos 13:1). A conclusão é direta: \"Eis que todas as almas são minhas; tanto a alma do pai como a alma do filho são minhas; a alma que pecar, essa morrerá.\" (Ezequiel 18:4) Se a alma pudesse morrer, ela não é imortal por natureza."
+            ]
+          }
+        ]
+      },
+      {
+        "titulo": "Parte 2 — O que acontece na morte",
+        "paragrafos": [],
+        "subsecoes": [
+          {
+            "titulo": "2.1 A separação dos dois elementos (Eclesiastes 12:7)",
+            "paragrafos": [
+              "Quando o pó da terra e o fôlego de vida se separam, desaparece a alma — a pessoa que era viva passa a se decompor: \"E o pó volte à terra, como o era, e o espírito volte a Deus, que o deu.\" (Eclesiastes 12:7) O corpo vai para a sepultura e aí fica aguardando, em inconsciência total, a ressurreição, quando for chamado por Deus."
+            ]
+          },
+          {
+            "titulo": "2.2 Homens e animais: o mesmo destino físico (Eclesiastes 3:19-20)",
+            "paragrafos": [
+              "Em Eclesiastes 3:19 e 20 lemos que, na morte, tanto os seres humanos quanto os animais vão para o mesmo lugar, indicando que ninguém, na atualidade, antes do juízo final (Apocalipse 20), vai para um lugar intermediário, Céu ou inferno: \"Porque o que sucede aos filhos dos homens, sucede aos animais; o mesmo lhes sucede. Como morre um, assim morre o outro, todos têm o mesmo fôlego de vida, e nenhuma vantagem tem o homem sobre os animais; todos vão para o mesmo lugar; todos procedem do pó, e ao pó tornarão.\" (Eclesiastes 3:19-20) A diferença entre o homem e o animal não está no estado intermediário, mas no destino eterno: o homem será ressuscitado."
+            ]
+          },
+          {
+            "titulo": "2.3 Os mortos não sabem, não louvam, não percebem (Eclesiastes 9:5-6, 10; Salmo 115:17; Jó 14:21)",
+            "paragrafos": [
+              "\"Porque os vivos sabem que hão de morrer, mas os mortos não sabem coisa nenhuma, nem tampouco têm mais recompensa; porque a sua memória fica sepultada. Também o seu amor, e o seu ódio, e a sua inveja já pereceram; e já não têm parte alguma neste século, em coisa alguma do que se faz debaixo do sol... tudo o que te vier à mão fazer, faze-o conforme as tuas forças, porque na sepultura, para onde tu vais, não há obra, nem projeto, nem conhecimento, nem sabedoria alguma.\" (Eclesiastes 9:5-6, 10) \"Os mortos não louvam o SENHOR, tampouco nenhum dos que descem ao silêncio.\" (Salmo 115:17) \"Os seus filhos recebem honras, e ele o não sabe; são humilhados, e ele o não percebe.\" (Jó 14:21) Não existem almas vagando por aí, em algum lugar do espaço. Quando o homem morre, a alma morre, pois o homem e alma são a mesma coisa."
+            ]
+          }
+        ]
+      },
+      {
+        "titulo": "Parte 3 — Adão foi criado imortal?",
+        "paragrafos": [],
+        "subsecoes": [
+          {
+            "titulo": "3.1 A imortalidade condicional (Gênesis 3:22-23; Gênesis 5:5)",
+            "paragrafos": [
+              "O homem foi criado por Deus para ser imortal; era um candidato à existência eterna, mas com a condição de que deveria ser obediente a Deus — imortalidade condicional. Pelo fato de ter pecado, perdeu o direito à imortalidade, pois foi privado da presença do Criador e da árvore da vida: \"E disse o SENHOR Deus: Eis que o homem é como um de nós, sabendo o bem e o mal; ora, pois, para que não estenda a sua mão, e tome também da árvore da vida, e coma e viva eternamente; o SENHOR Deus, pois, o lançou fora do jardim do Éden, para lavrar a terra de que fora tomado.\" (Gênesis 3:22-23) Adão viveu apenas — em relação ao que poderia ter vivido — 930 anos: \"E foram todos os dias que Adão viveu novecentos e trinta anos; e morreu.\" (Gênesis 5:5)"
+            ]
+          },
+          {
+            "titulo": "3.2 A prova de que não somos imortais",
+            "paragrafos": [
+              "O fato de o homem ser privado da presença contínua do Eterno e da árvore da vida é uma prova de que nós não somos imortais; para que o fôssemos — ter um espírito imortal, segundo dizem alguns —, teríamos ainda de comer da árvore da vida. Se a alma fosse naturalmente imortal, a árvore da vida seria desnecessária, e a expulsão do Éden não teria consequência alguma."
+            ]
+          }
+        ]
+      },
+      {
+        "titulo": "Parte 4 — A origem do erro",
+        "paragrafos": [],
+        "subsecoes": [
+          {
+            "titulo": "4.1 A primeira mentira (Gênesis 3:4; João 8:44)",
+            "paragrafos": [
+              "A ideia de que a alma não morre é ensino de Satanás e foi a primeira mentira pregada pelo diabo: \"Então a serpente disse à mulher: É certo que não morrereis.\" (Gênesis 3:4) A verdade é aquela que Deus disse, em Gênesis 2:17: \"No dia em que dela comeres, certamente morrerás.\" Jesus disse que o diabo é mentiroso e pai da mentira: \"Vós sois do diabo, vosso pai, e quereis satisfazer os desejos de vosso pai. Ele foi homicida desde o princípio, e não se firmou na verdade, porque não há verdade nele. Quando ele profere mentira, fala do que lhe é próprio, porque é mentiroso, e pai da mentira.\" (João 8:44) A mentira do diabo é a base do espiritismo e de todo ensino que diz que a alma é imortal sem primeiro a pessoa ser ressuscitada."
+            ]
+          },
+          {
+            "titulo": "4.2 A influência pagã (Platão, Egito e Babilônia)",
+            "paragrafos": [
+              "A crença popular de que a alma sai do corpo quando o homem morre e vai para o céu, purgatório ou inferno não tem o apoio da Bíblia. É uma ideia pagã, trazida do Egito e da Babilônia, e introduzida no Ocidente por Platão, o grande filósofo grego. A doutrina da imortalidade da alma não vem da revelação divina, mas da filosofia humana — e por isso não pode ser o fundamento da nossa esperança."
+            ]
+          }
+        ]
+      },
+      {
+        "titulo": "Parte 5 — A verdadeira esperança: a ressurreição",
+        "paragrafos": [],
+        "subsecoes": [
+          {
+            "titulo": "5.1 A imortalidade como dom (1 Coríntios 15:51-55)",
+            "paragrafos": [
+              "A imortalidade não é uma possessão natural do homem, mas um dom concedido na ressurreição: \"Eis aqui vos digo um mistério: Nem todos dormiremos, mas todos seremos transformados, num momento, num abrir e fechar de olhos, ao ressoar da última trombeta. Porque a trombeta soará, os mortos ressuscitarão incorruptíveis, e nós seremos transformados. Porque é necessário que este corpo corruptível se revista da incorruptibilidade, e que o corpo mortal se revista da imortalidade. E, quando este corpo corruptível se revestir de incorruptibilidade, e o que é mortal se revestir de imortalidade, então se cumprirá a palavra que está escrita: Tragada foi a morte pela vitória. Onde está, ó morte, a tua vitória? Onde está, ó morte, o teu aguilhão?\" (1 Coríntios 15:51-55)"
+            ]
+          },
+          {
+            "titulo": "5.2 O sono da morte e o despertar (1 Tessalonicenses 4:13-16)",
+            "paragrafos": [
+              "É bom que seja assim, pois quando o homem ressuscitar, ao chamado de Deus, não saberá quanto tempo ficou na sepultura e terá a impressão de que acabou de morrer e já está vendo o Senhor Jesus Cristo. E, no entanto, pode ter ficado na sepultura um dia, um ano, um século ou milênios: \"Não queremos, porém, irmãos, que sejais ignorantes com respeito aos que dormem, para não vos entristecerdes como os demais, que não têm esperança... Porque o mesmo Senhor descerá do céu com alarido, e voz de arcanjo, e com a trombeta de Deus; e os que morreram em Cristo ressuscitarão primeiro.\" (1 Tessalonicenses 4:13, 16)"
+            ]
+          },
+          {
+            "titulo": "5.3 Como obter a vida eterna (João 3:16; 6:40, 47)",
+            "paragrafos": [
+              "Graças a Deus que todos temos novamente a possibilidade de ter a vida eterna; eis o segredo: \"Porque Deus amou ao mundo de tal maneira que deu o seu Filho unigênito, para que todo o que nele crê não pereça, mas tenha a vida eterna.\" (João 3:16) \"De fato, a vontade de meu Pai é que todo homem que vir o Filho e nele crer tenha a vida eterna; e eu o ressuscitarei no último dia.\" (João 6:40) \"Em verdade, em verdade vos digo: quem crê em mim tem a vida eterna.\" (João 6:47) O segredo da vida eterna é crer em Jesus e aceitá-Lo como Salvador, crendo em Seu sacrifício realizado na cruz do Calvário. Tal pessoa está com a imortalidade garantida e a receberá na volta de Jesus (1 Coríntios 15:23), quando Ele voltar (1 Tessalonicenses 4:13-16) \"nas nuvens do céu com poder e grande glória\" (Lucas 21:27)."
+            ]
+          }
+        ]
+      },
+      {
+        "titulo": "Conclusão",
+        "paragrafos": [
+          "A alma é imortal? A Bíblia responde que não. A alma é a pessoa viva — o resultado da união do pó da terra com o fôlego de vida — e, quando esses dois elementos se separam, a alma deixa de existir conscientemente. Adão foi criado com imortalidade condicional e a perdeu pelo pecado; a ideia de que a alma não morre é a primeira mentira do diabo, reforçada pela filosofia grega e pelo paganismo. Os mortos não sabem coisa nenhuma, não louvam, não percebem: dormem na sepultura, aguardando a ressurreição. A imortalidade não é uma possessão, mas um dom: será concedida quando a trombeta soar, os mortos ressuscitarem incorruptíveis e este corpo mortal se revestir da imortalidade. Então se cumprirá a palavra: \"Tragada foi a morte pela vitória.\" (1 Coríntios 15:54) E o segredo da vida eterna é simples e está ao alcance de todos: crer em Jesus e aceitá-Lo como Salvador. \"Quem crê em mim tem a vida eterna.\" (João 6:47)"
+        ]
+      }
+    ],
+    "linha_do_tempo": [],
+    "perguntas": [
+      {
+        "pergunta": "A alma é imortal?",
+        "resposta": "Não. De acordo com a Bíblia, a alma só existe enquanto o ser humano está vivo; não é uma entidade consciente que pode ser separada do corpo, mas o próprio corpo vivo (Gênesis 2:7; Ezequiel 18:4)."
+      },
+      {
+        "pergunta": "O que é a alma segundo a Bíblia?",
+        "resposta": "A alma é o resultado da união do pó da terra com o fôlego de vida: \"o homem passou a ser alma vivente\" (Gênesis 2:7); a Bíblia não diz que o ser humano tem uma alma, mas que ele é uma alma."
+      },
+      {
+        "pergunta": "O que acontece com a alma na morte?",
+        "resposta": "Quando o pó da terra e o fôlego de vida se separam, desaparece a alma: \"a alma que pecar, essa morrerá\" (Ezequiel 18:4; Eclesiastes 12:7)."
+      },
+      {
+        "pergunta": "Adão foi criado imortal?",
+        "resposta": "O homem foi criado para ser imortal, mas com a condição de obedecer a Deus (imortalidade condicional); pelo pecado, perdeu o direito à imortalidade e foi privado da árvore da vida (Gênesis 3:22-23; Gênesis 5:5)."
+      },
+      {
+        "pergunta": "Para onde vão os mortos?",
+        "resposta": "Para a sepultura, em inconsciência total, aguardando a ressurreição: \"os mortos não sabem coisa nenhuma\" (Eclesiastes 9:5; Jó 14:21; Salmo 115:17)."
+      },
+      {
+        "pergunta": "De onde vem a ideia de que a alma é imortal?",
+        "resposta": "É a primeira mentira pregada pelo diabo: \"É certo que não morrereis\" (Gênesis 3:4); é uma ideia pagã, trazida do Egito e da Babilônia, e introduzida no Ocidente por Platão (João 8:44)."
+      },
+      {
+        "pergunta": "Homens e animais têm o mesmo destino na morte?",
+        "resposta": "Sim, quanto ao estado intermediário: \"todos têm o mesmo fôlego de vida... todos vão para o mesmo lugar; todos procedem do pó, e ao pó tornarão\" (Eclesiastes 3:19-20)."
+      },
+      {
+        "pergunta": "Quando o homem recebe a imortalidade?",
+        "resposta": "Na ressurreição, na volta de Jesus: \"é necessário que este corpo corruptível se revista da incorruptibilidade, e que o corpo mortal se revista da imortalidade\" (1 Coríntios 15:51-55; 1 Coríntios 15:23)."
+      },
+      {
+        "pergunta": "Como obter a vida eterna?",
+        "resposta": "Crendo em Jesus e aceitando-O como Salvador: \"todo o que nele crê não pereça, mas tenha a vida eterna\" (João 3:16; João 6:40, 47)."
+      },
+      {
+        "pergunta": "O que os mortos fazem ou não fazem?",
+        "resposta": "Não louvam o Senhor, não sabem coisa nenhuma, não têm parte em nada do que se faz debaixo do sol (Salmo 115:17; Eclesiastes 9:5-6, 10; Jó 14:21)."
+      }
+    ],
+    "fontes": [
+      "CAT5284 — A alma é imortal? (Escola Bíblica Novo Tempo; material editado por Leandro Quadros)",
+      "CAT5281 — Foi Adão Criado Imortal? (Escola Bíblica Novo Tempo)",
+      "Mortos — O que fazem ou não fazem — Imortalidade (documento do Drive)",
+      "CAT5172 — Espírito e Alma (Escola Bíblica Novo Tempo; comentários de Gleason Archer)",
+      "Igreja Adventista do Sétimo Dia, 28 Crenças Fundamentais — doutrina 7 (A Natureza do Homem)",
+      "Bíblia Sagrada, versão Almeida Revista e Corrigida"
+    ]
+  },
   "apocalipse-17-a-grande-babilonia": {
     "id": "apocalipse-17-a-grande-babilonia",
     "tema": "Escatologia",

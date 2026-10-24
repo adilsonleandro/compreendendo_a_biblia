@@ -1,6 +1,6 @@
 window.INDICE_ESTUDOS = {
-  "gerado_em": "2026-10-18T11:36:33",
-  "total_estudos": 14,
+  "gerado_em": "2026-10-24T14:23:02",
+  "total_estudos": 16,
   "temas": [
     {
       "nome": "Escatologia",
@@ -103,6 +103,15 @@ window.INDICE_ESTUDOS = {
           "ordem": 10,
           "versiculo": "Apocalipse 21:1",
           "arquivo": "js/estudos/a-nova-terra.json"
+        },
+        {
+          "id": "a-purificacao-do-santuario-celestial",
+          "tema": "Escatologia",
+          "titulo": "A Purificação do Santuário Celestial",
+          "subtitulo": "Daniel 8:14",
+          "ordem": 13,
+          "versiculo": "Daniel 8:14",
+          "arquivo": "js/estudos/a-purificacao-do-santuario-celestial.json"
         }
       ]
     },
@@ -117,6 +126,15 @@ window.INDICE_ESTUDOS = {
           "ordem": 1,
           "versiculo": "Eclesiastes 9:5",
           "arquivo": "js/estudos/o-que-ocorre-na-morte.json"
+        },
+        {
+          "id": "alma-e-imortal-ou-nao",
+          "tema": "Estado dos mortos",
+          "titulo": "Alma é Imortal ou Não?",
+          "subtitulo": "Gênesis 2:7",
+          "ordem": 12,
+          "versiculo": "Gênesis 2:7",
+          "arquivo": "js/estudos/alma-e-imortal-ou-nao.json"
         }
       ]
     },

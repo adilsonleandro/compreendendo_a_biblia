@@ -1,0 +1,71 @@
+// ============================================================
+// QUIZ DA LIÇÃO 5 — 4º Trimestre 2026
+// Gerado automaticamente por novo_quiz.py — não editar à mão
+// ============================================================
+window.QUIZ_REGISTRO = window.QUIZ_REGISTRO || {};
+window.QUIZ_REGISTRO['licao-2026-4t-5'] = [
+  {
+    "pergunta": "De acordo com Apocalipse 1:1 e 2, qual é a sequência correta na cadeia de transmissão da mensagem profética divina entregue à igreja?",
+    "resposta_certa": "B",
+    "a": "Deus, o Pai; o Espírito Santo; os anjos; a igreja; e os profetas.",
+    "b": "Deus, o Pai; Jesus Cristo; o anjo; o apóstolo João; e os servos/ouvintes.",
+    "c": "Jesus Cristo; Deus, o Pai; o profeta João; o anjo; e a igreja.",
+    "d": "Deus, o Pai; o anjo; Jesus Cristo; o apóstolo João; e a igreja.",
+    "referencia_biblica": "Apocalipse 1:1, 2"
+  },
+  {
+    "pergunta": "A revelação geral manifesta o poder e a divindade do Criador na natureza, mas apresenta limitações para o ser humano decaído. Por que a revelação especial registrada nas Escrituras é indispensável?",
+    "resposta_certa": "C",
+    "a": "Porque a natureza reflete com exatidão todo o plano da redenção, tornando a Bíblia apenas um recurso suplementar.",
+    "b": "Porque a revelação geral foi totalmente destruída pelo pecado, deixando de testemunhar sobre o poder e os atributos divinos.",
+    "c": "Porque o mundo natural transmite uma mensagem ambígua ao exibir tanto o amor de Deus quanto as marcas do mal, necessitando da revelação especial para explicar a redenção em Cristo.",
+    "d": "Porque a revelação geral é acessível unicamente aos patriarcas e profetas que viveram antes da introdução da escrita.",
+    "referencia_biblica": "Romanos 1:20"
+  },
+  {
+    "pergunta": "Conforme a perspectiva bíblica e teológica sobre o processo de inspiração em 2 Timóteo 3:16 e 2 Pedro 1:20 e 21, como se dá a comunicação da mensagem de Deus através dos escritores sagrados?",
+    "resposta_certa": "A",
+    "a": "O Espírito Santo encheu a mente dos profetas com pensamentos divinos, permitindo que eles usassem suas próprias palavras, estilo e vocabulário para transmitir a mensagem.",
+    "b": "Deus empregou o método do ditado verbal estrito, anulando a individualidade, o estilo e as pesquisas históricas de cada escritor.",
+    "c": "Os profetas registraram apenas impressões subjetivas e intuições espirituais próprias, sem a comunicação de verdades objetivas reveladas.",
+    "d": "A inspiração reside exclusivamente nas palavras individuais do texto hebraico e grego, e não na pessoa do profeta capacitada pelo Espírito.",
+    "referencia_biblica": "2 Timóteo 3:16"
+  },
+  {
+    "pergunta": "Profetas bíblicos como Noé, Natã, Elias e João Batista não escreveram livros canônicos, e o próprio Jesus atuou primordialmente como pregador oral. Com base em 2 Pedro 1:19-21 e no ministério desses servos, o que se afirma sobre as mensagens transmitidas oralmente?",
+    "resposta_certa": "D",
+    "a": "Possuíam autoridade espiritual temporária, mas tinham um grau inferior de inspiração quando comparadas às mensagens dos profetas escritores.",
+    "b": "Dependiam da aprovação prévia e confirmação de um profeta com escritos canônicos para serem consideradas inspiradas.",
+    "c": "Eram suscetíveis a falhas teológicas de conteúdo, razão pela qual Deus ordenou que fossem desconsideradas após a fixação do Cânon.",
+    "d": "Tinham plena autoridade e inspiração divina equivalente à dos profetas canônicos, pois a autoridade provém da origem da mensagem em Deus, e não do suporte em que é transmitida.",
+    "referencia_biblica": "2 Pedro 1:19-21"
+  },
+  {
+    "pergunta": "Em Êxodo 17:14 e Apocalipse 1:19, Deus ordenou expressamente o registro escrito de Suas revelações. Qual foi o propósito fundamental dessa transição da comunicação oral para a escrita?",
+    "resposta_certa": "B",
+    "a": "Garantir a primazia cultural da nação de Israel e do idioma hebraico sobre os povos pagãos vizinhos.",
+    "b": "Conferir permanência à revelação, preservando a verdade contra o esquecimento, as distorções da tradição oral e protegendo a unidade doutrinária ao longo das gerações.",
+    "c": "Restringir o acesso às mensagens sagradas exclusivamente aos sacerdotes, profetas e escribas autorizados.",
+    "d": "Substituir definitivamente a atuação direta do Espírito Santo no coração e na mente dos crentes por meio de um código estático.",
+    "referencia_biblica": "Êxodo 17:14"
+  },
+  {
+    "pergunta": "Em Ezequiel 4:1-8, o profeta foi instruído a construir uma maquete do cerco de Jerusalém e deitar-se sobre seus lados por 390 e 40 dias. Qual era o propósito pedagógico de Deus ao empregar encenações e dramatizações proféticas?",
+    "resposta_certa": "C",
+    "a": "Substituir os sacrifícios rituais do tabernáculo que haviam sido abolidos prematuramente antes do exílio.",
+    "b": "Ocultar a mensagem profética dos babilônios para que apenas os israelitas compreendessem o enigma militar.",
+    "c": "Produzir um impacto visual profundo e chocante a fim de quebrar a indiferença de um povo endurecido que rejeitava as advertências verbais dos profetas.",
+    "d": "Demonstrar que as ações humanas dos profetas eram incapazes de ilustrar as verdades espirituais sem o uso de maquetes físicas.",
+    "referencia_biblica": "Ezequiel 4:1-8"
+  },
+  {
+    "pergunta": "Ao avaliar ministérios proféticos que surgem após o fechamento do Cânon bíblico, a igreja utiliza critérios como o da precedência e da ampla aceitação, respaldados em Isaías 8:20. De acordo com a teologia adventista, qual é a relação de autoridade entre a Bíblia e os escritos de Ellen G. White?",
+    "resposta_certa": "A",
+    "a": "Embora compartilhem a mesma natureza de inspiração procedente do Espírito Santo, a Bíblia possui autoridade suprema e regente (a 'luz maior'), servindo de norma e teste para todos os demais escritos.",
+    "b": "Os escritos modernos possuem autoridade hierarquicamente superior por terem sido produzidos para a igreja do tempo do fim.",
+    "c": "Os escritos proféticos modernos possuem inspiração verbal plena, ao passo que os escritores da Bíblia possuíam apenas inspiração parcial de ideias.",
+    "d": "As manifestações proféticas modernas devem ser adicionadas formalmente ao Cânon bíblico após terem sua autenticidade comprovada pela liderança da igreja.",
+    "referencia_biblica": "Isaías 8:20"
+  }
+];
+window.QUIZ_REGISTRO['licao-5'] = window.QUIZ_REGISTRO['licao-2026-4t-5'];

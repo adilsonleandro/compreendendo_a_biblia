@@ -6,6 +6,125 @@
 
 const LICOES = [
   {
+    id: 5,
+    titulo: "Revelação e inspiração",
+    data: "24 de Outubro de 2026",
+    semana: "Lição 5 - 4º Trimestre 2026",
+    versiculo: "Ap 1:1, 2",
+    texto: "Revelação de Jesus Cristo, a qual Deus Lhe deu para mostrar aos Seus servos as coisas que em breve devem acontecer e que Ele, enviando o Seu anjo, deu a conhecer ao Seu servo João, que atestou a palavra de Deus e o testemunho de Jesus Cristo, quanto a tudo o que viu",
+    resumo: "A lição examina o processo pelo qual Deus Se comunica com a humanidade por meio da revelação e inspiração. Esse processo divino-humano manifestou-se de formas variadas — oral, escrita e dramatizada —, garantindo a transmissão fidedigna da verdade divina ao longo das eras. As Escrituras permanecem como o padrão confiável e inspirado da vontade de Deus para a salvação humana.",
+    leituras: [{"ref": "Hb 1:1, 2", "versoes": {"naa": "Antigamente, Deus falou, muitas vezes e de muitas maneiras, aos pais, pelos profetas, mas, nestes últimos dias, nos falou pelo Filho, a quem constituiu herdeiro de todas as coisas e pelo qual também fez o universo.", "ntlh": "Antigamente, por meio dos profetas, Deus falou muitas vezes e de muitas maneiras aos nossos antepassados , mas nestes últimos tempos ele nos falou por meio do seu Filho. Foi ele quem Deus escolheu para possuir todas as coisas e foi por meio dele que Deus criou o Universo.", "nvi": "Há muito tempo Deus falou muitas vezes e de várias maneiras aos nossos antepassados por meio dos profetas, mas nestes últimos dias falou-nos por meio do Filho, a quem constituiu herdeiro de todas as coisas e por meio de quem fez o universo.", "acf": "HAVENDO Deus antigamente falado muitas vezes, e de muitas maneiras, aos pais, pelos profetas, a nós falou-nos nestes últimos dias pelo Filho, A quem constituiu herdeiro de tudo, por quem fez também o mundo."}}, {"ref": "2Tm 3:15-17", "versoes": {"naa": "e que, desde a infância, você conhece as sagradas letras, que podem torná-lo sábio para a salvação pela fé em Cristo Jesus. Toda a Escritura é inspirada por Deus e útil para o ensino, para a repreensão, para a correção, para a educação na justiça, a fim de que o servo de Deus seja perfeito e perfeitamente habilitado para toda boa obra.", "ntlh": "E, desde menino, você conhece as Escrituras Sagradas, as quais lhe podem dar a sabedoria que leva à salvação, por meio da fé em Cristo Jesus. Pois toda a Escritura Sagrada é inspirada por Deus e é útil para ensinar a verdade, condenar o erro, corrigir as faltas e ensinar a maneira certa de viver. E isso para que o servo de Deus esteja completamente preparado e pronto para fazer todo tipo de boas ações.", "nvi": "Porque desde criança você conhece as Sagradas Letras, que são capazes de torná-lo sábio para a salvação mediante a fé em Cristo Jesus. Toda a Escritura é inspirada por Deus e útil para o ensino, para a repreensão, para a correção e para a instrução na justiça, para que o homem de Deus seja apto e plenamente preparado para toda boa obra.", "acf": "E que desde a tua meninice sabes as sagradas Escrituras, que podem fazer-te sábio para a salvação, pela fé que há em Cristo Jesus. Toda a Escritura é divinamente inspirada, e proveitosa para ensinar, para redargüir, para corrigir, para instruir em justiça; Para que o homem de Deus seja perfeito, e perfeitamente instruído para toda a boa obra."}}, {"ref": "2Pe 1:18-21", "versoes": {"naa": "Ora, nós ouvimos esta voz vinda do céu quando estávamos com ele no monte santo. Assim, temos ainda mais segura a palavra profética, e vocês fazem bem em dar atenção a ela, como a uma luz que brilha em lugar escuro, até que o dia clareie e a estrela da alva nasça no coração de vocês. Primeiramente, porém, saibam que nenhuma profecia da Escritura provém de interpretação pessoal; porque nunca jamais qualquer profecia foi dada por vontade humana; entretanto, homens falaram da parte de Deus, movidos pelo Espírito Santo.", "ntlh": "Nós mesmos ouvimos essa voz que veio do céu quando estávamos com o Senhor Jesus no monte sagrado. Assim temos mais confiança ainda na mensagem anunciada pelos profetas. Vocês fazem bem em prestar atenção nessa mensagem. Pois ela é como uma luz que brilha em lugar escuro, até que o dia amanheça e a luz da estrela da manhã brilhe no coração de vocês. Acima de tudo, porém, lembrem disto: ninguém pode explicar, por si mesmo, uma profecia das Escrituras Sagradas. Pois nenhuma mensagem profética veio da vontade humana, mas as pessoas eram guiadas pelo Espírito Santo quando anunciavam a mensagem que vinha de Deus.", "nvi": "Nós mesmos ouvimos essa voz vinda dos céus, quando estávamos com ele no monte santo. Assim, temos ainda mais firme a palavra dos profetas, e vocês farão bem se a ela prestarem atenção, como a uma candeia que brilha em lugar escuro, até que o dia clareie e a estrela da alva nasça no coração de vocês. Antes de mais nada, saibam que nenhuma profecia da Escritura provém de interpretação pessoal, pois jamais a profecia teve origem na vontade humana, mas homens falaram da parte de Deus, impelidos pelo Espírito Santo.", "acf": "E ouvimos esta voz dirigida do céu, estando nós com ele no monte santo; E temos, mui firme, a palavra dos profetas, à qual bem fazeis em estar atentos, como a uma luz que alumia em lugar escuro, até que o dia amanheça, e a estrela da alva apareça em vossos corações. Sabendo primeiramente isto: que nenhuma profecia da Escritura é de particular interpretação. Porque a profecia nunca foi produzida por vontade de homem algum, mas os homens santos de Deus falaram inspirados pelo Espírito Santo."}}, {"ref": "Êx 17:14", "versoes": {"naa": "Então o SENHOR disse a Moisés: — Escreva isto para memória num livro e repita-o a Josué, porque eu vou apagar totalmente a memória dos amalequitas da face da terra.", "ntlh": "Então o SENHOR Deus disse a Moisés: — Escreva um relatório dessa vitória a fim de que ela seja lembrada. Diga a Josué que eu vou destruir completamente os amalequitas.", "nvi": "Depois o SENHOR disse a Moisés: “Escreva isto num rolo, como memorial, e declare a Josué que farei que os amalequitas sejam esquecidos para sempre debaixo do céu”.", "acf": "Então disse o SENHOR a Moisés: Escreve isto para memória num livro, e relata-o aos ouvidos de Josué; que eu totalmente hei de riscar a memória de Amaleque de debaixo dos céus."}}, {"ref": "Ap 1:19", "versoes": {"naa": "Escreva, pois, as coisas que você viu, as que são e as que hão de acontecer depois destas.", "ntlh": "Portanto, escreva as coisas que você vai ver, tanto as que estão acontecendo agora como as que vão acontecer depois.", "nvi": "“Escreva, pois, as coisas que você viu, tanto as presentes como as que acontecerão.", "acf": "Escreve as coisas que tens visto, e as que são, e as que depois destas hão de acontecer;"}}, {"ref": "Ez 4:1-8", "versoes": {"naa": "— Filho do homem, pegue um tijolo, ponha-o diante de você e faça nele um desenho da cidade de Jerusalém. Nesse desenho, a cidade deverá estar sitiada, com rampas e torres de ataque, acampamentos e aríetes em volta dela. Pegue também uma assadeira de ferro e coloque-a como muro de ferro entre você e a cidade. Volte o seu rosto para a cidade. Ela será sitiada, e você a sitiará. Isso servirá de sinal para a casa de Israel. — Deite-se também sobre o seu lado esquerdo e ponha sobre ele a maldade da casa de Israel. Conforme o número dos dias que se deitar sobre o seu lado esquerdo, você levará sobre si a maldade da casa de Israel. Porque determinei que cada ano da sua maldade corresponda a um dia, num total de trezentos e noventa dias; e você levará sobre si a maldade da casa de Israel. Quando você tiver cumprido esses dias, deite-se sobre o seu lado direito, e você levará sobre si a maldade da casa de Judá durante quarenta dias: um dia para cada ano. Volte o seu rosto para o cerco de Jerusalém e, com o braço descoberto, profetize contra ela. Eis que vou amarrá-lo com cordas, e assim você não poderá se virar de um lado para o outro até que você tenha cumprido os dias do seu cerco.", "ntlh": "Deus disse: — Homem mortal, pegue um tijolo, ponha na sua frente e faça nele um desenho da cidade de Jerusalém. Nesse desenho, a cidade deverá estar cercada pelos inimigos, com rampas e torres de ataque, com um acampamento e com máquinas de derrubar muralhas. Pegue uma frigideira de ferro e ponha como se fosse um muro entre você e a cidade. Vire o rosto na direção da cidade. Ela está cercada, e é você quem a está cercando. Isso será um sinal para o povo de Israel. [4-5] — Deite-se do lado esquerdo, que eu vou colocar sobre você a culpa do povo de Israel. Você ficará deitado ali, carregando o pecado deles durante trezentos e noventa dias, porque eu o condenei a um dia para cada ano de castigo do povo. [4-5] — Deite-se do lado esquerdo, que eu vou colocar sobre você a culpa do povo de Israel. Você ficará deitado ali, carregando o pecado deles durante trezentos e noventa dias, porque eu o condenei a um dia para cada ano de castigo do povo. Quando você terminar isso, vire do lado direito e carregue o pecado de Judá durante quarenta dias, isto é, um dia para cada ano do castigo deles. — Olhe firme para Jerusalém cercada pelos inimigos. Então arregace as mangas e profetize contra a cidade. Eu vou amarrá-lo, e assim você não poderá virar de um lado para outro até que os inimigos deixem de cercar a cidade.", "nvi": "“Agora, filho do homem, apanhe um tijolo, coloque-o à sua frente e nele desenhe a cidade de Jerusalém. Em seguida, cerque-a e erga obras de cerco contra ela; construa uma rampa, monte acampamentos e ponha aríetes ao redor dela. Depois apanhe uma panela de ferro, coloque-a como muro de ferro entre você e a cidade e ponha-se de frente para ela. Ela estará cercada, e você a sitiará. Isto será um sinal para a nação de Israel. “Deite-se então sobre o seu lado esquerdo e sobre você ponha a iniquidade da nação de Israel. Você terá que carregar a iniquidade dela durante o número de dias em que estiver deitado sobre o lado esquerdo. Determinei que o número de dias seja equivalente ao número de anos da iniquidade dela, ou seja, durante trezentos e noventa dias você carregará a iniquidade da nação de Israel. “Terminado esse prazo, deite-se sobre o seu lado direito e carregue a iniquidade da nação de Judá, durante quarenta dias, tempo que eu determinei para você, um dia para cada ano. Olhe para o cerco de Jerusalém e, com braço desnudo, profetize contra ela. Vou amarrá-lo com cordas para que você não possa virar-se enquanto não cumprir os dias da sua aflição.", "acf": "TU, pois, ó filho do homem, toma um tijolo, e pô-lo-ás diante de ti, e grava nele a cidade de Jerusalém. E põe contra ela um cerco, e edifica contra ela uma fortificação, e levanta contra ela uma trincheira, e põe contra ela arraiais, e põe-lhe aríetes em redor. E tu toma uma sertã de ferro, e põe-na por muro de ferro entre ti e a cidade; e dirige para ela o teu rosto, e assim será cercada, e a cercarás; isto servirá de sinal à casa de Israel. Tu também deita-te sobre o teu lado esquerdo, e põe a iniqüidade da casa de Israel sobre ele; conforme o número dos dias que te deitares sobre ele, levarás as suas iniqüidades. Porque eu já te tenho fixado os anos da sua iniqüidade, conforme o número dos dias, trezentos e noventa dias; e levarás a iniqüidade da casa de Israel. E, quando tiveres cumprido estes dias, tornar-te-ás a deitar sobre o teu lado direito, e levarás a iniqüidade da casa de Judá quarenta dias; um dia te dei para cada ano. Dirigirás, pois, o teu rosto para o cerco de Jerusalém, com o teu braço descoberto, e profetizarás contra ela. E eis que porei sobre ti cordas; assim tu não te voltarás de um lado para o outro, até que cumpras os dias do teu cerco."}}],
+    abertura: {
+      versiculo: "Revelação de Jesus Cristo, a qual Deus Lhe deu para mostrar aos Seus servos as coisas que em breve devem acontecer e que Ele, enviando o Seu anjo, deu a conhecer ao Seu servo João, que atestou a palavra de Deus e o testemunho de Jesus Cristo, quanto a tudo o que viu",
+      periodo: "24 de outubro a 30 de outubro de 2026",
+      resumo: "Verso para memorizar:\n\n“Revelação de Jesus Cristo, a qual Deus Lhe deu para mostrar aos Seus servos as coisas que em breve devem acontecer e que Ele, enviando o Seu anjo, deu a conhecer ao Seu servo João, que atestou a palavra de Deus e o testemunho de Jesus Cristo, quanto a tudo o que viu” (Ap 1:1, 2)\n\nLeituras da semana:\n\nHb 1:1, 2; 2Tm 3:15-17; 2Pe 1:18-21; Êx 17:14; Ap 1:19; Ez 4:1-8\n\nO apóstolo João fazia parte do círculo íntimo dos 12 apóstolos (Lc 8:51; Mt 17:1; 26:36, 37). Depois da ascensão de Cristo, ele continuou seu ministério em Jerusalém. No entanto, antes da queda da cidade (no ano 70 d.C.), mudou-se para Éfeso a fim de supervisionar as igrejas da província romana da Ásia Menor. Durante a perseguição aos cristãos sob o domínio do imperador romano Domiciano, o apóstolo foi exilado em Patmos, uma ilha no mar Egeu.\n\nEm Patmos, João recebeu mensagens proféticas especiais destinadas não apenas às sete igrejas da Ásia Menor, mas também aos cristãos de todas as épocas (Ap 1:1-3, 9-11). A cadeia de transmissão da mensagem profética, da qual João fazia parte, seguia esta sequência: Deus, o Pai; Jesus Cristo; o anjo; o apóstolo João; e, por fim, os leitores e ouvintes. Esse é um exemplo clássico do processo de revelação e inspiração, no qual Deus usa profetas para comunicar Suas mensagens à humanidade.\n\nA lição desta semana examina especificamente o diverso e rico processo de revelação e inspiração, com foco especial nas formas oral, escrita e dramatizada pelas quais a mensagem divina tem sido comunicada aos seres humanos.",
+      reflexao: "Que Deus nos fale por meio desta lição."
+    },
+    perguntas: [
+      {
+        pergunta: "Leia Hebreus 1:1 e 2. Por que Deus Se interessa tanto em falar conosco? O que Ele nos diz por meio de Jesus e dos profetas?",
+        resposta: "Deus Se comunica conosco por amor a um mundo caído, explicando o porquê da nossa existência e oferecendo esperança em meio ao sofrimento. Por meio dos profetas e supremamente em Jesus, Ele revela Seu caráter e o plano completo da redenção humana.",
+        versoes: {}
+      },
+      {
+        pergunta: "Leia 2 Timóteo 3:15-17 e Tiago 1:17. Que mensagem importante devemos extrair desses versos?",
+        resposta: "Toda a Escritura tem origem em Deus, a fonte de toda boa dádiva, sendo plenamente inspirada e proveitosa para ensinar, corrigir e habilitar o cristão para toda boa obra.",
+        versoes: {}
+      },
+      {
+        pergunta: "Leia 2 Pedro 1:18-21. Que segurança temos de que as mensagens transmitidas oralmente pelos profetas de Deus eram tão inspiradas e confiáveis quanto aquelas registradas por escrito?",
+        resposta: "Temos a certeza da sua plena fidedignidade porque a profecia nunca surgiu por vontade humana, mas homens santos falaram da parte de Deus impelidos e guiados pelo Espírito Santo.",
+        versoes: {}
+      },
+      {
+        pergunta: "Leia Êxodo 17:14; João 20:30, 31; 1 Coríntios 10:11; e Apocalipse 1:19. Por que Deus pediu a Seus profetas que registrassem por escrito as mensagens que lhes deu?",
+        resposta: "Deus ordenou o registro escrito para preservar a memória de Seus feitos, advertir e orientar as gerações futuras, e levar os leitores a crerem em Jesus para alcançarem a vida eterna.",
+        versoes: {}
+      },
+      {
+        pergunta: "Leia Ezequiel 4:1-8. Por que você acha que Deus não apenas falou verbalmente, mas também dramatizou algumas de Suas mensagens?",
+        resposta: "Deus utilizou dramatizações impactantes para romper a apatia e a rebeldia do povo, alertando-os de maneira inesquecível sobre a seriedade do juízo e a necessidade urgente de arrependimento.",
+        versoes: {}
+      },
+    ],
+    dias: [
+      {
+        dia: "Sábado",
+        titulo: "Introdução: Revelação e inspiração",
+        resumo: "O apóstolo João foi integrado à cadeia profética de transmissão divina, recebendo mensagens no exílio em Patmos direcionadas às igrejas da sua época e a todos os cristãos. Essa cadeia — de Deus Pai a Jesus, ao anjo, ao profeta e ao povo — ilustra de maneira clássica a dinâmica da revelação e inspiração.\n\nNesta semana, examinamos a riqueza e a diversidade das formas pelas quais o Senhor Se comunica com a humanidade decaída. Seja por mensagens orais, escritas ou dramatizadas, o propósito divino é sempre resgatar e orientar Seus filhos com autoridade e fidelidade.",
+        perguntas: [
+        ]
+      },
+      {
+        dia: "Domingo",
+        titulo: "Revelação geral e especial",
+        resumo: "Deus Se comunica conosco porque somos seres caídos que necessitam compreender a origem da vida, as causas do sofrimento e a bendita esperança do amor divino. A revelação geral, visível na natureza e nos processos de cura do corpo e da terra, testemunha Seu poder e cuidado, mas também exibe as marcas do pecado.\n\nPor ser a mensagem da natureza insuficiente e manchada pelo mal, a revelação especial tornou-se indispensável. Ela nos foi concedida plenamente em Jesus Cristo, a Palavra encarnada, e registrada de modo confiável na Bíblia, revelando com clareza o maravilhoso plano divino de redenção.",
+        perguntas: [
+          {
+            pergunta: "Leia Hebreus 1:1 e 2. Por que Deus Se interessa tanto em falar conosco? O que Ele nos diz por meio de Jesus e dos profetas?",
+            resposta: "Deus Se comunica conosco por amor a um mundo caído, explicando o porquê da nossa existência e oferecendo esperança em meio ao sofrimento. Por meio dos profetas e supremamente em Jesus, Ele revela Seu caráter e o plano completo da redenção humana.",
+            versoes: {"naa": "Antigamente, Deus falou, muitas vezes e de muitas maneiras, aos pais, pelos profetas, mas, nestes últimos dias, nos falou pelo Filho, a quem constituiu herdeiro de todas as coisas e pelo qual também fez o universo.", "ntlh": "Antigamente, por meio dos profetas, Deus falou muitas vezes e de muitas maneiras aos nossos antepassados , mas nestes últimos tempos ele nos falou por meio do seu Filho. Foi ele quem Deus escolheu para possuir todas as coisas e foi por meio dele que Deus criou o Universo.", "nvi": "Há muito tempo Deus falou muitas vezes e de várias maneiras aos nossos antepassados por meio dos profetas, mas nestes últimos dias falou-nos por meio do Filho, a quem constituiu herdeiro de todas as coisas e por meio de quem fez o universo.", "acf": "HAVENDO Deus antigamente falado muitas vezes, e de muitas maneiras, aos pais, pelos profetas, a nós falou-nos nestes últimos dias pelo Filho, A quem constituiu herdeiro de tudo, por quem fez também o mundo."}
+          },
+        ]
+      },
+      {
+        dia: "Segunda-feira",
+        titulo: "O processo de inspiração",
+        resumo: "A Bíblia se distingue de todas as outras obras humanas por possuir origem divina, sendo inspirada pelo Espírito Santo. O Espírito atuou nos profetas auxiliando-os não apenas a receber a mensagem de Deus, mas também a comunicá-la de forma confiável aos seus contemporâneos e às gerações futuras.\n\nEssa comunicação utilizou diferentes meios, como visões, sonhos, pesquisas históricas e testemunhos oculares. Independentemente do método, os autores bíblicos receberam verdades objetivas e foram preservados de distorcer a revelação, ainda que tenham utilizado seu próprio vocabulário e estilo.",
+        perguntas: [
+          {
+            pergunta: "Leia 2 Timóteo 3:15-17 e Tiago 1:17. Que mensagem importante devemos extrair desses versos?",
+            resposta: "Toda a Escritura tem origem em Deus, a fonte de toda boa dádiva, sendo plenamente inspirada e proveitosa para ensinar, corrigir e habilitar o cristão para toda boa obra.",
+            versoes: {"naa": "e que, desde a infância, você conhece as sagradas letras, que podem torná-lo sábio para a salvação pela fé em Cristo Jesus. Toda a Escritura é inspirada por Deus e útil para o ensino, para a repreensão, para a correção, para a educação na justiça, a fim de que o servo de Deus seja perfeito e perfeitamente habilitado para toda boa obra. Toda boa dádiva e todo dom perfeito vêm lá do alto, descendo do Pai das luzes, em quem não pode existir variação ou sombra de mudança.", "ntlh": "E, desde menino, você conhece as Escrituras Sagradas, as quais lhe podem dar a sabedoria que leva à salvação, por meio da fé em Cristo Jesus. Pois toda a Escritura Sagrada é inspirada por Deus e é útil para ensinar a verdade, condenar o erro, corrigir as faltas e ensinar a maneira certa de viver. E isso para que o servo de Deus esteja completamente preparado e pronto para fazer todo tipo de boas ações. Tudo de bom que recebemos e tudo o que é perfeito vêm do céu, vêm de Deus, o Criador das luzes do céu. Ele não muda, nem varia de posição, o que causaria a escuridão.", "nvi": "Porque desde criança você conhece as Sagradas Letras, que são capazes de torná-lo sábio para a salvação mediante a fé em Cristo Jesus. Toda a Escritura é inspirada por Deus e útil para o ensino, para a repreensão, para a correção e para a instrução na justiça, para que o homem de Deus seja apto e plenamente preparado para toda boa obra. Toda boa dádiva e todo dom perfeito vêm do alto, descendo do Pai das luzes, que não muda como sombras inconstantes.", "acf": "E que desde a tua meninice sabes as sagradas Escrituras, que podem fazer-te sábio para a salvação, pela fé que há em Cristo Jesus. Toda a Escritura é divinamente inspirada, e proveitosa para ensinar, para redargüir, para corrigir, para instruir em justiça; Para que o homem de Deus seja perfeito, e perfeitamente instruído para toda a boa obra. Toda a boa dádiva e todo o dom perfeito vem do alto, descendo do Pai das luzes, em quem não há mudança nem sombra de variação."}
+          },
+        ]
+      },
+      {
+        dia: "Terça-feira",
+        titulo: "Mensagens orais",
+        resumo: "Ao longo da história bíblica, Deus falou diretamente com os seres humanos em linguagem clara e compreensível, sem margem para enganos. Da mesma forma, os profetas comunicaram essas mensagens oralmente com autoridade e fidelidade aos seus ouvintes.\n\nVários profetas genuínos, como Noé, Elias, Eliseu e João Batista, não escreveram livros bíblicos, mas suas proclamações orais eram plenamente inspiradas. O próprio Jesus ministrou predominantemente de forma oral, ensinando com autoridade sem jamais comprometer a validade da verdade comunicada.",
+        perguntas: [
+          {
+            pergunta: "Leia 2 Pedro 1:18-21. Que segurança temos de que as mensagens transmitidas oralmente pelos profetas de Deus eram tão inspiradas e confiáveis quanto aquelas registradas por escrito?",
+            resposta: "Temos a certeza da sua plena fidedignidade porque a profecia nunca surgiu por vontade humana, mas homens santos falaram da parte de Deus impelidos e guiados pelo Espírito Santo.",
+            versoes: {"naa": "Ora, nós ouvimos esta voz vinda do céu quando estávamos com ele no monte santo. Assim, temos ainda mais segura a palavra profética, e vocês fazem bem em dar atenção a ela, como a uma luz que brilha em lugar escuro, até que o dia clareie e a estrela da alva nasça no coração de vocês. Primeiramente, porém, saibam que nenhuma profecia da Escritura provém de interpretação pessoal; porque nunca jamais qualquer profecia foi dada por vontade humana; entretanto, homens falaram da parte de Deus, movidos pelo Espírito Santo.", "ntlh": "Nós mesmos ouvimos essa voz que veio do céu quando estávamos com o Senhor Jesus no monte sagrado. Assim temos mais confiança ainda na mensagem anunciada pelos profetas. Vocês fazem bem em prestar atenção nessa mensagem. Pois ela é como uma luz que brilha em lugar escuro, até que o dia amanheça e a luz da estrela da manhã brilhe no coração de vocês. Acima de tudo, porém, lembrem disto: ninguém pode explicar, por si mesmo, uma profecia das Escrituras Sagradas. Pois nenhuma mensagem profética veio da vontade humana, mas as pessoas eram guiadas pelo Espírito Santo quando anunciavam a mensagem que vinha de Deus.", "nvi": "Nós mesmos ouvimos essa voz vinda dos céus, quando estávamos com ele no monte santo. Assim, temos ainda mais firme a palavra dos profetas, e vocês farão bem se a ela prestarem atenção, como a uma candeia que brilha em lugar escuro, até que o dia clareie e a estrela da alva nasça no coração de vocês. Antes de mais nada, saibam que nenhuma profecia da Escritura provém de interpretação pessoal, pois jamais a profecia teve origem na vontade humana, mas homens falaram da parte de Deus, impelidos pelo Espírito Santo.", "acf": "E ouvimos esta voz dirigida do céu, estando nós com ele no monte santo; E temos, mui firme, a palavra dos profetas, à qual bem fazeis em estar atentos, como a uma luz que alumia em lugar escuro, até que o dia amanheça, e a estrela da alva apareça em vossos corações. Sabendo primeiramente isto: que nenhuma profecia da Escritura é de particular interpretação. Porque a profecia nunca foi produzida por vontade de homem algum, mas os homens santos de Deus falaram inspirados pelo Espírito Santo."}
+          },
+        ]
+      },
+      {
+        dia: "Quarta-feira",
+        titulo: "Mensagens escritas",
+        resumo: "A escrita confere permanência à palavra revelada, garantindo que a verdade não se perca nem seja distorcida com a passagem do tempo. Desde a ordem dada a Moisés até os escritos apostólicos, o Espírito Santo guiou a produção dos 66 livros que formam o cânon bíblico.\n\nEmbora cada autor reflita sua cultura, estilo e experiências individuais, não existem graus de inspiração nas Escrituras. Toda a Bíblia é inspirada e, mesmo transmitida por meio da linguagem humana imperfeita, comunica uma mensagem infalível e suficiente para a salvação.",
+        perguntas: [
+          {
+            pergunta: "Leia Êxodo 17:14; João 20:30, 31; 1 Coríntios 10:11; e Apocalipse 1:19. Por que Deus pediu a Seus profetas que registrassem por escrito as mensagens que lhes deu?",
+            resposta: "Deus ordenou o registro escrito para preservar a memória de Seus feitos, advertir e orientar as gerações futuras, e levar os leitores a crerem em Jesus para alcançarem a vida eterna.",
+            versoes: {"naa": "Então o SENHOR disse a Moisés: — Escreva isto para memória num livro e repita-o a Josué, porque eu vou apagar totalmente a memória dos amalequitas da face da terra. Na verdade, Jesus fez diante dos seus discípulos muitos outros sinais que não estão escritos neste livro. Estes, porém, foram registrados para que vocês creiam que Jesus é o Cristo, o Filho de Deus, e para que, crendo, tenham vida em seu nome. Estas coisas aconteceram com eles para servir de exemplo e foram escritas como advertência a nós, para quem o fim dos tempos tem chegado. Escreva, pois, as coisas que você viu, as que são e as que hão de acontecer depois destas.", "ntlh": "Então o SENHOR Deus disse a Moisés: — Escreva um relatório dessa vitória a fim de que ela seja lembrada. Diga a Josué que eu vou destruir completamente os amalequitas. Jesus fez diante dos discípulos muitos outros milagres que não estão escritos neste livro. Mas estes foram escritos para que vocês creiam que Jesus é o Messias, o Filho de Deus. E para que, crendo, tenham vida por meio dele. Tudo isso aconteceu com os nossos antepassados a fim de servir de exemplo para os outros, e aquelas coisas foram escritas a fim de servirem de aviso para nós. Pois estamos vivendo no fim dos tempos. Portanto, escreva as coisas que você vai ver, tanto as que estão acontecendo agora como as que vão acontecer depois.", "nvi": "Depois o SENHOR disse a Moisés: “Escreva isto num rolo, como memorial, e declare a Josué que farei que os amalequitas sejam esquecidos para sempre debaixo do céu”. Jesus realizou na presença dos seus discípulos muitos outros sinais milagrosos, que não estão registrados neste livro. Mas estes foram escritos para que vocês creiam que Jesus é o Cristo, o Filho de Deus e, crendo, tenham vida em seu nome. Essas coisas aconteceram a eles como exemplos e foram escritas como advertência para nós, sobre quem tem chegado o fim dos tempos. “Escreva, pois, as coisas que você viu, tanto as presentes como as que acontecerão.", "acf": "Então disse o SENHOR a Moisés: Escreve isto para memória num livro, e relata-o aos ouvidos de Josué; que eu totalmente hei de riscar a memória de Amaleque de debaixo dos céus. Jesus, pois, operou também em presença de seus discípulos muitos outros sinais, que não estão escritos neste livro. Estes, porém, foram escritos para que creiais que Jesus é o Cristo, o Filho de Deus, e para que, crendo, tenhais vida em seu nome. Ora, tudo isto lhes sobreveio como figuras, e estão escritas para aviso nosso, para quem já são chegados os fins dos séculos. Escreve as coisas que tens visto, e as que são, e as que depois destas hão de acontecer;"}
+          },
+        ]
+      },
+      {
+        dia: "Quinta-feira",
+        titulo: "Dramatização, símbolos e parábolas",
+        resumo: "Deus frequentemente utilizou símbolos, tipos e parábolas para transmitir verdades profundas de maneira memorável. Todo o santuário do Antigo Testamento apontava para o sacrifício e o ministério sacerdotal de Cristo, assim como as profecias de Daniel e Apocalipse usaram figuras para descrever a história mundial.\n\nEm situações de grande apostasia, Deus instruiu profetas como Ezequiel e Oseias a encenarem mensagens dramáticas. Essas representações visuais serviam para chocar a indiferença do povo, demonstrando a gravidade do pecado e a urgência da misericórdia divina que conclama ao arrependimento.",
+        perguntas: [
+          {
+            pergunta: "Leia Ezequiel 4:1-8. Por que você acha que Deus não apenas falou verbalmente, mas também dramatizou algumas de Suas mensagens?",
+            resposta: "Deus utilizou dramatizações impactantes para romper a apatia e a rebeldia do povo, alertando-os de maneira inesquecível sobre a seriedade do juízo e a necessidade urgente de arrependimento.",
+            versoes: {"naa": "— Filho do homem, pegue um tijolo, ponha-o diante de você e faça nele um desenho da cidade de Jerusalém. Nesse desenho, a cidade deverá estar sitiada, com rampas e torres de ataque, acampamentos e aríetes em volta dela. Pegue também uma assadeira de ferro e coloque-a como muro de ferro entre você e a cidade. Volte o seu rosto para a cidade. Ela será sitiada, e você a sitiará. Isso servirá de sinal para a casa de Israel. — Deite-se também sobre o seu lado esquerdo e ponha sobre ele a maldade da casa de Israel. Conforme o número dos dias que se deitar sobre o seu lado esquerdo, você levará sobre si a maldade da casa de Israel. Porque determinei que cada ano da sua maldade corresponda a um dia, num total de trezentos e noventa dias; e você levará sobre si a maldade da casa de Israel. Quando você tiver cumprido esses dias, deite-se sobre o seu lado direito, e você levará sobre si a maldade da casa de Judá durante quarenta dias: um dia para cada ano. Volte o seu rosto para o cerco de Jerusalém e, com o braço descoberto, profetize contra ela. Eis que vou amarrá-lo com cordas, e assim você não poderá se virar de um lado para o outro até que você tenha cumprido os dias do seu cerco.", "ntlh": "Deus disse: — Homem mortal, pegue um tijolo, ponha na sua frente e faça nele um desenho da cidade de Jerusalém. Nesse desenho, a cidade deverá estar cercada pelos inimigos, com rampas e torres de ataque, com um acampamento e com máquinas de derrubar muralhas. Pegue uma frigideira de ferro e ponha como se fosse um muro entre você e a cidade. Vire o rosto na direção da cidade. Ela está cercada, e é você quem a está cercando. Isso será um sinal para o povo de Israel. [4-5] — Deite-se do lado esquerdo, que eu vou colocar sobre você a culpa do povo de Israel. Você ficará deitado ali, carregando o pecado deles durante trezentos e noventa dias, porque eu o condenei a um dia para cada ano de castigo do povo. [4-5] — Deite-se do lado esquerdo, que eu vou colocar sobre você a culpa do povo de Israel. Você ficará deitado ali, carregando o pecado deles durante trezentos e noventa dias, porque eu o condenei a um dia para cada ano de castigo do povo. Quando você terminar isso, vire do lado direito e carregue o pecado de Judá durante quarenta dias, isto é, um dia para cada ano do castigo deles. — Olhe firme para Jerusalém cercada pelos inimigos. Então arregace as mangas e profetize contra a cidade. Eu vou amarrá-lo, e assim você não poderá virar de um lado para outro até que os inimigos deixem de cercar a cidade.", "nvi": "“Agora, filho do homem, apanhe um tijolo, coloque-o à sua frente e nele desenhe a cidade de Jerusalém. Em seguida, cerque-a e erga obras de cerco contra ela; construa uma rampa, monte acampamentos e ponha aríetes ao redor dela. Depois apanhe uma panela de ferro, coloque-a como muro de ferro entre você e a cidade e ponha-se de frente para ela. Ela estará cercada, e você a sitiará. Isto será um sinal para a nação de Israel. “Deite-se então sobre o seu lado esquerdo e sobre você ponha a iniquidade da nação de Israel. Você terá que carregar a iniquidade dela durante o número de dias em que estiver deitado sobre o lado esquerdo. Determinei que o número de dias seja equivalente ao número de anos da iniquidade dela, ou seja, durante trezentos e noventa dias você carregará a iniquidade da nação de Israel. “Terminado esse prazo, deite-se sobre o seu lado direito e carregue a iniquidade da nação de Judá, durante quarenta dias, tempo que eu determinei para você, um dia para cada ano. Olhe para o cerco de Jerusalém e, com braço desnudo, profetize contra ela. Vou amarrá-lo com cordas para que você não possa virar-se enquanto não cumprir os dias da sua aflição.", "acf": "TU, pois, ó filho do homem, toma um tijolo, e pô-lo-ás diante de ti, e grava nele a cidade de Jerusalém. E põe contra ela um cerco, e edifica contra ela uma fortificação, e levanta contra ela uma trincheira, e põe contra ela arraiais, e põe-lhe aríetes em redor. E tu toma uma sertã de ferro, e põe-na por muro de ferro entre ti e a cidade; e dirige para ela o teu rosto, e assim será cercada, e a cercarás; isto servirá de sinal à casa de Israel. Tu também deita-te sobre o teu lado esquerdo, e põe a iniqüidade da casa de Israel sobre ele; conforme o número dos dias que te deitares sobre ele, levarás as suas iniqüidades. Porque eu já te tenho fixado os anos da sua iniqüidade, conforme o número dos dias, trezentos e noventa dias; e levarás a iniqüidade da casa de Israel. E, quando tiveres cumprido estes dias, tornar-te-ás a deitar sobre o teu lado direito, e levarás a iniqüidade da casa de Judá quarenta dias; um dia te dei para cada ano. Dirigirás, pois, o teu rosto para o cerco de Jerusalém, com o teu braço descoberto, e profetizarás contra ela. E eis que porei sobre ti cordas; assim tu não te voltarás de um lado para o outro, até que cumpras os dias do teu cerco."}
+          },
+        ]
+      },
+      {
+        dia: "Sexta-feira",
+        titulo: "Ellen White sobre revelação e inspiração",
+        resumo: "A Igreja Adventista reconhece que Ellen G. White recebeu o dom profético da mesma natureza que os profetas bíblicos, embora ela mesma sempre tenha exaltado a Bíblia como a regra suprema e autoritativa de fé e prática para todo cristão.\n\nEllen White compreendia a inspiração como a atuação do Espírito Santo sobre os pensamentos do indivíduo, unindo o divino ao humano na transmissão da mensagem. Além disso, ela reconhecia claramente a distinção entre suas correspondências cotidianas e as mensagens entregues sob inspiração profética especial.",
+        perguntas: [
+        ]
+      },
+    ]
+  },
+  {
     id: 4,
     titulo: "Profetas do Novo Testamento",
     data: "17 de Outubro de 2026",
@@ -132,7 +251,179 @@ const LICOES = [
         perguntas: [
         ]
       },
-    ]
+    ],
+    estudoProfessor: {
+      "titulo": "Profetas do Novo Testamento",
+      "subtitulo": "Recurso Didático para Professores da Escola Sabatina - Lição 04",
+      "versoChave": "Ora, os dons são diversos, mas o Espírito é o mesmo. E também há diversidade nos serviços, mas o Senhor é o mesmo. E há diversidade nas realizações, mas o mesmo Deus é quem opera tudo em todos. - 1 Coríntios 12:4-6",
+      "objetivo": "Compreender que o mesmo Espírito Santo que atuou nos profetas do Antigo Testamento continua guiando a igreja no Novo Testamento através de dons espirituais, alinhando a vida aos ensinos de Cristo e desenvolvendo discernimento espiritual contra os enganos do tempo do fim.",
+      "slides": [
+        {
+          "titulo": "Capa e Verso de Memorização",
+          "topicos": [
+            "Unidade trinitária na concessão e operação dos dons espirituais",
+            "Diversidade de ministérios voltada para o bem comum da igreja",
+            "Os dons existem para a edificação coletiva e não para a exaltação pessoal"
+          ],
+          "nota": "Destaque para a classe que o foco dos dons espirituais no Novo Testamento nunca é a exaltação do indivíduo, mas a unidade e a missão coletiva da igreja."
+        },
+        {
+          "titulo": "A Harmonia entre os Testamentos",
+          "topicos": [
+            "O Espírito Santo é a fonte imutável da revelação através das eras",
+            "A revelação do Novo Testamento cumpre e amplia o Antigo Testamento",
+            "O sacrifício e a redenção em Cristo formam o centro de toda a profecia"
+          ],
+          "nota": "Responda à falsa ideia de que o Antigo Testamento foi abolido. Enfatize que a Bíblia dos apóstolos era o Antigo Testamento."
+        },
+        {
+          "titulo": "O Cumprimento da Promessa de Moisés",
+          "topicos": [
+            "Tipologia bíblica entre o ministério de Moisés e a liderança de Jesus",
+            "Diferença entre profetas humanos e a autoridade inerente de Cristo",
+            "Reconhecimento pleno de Jesus como o Messias e Filho do Deus vivo"
+          ],
+          "nota": "Explique que definir Jesus apenas como profeta é incompleto; Ele é o Messias, o Criador e a plenitude da divindade."
+        },
+        {
+          "titulo": "A Palavra Encarnada",
+          "topicos": [
+            "A Palavra de Deus manifestada de forma falada, escrita e encarnada",
+            "Cristo como agente criador, Luz do Mundo e Estrela da Manhã",
+            "A profecia bíblica centralizada na vida, morte, ressurreição e volta de Jesus"
+          ],
+          "nota": "Peça aos alunos para refletirem no impacto de o Criador do universo ter se humanizado para ser o nosso substituto e salvador."
+        },
+        {
+          "titulo": "Chamado, Autoridade e Liderança",
+          "topicos": [
+            "Definição de apóstolo como enviado em missão por Cristo",
+            "Distinção funcional entre o ofício apostólico e o dom de profecia",
+            "Igualdade na autoridade inspirativa outorgada pelo Espírito Santo"
+          ],
+          "nota": "Esclareça que a autoridade das palavras proféticas não provém da posição eclesiástica da pessoa, mas da fonte divina da mensagem."
+        },
+        {
+          "titulo": "A Pedra Angular e o Alicerce",
+          "topicos": [
+            "O fundamento da igreja edificado sobre apóstolos e profetas",
+            "Jesus Cristo como a Pedra Angular que sustenta toda a estrutura da fé",
+            "A revelação inclusiva da salvação para todos os povos em um só corpo"
+          ],
+          "nota": "Use a metáfora da construção civil: sem a pedra angular (Cristo), a estrutura rui; sem o fundamento (Escrituras), a igreja perde prumo."
+        },
+        {
+          "titulo": "Edificar, Exortar e Consolar",
+          "topicos": [
+            "A profecia neotestamentária como proclamação da vontade divina presente",
+            "Edificação contínua da maturidade espiritual dos crentes",
+            "Exortação amorosa contra desvios e consolo em períodos difíceis"
+          ],
+          "nota": "Destaque que a profecia aplica a Palavra de Deus às lutas e necessidades reais dos crentes."
+        },
+        {
+          "titulo": "O Crescimento do Corpo de Cristo",
+          "topicos": [
+            "Capacitação de cada membro para o serviço e aperfeiçoamento",
+            "Promoção da unidade doutrinária rumo à estatura de Cristo",
+            "Proteção da comunidade cristã contra enganos e ventos de doutrina"
+          ],
+          "nota": "Pergunte à classe como a voz profética nos ajuda a permanecer firmes em meio à confusão doutrinária do mundo moderno."
+        },
+        {
+          "titulo": "Mensageiros Fiéis sem Livros na Bíblia",
+          "topicos": [
+            "Exemplos bíblicos de profetas como Ágabo, Judas e Silas",
+            "Reconhecimento da inspiração profética fora dos livros canônicos",
+            "Submissão de qualquer manifestação profética ao Cânon sagrado"
+          ],
+          "nota": "Esclareça que a ausência de um livro no Cânon não torna o ministério de um profeta menos inspirado ou falso."
+        },
+        {
+          "titulo": "Deus Chama a Quem Quer",
+          "topicos": [
+            "O ministério da profetisa Ana servindo no templo e exaltando o Messias",
+            "O exercício legítimo do dom profético pelas quatro filhas de Filipe",
+            "Soberania de Deus ao derramar dons espirituais sem distinção de gênero"
+          ],
+          "nota": "Ressalte como a narrativa bíblica valoriza a atuação ativa das mulheres no avanço do reino e no testemunho profético."
+        },
+        {
+          "titulo": "Preparando a Próxima Geração",
+          "topicos": [
+            "Discipulado e mentoria de Paulo com jovens líderes como Timóteo e Tito",
+            "Reconhecimento e confirmação do ministério pela igreja",
+            "Importância do exemplo de pureza, dedicação e firmeza na Palavra"
+          ],
+          "nota": "Incentive os membros da classe a apoiarem e mentorearem a juventude da igreja local nas responsabilidades missionárias."
+        },
+        {
+          "titulo": "A Advertência Escatológica de Jesus",
+          "topicos": [
+            "Alerta sobre o surgimento de falsos profetas nos últimos dias",
+            "Sinais e prodígios sobrenaturais usados como ferramentas de engano",
+            "O perigo de mensagens que misturam verdades com ensinamentos errôneos"
+          ],
+          "nota": "Alerte a classe para não julgar a veracidade de um ministério apenas por manifestações emocionais ou milagres aparentes."
+        },
+        {
+          "titulo": "Como Discernir o Verdadeiro do Falso",
+          "topicos": [
+            "Conformidade obrigatória com a lei de Deus e com o testemunho bíblico",
+            "Avaliação do caráter, da vida diária e dos frutos espirituais do mensageiro",
+            "Exaltação exclusiva de Jesus Cristo e obediência à Sua revelação"
+          ],
+          "nota": "Enfatize o exemplo dos crentes de Bereia, que examinavam diariamente as Escrituras para confirmar o ensino recebido."
+        },
+        {
+          "titulo": "A Proteção Espiritual contra a Falsidade",
+          "topicos": [
+            "A realidade do conflito contra principados e potestades espirituais",
+            "A apropriação diária da armadura da fé e da Espada do Espírito",
+            "Oração perseverante e estudo bíblico constante como escudos de defesa"
+          ],
+          "nota": "Mostre que a única segurança sólida contra o engano é o arraigamento diário e pessoal no estudo da Bíblia."
+        },
+        {
+          "titulo": "Ellen G. White e a Luz Menor",
+          "topicos": [
+            "O dom profético no remanescente escatológico descrito no Apocalipse",
+            "Escritos proféticos que atuam como luz menor direcionando à Bíblia",
+            "Inexistência de novas doutrinas e subordinação total ao Cânon bíblico"
+          ],
+          "nota": "Reforce que os escritos inspirados de Ellen White são uma bênção para fortalecer o estudo da Bíblia e a devoção pessoal a Cristo."
+        },
+        {
+          "titulo": "Mantendo Jesus e a Bíblia no Centro",
+          "topicos": [
+            "Toda autêntica profecia conduz à exaltação e senhorio de Jesus",
+            "Chamado ao amadurecimento espiritual, comunhão e fidelidade missionária",
+            "A Bíblia Sagrada como a regra suprema e inegociável de fé e conduta"
+          ],
+          "nota": "Finalize com uma oração fervorosa pedindo discernimento, amor pelas Escrituras e prontidão para a breve volta de Jesus."
+        }
+      ],
+      "aprofundamentos": [
+        {
+          "titulo": "A Tipologia de Moisés e a Superioridade do Logos Profético em Cristo",
+          "texto": "No Antigo Testamento, a promessa de Deuteronômio 18:15 indicava que Deus suscitaria um profeta semelhante a Moisés. Embora a profecia encontre um cumprimento imediato no ministério dos profetas sucessores, o Novo Testamento aplica este texto de forma definitiva a Jesus Cristo. Contudo, Jesus transcende o modelo tipológico: enquanto os demais profetas atuavam como intermediários declarando a mensagem recebida, Jesus é o próprio Logos encarnado que fala com autoridade própria, sendo a personificação viva da salvação e o Criador de todas as coisas."
+        },
+        {
+          "titulo": "A Relação Eclesiológica entre o Apostolado e o Dom Profético",
+          "texto": "Existe uma distinção eclesiológica marcante entre apóstolos e profetas no Novo Testamento. Os apóstolos eram testemunhas oculares da ressurreição de Cristo, encarregados de estabelecer as diretrizes e a liderança da igreja nascente, enquanto os profetas atuavam diretamente na proclamação inspirada para edificação, exortação e consolo. Em termos de autoridade inspirativa, no entanto, ambos recebiam revelações diretamente do Espírito Santo, formando o fundamento eclesial cuja pedra angular é o próprio Cristo."
+        },
+        {
+          "titulo": "A Distinção Teológica entre Profetas Canônicos e Não-Canônicos e o Papel do Espírito de Profecia",
+          "texto": "A manifestação do dom profético nas Escrituras é mais abrangente do que os autores do Cânon bíblico. Diversos mensageiros autênticos desempenharam seus ministérios sem redigir livros sagrados. Da mesma forma, o ministério profético no tempo do fim atua na categoria não-canônica, servindo como uma luz menor destinada a clarear o entendimento da luz maior, que são as Sagradas Escrituras, sem adicionar doutrinas ou substituir o princípio da Sola Scriptura."
+        },
+        {
+          "titulo": "Sinais Sobrenaturais versus Conformidade Doutrinária: O Combate à Escatologia do Engano",
+          "texto": "As advertências de Cristo em Mateus 24 revelam que milagres e sinais grandiosos não servem de validação exclusiva para a verdade, visto que forças malignas realizam prodígios para enganar. O parâmetro definitivo de discernimento permanece a plena harmonia com a lei e o testemunho das Escrituras, além da coerência moral e fidelidade aos ensinos de Cristo manifestados na conduta do mensageiro."
+        }
+      ],
+      "capa": "img/licoes/licao-2026-4t-4.png"
+    }
+
   },
   {
     id: 3,
