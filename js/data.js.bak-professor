@@ -124,208 +124,242 @@ const LICOES = [
       },
     ],
     estudoProfessor: {
-      "titulo": "Os Escritos Proféticos",
+      "titulo": "APRESENTAÇÃO COMPLETA E GUIA DE ENSINO",
       "subtitulo": "Recurso Didático para Professores da Escola Sabatina | Lição 06 (4º Trimestre / 2026)",
-      "versoChave": "Pois tudo o que no passado foi escrito para o nosso ensino foi escrito a fim de que pela paciência e pela consolação das Escrituras tenhamos esperança. (Romanos 15:4)",
+      "versoChave": "*\"Pois tudo o que no passado foi escrito para o nosso ensino foi escrito a fim de que pela paciência e pela consolação das Escrituras tenhamos esperança.\"* (Romanos 15:4)",
       "objetivo": "Compreender a origem, a diversidade literária e a preservação dos escritos proféticos, fortalecendo a confiança na Bíblia como a infalível Palavra de Deus transmitida por meio de instrumentos humanos.",
       "slides": [
         {
-          "titulo": "Os Escritos Proféticos: Como Deus Preservou Sua Mensagem em Linguagem Humana",
-          "topicos": [
-            "A Bíblia como providência divina deliberada para a esperança humana",
-            "A revelação de Deus preservada em linguagem compreensível",
-            "Pois tudo o que no passado foi escrito foi para nosso ensino (Romanos 15:4)",
-            "Fortalecimento da confiança na infalível Palavra de Deus"
-          ],
+          "numero": 1,
+          "rotulo": "",
+          "titulo": "Os Escritos Proféticos",
+          "subtitulo": "Como Deus Preservou Sua Mensagem em Linguagem Humana",
+          "topicos": [],
           "nota": "Abra a aula destacando que a escrita bíblica não é um acidente histórico, mas uma providência divina deliberada para garantir a esperança das futuras gerações."
         },
         {
+          "numero": 2,
+          "rotulo": "",
           "titulo": "O Chamado para Escrever: Da Tradição Oral ao Registro",
+          "subtitulo": "A Preservação da Memória dos Atos de Deus",
           "topicos": [
-            "Transmissão oral patriarcal de Adão a Moisés por cerca de 2.500 anos",
-            "Primeira ordem formal de registro escrito em Êxodo 17:14",
-            "Diminuição da capacidade da memória humana com o avanço do pecado",
-            "O registro escrito como proteção da verdade divina contra distorções"
+            "**Transmissão Oral Patriarcal**: De Adão a Moisés (cerca de 2.500 anos), a revelação era transmitida oralmente de pai para filho.",
+            "**Primeira Ordem de Escrita**: Em Êxodo 17:14, após a vitória sobre Amaleque, Deus ordena a Moisés: *\"Escreva isto para memória num livro e repita-o a Josué\"*.",
+            "**Diminuição da Capacidade Humana**: Com o avanço do pecado e o enfraquecimento da memória, o registro escrito tornou-se indispensável para proteger a verdade divina contra distorções."
           ],
-          "nota": "Explique que o texto escrito funciona como um memorial que estabelece a identidade do povo de Deus e instrui os líderes do futuro."
+          "nota": "Explique que o texto escrito funciona como um \"memorial\" que estabelece a identidade do povo de Deus e instrui os líderes do futuro."
         },
         {
+          "numero": 3,
+          "rotulo": "",
           "titulo": "A Escrita como Chamado ao Arrependimento",
+          "subtitulo": "Jeremias e a Mensagem que Ultrapassa Barreiras",
           "topicos": [
-            "Ordem divina para registrar palavras de advertência em Jeremias 36",
-            "O objetivo profético focado em arrependimento e perdão",
-            "Tentativa frustrada do rei Joaquim de queimar a mensagem",
-            "Reescrita do rolo com acréscimos e preservação da Palavra"
+            "**O Mandato em Época de Crise**: Jeremias 36:2-3 registra a ordem para ditar em um rolo todas as palavras contra Israel e Judá.",
+            "**O Objetivo do Registro**: A profecia escrita não visa alimentar a curiosidade sobre o futuro, mas provocar **arrependimento e perdão** no presente.",
+            "**Insubmissão e Preservação**: Mesmo quando o rei Joaquim queimou o rolo, Jeremias reescreveu a mensagem com acréscimos; o profeta pode ser preso, mas a Palavra de Deus permanece inalterada."
           ],
           "nota": "Enfatize que a preservação do texto bíblico demonstra a insistência do amor de Deus em alcançar o coração humano."
         },
         {
+          "numero": 4,
+          "rotulo": "",
           "titulo": "A Riqueza da Linguagem Humana na Bíblia",
+          "subtitulo": "Reconhecendo o Tipo de Texto para Interpretar Correto",
           "topicos": [
-            "66 livros escritos por cerca de 40 autores ao longo de 1.500 anos",
-            "Variedade de formas: narrativas, leis, poesias, cartas e profecias",
-            "Reconhecimento do gênero literário como chave hermenêutica",
-            "Evitação de leituras equivocadas e interpretações precipitadas"
+            "**Diversidade de Autores e Contextos**: 66 livros escritos por cerca de 40 autores ao longo de 1.500 anos em diferentes situações (prisões, desertos, cortes reais).",
+            "**Variedade de Formatos**: Narrativas históricas, leis, poesias, provérbios, oráculos proféticos, epístolas e profecia apocalíptica.",
+            "**Regra Hermenêutica Fundamental**: Ninguém lê uma poesia como lê um manual de instruções; reconhecer o gênero literário é vital para evitar interpretações precipitadas ou equivocadas."
           ],
           "nota": "Use o exemplo das seções de uma biblioteca para mostrar como cada estilo de escrita cria expectativas de leitura específicas."
         },
         {
+          "numero": 5,
+          "rotulo": "",
           "titulo": "A Beleza Expressiva da Poesia Sagrada",
+          "subtitulo": "Paralelismos, Metáforas e Imagens Bíblicas",
           "topicos": [
-            "Sentenças e oráculos como pronunciamentos divinos diretos",
-            "Paralelismo poético que amplia, repete ou contrasta declarações",
-            "Imagens vívidas que expressam o poder de Deus sem literalismo físico",
-            "Poesia como recurso pedagógico para memorização e impacto emocional"
+            "**Sentenças e Oráculos**: Comunicações diretas da parte de Deus (ex: *\"Sentença contra a Babilônia\"*, Isaías 13:1).",
+            "**Paralelismo Poético**: Estrutura onde a segunda linha repete, contrasta ou amplia a primeira (ex: Isaías 17:7 – *\"Naquele dia as pessoas olharão para o seu Criador [linha A], e os seus olhos estarão voltados para o Santo de Israel [linha B]\"*).",
+            "**Linguagem Poética vs. Descrição Física**: Cânticos como Êxodo 15 usam imagens (ex: *\"sopro das narinas de Deus\"*) para destacar o poder divino, e não para descrever a anatomia de Deus."
           ],
           "nota": "Mostre que o uso da poesia pela Bíblia facilita a memorização e toca as emoções profundas do ser humano."
         },
         {
+          "numero": 6,
+          "rotulo": "",
           "titulo": "Figuras de Linguagem no Texto Profético",
+          "subtitulo": "Ferramentas de Ênfase e Comunicação Impactante",
           "topicos": [
-            "Linguagem judicial retratando o litígio da aliança em Jeremias",
-            "Metáforas da vida comum para transmitir realidades espirituais profundas",
-            "Hipérboles dramáticas usadas intencionalmente para forte ênfase",
-            "Reconhecimento pedagógico das figuras sem negar a veracidade bíblica"
+            "**Linguagem de Tribunal (Litígio da Aliança)**: Jeremias 2:4-9 retrata Deus como um promotor apresentando uma acusação legal contra o povo desobediente.",
+            "**Metáforas Profundas**: Comparar o ser humano à erva (Isaías 40:6) ou o povo a ovelhas perdidas (Jeremias 50:6) transmite verdades espirituais intensas por meio de símbolos da vida diária.",
+            "**Hipérboles (Exageros Intencionais)**: Expressões como cidades fortificadas *\"até aos céus\"* (Deuteronômio 1:28) ou *\"fazer nadar o leito em lágrimas\"* (Salmo 6:6) enfatizam dramaticamente o sentimento do autor."
           ],
           "nota": "Esclareça que identificar uma hipérbole não nega a verdade da Bíblia, mas reconhece a intenção pedagógica e cultural do autor."
         },
         {
+          "numero": 7,
+          "rotulo": "",
           "titulo": "Categorias da Revelação Profética",
+          "subtitulo": "Estrutura Poética e Linguagem Simbólica",
           "topicos": [
-            "Profecia clássica em verso com foco contemporâneo e ético",
-            "Profecia apocalíptica com panorama da história universal até o fim",
-            "Uso de visões, números simbólicos e representações figuradas",
-            "Símbolos que representam realidades históricas literais"
+            "**Profecia Clássica (Isaías, Jeremias, Profetas Menores)**: Frequentemente em verso; fala primariamente ao povo contemporâneo do profeta, contendo exortações éticas e elementos condicionais.",
+            "**Profecia Apocalíptica (Daniel, Apocalipse)**: Apresenta o panorama da história universal até a consumação final por meio de símbolos, visões, números e animais exóticos.",
+            "**Interpretação do Símbolo Apocalíptico**: Os símbolos (como a besta de Apocalipse 13) representam realidades históricas literais, mas a forma de descrição é figurada e requer decodificação hermenêutica."
           ],
           "nota": "Sublinhe que a profecia apocalíptica deve ser interpretada à luz de suas regras próprias, sem literalismo ingênuo nem alegorização arbitrária."
         },
         {
+          "numero": 8,
+          "rotulo": "",
           "titulo": "Colaboradores na Produção do Texto Sagrado",
+          "subtitulo": "Secretários nos Tempos do Antigo e Novo Testamento",
           "topicos": [
-            "Uso de secretários como prática padrão no mundo antigo",
-            "Baruque registrando com tinta as palavras ditadas por Jeremias",
-            "Tércio identificado como escriba da Epístola aos Romanos",
-            "Silvano atuando como assistente na redação de 1 Pedro"
+            "**Prática Comum no Mundo Antigo**: Ditado de mensagens a secretários treinados sem diminuir a autoria ou a autoridade do profeta.",
+            "**Jeremias e Baruque**: Em Jeremias 36:17-18, Baruque confirma: *\"Jeremias ditava todas estas palavras e eu as escrevia no livro com tinta\"*.",
+            "**Paulo e Tércio**: Na Carta aos Romanos, o escriba declara: *\"Eu, Tércio, que escrevi esta carta, vos saúdo no Senhor\"* (Romanos 16:22).",
+            "**Pedro e Silvano**: Em 1 Pedro 5:12, Pedro menciona o auxílio de Silvano (Silas) na redação de sua epístola."
           ],
           "nota": "Destaque que a inspiração operava no profeta (o autor da mensagem), e o assistente atuava como a ferramenta de redação sob supervisão."
         },
         {
+          "numero": 9,
+          "rotulo": "",
           "titulo": "Como Funcionava o Trabalho dos Secretários?",
+          "subtitulo": "Autenticação e Estilo no Texto Inspirado",
           "topicos": [
-            "Amanuenses não criavam conteúdo nem eram coautores doutrinários",
-            "Colaboração voltada ao estilo gramatical e fluência de vocabulário",
-            "Autenticação apostólica com assinaturas e saudações de próprio punho",
-            "Diferenças de estilo explicadas pelo grau de assistência editorial"
+            "**Amanuenses Não Eram Coautores**: O assistente não criava o conteúdo doutrinário, mas podia colaborar no aprimoramento da forma gramatical e do vocabulário em grego ou hebraico.",
+            "**Autenticação Apostólica**: Paulo frequentemente adicionava uma saudação de próprio punho ao final das cartas para garantir a autenticidade (1Co 16:21; Cl 4:18; 2Ts 3:17).",
+            "**Variações de Estilo Explicações**: As diferenças de fluência gramatical entre a Primeira Epístola de Pedro e a Segunda, ou entre o Evangelho de João e Apocalipse, refletem os diferentes graus de auxílio editorial e condições de escrita."
           ],
           "nota": "Mostre que o uso de assistentes comprova que o Espírito Santo utiliza o planejamento e os talentos humanos na comunicação da verdade."
         },
         {
+          "numero": 10,
+          "rotulo": "",
           "titulo": "O Uso de Arquivos e Coleções de Sabedoria",
+          "subtitulo": "A Inspiração Guia a Seleção do Material",
           "topicos": [
-            "Citação de crônicas oficiais e arquivos públicos em Reis e Crônicas",
-            "Pesquisa, exame e compilação de provérbios por Salomão",
-            "Inclusão de decretos persas e genealogias em Esdras e Neemias",
-            "Inspiração que garante a seleção infalível sem exigir ineditismo absoluto"
+            "**Registros Oficiais**: Os livros de Reis e Crônicas citam frequentemente documentos como o *\"Livro da História de Salomão\"* (1 Reis 11:41) e anais dos reis de Israel e Judá.",
+            "**Compilações de Sabedoria**: Salomão *\"escutou, examinou e colecionou muitos provérbios\"* (Eclesiastes 12:9-10), além de incluir conselhos de sua mãe (Provérbios 31).",
+            "**Documentos Públicos**: Esdras e Neemias incorporaram decretos reais da Pérsia, cartas oficiais e listas genealógicas."
           ],
           "nota": "Explique que a inspiração não exige originalidade absoluta, mas garante a seleção infalível e a apresentação fidedigna da verdade."
         },
         {
+          "numero": 11,
+          "rotulo": "",
           "titulo": "Um Evangelho Fruto de Investigação Cuidadosa",
+          "subtitulo": "Pesquisa Histórica sob a Condução do Espírito Santo",
           "topicos": [
-            "Investigação cuidadosa de todos os fatos desde a origem por Lucas",
-            "Entrevistas com testemunhas oculares e análise de fontes escritas",
-            "Rigor histórico com contextualização de governantes e datas",
-            "O Espírito Santo conduzindo a pesquisa e a organização humana"
+            "**Método de Investigação**: Lucas 1:3-4 relata: *\"Pareceu-me também a mim, depois de cuidadosa investigação de tudo desde a sua origem, dar-te uma exposição em ordem\"*.",
+            "**Fontes Orais e Escritas**: Lucas não recebeu seu evangelho por meio de visões diretas, mas entrevistou testemunhas oculares, examinou relatos anteriores e organizou a narrativa.",
+            "**Rigor Histórico e Precisão**: O olhar médico e investigativo de Lucas trouxe detalhes precisos sobre governantes, datas e o contexto do nascimento e ministério de Jesus."
           ],
           "nota": "Enfatize que a inspiração não anula o estudo nem o esforço intelectual; ao contrário, o Espírito Santo orienta a pesquisa e a organização dos fatos."
         },
         {
+          "numero": 12,
+          "rotulo": "",
           "titulo": "Citações de Obras Não Canônicas e Poetas",
+          "subtitulo": "Extraindo Afirmações Verdadeiras sem Santificar as Fontes",
           "topicos": [
-            "Judas citando profecia preservada no livro de 1 Enoque",
-            "Paulo citando poetas gregos para criar pontes de diálogo cultural",
-            "Citar um fato verdadeiro não confere inspiração a toda a fonte",
-            "Apropriação guiada pelo Espírito de verdades dispersas na cultura"
+            "**Judas e o Livro de 1 Enoque**: Judas 14-15 cita uma profecia preservada na obra judaica não canônica de 1 Enoque (1:9).",
+            "**Paulo e os Poetas Grego-Pagãos**: Em Atos 17:28 (Arato de Solos: *\"pois dele também somos geração\"*) e Tito 1:12 (Epimênides), Paulo cita autores profanos para estabelecer pontos de contato culturais.",
+            "**Princípio Teológico Fundamental**: Citar um trecho verdadeiro de um autor externo não significa aprovar nem canonizar todo o livro de onde o trecho foi tirado."
           ],
           "nota": "Deixe claro para a classe que o Espírito Santo capacitou os autores bíblicos a extrair pepitas de verdade presentes na cultura geral para comunicar o Evangelho."
         },
         {
+          "numero": 13,
+          "rotulo": "",
           "titulo": "A Natureza da Inspiração Bíblica",
+          "subtitulo": "O Tesouro Perfeito no Recipiente Frágil",
           "topicos": [
-            "O tesouro do evangelho guardado em vasos frágeis de barro",
-            "Diferenciação entre a perfeição da mensagem e as limitações do profeta",
-            "União do divino com o humano comparável à Encarnação de Cristo",
-            "Inspiração focada na mente e pensamento, não em ditado mecânico"
+            "**A Metáfora Paulina**: *\"Temos, porém, este tesouro em vasos de barro, para que a excelência do poder seja de Deus e não de nós\"* (2 Coríntios 4:7).",
+            "**O Conteúdo vs. o Vaso**: O tesouro é o Evangelho inerrante; os vasos de barro são os profetas e apóstolos reais, com suas linguagens, culturas e limitações.",
+            "**A Analogia de Ellen White**: Assim como Jesus é a união inseparável da divindade com a humanidade, a Bíblia apresenta as verdades divinas expressas na linguagem de seres humanos."
           ],
-          "nota": "Reafirme a posição adventista: a inspiração é do pensamento do autor, e não um ditado mecânico de palavras."
+          "nota": "Reafirme a posição adventista: a inspiração é do **pensamento** do autor, e não um ditado mecânico de palavras."
         },
         {
+          "numero": 14,
+          "rotulo": "",
           "titulo": "Respeitando a Linguagem Humana do Texto",
+          "subtitulo": "Disparidades Secundárias e a Essência Inalterada",
           "topicos": [
-            "Preservação do estilo pessoal e vocabulário de cada escritor bíblico",
-            "Disparidades periféricas resultantes de cópias e transmissões manuscritas, exemplo: Pequenas variações de números, idades de reis (ex: 2 Reis 8:26 vs. 2 Crônicas 22:2) ou detalhes de citações (ex: Mateus 27:9 atribuindo Zacarias 11:12-13 a Jeremias) resultam da transmissão manuscrita ou de idiossincrasias culturais",
-            "Fidelidade e inerrância plenamente mantidas na mensagem de salvação",
-            "Variações secundárias que não enfraquecem a autoridade das Escrituras"
+            "**A Bíblia Não Caiu Pronta do Céu**: Deus não suprimiu a personalidade nem o vocabulário dos autores.",
+            "**Diferenças Periféricas e Erros de Copistas**: Pequenas variações de números, idades de reis (ex: 2 Reis 8:26 vs. 2 Crônicas 22:2) ou detalhes de citações (ex: Mateus 27:9 atribuindo Zacarias 11:12-13 a Jeremias) resultam da transmissão manuscrita ou de idiossincrasias culturais.",
+            "**Inerrância na Mensagem de Salvação**: Tais disparidades secundárias não afetam em nada a doutrina, a fé, a história da redenção ou a autoridade das Escrituras."
           ],
           "nota": "Oriente os alunos a não tropeçarem em detalhes periféricos; a mensagem teológica e moral da Bíblia é totalmente fiel e confiável."
         },
         {
+          "numero": 15,
+          "rotulo": "",
           "titulo": "Paratexto e Harmonia do Dom Profético Moderno",
+          "subtitulo": "A aplicação dos Mesmos Métodos Bíblicos",
           "topicos": [
-            "Instrução divina para que Ellen White registrasse suas visões",
-            "Uso de assistentes para datilografia e ajustes gramaticais",
-            "Utilização de historiadores confiáveis sob condução do Espírito",
-            "Escritos proféticos modernos como luz menor que aponta para a Bíblia"
+            "**Ordem para Escrever**: Ellen White recebeu instruções diretas de Deus para registrar por escrito suas visões, superando debilidades físicas.",
+            "**Uso de Secretários editoriais**: Teve assistentes para datilografia, correção gramatical e organização de manuscritos, sem contudo alterarem o conteúdo ou serem coautores.",
+            "**Pesquisa Histórica e Citações**: Utilizou historiadores e autores para descrever cenas da reforma no livro *O Grande Conflito*, sob a orientação do Espírito Santo.",
+            "**Regra de Fé**: Ela sempre enfatizou que seus escritos constituem a \"luz menor\" destinada a guiar homens e mulheres à \"luz maior\", a Bíblia Sagrada."
           ],
           "nota": "Explique que os processos humanos vistos na compilação da Bíblia também se confirmam no ministério profético moderno de Ellen White."
         },
         {
+          "numero": 16,
+          "rotulo": "",
           "titulo": "Síntese do Aprendizado da Semana",
+          "subtitulo": "O que Devemos Guardar e Praticar",
           "topicos": [
-            "A palavra escrita como memorial permanente dos atos de redenção",
-            "O gênero literário como orientador essencial da interpretação",
-            "A cooperação humana que não anula a autoridade e origem divinas",
-            "Harmonia perfeita entre pesquisa, linguagem e inspiração celestial"
+            "**1. A Palavra Preserva os Atos de Deus**: O registro escrito mantém viva a história da salvação e fortalece a esperança na caminhada cristã.",
+            "**2. O Gênero Literário Guia a Interpretação**: Respeitar a forma do texto previne erros doutrinários e aprofunda o estudo da Bíblia.",
+            "**3. A Participação Humana Não Anula a Origem Divina**: O Espírito Santo atua através das faculdades e esforços dos seres humanos para entregar a perfeita mensagem divina."
           ],
           "nota": "Recapitule os pontos centrais com a classe antes de passar para a aplicação pessoal."
         },
         {
+          "numero": 17,
+          "rotulo": "",
           "titulo": "Examinando Tudo com Rigor Teológico",
+          "subtitulo": "À Lei e ao Testemunho (Isaías 8:20)",
           "topicos": [
-            "Orientação apostólica para examinar tudo e reter apenas o bem",
-            "Desenvolvimento do discernimento frente ao relativismo cultural",
-            "A Bíblia Sagrada como padrão supremo de aferição de ensinos",
-            "Importância de uma rotina diária e diligente de estudo bíblico"
+            "**A Advertência Apostólica**: *\"Não apagueis o Espírito. Não desprezeis as profecias; examinai tudo, retende o bem\"* (1 Tessalonicenses 5:19-21).",
+            "**Escolhendo o Melhor**: No estudo profético, o discernimento nos ensina a priorizar as verdades essenciais e a rejeitar o relativismo da cultura pós-moderna.",
+            "**O Padrão Supremo**: Todo dom, ensinamento ou manifestação deve ser submetido ao teste inegociável da Palavra de Deus."
           ],
           "nota": "Incentive os alunos a desenvolverem um hábito de estudo diário profundo, e não uma leitura superficial da Bíblia."
         },
         {
+          "numero": 18,
+          "rotulo": "",
           "titulo": "O Objetivo Final da Palavra Escrita",
+          "subtitulo": "Transformação de Vida e Testemunho no Mundo",
           "topicos": [
-            "A mensagem gravada no coração humano pelo Espírito Santo",
-            "Crentes como vasos de barro transformados em cartas vivas de Cristo",
-            "O testemunho prático da vida sendo lido pelas pessoas do mundo",
-            "Reflexo da integridade, verdade e graça divina no dia a dia"
+            "**Da Página para o Coração**: A Bíblia foi escrita para que suas verdades sejam gravadas em nosso coração pelo Espírito Santo.",
+            "**Vasos de Barro Transformados**: Apesar de nossas imperfeições, Deus nos chama para sermos testemunhas vivas da Sua verdade diante das pessoas.",
+            "**Apelo Final**: O mundo lê a nossa vida; que os outros possam ver a integridade e o amor de Cristo refletidos em nosso caminhar diário."
           ],
           "nota": "Encerre a lição com uma oração consagradora, pedindo que o Espírito Santo faça da classe uma testemunha viva da Palavra."
         }
       ],
       "aprofundamentos": [
         {
-          "titulo": "A Teologia do Tesouro em Vasos de Barro (2Co 4:7) e a Inspiração do Pensamento",
-          "texto": "A compreensão adventista da inspiração bíblica fundamenta-se no modelo dinâmico ou do pensamento, em clara oposição tanto ao racionalismo crítico quanto ao verbalismo ou ditado mecânico. O apóstolo Paulo utiliza a metáfora do tesouro em vasos de barro em 2 Coríntios 4:7 para ilustrar que o conteúdo redentivo e doutrinário é inteiramente divino e inerrante, ao passo que os instrumentos humanos são falíveis e condicionados por seus vocabulários e culturas. Como expressou Ellen White, a Bíblia apresenta uma união inseparável entre o divino e o humano análoga à Encarnação de Cristo, onde a divindade vestiu-se de humanidade. O Espírito Santo comunica ideias e visões à mente do profeta, permitindo o uso de faculdades humanas na redação da mensagem."
+          "titulo": "A Teologia do \"Tesouro em Vasos de Barro\" (2Co 4:7) e a Inspiração do Pensamento",
+          "texto": "A compreensão adventista da inspiração bíblica fundamenta-se no modelo **dinâmico ou do pensamento**, em clara oposição tanto ao racionalismo crítico (que nega a origem divina do texto) quanto ao verbalismo ou ditado mecânico (que reduz o profeta a um autômato passivo). O apóstolo Paulo utiliza a metáfora do *\"tesouro em vasos de barro\"* (2 Coríntios 4:7) para ilustrar a dinâmica da revelação: o tesouro — o conteúdo redentivo e doutrinário — é inteiramente divino, puro e inerrante; os vasos de barro — os profetas e apóstolos — são seres humanos falíveis, condicionados por suas culturas, vocabulários e limitações intelectuais.\nComo afirmou Ellen G. White em *O Grande Conflito* (p. 8), a Bíblia apresenta uma união misteriosa entre o divino e o humano, de forma análoga à Encarnação de Jesus Cristo. Na pessoa de Cristo, a divindade perfeita revestiu-se da humanidade real; nas Escrituras, a verdade infalível de Deus expressou-se na linguagem imperfeita dos homens. O Espírito Santo impregna a mente e o pensamento do profeta com ideias, visões e conceitos divinos, concedendo-lhe a liberdade de selecionar o vocabulário e os recursos estilísticos adequados para comunicar a mensagem. Portanto, a autoridade e a inerrância do texto bíblico residem na fidelidade da mensagem divina revelada, e não na rigidez de cada sílaba ou na isenção de idiossincrasias gramaticais humanas."
         },
         {
           "titulo": "Hermenêutica dos Gêneros Literários Bíblicos e a Prevenção de Erros de Interpretação",
-          "texto": "A Bíblia reúne gêneros variados como narrativas, leis, poesias, provérbios, epístolas e literatura apocalíptica. O reconhecimento de cada estilo impõe regras específicas de leitura que asseguram a correta compreensão da intenção do autor sagrado. No gênero poético, recursos como paralelismos, metáforas e hipérboles visam tocar as emoções e a imaginação, não devendo ser lidos como tratados jurídicos literais. Por sua vez, a profecia clássica foca em advertências éticas com elementos condicionais, enquanto a profecia apocalíptica emprega símbolos e animais proféticos que apontam para realidades históricas concretas. Ignorar o gênero textual induz a erros graves, como a alegorização indevida da história ou o literalismo simplista de visões apocalípticas."
+          "texto": "A Bíblia Sagrada é uma biblioteca divina constituída por uma notável variedade de gêneros literários: narrativas históricas, códigos legislativos, poesias líricas e litúrgicas, provérbios de sabedoria, oráculos proféticos, epístolas pastorais e literatura apocalíptica. O reconhecimento rigoroso do gênero literário é um imperativo exegético e hermenêutico fundamental. Cada gênero carrega um \"contrato de leitura\" próprio que estabelece as regras para a correta extração do sentido pretendido pelo Espírito Santo.\nPor exemplo, no gênero poético, o uso do **paralelismo** (sintético, antitético ou sinônimo) e de figuras de linguagem como a **metáfora** (ex: Isaías 40:6) e a **hipérbole** (ex: Salmo 6:6; Deuteronômio 1:28) visa impactar a imaginação e a emoção do leitor, não devendo ser interpretado com o literalismo rígido de um texto jurídico. Na **profecia clássica**, o discurso é predominantemente poético e condicional, voltado para a correção ética do povo no presente. Por sua vez, na **profecia apocalíptica** (presente em Daniel e Apocalipse), a revelação opera por meio de visões simbólicas complexas (bestas, chifres, tempos proféticos). Tais símbolos apontam para realidades históricas e poderes políticos literais, contudo a linguagem de descrição é estritamente figurada. A ignorância do gênero literário conduz a dois erros trágicos: a alegorização arbitrária de fatos históricos literais ou o literalismo ingênuo de símbolos apocalípticos."
         },
         {
           "titulo": "O Fenômeno dos Assistentes Literários, Pesquisa de Fontes e Citações de Autores Externos",
-          "texto": "Os autores bíblicos utilizaram recursos humanos comuns à sua época, incluindo o auxílio de amanuenses e a pesquisa de registros históricos. Jeremias ditou suas mensagens a Baruque, Paulo utilizou Tércio para escrever a Epístola aos Romanos e Pedro contou com a colaboração editorial de Silvano, explicando variações estilísticas entre diferentes epístolas. Além disso, Lucas registra ter feito cuidadosa investigação consultando testemunhas oculares e relatos prévios. Citações de documentos estatais, coleções de provérbios, autores não canônicos como 1 Enoque e poetas pagãos demonstram que citar uma fonte verdadeira não significa canonizar a obra original inteira, mas reflete a atuação do Espírito Santo ao guiar o escritor a escolher materiais verdadeiros para compor o texto sagrado."
+          "texto": "A investigação bíblica revela que os escritores inspirados valeram-se frequentemente de recursos humanos legítimos, como o trabalho de secretários (amanuenses) e a pesquisa em fontes históricas e literárias preexistentes. No Antigo Testamento, o profeta Jeremias ditava suas mensagens ao escriba Baruque (Jeremias 36:17-18); no Novo Testamento, Paulo utilizou Tércio para redigir a Carta aos Romanos (Romanos 16:22) e autenticava suas epístolas com a própria assinatura (Colossenses 4:18; 2 Tessalonicenses 3:17), enquanto Pedro contou com o auxílio editorial de Silvano (1 Pedro 5:12). O uso de assistentes explica variações gramaticais no grego entre livros atribuídos ao mesmo autor (como o Evangelho de João e o Apocalipse).\nAlém disso, a inspiração não anula o esforço investigativo consciente. O evangelista Lucas declara abertamente em Lucas 1:1-4 que seu evangelho foi resultado de uma *\"cuidadosa investigação de tudo desde a sua origem\"*, ouvindo testemunhas oculares e consultando relatos escritos. Semelhantemente, autores bíblicos citaram arquivos oficiais (1 Reis 11:41), coleções de provérbios (Eclesiastes 12:9-10) e até obras judaicas não canônicas (como Judas 14-15 citando 1 Enoque 1:9) ou poetas grego-pagãos (como Paulo em Atos 17:28 e Tito 1:12). O princípio teológico crucial é que **citar uma fonte externa não transforma o livro original em texto inspirado, nem anula a inspiração do autor bíblico**. Sob a supervisão infalível do Espírito Santo, o autor inspirado foi guiado a selecionar exclusivamente aquilo que era verdadeiro e útil para compor o cânon sagrado."
         },
         {
           "titulo": "Paralelos Históricos e Hermenêuticos no Ministério Profético de Ellen G. White",
-          "texto": "O ministério de Ellen White reflete os mesmos princípios operantes na formação das Escrituras bíblicas. Tendo recebido a ordem de registrar suas visões, ela superou debilidades físicas e produziu uma vasta obra literária com a ajuda de secretárias e assistentes editoriais. Essas auxiliares cuidavam de tarefas gramaticais, datilografia e organização textual, sem interferir no conteúdo ou assumir coautoria. Ao redigir obras históricas, a autora selecionou descrições precisas de historiadores consagrados para retratar cenas vistas em visão. Ellen White rejeitou reivindicações de infalibilidade pessoal e definiu seus escritos como uma luz menor destinada a guiar os cristãos à luz maior da Bíblia Sagrada, a única regra suprema de fé e prática."
+          "texto": "A compreensão do processo de inspiração divino-humana nas Escrituras projeta luz direta sobre o ministério profético de Ellen G. White. Como mensageira chamada por Deus para a igreja remanescente, sua experiência apresenta paralelos exatos com os profetas do texto bíblico. Ellen White recebeu a ordem divina de registrar por escrito as visões concedidas pelo Espírito Santo, superando limitações de saúde e fraqueza física.\nPara desempenhar seu extenso trabalho literário (mais de 100 mil páginas manuscritas), Ellen White utilizou assistentes literárias e secretárias editoriais. Essas auxiliares realizavam tarefas de datilografia, correção ortográfica e ajustes gramaticais, além de ajudarem na organização de manuscritos e artigos. As assistentes não eram coautoras nem \"escritoras fantasmas\"; o conteúdo, os pensamentos e a autoridade das mensagens pertenciam integralmente a Ellen White sob a orientação do Espírito Santo. Do mesmo modo, ao escrever livros históricos como *O Grande Conflito*, ela utilizou passagens de historiadores protestantes renomados que descreviam com precisão exata as cenas que Deus lhe havia mostrado em visão. Ellen White nunca reivindicou infalibilidade pessoal (afirmando que apenas Deus é infalível) e manteve categoricamente que seus escritos representam a \"luz menor\" que aponta e conduz os fiéis à \"luz maior\", a Bíblia Sagrada como a única regra infalível de fé e prática.\n# 📖 GUIA DE ESTUDO E REFLEXÃO SEMANAL DO ALUNO\n### *Guia Prático de Aplicação Pessoal*\n> **Texto para Guardar no Coração**:\n> *\"Pois tudo o que no passado foi escrito para o nosso ensino foi escrito a fim de que pela paciência e pela consolação das Escrituras tenhamos esperança.\"* — **Romanos 15:4**\n### 🎯 **O OBJETIVO DA SUA SEMANA**\nCompreender que a Bíblia é a infalível Palavra de Deus entregue a nós por meio de instrumentos humanos e estilos literários diversos. Nesta semana, você é chamado a renovar sua confiança nas Escrituras Sagradas, permitindo que a mensagem profética gravada nas páginas da Bíblia seja transformada em uma realidade viva no seu coração."
         }
       ],
       "capa": "img/licoes/licao-2026-4t-6.png"
