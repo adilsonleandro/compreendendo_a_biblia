@@ -1298,6 +1298,183 @@ window.ESTUDOS_JSON = {
       "Bíblia Sagrada, versão Almeida Revista e Corrigida"
     ]
   },
+  "livre-arbitrio-para-aceitar-ou-nao-a-salvacao": {
+    "id": "livre-arbitrio-para-aceitar-ou-nao-a-salvacao",
+    "tema": "Grande Conflito",
+    "titulo": "Livre-Arbítrio para Aceitar ou Não a Salvação",
+    "subtitulo": "Josué 24:15",
+    "ordem": 17,
+    "versiculo_memorizar": {
+      "texto": "\"E, se vos parece mal servir ao SENHOR, escolhei hoje a quem sirvais: se aos deuses a quem serviram vossos pais, que estavam dalém do rio, ou aos deuses dos amorreus, em cuja terra habitais; porém eu e a minha casa serviremos ao SENHOR.\"",
+      "referencia": "Josué 24:15"
+    },
+    "secoes": [
+      {
+        "titulo": "Introdução",
+        "paragrafos": [
+          "Uma das perguntas mais profundas da fé cristã é esta: somos realmente livres para aceitar ou rejeitar a salvação? Se Deus é soberano e conhece o futuro, a escolha humana é real? A Bíblia responde com clareza: Jesus veio salvar a todos, mas Ele não obriga ninguém a aceitar. Cada pessoa tem a liberdade para escolher. Infelizmente, no passado, muitos não aceitaram a salvação oferecida. Este estudo apresenta, com base na Escritura e nos princípios da Igreja Adventista do Sétimo Dia, o que é o livre-arbítrio, como ele se harmoniza com a soberania e a presciência de Deus, e por que ele permanece inviolável até na eternidade."
+        ]
+      },
+      {
+        "titulo": "Parte 1 — A liberdade de escolher",
+        "paragrafos": [],
+        "subsecoes": [
+          {
+            "titulo": "1.1 Jesus não obriga ninguém (João 1:11; João 12:46)",
+            "paragrafos": [
+              "A Bíblia diz que Jesus \"veio para o que era seu, e os seus não o receberam\" (João 1:11). Jesus disse: \"Eu vim como luz para o mundo, a fim de que todo aquele que crê em mim não permaneça nas trevas.\" (João 12:46) Paulo afirma: \"Pois não me envergonho do evangelho, porque é o poder de Deus para a salvação de todo aquele que crê, primeiro do judeu e também do grego.\" (Romanos 1:16) A salvação é oferecida a todos, mas recebida por quem crê — e crer é um ato livre."
+            ]
+          },
+          {
+            "titulo": "1.2 O convite de Josué (Josué 24:15; Deuteronômio 30:19)",
+            "paragrafos": [
+              "Josué convidou os seus compatriotas a escolherem a quem desejariam servir: \"E, se vos parece mal servir ao SENHOR, escolhei hoje a quem sirvais... porém eu e a minha casa serviremos ao SENHOR.\" (Josué 24:15) Moisés fizera o mesmo: \"Os céus e a terra tomo hoje por testemunhas contra vós, de que te tenho proposto a vida e a morte, a bênção e a maldição; escolhe, pois, a vida, para que vivas, tu e a tua semente.\" (Deuteronômio 30:19) Desde o princípio, Deus apresenta as duas opções e deixa a escolha ao ser humano."
+            ]
+          },
+          {
+            "titulo": "1.3 O exemplo de Pedro e o de Judas (Mateus 26:75; Mateus 27:3-5)",
+            "paragrafos": [
+              "Judas foi um triste exemplo de alguém que usou seu livre-arbítrio para rejeitar a Cristo. Assim como Jesus advertiu a Pedro do que ele estava para fazer, advertiu também a Judas. A diferença é que Pedro, após seu pecado, ficou triste e arrependido, deu lugar ao trabalho do Espírito Santo: \"E Pedro lembrou-se da palavra que Jesus lhe tinha dito: Antes que o galo cante, três vezes me negarás. E, saindo dali, chorou amargamente.\" (Mateus 26:75) Já Judas, após o seu pecado, ficou triste de remorso, mas não deu lugar para o Espírito Santo: \"Então Judas, o que o traíra, vendo que fora condenado, trouxe, arrependido, as trinta moedas de prata aos principais dos sacerdotes e anciãos... E, lançando as moedas de prata no santuário, retirou-se e foi-se enforcar.\" (Mateus 27:3, 5) Jesus nada mais podia fazer a não ser aceitar a escolha de Judas. Jesus veio salvar, mas Ele não obriga ninguém a aceitá-Lo. É uma escolha da livre vontade."
+            ]
+          }
+        ]
+      },
+      {
+        "titulo": "Parte 2 — Soberania de Deus e liberdade humana",
+        "paragrafos": [],
+        "subsecoes": [
+          {
+            "titulo": "2.1 Deus é soberano e respeita a escolha (2 Pedro 3:9; 1 Timóteo 2:4)",
+            "paragrafos": [
+              "Alguns se surpreendem com este ponto de vista, pois gostam de ver um Deus forte que pode tudo. Sim, Deus é soberano. Ele fez todos os arranjos para que todos possam ser salvos, mas Ele respeita a escolha humana. Se alguém resiste à voz de Deus pode até vir a perder-se, mas a responsabilidade não é de Deus, e sim humana. \"Não retarda o Senhor a sua promessa, como alguns a julgam demorada; pelo contrário, ele é longânimo para convosco, não querendo que nenhum pereça, senão que todos cheguem ao arrependimento.\" (2 Pedro 3:9) \"O qual deseja que todos os homens se salvem e venham ao conhecimento da verdade.\" (1 Timóteo 2:4)"
+            ]
+          },
+          {
+            "titulo": "2.2 Deus jamais força a vontade (Apocalipse 3:20)",
+            "paragrafos": [
+              "Somente que Deus não interfere nas escolhas que fazemos. Deus jamais força a nossa vontade. Ele nos convida amorosamente, por todos os meios possíveis, para escolhermos o lado da verdade e da justiça: \"Eis que estou à porta e bato; se alguém ouvir a minha voz e abrir a porta, entrarei em sua casa e cearei com ele, e ele, comigo.\" (Apocalipse 3:20) Mas se escolhermos o contrário, Deus respeita nossa escolha. Tanto que Deus respeitou a escolha de Lúcifer, de Adão e Eva e de todas as criaturas do Seu reino."
+            ]
+          }
+        ]
+      },
+      {
+        "titulo": "Parte 3 — Presciência de Deus e livre-arbítrio",
+        "paragrafos": [],
+        "subsecoes": [
+          {
+            "titulo": "3.1 Conhecer o futuro não é interferir (João 13:19; João 14:29)",
+            "paragrafos": [
+              "O fato de Deus ter um conhecimento do futuro não faz com que Deus interfira em nossas decisões. Podemos escolher amá-Lo e servi-Lo ou podemos escolher nos afastar dEle. Alguns preferem chamar esta habilidade de Deus conhecer o futuro de presciência de Deus. Ele sabe o que irá acontecer, antes que aconteça. Ele sabe, mas não interfere nas escolhas que são nossas. Jesus em duas ocasiões lembrou aos seus discípulos da sua habilidade divina de conhecer o futuro, para reforçar a fé dos discípulos nele: \"Desde já vos digo, antes que aconteça, para que, quando acontecer, creiais que EU SOU.\" (João 13:19) \"Disse-vos agora, antes que aconteça, para que, quando acontecer, vós creiais.\" (João 14:29)"
+            ]
+          },
+          {
+            "titulo": "3.2 Presciência não é predestinação (Deuteronômio 30:19)",
+            "paragrafos": [
+              "Não é uma predestinação, porque não estamos presos a nada. Não estamos predeterminados a fazer isto ou aquilo. Somos totalmente livres para escolher o que quisermos. O que nos ocorre é fruto de nossas escolhas e das escolhas daqueles que estão ao nosso redor. Servimos a um Deus poderoso e que sabe todas as coisas, mas ao mesmo tempo servimos a um Deus que coloca o livre-arbítrio dos seres criados como algo inviolável em todo o seu reino."
+            ]
+          }
+        ]
+      },
+      {
+        "titulo": "Parte 4 — O livre-arbítrio e o fim do mal",
+        "paragrafos": [],
+        "subsecoes": [
+          {
+            "titulo": "4.1 O julgamento durante os mil anos (1 Coríntios 6:2-3; Apocalipse 20:1-6)",
+            "paragrafos": [
+              "O fato de Deus terminar com o mal não seria indicação de que iremos perder a possibilidade de escolha? Há na Bíblia principalmente três textos que ajudam a saber que não iremos perder o livre-arbítrio mesmo Deus acabando com o mal. O primeiro: \"Ou não sabeis que os santos hão de julgar o mundo?... Não sabeis que havemos de julgar os próprios anjos?\" (1 Coríntios 6:2-3) O segundo: \"Vi também tronos, e nestes sentaram-se aqueles aos quais foi dada autoridade de julgar... e viveram e reinaram com Cristo durante mil anos.\" (Apocalipse 20:4) O terceiro: \"não se levantará por duas vezes a angústia.\" (Naum 1:9)"
+            ]
+          },
+          {
+            "titulo": "4.2 Por que o mal não voltará (Naum 1:9)",
+            "paragrafos": [
+              "A Bíblia fala que haverá um período de mil anos no qual ficaremos no céu julgando os ímpios. Este julgamento será uma avaliação que faremos dos registros que há no céu, de modo a comprovarmos pessoalmente que Deus foi justo em seu procedimento com o pecado e pecadores. Pelo fato de neste período podermos comprovar o amor de Deus e termos toda a certeza de que o mal e o pecado não compensam, \"não se levantará por duas vezes a angústia\" — ou seja, o mal não mais existirá não porque Deus irá nos programar para não errar (conquanto sejamos transformados de modo a não ter mais aquela propensão interna para o mal), mas sim porque nós e todo o universo já teremos tido evidências suficientes através de nossa experiência para ver que o pecado não presta e que não compensa ficar contra Deus."
+            ]
+          },
+          {
+            "titulo": "4.3 A lei da liberdade (Tiago 1:25; Tiago 2:12)",
+            "paragrafos": [
+              "\"O Universo todo terá sido testemunha da natureza e resultados do pecado. E seu completo extermínio, que no princípio teria acarretado o temor dos anjos, desonrando a Deus, reivindicará agora o Seu amor e estabelecerá a Sua honra perante a totalidade dos seres que se deleitam em fazer a Sua vontade, e em cujo coração está a lei divina. Jamais o mal se manifestará de novo. Diz a Palavra de Deus: 'Não se levantará por duas vezes a angústia.' (Naum 1:9) A lei de Deus, que Satanás acusara de jugo de servidão, será honrada como a lei da liberdade.\" (O Grande Conflito, cap. 42) \"Mas aquele que atenta bem para a lei perfeita da liberdade, e nela persevera, não sendo ouvinte esquecido, mas fazedor da obra, este tal será bem-aventurado no seu feito.\" (Tiago 1:25)"
+            ]
+          }
+        ]
+      },
+      {
+        "titulo": "Parte 5 — A responsabilidade da liberdade",
+        "paragrafos": [],
+        "subsecoes": [
+          {
+            "titulo": "5.1 Vigiar, lutar e orar (1 Pedro 5:8; Mateus 26:41)",
+            "paragrafos": [
+              "É aqui que temos necessidade de vigiar, lutar, orar, para que nada nos seduza a escolher outro senhor; pois que estamos sempre na liberdade de o fazer. \"Sede sóbrios e vigiai; porque o diabo, vosso adversário, anda em derredor, como leão que ruge, buscando a quem possa tragar.\" (1 Pedro 5:8) \"Vigiai e orai, para que não entreis em tentação; o espírito, na verdade, está pronto, mas a carne é fraca.\" (Mateus 26:41)"
+            ]
+          },
+          {
+            "titulo": "5.2 Olhos fitos em Jesus (Hebreus 12:2; João 10:28)",
+            "paragrafos": [
+              "Mas conservemos os olhos fitos em Jesus, e Ele nos preservará. Olhando para Jesus estamos seguros. \"Olhando para Jesus, autor e consumador da fé, o qual, pelo gozo que lhe estava proposto, suportou a cruz, desprezando a afronta, e assentou-se à destra do trono de Deus.\" (Hebreus 12:2) \"E dou-lhes a vida eterna, e nunca hão de perecer, e ninguém as arrebatará da minha mão.\" (João 10:28) Coisa alguma nos poderá arrebatar de Sua mão."
+            ]
+          }
+        ]
+      },
+      {
+        "titulo": "Conclusão",
+        "paragrafos": [
+          "Somos livres para aceitar ou não a salvação que Deus oferece. Jesus veio salvar a todos, mas não obriga ninguém: Ele bate à porta e espera que abramos. A soberania de Deus não anula a liberdade humana — Ele fez todos os arranjos para que todos se salvem, mas respeita a escolha de cada um, como respeitou a de Lúcifer, a de Adão e Eva e a de todas as criaturas do Seu reino. A presciência de Deus não é predestinação: Ele conhece o futuro, mas não interfere nas decisões que são nossas. E o fim do mal não significará a perda da liberdade: durante os mil anos comprovaremos pessoalmente a justiça de Deus, e o pecado não voltará porque teremos evidências suficientes de que ele não compensa. A lei de Deus, que Satanás acusou de jugo de servidão, será honrada como a lei da liberdade. Enquanto isso, vigiemos, lutemos e oremos, com os olhos fitos em Jesus — pois olhando para Jesus estamos seguros, e coisa alguma nos poderá arrebatar de Sua mão. \"Escolhei hoje a quem sirvais... porém eu e a minha casa serviremos ao SENHOR.\" (Josué 24:15)"
+        ]
+      }
+    ],
+    "linha_do_tempo": [],
+    "perguntas": [
+      {
+        "pergunta": "Somos livres para aceitar ou não a salvação que Deus oferece?",
+        "resposta": "Sim. Jesus veio salvar a todos, mas não obriga ninguém a aceitar; cada pessoa tem a liberdade para escolher (João 1:11; João 12:46; Romanos 1:16)."
+      },
+      {
+        "pergunta": "Deus é soberano e ainda assim respeita a escolha humana?",
+        "resposta": "Sim. Deus é soberano e fez todos os arranjos para que todos possam ser salvos, mas respeita a escolha humana; se alguém resiste à voz de Deus pode perder-se, mas a responsabilidade não é de Deus, e sim humana (2 Pedro 3:9; Josué 24:15)."
+      },
+      {
+        "pergunta": "Qual a diferença entre Pedro e Judas?",
+        "resposta": "Pedro, após seu pecado, ficou triste e arrependido e deu lugar ao trabalho do Espírito Santo; Judas ficou triste de remorso, mas não deu lugar ao Espírito Santo — Jesus nada mais podia fazer a não ser aceitar a escolha de Judas (Mateus 26:75; Mateus 27:3-5)."
+      },
+      {
+        "pergunta": "Deus quer que todos se salvem?",
+        "resposta": "Sim. \"Não retarda o Senhor a sua promessa... não querendo que nenhum pereça, senão que todos cheguem ao arrependimento\" (2 Pedro 3:9; 1 Timóteo 2:4)."
+      },
+      {
+        "pergunta": "Se Deus conhece o futuro, como posso ser livre para escolher?",
+        "resposta": "O fato de Deus ter conhecimento do futuro não faz com que Ele interfira nas nossas decisões; Ele sabe o que irá acontecer, mas não interfere nas escolhas que são nossas (Josué 24:15; João 13:19)."
+      },
+      {
+        "pergunta": "A presciência de Deus é predestinação?",
+        "resposta": "Não. Não estamos presos a nada nem predeterminados a fazer isto ou aquilo; somos totalmente livres para escolher, e o que nos ocorre é fruto de nossas escolhas e das escolhas daqueles que estão ao nosso redor (Deuteronômio 30:19)."
+      },
+      {
+        "pergunta": "Deus força a nossa vontade?",
+        "resposta": "Não. Deus jamais força a nossa vontade; Ele nos convida amorosamente, por todos os meios possíveis, para escolhermos o lado da verdade e da justiça, mas respeita a escolha contrária (Apocalipse 3:20; Josué 24:15)."
+      },
+      {
+        "pergunta": "A quem Deus já respeitou a escolha?",
+        "resposta": "A Lúcifer, a Adão e Eva e a todas as criaturas do Seu reino; o livre-arbítrio dos seres criados é inviolável em todo o Seu reino (Isaías 14:12-14; Gênesis 3:6)."
+      },
+      {
+        "pergunta": "Terminar com o mal significa perder a possibilidade de escolha?",
+        "resposta": "Não. Durante os mil anos julgaremos os ímpios e comprovaremos pessoalmente que Deus foi justo; o mal não mais existirá não porque Deus nos programará para não errar, mas porque teremos evidências suficientes de que o pecado não compensa (1 Coríntios 6:2-3; Apocalipse 20:1-6; Naum 1:9)."
+      },
+      {
+        "pergunta": "O que será honrado na eternidade?",
+        "resposta": "A lei de Deus, que Satanás acusara de jugo de servidão, será honrada como a lei da liberdade (Tiago 1:25; Tiago 2:12; Naum 1:9)."
+      }
+    ],
+    "fontes": [
+      "CAT5413 — Livre Arbítrio para Aceitar ou não a Salvação (Escola Bíblica Novo Tempo)",
+      "CAT5472 — Presciência de Deus e Livre Arbítrio (Escola Bíblica Novo Tempo)",
+      "CAT6762 — O término do pecado e o livre arbítrio (Escola Bíblica Novo Tempo)",
+      "Ellen G. White, O Grande Conflito, capítulo 42",
+      "Bíblia Sagrada, versão Almeida Revista e Corrigida"
+    ]
+  },
   "mil-anos": {
     "id": "mil-anos",
     "tema": "Escatologia",
@@ -1976,6 +2153,182 @@ window.ESTUDOS_JSON = {
       "Bíblia Sagrada, versão Almeida Revista e Corrigida"
     ]
   },
+  "os-7-sabados-cerimoniais": {
+    "id": "os-7-sabados-cerimoniais",
+    "tema": "O Sábado",
+    "titulo": "Os 7 Sábados Cerimoniais",
+    "subtitulo": "Levítico 23:32",
+    "ordem": 14,
+    "versiculo_memorizar": {
+      "texto": "\"Sábado de descanso solene vos será; então, afligireis a vossa alma; aos nove do mês, de uma tarde a outra tarde, celebrareis o vosso sábado.\"",
+      "referencia": "Levítico 23:32"
+    },
+    "secoes": [
+      {
+        "titulo": "Introdução",
+        "paragrafos": [
+          "Uma das objeções mais comuns à guarda do sábado é a seguinte: se a Bíblia chama de sábados também as festas anuais de Israel, e se esses sábados cerimoniais foram abolidos na cruz, então o sábado do sétimo dia também teria sido abolido. A objeção parece forte, mas nasce de uma confusão entre duas instituições completamente diferentes. De Levítico 16 e 23 e Números 28 e 29 aprendemos que havia 7 sábados anuais para o povo de Israel. Este estudo apresenta, com base na Escritura e nos princípios da Igreja Adventista do Sétimo Dia, quais são esses sábados, por que recebem esse nome, o que os distingue do sábado do sétimo dia e por que a distinção entre lei moral, cerimonial e dietética é essencial para entender o assunto."
+        ]
+      },
+      {
+        "titulo": "Parte 1 — Os sete sábados cerimoniais",
+        "paragrafos": [],
+        "subsecoes": [
+          {
+            "titulo": "1.1 O Sábado da Páscoa e o último dia dos Pães Asmos (Levítico 23:5-8; Números 28:16-17)",
+            "paragrafos": [
+              "O primeiro sábado cerimonial é o Sábado da Páscoa, no dia 15 do primeiro mês: \"No primeiro mês, aos catorze dias do mês, é a Páscoa do SENHOR. E aos quinze dias do mesmo mês haverá festa; sete dias se comerão pães asmos.\" (Números 28:16-17) O segundo é o último dia da Festa dos Pães Asmos, no dia 21 do primeiro mês: \"No sétimo dia haverá santa convocação; nenhuma obra servil fareis.\" (Levítico 23:8)"
+            ]
+          },
+          {
+            "titulo": "1.2 A Festa da Colheita ou Pentecostes (Êxodo 23:16; 34:22; Números 28:26; Atos 2:1)",
+            "paragrafos": [
+              "O terceiro é a Festa da Colheita ou Pentecostes, 50 dias após a Páscoa: \"Também guardarás a Festa das Semanas, que é a das primícias da sega do trigo, e a Festa da Colheita no fim do ano.\" (Êxodo 34:22) \"Também tereis santa convocação no dia das primícias, quando trouxerdes oferta nova de manjares ao SENHOR, segundo a vossa Festa das Semanas; nenhuma obra servil fareis.\" (Números 28:26) Foi nesse dia que o Espírito Santo foi derramado sobre a igreja: \"Ao cumprir-se o dia de Pentecostes, estavam todos reunidos no mesmo lugar.\" (Atos 2:1)"
+            ]
+          },
+          {
+            "titulo": "1.3 A Festa das Trombetas e o Dia da Expiação (Números 29:1, 7; Levítico 23:24-32)",
+            "paragrafos": [
+              "O quarto é a Festa das Trombetas, no dia 1º do sétimo mês: \"No primeiro dia do sétimo mês, tereis santa convocação; nenhuma obra servil fareis; ser-vos-á dia do sonido de trombetas.\" (Números 29:1) O quinto é o Dia da Expiação, no dia 10 do sétimo mês: \"No dia dez deste sétimo mês, tereis santa convocação e afligireis a vossa alma; nenhuma obra fareis.\" (Números 29:7) \"Sábado de descanso solene vos será; então, afligireis a vossa alma; aos nove do mês, de uma tarde a outra tarde, celebrareis o vosso sábado.\" (Levítico 23:32)"
+            ]
+          },
+          {
+            "titulo": "1.4 A Festa dos Tabernáculos e seu último dia (Levítico 23:34-36; Números 29:12)",
+            "paragrafos": [
+              "O sexto é a Festa dos Tabernáculos, no dia 15 do sétimo mês: \"Fala aos filhos de Israel, dizendo: Aos quinze dias deste mês sétimo será a Festa dos Tabernáculos ao SENHOR, por sete dias.\" (Levítico 23:34) O sétimo é o último dia da Festa dos Tabernáculos, no dia 22 do sétimo mês: \"Aos quinze dias do sétimo mês, tereis santa convocação; nenhuma obra servil fareis; mas sete dias celebrareis festa ao SENHOR.\" (Números 29:12)"
+            ]
+          }
+        ]
+      },
+      {
+        "titulo": "Parte 2 — Por que eram chamados de sábados",
+        "paragrafos": [],
+        "subsecoes": [
+          {
+            "titulo": "2.1 O significado de Shabbath (Levítico 23:32)",
+            "paragrafos": [
+              "Estas convocações anuais eram chamadas de sábados porque a palavra hebraica Shabbath significa descanso. Nesses sábados anuais as pessoas descansavam de seus labores. O termo descreve a natureza do dia — um dia de repouso — e não a sua identificação com o sábado do sétimo dia."
+            ]
+          },
+          {
+            "titulo": "2.2 Duas instituições distintas (Êxodo 20:8-11)",
+            "paragrafos": [
+              "Mas o simples fato de essas santas convocações anuais serem chamadas sábados não significa que eles sejam colocados na mesma categoria do sábado do sétimo dia. O sábado do sétimo dia tem sua obediência ordenada no quarto mandamento da Lei de Deus, escrita com o próprio dedo de Deus: \"Lembra-te do dia de descanso, para o santificar. Seis dias trabalharás, e farás toda a tua obra, mas o sétimo dia é o sábado do SENHOR teu Deus... Porque em seis dias fez o SENHOR os céus e a terra, o mar e tudo o que neles há, e ao sétimo dia descansou; por isso o SENHOR abençoou o dia de sábado, e o santificou.\" (Êxodo 20:8-11) Ele é inteiramente diferente dos sábados cerimoniais que constituíam festas solenes para o povo de Israel."
+            ]
+          },
+          {
+            "titulo": "2.3 Dias móveis e o \"Sábado Grande\" (João 19:31)",
+            "paragrafos": [
+              "As convocações anuais eram dias móveis dentro da semana. O Dia da Expiação, por exemplo, caía sempre no dia 10 do sétimo mês, mas isso podia ser qualquer dia da semana dependendo do ano. E quando esse dia cerimonial festivo caía num sábado do sétimo dia semanal, então era chamado de Sábado Grande: \"Os judeus, pois, para que no sábado não ficassem os corpos na cruz, visto como era a preparação, pois era grande o dia daquele sábado, rogaram a Pilatos que se lhes quebrassem as pernas, e fossem tirados.\" (João 19:31) O sábado do sétimo dia, ao contrário, é fixo: cai sempre no sétimo dia de cada semana, desde a criação."
+            ]
+          }
+        ]
+      },
+      {
+        "titulo": "Parte 3 — O que cessou na cruz",
+        "paragrafos": [],
+        "subsecoes": [
+          {
+            "titulo": "3.1 Os sábados cerimoniais apontavam para Cristo (Colossenses 2:14, 16-17)",
+            "paragrafos": [
+              "Quando Jesus morreu na cruz, os sábados cerimoniais deixaram de ser obrigatórios para os cristãos, porque eles eram festas de um povo — o povo judeu — festas que apenas apontavam para Cristo: \"Havendo riscado a cédula que era contra nós nas suas ordenanças, a qual de alguma maneira nos era contrária, e a tirou do meio de nós, cravando-a na cruz.\" (Colossenses 2:14) \"Portanto, ninguém vos julgue pelo comer, ou pelo beber, ou por causa dos dias de festa, ou da lua nova, ou dos sábados, que são sombras das coisas futuras, mas o corpo é de Cristo.\" (Colossenses 2:16-17) O que perdeu a razão de ser quando Cristo morreu na cruz foi a lei cerimonial."
+            ]
+          },
+          {
+            "titulo": "3.2 O sábado semanal continua em vigor (Eclesiastes 12:13; João 14:15)",
+            "paragrafos": [
+              "Entretanto, o sábado semanal continua em vigor para os cristãos, pois é um ato de adoração a Deus como o Criador de todas as coisas e também celebra o descanso que temos na salvação oferecida por Cristo na cruz. O sábado semanal é o quarto mandamento da eterna Lei de Deus: \"De tudo o que se tem ouvido, a suma é: Teme a Deus e guarda os seus mandamentos; porque isto é o dever de todo homem.\" (Eclesiastes 12:13) \"Se me amais, guardareis os meus mandamentos.\" (João 14:15) Devido a esta convicção muitos cristãos estão dedicando este dia para adoração ao Criador."
+            ]
+          }
+        ]
+      },
+      {
+        "titulo": "Parte 4 — Lei moral, cerimonial e dietética",
+        "paragrafos": [],
+        "subsecoes": [
+          {
+            "titulo": "4.1 A lei moral (Êxodo 20; Salmo 19:7)",
+            "paragrafos": [
+              "Todas as instruções de Deus são perfeitas; toda a vontade moral de Deus, resumida nos Dez Mandamentos, é válida para nós. Esta lei moral deve ser obedecida por todos, pois todos os seres humanos têm o dever de ser moralmente aceitáveis a Deus e não apenas um povo em particular: \"A lei do SENHOR é perfeita, e refrigera a alma; o testemunho do SENHOR é fiel, e dá sabedoria aos símplices.\" (Salmo 19:7) Isto indica que a lei moral de Deus não é apenas os 10 mandamentos, mas sim todos os ensinos revelados por Deus; os Dez Mandamentos são um resumo da lei moral do Criador."
+            ]
+          },
+          {
+            "titulo": "4.2 A lei cerimonial (Colossenses 2:14; Hebreus 10:1)",
+            "paragrafos": [
+              "A lei cerimonial não é o Pentateuco, mas sim leis ritualísticas que se encontram no Pentateuco. As leis cerimoniais faziam parte da expiação do pecado; como Jesus veio, morreu na cruz e fez completa expiação pelos pecados da humanidade, tais leis cerimoniais que apontavam para Cristo e a expiação não mais precisam ser observadas: \"Porque, tendo a lei a sombra dos bens futuros, e não a imagem exata das coisas, nunca, pelos mesmos sacrifícios que continuamente se oferecem cada ano, pode aperfeiçoar os que a eles se chegam.\" (Hebreus 10:1)"
+            ]
+          },
+          {
+            "titulo": "4.3 A lei dietética (Levítico 11; 1 Coríntios 3:16-17)",
+            "paragrafos": [
+              "No que diz respeito à lei que ordena não comermos carnes imundas, esta é uma lei dietética, de saúde. Não pode ter sido abolida, pois não é apenas o povo de Israel que deve ter saúde, mas sim toda a raça humana; nosso organismo não é mais forte que o deles para que possamos abusar e usar alimentos imundos. Assim como eles ficavam doentes ao transgredir tal lei, nós também o ficamos — até mais facilmente, pois com o passar dos séculos o organismo humano foi tornando-se mais fraco e menos resistente à doença. Se ao povo de Israel, que possuía um organismo mais resistente às doenças que o nosso, era proibido usar alimentos imundos, quanto mais a nós! \"Não sabeis vós que sois o templo de Deus, e que o Espírito de Deus habita em vós? Se alguém destruir o templo de Deus, Deus o destruirá; porque o templo de Deus, que sois vós, é sagrado.\" (1 Coríntios 3:16-17)"
+            ]
+          },
+          {
+            "titulo": "4.4 A distinção é essencial (Gálatas 3:10; Atos 15:20)",
+            "paragrafos": [
+              "No livro da lei de Moisés havia todo o sistema de leis dos israelitas — leis morais, civis, cerimoniais, dietéticas —, incluindo os 10 mandamentos. Isto não supõe de forma alguma que os 10 Mandamentos tenham sido abolidos, pois apesar de constarem também no livro da lei, possuíam existência própria e eram independentes; o mesmo ocorre em relação às orientações dietéticas. Se estas instruções dietéticas de Levítico 11 tivessem sido abolidas, poderíamos usar como alimento cobras, lagartos, rãs, lesmas. Outras evidências de que Levítico 11 possui orientações aplicadas também a nós encontramos em Atos 15:20, no qual há a orientação para que os crentes do Novo Testamento se abstenham: 1. das contaminações dos ídolos — isto faz parte do decálogo em Êxodo 20; 2. das relações sexuais ilícitas — isto se encontra também em Levítico 18; 3. da carne de animais sufocados — isto está no mesmo livro de Levítico, cap. 17. Deste modo, por que não estaria em vigor a lei referente ao não consumo de carnes imundas, algo fundamental para a preservação de nosso corpo, que é o santuário do Espírito Santo? Além disso, o próprio apóstolo Pedro, ao ter aquela visão do lençol zoológico em Atos 10, na qual Deus queria apenas ensinar-lhe que a nenhum homem, mesmo sendo gentio, deveria considerar comum ou imundo (Atos 10:28), afirmou que jamais havia comido coisa alguma comum e imunda (Atos 10:14), ou seja, seguia estritamente, mesmo após a morte de Cristo na cruz, as instruções de Levítico 11."
+            ]
+          }
+        ]
+      },
+      {
+        "titulo": "Conclusão",
+        "paragrafos": [
+          "Os 7 sábados cerimoniais de Israel — Páscoa, último dia dos Pães Asmos, Pentecostes, Trombetas, Dia da Expiação, Tabernáculos e o último dia dos Tabernáculos — eram convocações anuais chamadas sábados porque Shabbath significa descanso. Eram dias móveis dentro da semana, festas que apontavam para Cristo, e cessaram na cruz quando o antítipo encontrou o tipo. O sábado do sétimo dia, porém, é de outra natureza: foi instituído na criação, escrito pelo próprio dedo de Deus no quarto mandamento, é fixo e semanal, e permanece em vigor para os cristãos como memorial do Criador e do descanso da salvação. Confundir as duas instituições é o erro que sustenta a objeção; distingui-las é o que revela a coerência da Palavra de Deus. A lei moral permanece, a cerimonial cumpriu-se em Cristo, e a dietética continua cuidando do templo do Espírito Santo. \"Teme a Deus e guarda os seus mandamentos; porque isto é o dever de todo homem.\" (Eclesiastes 12:13)"
+        ]
+      }
+    ],
+    "linha_do_tempo": [],
+    "perguntas": [
+      {
+        "pergunta": "Quais são os 7 sábados cerimoniais de Israel?",
+        "resposta": "1. O Sábado da Páscoa (dia 15 do primeiro mês); 2. O último dia da Festa dos Pães Asmos (dia 21 do primeiro mês); 3. A Festa da Colheita ou Pentecostes (50 dias após a Páscoa); 4. A Festa das Trombetas (dia 1 do sétimo mês); 5. O Dia da Expiação (dia 10 do sétimo mês); 6. A Festa dos Tabernáculos (dia 15 do sétimo mês); 7. O último dia da Festa dos Tabernáculos (dia 22 do sétimo mês) (Levítico 23; Números 28-29)."
+      },
+      {
+        "pergunta": "Por que essas convocações anuais eram chamadas de sábados?",
+        "resposta": "Porque a palavra hebraica Shabbath significa descanso, e nesses dias as pessoas descansavam de seus labores (Levítico 23:32)."
+      },
+      {
+        "pergunta": "Os sábados cerimoniais são da mesma categoria do sábado do sétimo dia?",
+        "resposta": "Não. O simples fato de serem chamados sábados não os coloca na mesma categoria do sábado do sétimo dia, que é o quarto mandamento da eterna Lei de Deus (Êxodo 20:8-11)."
+      },
+      {
+        "pergunta": "Qual a diferença entre os sábados cerimoniais e o sábado semanal?",
+        "resposta": "As convocações anuais eram dias móveis dentro da semana; o sábado do sétimo dia é fixo, semanal, memorial da criação (Levítico 23:32; Êxodo 20:11)."
+      },
+      {
+        "pergunta": "O que é o \"Sábado Grande\"?",
+        "resposta": "Quando um dia cerimonial festivo caía num sábado do sétimo dia semanal, era chamado de Sábado Grande (João 19:31)."
+      },
+      {
+        "pergunta": "Os sábados cerimoniais continuam obrigatórios para os cristãos?",
+        "resposta": "Não. Quando Jesus morreu na cruz, os sábados cerimoniais deixaram de ser obrigatórios, porque eram festas de um povo — o povo judeu — festas que apenas apontavam para Cristo (Colossenses 2:14, 16-17)."
+      },
+      {
+        "pergunta": "O sábado semanal continua em vigor?",
+        "resposta": "Sim. É um ato de adoração a Deus como Criador de todas as coisas e celebra o descanso que temos na salvação oferecida por Cristo (Êxodo 20:8-11; Eclesiastes 12:13; João 14:15)."
+      },
+      {
+        "pergunta": "O que é a lei cerimonial?",
+        "resposta": "São leis ritualísticas que se encontram no Pentateuco, que faziam parte da expiação do pecado e apontavam para Cristo; não é o Pentateuco inteiro (Colossenses 2:14; Hebreus 10:1)."
+      },
+      {
+        "pergunta": "A lei cerimonial foi abolida?",
+        "resposta": "Sim, quanto à sua obrigatoriedade: como Jesus veio, morreu na cruz e fez completa expiação, tais leis que apontavam para Cristo não mais precisam ser observadas (Colossenses 2:14; Hebreus 9:10-12)."
+      },
+      {
+        "pergunta": "Qual a diferença entre lei moral, cerimonial e dietética?",
+        "resposta": "A lei moral (Dez Mandamentos) é válida para todos; a cerimonial apontava para Cristo e cessou na cruz; a dietética (Levítico 11) é de saúde e permanece, pois toda a raça humana deve ter saúde (1 Coríntios 3:16-17; 6:19)."
+      }
+    ],
+    "fontes": [
+      "CAT5370 — Os 7 Sábados Cerimoniais celebrados pelo povo de Israel (Escola Bíblica Novo Tempo)",
+      "CAT6332 — Leis Morais, Cerimoniais, Dietéticas (Escola Bíblica Novo Tempo)",
+      "CAT6677 — Lv 11 — Leis cerimoniais e sua relação com Lv 11 (Escola Bíblica Novo Tempo)",
+      "Bíblia Sagrada, versão Almeida Revista e Corrigida"
+    ]
+  },
   "porque-deus-nao-destruiu-o-diabo": {
     "id": "porque-deus-nao-destruiu-o-diabo",
     "tema": "Escatologia",
@@ -2346,7 +2699,7 @@ window.ESTUDOS_JSON = {
   },
   "posso-escolher-qualquer-dia": {
     "id": "posso-escolher-qualquer-dia",
-    "tema": "Posso escolher qualeur dia para guardar?",
+    "tema": "O Sábado",
     "titulo": "Posso Escolher Qualquer Dia Como Dia de Descanso e Adoração?",
     "subtitulo": "Êxodo 20:8-11",
     "ordem": 9,
@@ -2520,6 +2873,201 @@ window.ESTUDOS_JSON = {
       "CAT6287 — Guardar qualquer dia (Escola Bíblica Novo Tempo)",
       "CAT6530 — O sétimo dia era chamado de sábado desde a criação — Guardar qualquer dia (Escola Bíblica Novo Tempo)",
       "Cardeal Gibbons, The Faith of Our Fathers, edição de 1892, pág. 111",
+      "Bíblia Sagrada, versão Almeida Revista e Corrigida"
+    ]
+  },
+  "quando-ocorrera-a-tribulacao-final": {
+    "id": "quando-ocorrera-a-tribulacao-final",
+    "tema": "Escatologia",
+    "titulo": "Quando Ocorrerá a Tribulação Final",
+    "subtitulo": "Daniel 12:1",
+    "ordem": 16,
+    "versiculo_memorizar": {
+      "texto": "\"Naquele tempo se levantará Miguel, o grande príncipe, que se levanta a favor dos filhos do teu povo; e haverá um tempo de tribulação, qual nunca houve, desde que existiu nação até aquele tempo; mas naquele tempo livrar-se-á o teu povo, todo aquele que for achado escrito no livro.\"",
+      "referencia": "Daniel 12:1"
+    },
+    "secoes": [
+      {
+        "titulo": "Introdução",
+        "paragrafos": [
+          "A Grande Tribulação é o período de perseguição final que antecede a volta de Cristo. Muitos cristãos acreditam que a igreja será arrebatada antes dela, mas a Bíblia apresenta outra ordem: a tribulação vem primeiro, e só depois o Senhor aparece em glória. Vamos começar pelo que é seguro e certo: Jesus prometeu e irá voltar ao nosso mundo (João 14:1-3; Hebreus 9:28); Ele virá com todos os Seus anjos (Mateus 24:30-31); e todas as pessoas verão Cristo ao mesmo tempo (Apocalipse 1:7). Assim, podemos afirmar com segurança: Jesus não irá arrebatar a igreja secretamente. Este estudo apresenta, com base na Escritura e nos princípios da Igreja Adventista do Sétimo Dia, o que é a Grande Tribulação, quando ela ocorrerá, o que acontecerá nesse período e como se preparar para ele."
+        ]
+      },
+      {
+        "titulo": "Parte 1 — O que é a Grande Tribulação",
+        "paragrafos": [],
+        "subsecoes": [
+          {
+            "titulo": "1.1 A maior de todas as tribulações (Marcos 13:19, 24)",
+            "paragrafos": [
+              "\"Porque aqueles dias serão de tamanha tribulação como nunca houve desde o princípio do mundo, que Deus criou, até agora e nunca jamais haverá.\" (Marcos 13:19) \"Mas, naqueles dias, após a referida tribulação, o sol escurecerá, a lua não dará a sua claridade.\" (Marcos 13:24) Em toda a história o povo de Deus passou por tribulações, mas a Grande Tribulação será a maior de todas."
+            ]
+          },
+          {
+            "titulo": "1.2 A perseguição por causa do sábado (Ezequiel 20:12, 20; Apocalipse 13)",
+            "paragrafos": [
+              "A Palavra de Deus afirma que nos últimos dias, um pouco antes da volta gloriosa de Cristo, todos — justos e injustos — estarão no planeta durante a maior de todas as tribulações: a perseguição que os fiéis enfrentarão por escolher o sábado como dia de guarda (Ezequiel 20:12, 20) no lugar do domingo (Apocalipse 13). Isso é chamado de Grande Tribulação, pois o povo de Deus será provado ao máximo para que os anjos vejam quem realmente é fiel a Deus e quem não o é, lá no íntimo."
+            ]
+          },
+          {
+            "titulo": "1.3 Os que vêm da grande tribulação (Apocalipse 7:13-14)",
+            "paragrafos": [
+              "\"Um dos anciãos tomou a palavra, dizendo: Estes, que se vestem de vestiduras brancas, quem são e donde vieram? Respondi-lhe: meu Senhor, tu o sabes. Ele, então, me disse: São estes os que vêm da grande tribulação, lavaram suas vestiduras e as alvejaram no sangue do Cordeiro.\" (Apocalipse 7:13-14) A multidão incontável de salvos é composta precisamente daqueles que passaram pela tribulação — não de uma igreja que foi retirada antes dela."
+            ]
+          }
+        ]
+      },
+      {
+        "titulo": "Parte 2 — Quando ocorrerá a Grande Tribulação",
+        "paragrafos": [],
+        "subsecoes": [
+          {
+            "titulo": "2.1 Miguel se levanta (Daniel 12:1; Daniel 7:9-10)",
+            "paragrafos": [
+              "\"Naquele tempo se levantará Miguel, o grande príncipe, que se levanta a favor dos filhos do teu povo; e haverá um tempo de tribulação, qual nunca houve, desde que existiu nação até aquele tempo; mas naquele tempo livrar-se-á o teu povo, todo aquele que for achado escrito no livro.\" (Daniel 12:1) Miguel é um dos nomes de honra do Senhor Jesus, que é Deus no mais pleno sentido da Palavra (Colossenses 2:9), e aqui é dito que depois de se levantar — ou seja, sair do Lugar Santíssimo do santuário celestial — e após a conclusão da Sua obra de julgamento (Daniel 7:9-10), começará a tribulação. É a presença dEle no templo celestial que garante a nossa paz."
+            ]
+          },
+          {
+            "titulo": "2.2 Após o encerramento da mensagem do terceiro anjo (Apocalipse 22:11-12)",
+            "paragrafos": [
+              "A grande tribulação ocorrerá um pouco antes da volta de Jesus, após o encerramento da mensagem do terceiro anjo. Neste período, o povo de Deus já terá recebido a chuva serôdia e estará preparado para vivenciar os momentos difíceis pelos quais terá de passar. A mensagem do terceiro anjo acha-se descrita em Apocalipse 22:11: \"Continue o injusto fazendo injustiça, continue o imundo ainda sendo imundo; o justo continue na prática da justiça, e o santo continue a santificar-se.\" (Apocalipse 22:11) Todos os casos já terão sido decididos para a vida ou para a morte, e \"o reino, e o domínio, e a majestade dos reinos\" estarão prestes a ser entregues aos herdeiros da salvação, e Jesus reinará como Rei dos Reis e Senhor dos senhores."
+            ]
+          },
+          {
+            "titulo": "2.3 A sequência bíblica dos eventos finais (Mateus 24:29-31; Marcos 13:24-27; Lucas 21:25-27)",
+            "paragrafos": [
+              "Ao estudarmos os evangelhos e outros capítulos da Bíblia, observamos uma sequência de acontecimentos que nos impedem de aceitar que a Grande Tribulação ocorrerá depois que a igreja for arrebatada. Em Mateus 24: 1. A grande tribulação (verso 29); 2. O escurecimento do Sol e da Lua, a queda de estrelas (verso 29); 3. A vinda gloriosa do Salvador em poder e majestade (verso 30); 4. O arrebatamento visível dos justos (verso 31). Em Marcos 13: a tribulação (verso 24), os sinais no céu (versos 24-25), a segunda vinda em poder e glória (verso 26), os santos levados ao céu (verso 27). Em Lucas 21: os eventos da tribulação (versos 25-26), os sinais no Sol, na Lua e nas estrelas (verso 25), a segunda vinda em poder e glória (verso 27). Em 1 Tessalonicenses 4: a segunda vinda (verso 16), a ressurreição dos justos (verso 16), os santos levados ao céu de maneira visível (verso 17). Em Apocalipse 6: o terremoto, o escurecimento do Sol, a Lua se torna sangue e a queda das estrelas (versos 12-13), e a segunda vinda de Jesus com poder e muita glória (versos 14-17). Em Joel 2: o escurecimento do Sol e da Lua (verso 31) e a segunda vinda em glória e majestade (verso 32). Não é surpreendente que nenhuma das referências bíblicas dê a ordem dispensacionalista dos eventos?"
+            ]
+          }
+        ]
+      },
+      {
+        "titulo": "Parte 3 — O que acontecerá nesse período",
+        "paragrafos": [],
+        "subsecoes": [
+          {
+            "titulo": "3.1 As trevas e a ausência de intercessor (1 Timóteo 2:5; Apocalipse 22:12)",
+            "paragrafos": [
+              "Deixando Deus o santuário, as trevas cobrirão os habitantes da Terra. Neste tempo terrível os justos viverão à vista de um Deus santo, sem intercessor. Removeu-se a restrição que estivera sobre os ímpios, e Satanás dominará por completo sobre os que finalmente serão impenitentes. Ao cessarem os anjos de Deus de conter os ventos impetuosos das paixões humanas, ficarão às soltas todos os elementos de contenda. O mundo inteiro se envolverá na mais terrível ruína que já houve."
+            ]
+          },
+          {
+            "titulo": "3.2 A perseguição e o decreto de morte (Apocalipse 13:15-17)",
+            "paragrafos": [
+              "Os justos, que honram a lei de Deus, serão apontados como a causa das terríveis convulsões da natureza, da contenda e carnificina entre os homens. Satanás incitará seus seguidores a intensificar o espírito de ódio e perseguição. O sábado será o ponto especial de controvérsia por toda a cristandade, e as autoridades religiosas e seculares imporão a observância do domingo. A recusa da minoria em ceder à exigência popular e escolher seguir os mandamentos de Deus fará com que sofram perseguição universal. Será expedido um decreto contra os que santificam o sábado do quarto mandamento, denunciando-os como merecedores do mais severo castigo e dando ao povo a liberdade para matá-los."
+            ]
+          },
+          {
+            "titulo": "3.3 O tempo de angústia de Jacó (Gênesis 32:24-30)",
+            "paragrafos": [
+              "O povo de Deus será imerso naquelas cenas de aflição e angústias descritas pelo profeta como o tempo de angústia de Jacó. A noite de angústia de Jacó, quando lutou em oração para obter livramento da mão de Esaú, representa a experiência do povo de Deus no tempo de tribulação: \"Ficou, pois, Jacó só; e lutou com ele um homem até o romper do dia... E disse: Não te chamarás mais Jacó, mas Israel; pois como príncipe lutaste com Deus e com os homens, e prevaleceste.\" (Gênesis 32:24, 28) O Senhor permitirá que Satanás prove o povo de Deus até o último ponto. A confiança em Deus, a fé e a firmeza dos justos serão postas à prova."
+            ]
+          },
+          {
+            "titulo": "3.4 O maior temor: não estar preparado (Apocalipse 3:10; Salmo 139:23-24)",
+            "paragrafos": [
+              "Satanás se esforçará por aterrorizá-los com o pensamento de que sua angústia não terá fim, com o objetivo de desviá-los da fidelidade para com Deus. O receio do povo de Deus neste período não será o medo da perseguição, e sim o medo de não se terem arrependido de todo o pecado e que, devido a alguma falta, não se cumpra a promessa do Salvador: \"Eu te guardarei da hora da tentação que há de vir sobre todo o mundo.\" (Apocalipse 3:10) Se pudessem ter a segurança do seu perdão, não recuariam da tortura ou da morte. O tempo de agonia e angústia exigirá uma fé que possa suportar o cansaço, a demora e a fome — fé que não desfaleça ainda que severamente provada."
+            ]
+          }
+        ]
+      },
+      {
+        "titulo": "Parte 4 — A tribulação de dez dias",
+        "paragrafos": [],
+        "subsecoes": [
+          {
+            "titulo": "4.1 A igreja de Esmirna (Apocalipse 2:10)",
+            "paragrafos": [
+              "\"Não temas as coisas que tens de sofrer. Eis que o diabo está para lançar em prisão alguns dentre vós, para serdes postos à prova, e tereis tribulação de dez dias. Sê fiel até à morte, e dar-te-ei a coroa da vida.\" (Apocalipse 2:10) Algo com o qual os cristãos sempre tiveram de lidar — e o terão até a volta do Senhor Jesus — é com a tribulação ou perseguição. Jesus disse: \"Bem-aventurados os perseguidos por causa da justiça, porque deles é o reino dos céus. Bem-aventurados sois quando, por minha causa, vos injuriarem, e vos perseguirem, e, mentindo, disserem todo mal contra vós.\" (Mateus 5:10-11)"
+            ]
+          },
+          {
+            "titulo": "4.2 O cumprimento histórico (Apocalipse 2:10)",
+            "paragrafos": [
+              "Com a igreja de Esmirna, localizada ao norte de Éfeso e atualmente conhecida com o nome de Izmir, terceira maior cidade da Turquia, não foi diferente. O apóstolo João deu aos irmãos um recado do Salvador de que eles teriam uma tribulação de dez dias. Sobre isto o Doutor em História Eclesiástica C. Mervyn Maxwell disse: \"Aproximadamente setenta anos após ter sido proferida esta profecia (em Apocalipse 2:10), Esmirna tornou-se o palco de uma série notável de martírios, levados a cabo durante considerável número de dez dias literais. O décimo segundo e último desses martírios foi o do idoso e venerando Policarpo, que ao tempo de sua morte havia servido como ministro da igreja de Esmirna durante pelo menos quarenta anos.\""
+            ]
+          }
+        ]
+      },
+      {
+        "titulo": "Parte 5 — Como se preparar para a Grande Tribulação",
+        "paragrafos": [],
+        "subsecoes": [
+          {
+            "titulo": "5.1 Aceitar a Jesus e não se iludir (Atos 16:30-31; Mateus 7:21-23)",
+            "paragrafos": [
+              "O tempo de graça que estamos vivendo agora é concedido a todos a fim de se prepararem para a ocasião do período de tribulação. Todos os que forem fervorosos e perseverantes serão bem-sucedidos. A preparação começa por: 1. Aceitar a Jesus como Salvador e Senhor — isso envolve fé (Atos 16:30-31) e obediência (Mateus 7:21-23); 2. Não se iludir crendo na doutrina do arrebatamento secreto, pois do contrário a pessoa será pega de surpresa, como alerta Apocalipse 6:14-17."
+            ]
+          },
+          {
+            "titulo": "5.2 Vigiar e viver em santidade (Mateus 24:42, 44; 2 Pedro 3:12, 14)",
+            "paragrafos": [
+              "3. Vigiar, ficando atento aos sinais da volta gloriosa de Cristo: \"Portanto, vigiai, porque não sabeis em que dia vem o vosso Senhor.\" (Mateus 24:42) 4. Ler 2 Pedro 3 e seguir as orientações do apóstolo, atentando para os versos 12 e 14: \"Esperando e apressando a vinda do Dia de Deus, por causa do qual os céus, incendiados, serão desfeitos, e os elementos abrasados se derreterão.\" (2 Pedro 3:12) \"Por essa razão, pois, amados, esperando estas coisas, empenhai-vos por serdes achados por ele em paz, sem mácula e irrepreensíveis.\" (2 Pedro 3:14)"
+            ]
+          },
+          {
+            "titulo": "5.3 Adquirir agora o hábito de confiar em Deus (Apocalipse 3:10; 1 João 2:28)",
+            "paragrafos": [
+              "Devemos agora exercer a fé para que não caiamos nos enganos de Satanás. Devemos adquirir agora o hábito de confiar em Deus. Os anjos registram toda oração fervorosa e sincera; devemos tomar o máximo de tempo para orar. O \"tempo de angústia como nunca houve\" está prestes a manifestar-se sobre nós, e necessitaremos de uma experiência que poderemos adquirir mediante entrega da nossa vida a Deus e uma vida de fervor e oração: \"Filhinhos, agora, pois, permanecei nele, para que, quando ele se manifestar, tenhamos confiança e dele não nos afastemos envergonhados na sua vinda.\" (1 João 2:28)"
+            ]
+          }
+        ]
+      },
+      {
+        "titulo": "Conclusão",
+        "paragrafos": [
+          "Quando ocorrerá a tribulação final? Um pouco antes da volta de Jesus, depois que Miguel se levantar do Lugar Santíssimo do santuário celestial e concluir a obra de julgamento, e após o encerramento da mensagem do terceiro anjo. A ordem bíblica é clara e coerente em todos os evangelhos e em Apocalipse: primeiro a grande tribulação, depois os sinais no céu, depois a vinda gloriosa de Cristo e, por fim, o arrebatamento visível dos justos. A igreja não será retirada antes da tribulação — ela passará por ela e será protegida, pois \"são estes os que vêm da grande tribulação, lavaram suas vestiduras e as alvejaram no sangue do Cordeiro\" (Apocalipse 7:14). O ponto central da controvérsia será o sábado, e o maior temor dos fiéis não será a perseguição, mas não estar preparado. Por isso, o tempo de graça de hoje é a oportunidade de preparação: aceitar Jesus, não se iludir com o arrebatamento secreto, vigiar e viver em santidade. Deus lhe abençoe em sua caminhada cristã e que, na \"hora da provação que há de vir sobre o mundo inteiro\" (Apocalipse 3:10), você esteja em pé diante de Jesus Cristo: \"Naquele dia, se dirá: Eis que este é o nosso Deus, em quem esperávamos, e ele nos salvará.\" (Isaías 25:9)"
+        ]
+      }
+    ],
+    "linha_do_tempo": [],
+    "perguntas": [
+      {
+        "pergunta": "O que é a Grande Tribulação?",
+        "resposta": "É a perseguição final que os fiéis enfrentarão por escolher o sábado como dia de guarda, no lugar do domingo; o povo de Deus será provado ao máximo para que se veja quem realmente é fiel (Ezequiel 20:12, 20; Apocalipse 13; Apocalipse 7:13-14)."
+      },
+      {
+        "pergunta": "Quando ocorrerá a Grande Tribulação?",
+        "resposta": "Um pouco antes da volta de Jesus, após o encerramento da mensagem do terceiro anjo e depois que Miguel se levantar, ou seja, sair do Lugar Santíssimo do santuário celestial e concluir a obra de julgamento (Daniel 12:1; Daniel 7:9-10; Apocalipse 22:11)."
+      },
+      {
+        "pergunta": "O que acontece quando Deus deixa o santuário?",
+        "resposta": "As trevas cobrirão os habitantes da Terra; os justos viverão à vista de um Deus santo, sem intercessor; remove-se a restrição sobre os ímpios, e Satanás dominará por completo sobre os que finalmente serão impenitentes (Apocalipse 22:11-12; 1 Timóteo 2:5)."
+      },
+      {
+        "pergunta": "Qual será o ponto especial de controvérsia?",
+        "resposta": "O sábado: as autoridades religiosas e seculares imporão a observância do domingo, e a recusa da minoria em ceder fará com que sofram perseguição universal (Apocalipse 13:15-17; Ezequiel 20:12, 20)."
+      },
+      {
+        "pergunta": "O que é o tempo de angústia de Jacó?",
+        "resposta": "A experiência do povo de Deus no tempo de tribulação, representada pela noite em que Jacó lutou em oração para obter livramento da mão de Esaú (Gênesis 32:24-30)."
+      },
+      {
+        "pergunta": "Qual será o maior temor do povo de Deus nesse período?",
+        "resposta": "Não o medo da perseguição, mas o medo de não se terem arrependido de todo o pecado e de, por alguma falta, não se cumprir a promessa do Salvador (Apocalipse 3:10; Salmo 139:23-24)."
+      },
+      {
+        "pergunta": "A igreja passará pela Grande Tribulação?",
+        "resposta": "Sim. As Escrituras ensinam que os santos passarão pela grande tribulação, mas serão protegidos e libertos na segunda vinda de Jesus (Apocalipse 7:14; Apocalipse 3:10; Mateus 24:22)."
+      },
+      {
+        "pergunta": "Qual a ordem bíblica dos eventos finais?",
+        "resposta": "1. A grande tribulação; 2. O escurecimento do Sol e da Lua e a queda das estrelas; 3. A vinda gloriosa de Cristo em poder e glória; 4. O arrebatamento visível dos justos (Mateus 24:29-31; Marcos 13:24-27; Lucas 21:25-27)."
+      },
+      {
+        "pergunta": "O que é a tribulação de dez dias de Apocalipse 2:10?",
+        "resposta": "A perseguição literal que a igreja de Esmirna sofreria cerca de setenta anos depois da profecia, culminando no martírio de Policarpo (Apocalipse 2:10)."
+      },
+      {
+        "pergunta": "Como se preparar para a Grande Tribulação?",
+        "resposta": "1. Aceitar Jesus como Salvador e Senhor, com fé e obediência; 2. Não se iludir com a doutrina do arrebatamento secreto; 3. Vigiar, atento aos sinais; 4. Seguir as orientações de 2 Pedro 3:12, 14 (Atos 16:30-31; Mateus 7:21-23; Mateus 24:42, 44)."
+      }
+    ],
+    "fontes": [
+      "CAT5381 — Quando Ocorrerá a Tribulação Final (Escola Bíblica Novo Tempo; material de Leandro Soares de Quadros)",
+      "CAT5061 — Tribulação (Escola Bíblica Novo Tempo)",
+      "CAT6729 — Apocalipse 2:10 — tribulação de dez dias (Escola Bíblica Novo Tempo; cita C. Mervyn Maxwell)",
+      "Ellen G. White, O Grande Conflito, capítulo 39",
       "Bíblia Sagrada, versão Almeida Revista e Corrigida"
     ]
   },
@@ -2905,6 +3453,203 @@ window.ESTUDOS_JSON = {
       "Ellen G. White, O Grande Conflito, capítulo 17",
       "SDABC, vol. 6, pág. 625",
       "Bíblia Sagrada, Almeida Revista e Corrigida"
+    ]
+  },
+  "senhor-do-sabado-colher-espigas": {
+    "id": "senhor-do-sabado-colher-espigas",
+    "tema": "O Sábado",
+    "titulo": "Senhor do Sábado — Colher Espigas",
+    "subtitulo": "Marcos 2:27-28",
+    "ordem": 15,
+    "versiculo_memorizar": {
+      "texto": "\"E acrescentou: O sábado foi estabelecido por causa do homem, e não o homem por causa do sábado; de sorte que o Filho do Homem é senhor também do sábado.\"",
+      "referencia": "Marcos 2:27-28"
+    },
+    "secoes": [
+      {
+        "titulo": "Introdução",
+        "paragrafos": [
+          "Uma das acusações mais repetidas contra a guarda do sábado é que Jesus o teria abolido ao dizer que \"o sábado foi estabelecido por causa do homem, e não o homem por causa do sábado\". O episódio que originou essa declaração é o da colheita de espigas: os discípulos, com fome, colheram trigo num dia de sábado, e os fariseus os acusaram de transgressão. A resposta de Jesus não aboliu o mandamento — revelou o seu verdadeiro propósito. Este estudo examina o episódio em Mateus 12, Marcos 2 e Lucas 6, os argumentos de Cristo (Davi, os sacerdotes, a misericórdia) e o significado da expressão \"Senhor do sábado\", aplicando o princípio de interpretação sola scriptura."
+        ]
+      },
+      {
+        "titulo": "Parte 1 — O episódio da colheita de espigas",
+        "paragrafos": [],
+        "subsecoes": [
+          {
+            "titulo": "1.1 O relato de Mateus (Mateus 12:1-2)",
+            "paragrafos": [
+              "\"Por aquele tempo, em dia de sábado, passou Jesus pelas searas. Ora, estando os seus discípulos com fome, entraram a colher espigas e a comer. Os fariseus, porém, vendo isso, disseram-lhe: Eis que os teus discípulos fazem o que não é lícito fazer em dia de sábado.\" (Mateus 12:1-2) Os discípulos de Jesus sentiram fome e tomaram algumas espigas de trigo para comer. E os fariseus acharam aquilo um absurdo. Então eles reclamaram com Jesus por não repreender os seguidores dEle por tamanha desobediência."
+            ]
+          },
+          {
+            "titulo": "1.2 O relato de Marcos e Lucas (Marcos 2:23-24; Lucas 6:1-2)",
+            "paragrafos": [
+              "\"Aconteceu que, num sábado, passando Jesus pelas searas, os seus discípulos colhiam e comiam espigas, debulhando-as com as mãos. E alguns dos fariseus lhes disseram: Por que fazeis o que não é lícito aos sábados?\" (Lucas 6:1-2) Os três evangelhos registram o mesmo episódio, e em todos eles a acusação é a mesma: os discípulos estariam fazendo o que não era lícito no sábado."
+            ]
+          },
+          {
+            "titulo": "1.3 As tradições que os fariseus haviam acrescentado",
+            "paragrafos": [
+              "É claro que o Mestre não concordou com os fariseus, pois, como Criador do sábado (João 1:1-3), Ele sabia qual era a melhor forma de guardá-lo. Os fariseus haviam acrescentado regras que Deus nunca ordenou — entre elas, por exemplo, não era permitido andar mais do que um quilômetro, o que eles consideravam transgressão do sábado. Colher espigas para comer não é trabalho; era apenas satisfazer a fome. O que Jesus estava dizendo no embate que teve com os líderes da época era o seguinte: \"Vocês não estão percebendo o propósito do sábado. Com suas exigências legalistas e desequilibradas, estão desvirtuando a beleza deste dia santo. Eu sou o Senhor do sábado. Fui eu quem criou o sétimo dia para deleite do ser humano.\" (Isaías 58:13-14)"
+            ]
+          }
+        ]
+      },
+      {
+        "titulo": "Parte 2 — Os argumentos de Jesus",
+        "paragrafos": [],
+        "subsecoes": [
+          {
+            "titulo": "2.1 O caso de Davi (Mateus 12:3-4; 1 Samuel 21:6)",
+            "paragrafos": [
+              "\"Mas Jesus lhes disse: Não lestes o que fez Davi quando ele e seus companheiros tiveram fome? Como entrou na Casa de Deus, e comeram os pães da proposição, os quais não lhes era lícito comer, nem a ele nem aos que com ele estavam, mas exclusivamente aos sacerdotes?\" (Mateus 12:3-4) Se era lícito a Davi satisfazer a fome comendo do pão que fora separado para um fim santo, então era lícito aos discípulos prover a sua necessidade colhendo umas espigas nas sagradas horas do sábado."
+            ]
+          },
+          {
+            "titulo": "2.2 O caso dos sacerdotes no templo (Mateus 12:5-6)",
+            "paragrafos": [
+              "\"Ou não lestes na Lei que, aos sábados, os sacerdotes no templo violam o sábado e ficam sem culpa? Pois eu vos digo: aqui está quem é maior que o templo.\" (Mateus 12:5-6) Os sacerdotes no templo realizavam maior trabalho no sábado que em outros dias. O mesmo trabalho, feito em negócios seculares, seria pecado, mas a obra dos sacerdotes era realizada no serviço de Deus. Estavam praticando os ritos que apontavam ao poder redentor de Cristo, e seu trabalho achava-se em harmonia com o desígnio do sábado. Agora, porém, viera o próprio Cristo. Os discípulos, fazendo a obra de Cristo, estavam empenhados no serviço de Deus, e o que era necessário à realização dessa obra era direito fazer no dia de sábado."
+            ]
+          },
+          {
+            "titulo": "2.3 \"Misericórdia quero e não holocaustos\" (Mateus 12:7; Oseias 6:6)",
+            "paragrafos": [
+              "\"Mas, se vós soubésseis o que significa: Misericórdia quero e não holocaustos, não teríeis condenado inocentes.\" (Mateus 12:7) Cristo queria ensinar, aos discípulos e aos inimigos, que o serviço de Deus está acima de tudo. O objetivo da obra de Deus, neste mundo, é a redenção do homem; portanto, tudo quanto é necessário que se faça no sábado no cumprimento dessa obra está em harmonia com a lei do sábado. Jesus não deixou passar a questão com uma simples repreensão aos inimigos: declarou que, em sua cegueira, se haviam enganado quanto ao desígnio do sábado. Os muitos ritos deles, destituídos de coração, não podiam suprir a falta daquela verdadeira integridade e terno amor que há de para sempre caracterizar o genuíno adorador de Deus."
+            ]
+          }
+        ]
+      },
+      {
+        "titulo": "Parte 3 — \"O Filho do Homem é Senhor do sábado\"",
+        "paragrafos": [],
+        "subsecoes": [
+          {
+            "titulo": "3.1 O significado da expressão (Marcos 2:27-28; Hebreus 1:1-3)",
+            "paragrafos": [
+              "\"E acrescentou: O sábado foi estabelecido por causa do homem, e não o homem por causa do sábado; de sorte que o Filho do Homem é senhor também do sábado.\" (Marcos 2:27-28) Em Marcos 2:27-28 e em Mateus 12:8, Jesus afirmou que Ele é a pessoa apropriada para definir o que pode ou não ser feito no dia de sábado, pois Ele é o Criador dos dias da semana (Hebreus 1:1-3; Colossenses 1:15-18). Por isso, afirmou ser o Senhor do sábado. Jesus coroou então Seu argumento, declarando-Se Senhor do sábado — Alguém que estava acima de qualquer dúvida, acima de toda lei. Esse eterno Juiz absolve de culpa os discípulos, apelando para os próprios estatutos de cuja violação são acusados."
+            ]
+          },
+          {
+            "titulo": "3.2 O sábado foi feito para beneficiar o homem (1 Coríntios 11:9)",
+            "paragrafos": [
+              "Ao dizer que o sábado foi estabelecido por causa do homem e não o homem por causa do sábado, Jesus está afirmando que o dia de guarda foi santificado para beneficiar o homem, e não o homem beneficiar o sábado. Um verso que ajuda a entender esta declaração é: \"Porque também o homem não foi criado por causa da mulher, e sim a mulher, por causa do homem.\" (1 Coríntios 11:9) Se a afirmação de Jesus abolisse o mandamento, teríamos de supor que a afirmação de Paulo aboliu a importância da mulher, o que seria absurdo. Deus não criou o homem porque tivesse um sábado necessitando ser guardado por alguém. Ao contrário, criara primeiro o homem, e depois o sábado para atender-lhe às necessidades de repouso e recreação espiritual. Assim o sábado lhe seria uma bênção e não uma carga."
+            ]
+          },
+          {
+            "titulo": "3.3 A atitude de Cristo: reverência, não desprezo (Mateus 5:17-19)",
+            "paragrafos": [
+              "O farisaísmo dos dias de Cristo obscurecera o verdadeiro caráter do sábado. Os rabinos o acumularam de exigências esdrúxulas que o tornaram um fardo quase insuportável. A atitude de Cristo para com o sábado foi a de escoimá-lo desses acréscimos, devolvendo-o à prístina pureza. A atitude de Cristo para com Seu santo dia foi de reverência e não de desprezo. Sendo o sábado um mandamento da lei de Deus, se Cristo o transgredisse de qualquer maneira Se tornaria um pecador, e nessa condição não poderia ser nosso Salvador. \"Não penseis que vim revogar a Lei ou os Profetas; não vim para revogar, vim para cumprir.\" (Mateus 5:17)"
+            ]
+          }
+        ]
+      },
+      {
+        "titulo": "Parte 4 — As curas no sábado",
+        "paragrafos": [],
+        "subsecoes": [
+          {
+            "titulo": "4.1 Os sete relatos evangélicos (Lucas 4:33, 38-39; 6:6-10; 13:10-17; 14:2-4; João 5:5-10; 9:1-14)",
+            "paragrafos": [
+              "Nos relatos evangélicos se registram sete curas realizadas por Cristo no sábado. Alguns pontos são evidentes ao examinarmos tais relatos: 1. Sempre que Jesus cura alguém no dia de sábado, Ele é acusado de ser um transgressor do quarto mandamento (Êxodo 20:8-11); 2. A defesa de Jesus é realizada de maneira enfática — Ele se defende das acusações; 3. Jesus não se considera um transgressor do sábado. Muito pelo contrário: Ele coloca a guarda do sábado em um nível superior ao dos judeus."
+            ]
+          },
+          {
+            "titulo": "4.2 \"É lícito fazer o bem aos sábados\" (Mateus 12:12; Lucas 13:15-16)",
+            "paragrafos": [
+              "\"Quanto mais vale um homem do que uma ovelha? É lícito fazer o bem aos sábados.\" (Mateus 12:12) Cristo chama os judeus de hipócritas quanto à guarda do sábado: \"Hipócritas! Não desata cada um de vós no sábado o seu boi ou o seu jumento da manjedoura, e o leva a beber?\" (Lucas 13:15) Por que? Porque eles pretendiam guardá-lo, mas haviam colocado tradições, regras e mandamentos sobre o sábado que o próprio Deus jamais colocara. Quem quer que examine, hoje, os livros de ensino e tradição dos judeus (Mishnáh, Talmud e outros) perceberá as incríveis distorções do mandamento sabático. E o mandamento que fora dado pelo próprio Cristo no monte Sinai (Atos 7:30-52) para ser um dia deleitoso, prazeroso (Isaías 58:13-14), tornou-se um fardo insuportável que os judeus hipócritas impunham sobre os infelizes membros da nação judia."
+            ]
+          },
+          {
+            "titulo": "4.3 O cuidado com os animais (Mateus 12:11)",
+            "paragrafos": [
+              "\"Qual dentre vós será o homem que, tendo uma ovelha, e, num sábado, esta cair numa cova, não fará todo o esforço, tirando-a dali?\" (Mateus 12:11) Aos sábados devemos fazer tudo o que é essencial à vida. Se deixar de tirar o leite de suas vacas você poderá prejudicar a saúde delas, então tire o leite de suas vacas. O ideal é reduzir o trabalho ao máximo, fazendo simplesmente o essencial, para que você possa se dedicar a Deus nesse dia indo à igreja, descansando com sua família, lendo a Bíblia, passeando a fim de contemplar a natureza de forma despreocupada e lembrando que foi Deus quem criou todas as coisas."
+            ]
+          }
+        ]
+      },
+      {
+        "titulo": "Parte 5 — O verdadeiro tema do debate",
+        "paragrafos": [],
+        "subsecoes": [
+          {
+            "titulo": "5.1 \"O dia pode ser guardado desse jeito?\" (Marcos 2:27-28)",
+            "paragrafos": [
+              "Quando lemos os relatos em que Jesus discutia com os fariseus sobre o assunto, o tema em questão nunca foi \"o dia deve ser guardado ou não?\", mas sim \"o dia pode ser guardado desse jeito?\". Cristo jamais combateu o sábado, mas apenas a maneira de guardá-lo, a estreiteza dos fariseus. Os fariseus que censuraram os discípulos por apanharem espigas foram além dos reclamos divinos, além do que está escrito. Punham restrições descabidas à guarda do sábado. E Jesus, para mostrar-lhes Sua autoridade, apresenta-Se como Autor do sábado. Nada há de derrogatório na declaração do Mestre. Ao contrário, reafirma o valor e a vigência do sábado, escoimado, no entanto, das exigências talmúdicas."
+            ]
+          },
+          {
+            "titulo": "5.2 O testemunho de comentaristas de outras tradições (A. H. Strong; J. C. Ryle)",
+            "paragrafos": [
+              "Diz Strong, grande teólogo batista: \"Nem nosso Senhor ou os apóstolos ab-rogaram o sábado do decálogo... Jesus não Se defende da acusação de quebrar o sábado, declarando que este fora abolido, mas estabelece o verdadeiro caráter do sábado em atender uma necessidade humana fundamental.\" (A. H. Strong, Systematic Theology, p. 409) Ryle, erudito comentarista evangélico, tratando do texto, diz: \"Não devemos deixar-nos arrastar pela opinião comum de que o sábado é mera instituição judaica, que foi abolido ou anulado por Cristo. Não há uma só passagem das Escrituras que isso prove. Todos os casos em que nosso Senhor Se refere ao sábado, fala contra as opiniões errôneas que os fariseus propagaram a respeito de sua observância. Cristo depurou o quarto mandamento da superfluidade profana dos judeus... O Salvador que despojou o sábado das tradições judaicas e que tantas vezes esclareceu o seu sentido, não pode ser inimigo do 4º mandamento. Pelo contrário, Ele o engrandeceu e o exaltou.\" (J. C. Ryle, Comentário Expositivo do Evangelho Segundo Lucas, pág. 79)"
+            ]
+          },
+          {
+            "titulo": "5.3 O exemplo de Cristo (Lucas 4:16; Isaías 56:2)",
+            "paragrafos": [
+              "O próprio Jesus guardou o sábado: \"E, chegando a Nazaré, onde fora criado, entrou num dia de sábado, segundo o seu costume, na sinagoga, e levantou-se para ler.\" (Lucas 4:16) O sábado foi estabelecido para que o homem pudesse descansar de suas obras diárias e dedicar este tempo somente ao Criador, para refletir em Seu amor e no Seu poder criativo. \"Felizes são os que obedecem às leis a respeito do sábado! Felizes os que não praticam o que é mau!\" (Isaías 56:2) É maravilhoso guardar o sábado do modo como Jesus ensinou — sem fanatismo farisaico."
+            ]
+          }
+        ]
+      },
+      {
+        "titulo": "Conclusão",
+        "paragrafos": [
+          "\"O Filho do Homem é Senhor do sábado\" não é uma declaração de abolição, mas de autoridade: o Criador do sétimo dia é quem define o seu verdadeiro propósito. No episódio da colheita de espigas, Jesus não defendeu a transgressão — defendeu a necessidade humana e a misericórdia, apelando para o caso de Davi, para o serviço dos sacerdotes no templo e para a palavra do profeta: \"Misericórdia quero e não holocaustos\". O sábado foi feito para beneficiar o homem, não para ser um fardo; e a atitude de Cristo foi de reverência, não de desprezo — Ele o escoimou das tradições humanas e o devolveu à sua pureza original. O tema real do debate nunca foi se o dia deve ser guardado, mas como deve ser guardado. Guardemos, pois, o sábado como Jesus ensinou: com reverência, com misericórdia e sem fanatismo farisaico. \"Se me amais, guardareis os meus mandamentos.\" (João 14:15)"
+        ]
+      }
+    ],
+    "linha_do_tempo": [],
+    "perguntas": [
+      {
+        "pergunta": "O que significa a expressão \"O Filho do Homem é Senhor do Sábado\"?",
+        "resposta": "Significa que Jesus, como Criador do sábado, é a pessoa apropriada para definir o que pode ou não ser feito nesse dia (Marcos 2:27-28; João 1:1-3; Hebreus 1:1-3)."
+      },
+      {
+        "pergunta": "O que aconteceu no episódio da colheita de espigas?",
+        "resposta": "Em dia de sábado, os discípulos, com fome, colheram espigas e comeram; os fariseus os acusaram de fazer o que não era lícito, e Jesus os defendeu (Mateus 12:1-2; Lucas 6:1-2)."
+      },
+      {
+        "pergunta": "Que argumento Jesus usou com o caso de Davi?",
+        "resposta": "Davi, com fome, comeu os pães da proposição, que só aos sacerdotes era lícito comer, e não foi condenado; se era lícito a Davi, era lícito aos discípulos prover a sua necessidade (Mateus 12:3-4; 1 Samuel 21:6)."
+      },
+      {
+        "pergunta": "Que argumento Jesus usou com os sacerdotes no templo?",
+        "resposta": "\"Não tendes lido na lei que, aos sábados, os sacerdotes no templo violam o sábado, e ficam sem culpa? Pois eu vos digo que está aqui quem é maior do que o templo\" (Mateus 12:5-6)."
+      },
+      {
+        "pergunta": "Jesus aboliu o sábado ao dizer que foi feito por causa do homem?",
+        "resposta": "Não. Assim como dizer que a mulher foi criada por causa do homem não abole a mulher, dizer que o sábado foi feito por causa do homem não abole o sábado (Marcos 2:27; 1 Coríntios 11:9)."
+      },
+      {
+        "pergunta": "O que Jesus quis dizer com \"Misericórdia quero e não holocaustos\"?",
+        "resposta": "Que o serviço de Deus está acima de tudo e que a maior tarefa da religião é atender às necessidades das pessoas; os ritos sem coração não substituem o amor (Mateus 12:7; Oseias 6:6)."
+      },
+      {
+        "pergunta": "Jesus transgrediu o sábado ao curar?",
+        "resposta": "Não. Nos sete relatos de curas no sábado, Jesus nunca se considerou transgressor; Ele se declarou Senhor do sábado e disse que é lícito fazer o bem aos sábados (Mateus 12:12; Lucas 13:15-16)."
+      },
+      {
+        "pergunta": "Qual era o verdadeiro problema dos fariseus?",
+        "resposta": "Eles haviam fanatizado a guarda do sábado, acrescentando tradições e regras que Deus nunca ordenou, tornando o dia um fardo insuportável (Marcos 7:7-9; Isaías 58:13-14)."
+      },
+      {
+        "pergunta": "Posso cuidar de animais no sábado?",
+        "resposta": "Sim, pois aos sábados devemos fazer tudo o que é essencial à vida: \"Qual dentre vós será o homem que, tendo uma ovelha, e, num sábado, esta cair numa cova, não fará todo o esforço, tirando-a dali?\" (Mateus 12:11)."
+      },
+      {
+        "pergunta": "Qual era o tema real das discussões de Jesus com os fariseus?",
+        "resposta": "Nunca foi \"o dia deve ser guardado ou não?\", mas sim \"o dia pode ser guardado desse jeito?\"; Jesus combateu a maneira farisaica de guardar, não o mandamento (Marcos 2:27-28; Mateus 5:17-19)."
+      }
+    ],
+    "fontes": [
+      "CAT5377 — Senhor do Sábado — colher espigas (Escola Bíblica Novo Tempo; material editado por Leandro Quadros)",
+      "CAT6262 — Mar 2.27 — O Sábado foi feito por causa do homem (Escola Bíblica Novo Tempo; cita Arnaldo B. Christianini, Sutilezas do Erro, CPB, 1965, p. 162-164)",
+      "CAT6264 — Mat 12.3-4 — Relação do caso de Davi com o Sábado (Escola Bíblica Novo Tempo; cita O Desejado de Todas as Nações, p. 285)",
+      "CAT5075 — Como entender as curas de Jesus no Sábado (Escola Bíblica Novo Tempo)",
+      "CAT8412 — Cuidar de animais no sábado (Escola Bíblica Novo Tempo)",
+      "Ellen G. White, O Desejado de Todas as Nações, capítulo 31",
+      "Bíblia Sagrada, versão Almeida Revista e Corrigida"
     ]
   },
   "sinais-do-fim": {

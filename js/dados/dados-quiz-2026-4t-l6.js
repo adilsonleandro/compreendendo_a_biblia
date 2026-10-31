@@ -1,0 +1,71 @@
+// ============================================================
+// QUIZ DA LIÇÃO 6 — 4º Trimestre 2026
+// Gerado automaticamente por novo_quiz.py — não editar à mão
+// ============================================================
+window.QUIZ_REGISTRO = window.QUIZ_REGISTRO || {};
+window.QUIZ_REGISTRO['licao-2026-4t-6'] = [
+  {
+    "pergunta": "De acordo com Êxodo 17:14, qual evento histórico contextualizou a primeira ordem divina explícita registrada nas Escrituras para que algo fosse preservado por escrito em um livro, e qual foi a determinação complementar dada pelo Senhor a Moisés?",
+    "resposta_certa": "A",
+    "a": "A batalha contra os amalequitas; Moisés deveria escrever o fato para memória em um livro e repeti-lo a Josué.",
+    "b": "A promulgação da Lei moral no Sinai; Moisés deveria registrá-la em tábuas e entregá-la solenemente a Arão.",
+    "c": "A travessia miraculosa do Mar Vermelho; Moisés deveria registrar o cântico memorial para ser ensinado a Miriã.",
+    "d": "A murmuração das águas de Meribá; Moisés deveria escrever o julgamento divino como admoestação para os levitas.",
+    "referencia_biblica": "Êxodo 17:14"
+  },
+  {
+    "pergunta": "Em Jeremias 36:2-3, o profeta recebe a incumbência de registrar em um rolo todas as advertências divinas proferidas desde os dias de Josias. Qual era o propósito redentor precípuo estabelecido por Deus para essa ordem de redação escrita?",
+    "resposta_certa": "B",
+    "a": "Satisfazer a curiosidade da corte real acerca da linha cronológica dos impérios mundiais e do cativeiro babilônico vindouro.",
+    "b": "Ouvir a casa de Judá o mal planejado e converter-se cada um do seu mau caminho, a fim de que Deus perdoasse a sua iniquidade.",
+    "c": "Prover uma base jurídica para que o rei Nabucodonosor legitimasse perante as nações a vindoura destruição de Jerusalém.",
+    "d": "Assegurar que a linhagem sacerdotal transferisse formalmente a liderança profética de Jeremias para Baruque.",
+    "referencia_biblica": "Jeremias 36:2-3"
+  },
+  {
+    "pergunta": "Em Jeremias 2:4-9, o escritor bíblico utiliza o gênero profético conhecido como 'ação judicial da aliança' (ou litígio da aliança). Como esse estilo literário estrutura a mensagem transmitida por Deus ao Seu povo?",
+    "resposta_certa": "C",
+    "a": "Trata-se de uma lamentação fúnebre na qual Deus Se apresenta passivo diante da apostasia irremediável da nação.",
+    "b": "Constitui uma narrativa apocalíptica cósmica, eliminando qualquer possibilidade de advertência temporal ou apelo ético.",
+    "c": "Utiliza a cena e a linguagem de um tribunal, retratando o Senhor como o Promotor que expõe formalmente as acusações legais contra Judá por violar a aliança.",
+    "d": "Apresenta uma parábola sapiencial neutra, na qual as nações circunvizinhas atuam como juízes arbitrais sobre a fidelidade de Israel.",
+    "referencia_biblica": "Jeremias 2:4-9"
+  },
+  {
+    "pergunta": "Considerando o trabalho de secretários como Baruque (Jr 36:17-18) e Tércio (Rm 16:22), além do hábito de Paulo atestado em 2 Tessalonicenses 3:17, como a Bíblia esclarece a relação entre os assistentes literários (amanuenses) e a autenticidade dos escritos inspirados?",
+    "resposta_certa": "D",
+    "a": "Os secretários atuavam como coautores doutrinários independentes, possuindo autoridade para alterar a teologia e o propósito da mensagem original.",
+    "b": "A utilização de assistentes literários descaracteriza a autoria apostólica direta, reduzindo essas cartas a obras apócrifas de menor autoridade no cânon.",
+    "c": "A atuação do Espírito Santo ocorria de maneira mecânica sobre a mão do secretário, anulando o pensamento consciente do profeta que ditava a mensagem.",
+    "d": "O conteúdo e o pensamento inspirado provinham do mensageiro de Deus, enquanto o secretário auxiliava na redação material, e saudações manuscritas de próprio punho autenticavam a carta.",
+    "referencia_biblica": "Romanos 16:22; 2 Tessalonicenses 3:17"
+  },
+  {
+    "pergunta": "No prólogo de Lucas (Lc 1:1-4) e na epístola de Judas (Jd 14-15), observa-se o uso de investigação histórica e menções a fontes externas à revelação canônica anterior. Que verdade teológica fundamental esses textos ensinam sobre a dinâmica da inspiração bíblica?",
+    "resposta_certa": "A",
+    "a": "O Espírito Santo atua em harmonia com as faculdades humanas normais, dirigindo o autor na seleção cuidadosa de fontes orais, escritas e registros, sem que citar uma fonte externa implique canonizar toda a obra citada.",
+    "b": "A inspiração autêntica dispensa qualquer pesquisa prévia ou esforço intelectual humano, operando exclusivamente mediante visões sobrenaturais e êxtases.",
+    "c": "Quando um escritor bíblico faz citação direta de uma obra não canônica da época, esse livro externo adquire plena infalibilidade e autoridade doutrinária canônica.",
+    "d": "O Evangelho de Lucas possui autoridade espiritual secundária no Novo Testamento por depender de testemunhas oculares e não ter surgido de visões diretas.",
+    "referencia_biblica": "Lucas 1:1-4; Judas 1:14-15"
+  },
+  {
+    "pergunta": "Em 2 Coríntios 4:7, o apóstolo Paulo afirma: 'Temos, porém, este tesouro em vasos de barro'. De que maneira a teologia bíblica adventista compreende essa metáfora aplicada à natureza da Bíblia e à inspiração dos profetas?",
+    "resposta_certa": "D",
+    "a": "O texto bíblico sofreu deformação doutrinária substancial em decorrência das falhas humanas, cabendo à razão moderna discernir o que é divino do que é erro humano.",
+    "b": "A inspiração reside na pureza mecânica de cada palavra ditada literalmente pelo Espírito, anulando por completo as características linguísticas dos autores bíblicos.",
+    "c": "O termo 'vasos de barro' restringe-se exclusivamente aos copistas da Idade Média, garantindo que os manuscritos originais dos profetas não continham nenhum traço cultural humano.",
+    "d": "A verdade infalível de Deus (o tesouro) foi expressa na linguagem e capacidade de instrumentos humanos falíveis (os vasos), unindo o divino e o humano de maneira semelhante à Encarnação de Cristo.",
+    "referencia_biblica": "2 Coríntios 4:7"
+  },
+  {
+    "pergunta": "Em passagens proféticas como Isaías 13:1 e Isaías 17:7, os profetas frequentemente empregaram oráculos poéticos estruturados por paralelismo. Qual é a função hermenêutica do paralelismo hebraico exemplificado em Isaías 17:7 ('Naquele dia, as pessoas olharão para o seu Criador, e os seus olhos estarão voltados para o Santo de Israel')?",
+    "resposta_certa": "B",
+    "a": "Apresentar uma contradição deliberada entre duas fontes teológicas divergentes da monarquia israelita.",
+    "b": "Fazer com que a linha seguinte repita, amplie ou contraste a linha anterior com imagens complementares, enriquecendo o significado e facilitando a memorização da mensagem.",
+    "c": "Descrever com rigor anatômico e literal os atributos físicos da divindade a serem visualizados pelos olhos humanos.",
+    "d": "Funcionar como enigma alegórico apocalíptico desprovido de qualquer aplicação moral ou histórica para o povo contemporâneo do profeta.",
+    "referencia_biblica": "Isaías 17:7"
+  }
+];
+window.QUIZ_REGISTRO['licao-6'] = window.QUIZ_REGISTRO['licao-2026-4t-6'];

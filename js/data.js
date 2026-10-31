@@ -6,6 +6,333 @@
 
 const LICOES = [
   {
+    id: 6,
+    titulo: "Os escritos proféticos",
+    data: "31 de Outubro de 2026",
+    semana: "Lição 6 - 4º Trimestre 2026",
+    versiculo: "Rm 15:4",
+    texto: "Pois tudo o que no passado foi escrito, para o nosso ensino foi escrito, a fim de que, pela paciência e pela consolação das Escrituras, tenhamos esperança",
+    resumo: "A lição desta semana analisa como as mensagens de Deus foram registradas por escrito ao longo da história bíblica por meio de profetas inspirados. Examina-se a variedade de gêneros literários, o emprego de assistentes e fontes históricas, e a união entre a revelação divina e os instrumentos humanos imperfeitos. Essa dinâmica de inspiração do pensamento também se reflete no ministério profético de Ellen G. White.",
+    leituras: [{"ref": "Êx 17:14", "versoes": {"naa": "Então o SENHOR disse a Moisés: — Escreva isto para memória num livro e repita-o a Josué, porque eu vou apagar totalmente a memória dos amalequitas da face da terra.", "ntlh": "Então o SENHOR Deus disse a Moisés: — Escreva um relatório dessa vitória a fim de que ela seja lembrada. Diga a Josué que eu vou destruir completamente os amalequitas.", "nvi": "Depois o SENHOR disse a Moisés: “Escreva isto num rolo, como memorial, e declare a Josué que farei que os amalequitas sejam esquecidos para sempre debaixo do céu”.", "acf": "Então disse o SENHOR a Moisés: Escreve isto para memória num livro, e relata-o aos ouvidos de Josué; que eu totalmente hei de riscar a memória de Amaleque de debaixo dos céus."}}, {"ref": "Is 13:1", "versoes": {"naa": "Sentença contra a Babilônia que Isaías, filho de Amoz, recebeu numa visão.", "ntlh": "Esta é a mensagem a respeito da Babilônia que Isaías, filho de Amoz, recebeu numa visão:", "nvi": "Advertência contra a Babilônia, que Isaías, filho de Amoz, recebeu em visão:", "acf": "PESO de Babilônia, que viu Isaías, filho de Amós."}}, {"ref": "Jr 36:17, 18", "versoes": {"naa": "E perguntaram a Baruque: — Diga-nos, por favor, como é que você escreveu todas essas palavras? Foi o profeta que ditou? Baruque respondeu: — Ele pessoalmente ditou todas estas palavras, e eu as escrevi com tinta neste rolo.", "ntlh": "Então perguntaram: — Diga uma coisa: como é que você escreveu tudo isso? Foi Jeremias que ditou? — Jeremias ditou palavra por palavra, e eu escrevi tudo com tinta neste rolo! — respondeu Baruque.", "nvi": "Perguntaram a Baruque: “Diga-nos, como você escreveu tudo isso? Foi Jeremias quem o ditou a você?” “Sim”, Baruque respondeu, “ele ditou todas essas palavras, e eu as escrevi com tinta no rolo.”", "acf": "E perguntaram a Baruque, dizendo: Declara-nos agora como escreveste da sua boca todas estas palavras. E disse-lhes Baruque: Da sua boca ele me ditava todas estas palavras, e eu com tinta as escrevia no livro."}}, {"ref": "Rm 16:22", "versoes": {"naa": "Eu, Tércio, que escrevi esta carta, mando saudações no Senhor.", "ntlh": "Eu, Tércio, que escrevi esta carta que Paulo ditou para mim, mando saudações a vocês.", "nvi": "Eu, Tércio, que redigi esta carta, saúdo vocês no Senhor.", "acf": "Eu, Tércio, que esta carta escrevi, vos saúdo no Senhor."}}, {"ref": "Lc 1:1-4", "versoes": {"naa": "Visto que muitos já empreenderam uma narração coordenada dos fatos que entre nós se realizaram, conforme nos transmitiram os que desde o princípio foram deles testemunhas oculares e ministros da palavra, igualmente a mim pareceu bem, depois de cuidadosa investigação de tudo desde a sua origem, dar-lhe por escrito, excelentíssimo Teófilo, uma exposição em ordem, para que você tenha plena certeza das verdades em que foi instruído.", "ntlh": "Prezado Teófilo, Muitas pessoas têm se esforçado para escrever a história das coisas que aconteceram entre nós. Elas escreveram o que foi contado por aqueles que viram essas coisas desde o começo e anunciaram a mensagem do evangelho. Portanto, Excelência, eu estudei com todo o cuidado como foi que essas coisas aconteceram desde o princípio e achei que seria bom escrever tudo em ordem para o senhor, a fim de que o senhor pudesse conhecer toda a verdade sobre os ensinamentos que recebeu.", "nvi": "Muitos já se dedicaram a elaborar um relato dos fatos que se cumpriram entre nós, conforme nos foram transmitidos por aqueles que desde o início foram testemunhas oculares e servos da palavra. Eu mesmo investiguei tudo cuidadosamente, desde o começo, e decidi escrever-te um relato ordenado, ó excelentíssimo Teófilo, para que tenhas a certeza das coisas que te foram ensinadas.", "acf": "TENDO, pois, muitos empreendido pôr em ordem a narração dos fatos que entre nós se cumpriram, Segundo nos transmitiram os mesmos que os presenciaram desde o princípio, e foram ministros da palavra, Pareceu-me também a mim conveniente descrevê-los a ti, ó excelente Teófilo, por sua ordem, havendo-me já informado minuciosamente de tudo desde o princípio; Para que conheças a certeza das coisas de que já estás informado."}}, {"ref": "Jd 1:14, 15", "versoes": {"naa": "Foi a respeito deles que também profetizou Enoque, o sétimo depois de Adão, dizendo: “Eis que o Senhor vem com milhares de seus santos, para exercer juízo contra todos e para convencer todos os ímpios a respeito de todas as obras ímpias que praticaram e a respeito de todas as palavras insolentes que ímpios pecadores proferiram contra ele.”", "ntlh": "Foi Enoque, da sétima geração a partir de Adão, quem há muito tempo profetizou isto a respeito deles: “Olhem! O Senhor virá com muitos milhares dos seus anjos para julgar todos. Ele virá a fim de condenar todos os que não querem saber de Deus, por causa de todas as más ações que praticaram e por causa de todas as palavras terríveis que esses pecadores incrédulos disseram contra Deus!”", "nvi": "Enoque, o sétimo a partir de Adão, profetizou acerca deles: “Vejam, o Senhor vem com milhares de milhares de seus santos, para julgar a todos e convencer todos os ímpios a respeito de todos os atos de impiedade que eles cometeram impiamente e acerca de todas as palavras insolentes que os pecadores ímpios falaram contra ele”.", "acf": "E destes profetizou também Enoque, o sétimo depois de Adão, dizendo: Eis que é vindo o Senhor com milhares de seus santos; Para fazer juízo contra todos e condenar dentre eles todos os ímpios, por todas as suas obras de impiedade, que impiamente cometeram, e por todas as duras palavras que ímpios pecadores disseram contra ele."}}, {"ref": "2Co 4:7", "versoes": {"naa": "Temos, porém, este tesouro em vasos de barro, para que se veja que a excelência do poder provém de Deus, não de nós.", "ntlh": "Porém nós que temos esse tesouro espiritual somos como potes de barro para que fique claro que o poder supremo pertence a Deus e não a nós.", "nvi": "Mas temos esse tesouro em vasos de barro, para mostrar que o poder que a tudo excede provém de Deus, e não de nós.", "acf": "Temos, porém, este tesouro em vasos de barro, para que a excelência do poder seja de Deus, e não de nós."}}],
+    abertura: {
+      versiculo: "Pois tudo o que no passado foi escrito, para o nosso ensino foi escrito, a fim de que, pela paciência e pela consolação das Escrituras, tenhamos esperança",
+      periodo: "31 de outubro a 6 de novembro de 2026",
+      resumo: "Verso para memorizar:\n\n“Pois tudo o que no passado foi escrito, para o nosso ensino foi escrito, a fim de que, pela paciência e pela consolação das Escrituras, tenhamos esperança” (Rm 15:4).\n\nLeituras da semana:\n\nÊx 17:14; Is 13:1; Jr 36:17, 18; Rm 16:22; Lc 1:1-4; Jd 1:14, 15; 2Co 4:7\n\nE m Deuteronômio 32, encontramos a letra de um cântico que Moisés escreveu por inspiração divina (Dt 31:19-22). Normalmente não pensamos em cânticos quando falamos de escritos proféticos; no entanto, muitos salmos são cânticos inspirados, ainda que sua letra não tenha sido ditada pelo Senhor.\n\nJá vimos que a Bíblia apresenta três formas principais pelas quais os profetas comunicaram as mensagens de Deus: (1) oralmente; (2) por escrito; e (3) por meio de ações simbólicas ou dramatizações. Nesta semana, concentraremos nossa atenção nos escritos que fazem parte do cânon bíblico. A Bíblia registra a Palavra de Deus expressa por meio das palavras de Seus mensageiros, incluindo sermões e discursos dos profetas.\n\nPense na variedade de estilos e gêneros presentes nos escritos proféticos: narrativas, registros históricos, poesias, lamentos, cartas… Homens e mulheres escolhidos expressaram em linguagem humana aquilo que o Espírito Santo os guiou a comunicar. Nesta semana, examinaremos seus escritos, o uso de assistentes literários (secretários) e pontos importantes a ter em mente para a compreensão de passagens desafiadoras.",
+      reflexao: "Que Deus nos fale por meio desta lição."
+    },
+    perguntas: [
+      {
+        pergunta: "Qual é a primeira menção à escrita na Bíblia? Confira em Êxodo 17:14.",
+        resposta: "Acontece quando o Senhor ordena a Moisés que escreva a vitória sobre Amaleque em um livro para que servisse de memória perpétua.",
+        versoes: {}
+      },
+      {
+        pergunta: "Leia Isaías 13:1. Como a Bíblia se refere à mensagem transmitida por Isaías nesse texto?",
+        resposta: "Refere-se à mensagem como uma 'sentença' ou 'oráculo' contra a Babilônia, uma revelação profética recebida em visão da parte de Deus.",
+        versoes: {}
+      },
+      {
+        pergunta: "Leia Jeremias 36:17, 18 e Romanos 16:22. O que esses versos revelam sobre o uso de assistentes literários pelos escritores bíblicos?",
+        resposta: "Revelam que profetas e apóstolos ditavam mensagens inspiradas a secretários de confiança, que registravam fielmente as declarações recebidas.",
+        versoes: {}
+      },
+      {
+        pergunta: "Leia 1 Reis 11:41; Lucas 1:1-4; e Judas 14, 15. O que esses versos revelam sobre o uso de fontes não bíblicas pelos escritores inspirados?",
+        resposta: "Mostram que escritores inspirados pesquisaram crônicas históricas, relatos de testemunhas oculares e tradições conhecidas para compor seus livros sagrados.",
+        versoes: {}
+      },
+      {
+        pergunta: "O que Paulo diz sobre o “tesouro” de Deus em 2 Coríntios 4:7?",
+        resposta: "Paulo afirma que temos esse tesouro em vasos de barro, demonstrando que o poder supremo pertence a Deus, e não aos mensageiros humanos.",
+        versoes: {}
+      },
+    ],
+    dias: [
+      {
+        dia: "Sábado",
+        titulo: "Os escritos proféticos",
+        resumo: "A comunicação profética de Deus com a humanidade ocorreu de forma oral, por ações simbólicas e por escrito. Embora os escritos bíblicos incluam diversos estilos literários, como narrativas, cânticos e cartas, todos eles compõem o cânon inspirado para a nossa edificação espiritual.\n\nHomens e mulheres foram capacitados pelo Espírito Santo a traduzir em palavras humanas as verdades eternas. A variedade de formas e circunstâncias sob as quais esses textos foram redigidos revela a condescendência divina em alcançar o ser humano em sua própria linguagem.",
+        perguntas: [
+        ]
+      },
+      {
+        dia: "Domingo",
+        titulo: "O chamado para escrever",
+        resumo: "Embora a comunicação inicial tenha sido oral e direta, a partir de Moisés Deus ordenou que Suas revelações fossem registradas em livros. Esse registro por escrito visava preservar as orientações divinas e levar as gerações futuras ao arrependimento e à salvação.\n\nOs autores bíblicos escreveram nas mais diversas circunstâncias, desde desertos e prisões até palácios reais e ilhas de exílio. O Espírito Santo os supriu em todas as situações, garantindo a fiel preservação das verdades divinas para a humanidade.",
+        perguntas: [
+          {
+            pergunta: "Qual é a primeira menção à escrita na Bíblia? Confira em Êxodo 17:14.",
+            resposta: "Acontece quando o Senhor ordena a Moisés que escreva a vitória sobre Amaleque em um livro para que servisse de memória perpétua.",
+            versoes: {"naa": "Então o SENHOR disse a Moisés: — Escreva isto para memória num livro e repita-o a Josué, porque eu vou apagar totalmente a memória dos amalequitas da face da terra.", "ntlh": "Então o SENHOR Deus disse a Moisés: — Escreva um relatório dessa vitória a fim de que ela seja lembrada. Diga a Josué que eu vou destruir completamente os amalequitas.", "nvi": "Depois o SENHOR disse a Moisés: “Escreva isto num rolo, como memorial, e declare a Josué que farei que os amalequitas sejam esquecidos para sempre debaixo do céu”.", "acf": "Então disse o SENHOR a Moisés: Escreve isto para memória num livro, e relata-o aos ouvidos de Josué; que eu totalmente hei de riscar a memória de Amaleque de debaixo dos céus."}
+          },
+        ]
+      },
+      {
+        dia: "Segunda-feira",
+        titulo: "Gêneros e estilos literários",
+        resumo: "A Bíblia reúne uma ampla variedade de formas literárias, incluindo poesia com paralelismo, narrativas históricas, oráculos de juízo e literatura apocalíptica. O reconhecimento desses gêneros auxilia na interpretação adequada do texto sagrado e de suas mensagens.\n\nApesar das diferenças estilísticas e dos recursos retóricos empregados pelos autores, não existe grau menor ou maior de autoridade entre os escritos bíblicos. As epístolas do Novo Testamento possuem a mesma autoridade e peso profético dos antigos livros da aliança.",
+        perguntas: [
+          {
+            pergunta: "Leia Isaías 13:1. Como a Bíblia se refere à mensagem transmitida por Isaías nesse texto?",
+            resposta: "Refere-se à mensagem como uma 'sentença' ou 'oráculo' contra a Babilônia, uma revelação profética recebida em visão da parte de Deus.",
+            versoes: {"naa": "Sentença contra a Babilônia que Isaías, filho de Amoz, recebeu numa visão.", "ntlh": "Esta é a mensagem a respeito da Babilônia que Isaías, filho de Amoz, recebeu numa visão:", "nvi": "Advertência contra a Babilônia, que Isaías, filho de Amoz, recebeu em visão:", "acf": "PESO de Babilônia, que viu Isaías, filho de Amós."}
+          },
+        ]
+      },
+      {
+        dia: "Terça-feira",
+        titulo: "Assistentes literários",
+        resumo: "Profetas e apóstolos frequentemente recorreram a secretários ou amanuenses para registrar suas mensagens, como Baruque fez para Jeremias e Tércio para Paulo. Esse método de escrita permitia organizar e autenticar a mensagem antes de seu envio às congregações.\n\nA intervenção de assistentes explica certas variações de vocabulário e estilo encontradas nas Escrituras. Isso ilustra o princípio adventista de que a inspiração atua sobre a pessoa e seus pensamentos, não ditando mecanicamente cada palavra individual.",
+        perguntas: [
+          {
+            pergunta: "Leia Jeremias 36:17, 18 e Romanos 16:22. O que esses versos revelam sobre o uso de assistentes literários pelos escritores bíblicos?",
+            resposta: "Revelam que profetas e apóstolos ditavam mensagens inspiradas a secretários de confiança, que registravam fielmente as declarações recebidas.",
+            versoes: {"naa": "E perguntaram a Baruque: — Diga-nos, por favor, como é que você escreveu todas essas palavras? Foi o profeta que ditou? Baruque respondeu: — Ele pessoalmente ditou todas estas palavras, e eu as escrevi com tinta neste rolo. Eu, Tércio, que escrevi esta carta, mando saudações no Senhor.", "ntlh": "Então perguntaram: — Diga uma coisa: como é que você escreveu tudo isso? Foi Jeremias que ditou? — Jeremias ditou palavra por palavra, e eu escrevi tudo com tinta neste rolo! — respondeu Baruque. Eu, Tércio, que escrevi esta carta que Paulo ditou para mim, mando saudações a vocês.", "nvi": "Perguntaram a Baruque: “Diga-nos, como você escreveu tudo isso? Foi Jeremias quem o ditou a você?” “Sim”, Baruque respondeu, “ele ditou todas essas palavras, e eu as escrevi com tinta no rolo.” Eu, Tércio, que redigi esta carta, saúdo vocês no Senhor.", "acf": "E perguntaram a Baruque, dizendo: Declara-nos agora como escreveste da sua boca todas estas palavras. E disse-lhes Baruque: Da sua boca ele me ditava todas estas palavras, e eu com tinta as escrevia no livro. Eu, Tércio, que esta carta escrevi, vos saúdo no Senhor."}
+          },
+        ]
+      },
+      {
+        dia: "Quarta-feira",
+        titulo: "Fontes literárias",
+        resumo: "A inspiração bíblica não anulou as faculdades mentais dos profetas nem os impediu de pesquisar documentos históricos, coleções de provérbios ou relatórios civis. Lucas, Salomão e os cronistas veterotestamentários investigaram e compilaram ativamente registros disponíveis.\n\nO Espírito Santo guiou a seleção e a combinação desses materiais prévios para formar narrativas coerentes e fidedignas. Até mesmo citações de obras extra-bíblicas foram empregadas pontualmente sob a direção divina para ilustrar e consolidar a verdade.",
+        perguntas: [
+          {
+            pergunta: "Leia 1 Reis 11:41; Lucas 1:1-4; e Judas 14, 15. O que esses versos revelam sobre o uso de fontes não bíblicas pelos escritores inspirados?",
+            resposta: "Mostram que escritores inspirados pesquisaram crônicas históricas, relatos de testemunhas oculares e tradições conhecidas para compor seus livros sagrados.",
+            versoes: {"naa": "Quanto aos demais atos de Salomão, a tudo o que fez e à sua sabedoria, não está tudo escrito no Livro da História de Salomão? Visto que muitos já empreenderam uma narração coordenada dos fatos que entre nós se realizaram, conforme nos transmitiram os que desde o princípio foram deles testemunhas oculares e ministros da palavra, igualmente a mim pareceu bem, depois de cuidadosa investigação de tudo desde a sua origem, dar-lhe por escrito, excelentíssimo Teófilo, uma exposição em ordem, para que você tenha plena certeza das verdades em que foi instruído. Foi a respeito deles que também profetizou Enoque, o sétimo depois de Adão, dizendo: “Eis que o Senhor vem com milhares de seus santos, para exercer juízo contra todos e para convencer todos os ímpios a respeito de todas as obras ímpias que praticaram e a respeito de todas as palavras insolentes que ímpios pecadores proferiram contra ele.”", "ntlh": "Todas as outras coisas que Salomão fez, os seus atos e a sua sabedoria, estão todos registrados na História de Salomão. Prezado Teófilo, Muitas pessoas têm se esforçado para escrever a história das coisas que aconteceram entre nós. Elas escreveram o que foi contado por aqueles que viram essas coisas desde o começo e anunciaram a mensagem do evangelho. Portanto, Excelência, eu estudei com todo o cuidado como foi que essas coisas aconteceram desde o princípio e achei que seria bom escrever tudo em ordem para o senhor, a fim de que o senhor pudesse conhecer toda a verdade sobre os ensinamentos que recebeu. Foi Enoque, da sétima geração a partir de Adão, quem há muito tempo profetizou isto a respeito deles: “Olhem! O Senhor virá com muitos milhares dos seus anjos para julgar todos. Ele virá a fim de condenar todos os que não querem saber de Deus, por causa de todas as más ações que praticaram e por causa de todas as palavras terríveis que esses pecadores incrédulos disseram contra Deus!”", "nvi": "Os demais acontecimentos do reinado de Salomão, tudo o que fez e a sabedoria que teve, estão todos escritos nos registros históricos de Salomão. Muitos já se dedicaram a elaborar um relato dos fatos que se cumpriram entre nós, conforme nos foram transmitidos por aqueles que desde o início foram testemunhas oculares e servos da palavra. Eu mesmo investiguei tudo cuidadosamente, desde o começo, e decidi escrever-te um relato ordenado, ó excelentíssimo Teófilo, para que tenhas a certeza das coisas que te foram ensinadas. Enoque, o sétimo a partir de Adão, profetizou acerca deles: “Vejam, o Senhor vem com milhares de milhares de seus santos, para julgar a todos e convencer todos os ímpios a respeito de todos os atos de impiedade que eles cometeram impiamente e acerca de todas as palavras insolentes que os pecadores ímpios falaram contra ele”.", "acf": "Quanto ao mais dos atos de Salomão, e a tudo quanto fez, e à sua sabedoria, porventura não está escrito no livro dos feitos de Salomão? TENDO, pois, muitos empreendido pôr em ordem a narração dos fatos que entre nós se cumpriram, Segundo nos transmitiram os mesmos que os presenciaram desde o princípio, e foram ministros da palavra, Pareceu-me também a mim conveniente descrevê-los a ti, ó excelente Teófilo, por sua ordem, havendo-me já informado minuciosamente de tudo desde o princípio; Para que conheças a certeza das coisas de que já estás informado. E destes profetizou também Enoque, o sétimo depois de Adão, dizendo: Eis que é vindo o Senhor com milhares de seus santos; Para fazer juízo contra todos e condenar dentre eles todos os ímpios, por todas as suas obras de impiedade, que impiamente cometeram, e por todas as duras palavras que ímpios pecadores disseram contra ele."}
+          },
+        ]
+      },
+      {
+        dia: "Quinta-feira",
+        titulo: "Mensagem divina e imperfeições humanas",
+        resumo: "O Senhor escolheu depositar o tesouro de Sua revelação em seres humanos falíveis para que a excelência do poder pertença a Deus. A Bíblia reflete a união misteriosa entre o elemento divino infalível e a linguagem humana com suas limitações naturais.\n\nAparentes divergências em detalhes periféricos não invalidam a mensagem nem afetam os fundamentos da fé cristã. Em vez de duvidar, o estudante da Palavra deve abordar o texto sagrado com humildade, confiando na fidedignidade da revelação divina.",
+        perguntas: [
+          {
+            pergunta: "O que Paulo diz sobre o “tesouro” de Deus em 2 Coríntios 4:7?",
+            resposta: "Paulo afirma que temos esse tesouro em vasos de barro, demonstrando que o poder supremo pertence a Deus, e não aos mensageiros humanos.",
+            versoes: {"naa": "Temos, porém, este tesouro em vasos de barro, para que se veja que a excelência do poder provém de Deus, não de nós.", "ntlh": "Porém nós que temos esse tesouro espiritual somos como potes de barro para que fique claro que o poder supremo pertence a Deus e não a nós.", "nvi": "Mas temos esse tesouro em vasos de barro, para mostrar que o poder que a tudo excede provém de Deus, e não de nós.", "acf": "Temos, porém, este tesouro em vasos de barro, para que a excelência do poder seja de Deus, e não de nós."}
+          },
+        ]
+      },
+      {
+        dia: "Sexta-feira",
+        titulo: "Os escritos de Ellen White",
+        resumo: "A produção dos escritos de Ellen G. White reflete a mesma dinâmica profética vista na Bíblia, incluindo o uso de assistentes editoriais e a consulta a fontes históricas. Essas práticas serviram para expressar as ideias divinamente reveladas com clareza e fidelidade gramatical.\n\nEllen White nunca reivindicou infalibilidade pessoal nem inspiração verbal absoluta para cada frase cotidiana. Seus escritos demonstram a genuína ação do Espírito Santo operando através de um instrumento humano sincero e progressivo em sua compreensão espiritual.",
+        perguntas: [
+        ]
+      },
+    ],
+    estudoProfessor: {
+      "titulo": "Os Escritos Proféticos",
+      "subtitulo": "Recurso Didático para Professores da Escola Sabatina | Lição 06 (4º Trimestre / 2026)",
+      "versoChave": "Pois tudo o que no passado foi escrito para o nosso ensino foi escrito a fim de que pela paciência e pela consolação das Escrituras tenhamos esperança. (Romanos 15:4)",
+      "objetivo": "Compreender a origem, a diversidade literária e a preservação dos escritos proféticos, fortalecendo a confiança na Bíblia como a infalível Palavra de Deus transmitida por meio de instrumentos humanos.",
+      "slides": [
+        {
+          "titulo": "Os Escritos Proféticos: Como Deus Preservou Sua Mensagem em Linguagem Humana",
+          "topicos": [
+            "A Bíblia como providência divina deliberada para a esperança humana",
+            "A revelação de Deus preservada em linguagem compreensível",
+            "Pois tudo o que no passado foi escrito foi para nosso ensino (Romanos 15:4)",
+            "Fortalecimento da confiança na infalível Palavra de Deus"
+          ],
+          "nota": "Abra a aula destacando que a escrita bíblica não é um acidente histórico, mas uma providência divina deliberada para garantir a esperança das futuras gerações."
+        },
+        {
+          "titulo": "O Chamado para Escrever: Da Tradição Oral ao Registro",
+          "topicos": [
+            "Transmissão oral patriarcal de Adão a Moisés por cerca de 2.500 anos",
+            "Primeira ordem formal de registro escrito em Êxodo 17:14",
+            "Diminuição da capacidade da memória humana com o avanço do pecado",
+            "O registro escrito como proteção da verdade divina contra distorções"
+          ],
+          "nota": "Explique que o texto escrito funciona como um memorial que estabelece a identidade do povo de Deus e instrui os líderes do futuro."
+        },
+        {
+          "titulo": "A Escrita como Chamado ao Arrependimento",
+          "topicos": [
+            "Ordem divina para registrar palavras de advertência em Jeremias 36",
+            "O objetivo profético focado em arrependimento e perdão",
+            "Tentativa frustrada do rei Joaquim de queimar a mensagem",
+            "Reescrita do rolo com acréscimos e preservação da Palavra"
+          ],
+          "nota": "Enfatize que a preservação do texto bíblico demonstra a insistência do amor de Deus em alcançar o coração humano."
+        },
+        {
+          "titulo": "A Riqueza da Linguagem Humana na Bíblia",
+          "topicos": [
+            "66 livros escritos por cerca de 40 autores ao longo de 1.500 anos",
+            "Variedade de formas: narrativas, leis, poesias, cartas e profecias",
+            "Reconhecimento do gênero literário como chave hermenêutica",
+            "Evitação de leituras equivocadas e interpretações precipitadas"
+          ],
+          "nota": "Use o exemplo das seções de uma biblioteca para mostrar como cada estilo de escrita cria expectativas de leitura específicas."
+        },
+        {
+          "titulo": "A Beleza Expressiva da Poesia Sagrada",
+          "topicos": [
+            "Sentenças e oráculos como pronunciamentos divinos diretos",
+            "Paralelismo poético que amplia, repete ou contrasta declarações",
+            "Imagens vívidas que expressam o poder de Deus sem literalismo físico",
+            "Poesia como recurso pedagógico para memorização e impacto emocional"
+          ],
+          "nota": "Mostre que o uso da poesia pela Bíblia facilita a memorização e toca as emoções profundas do ser humano."
+        },
+        {
+          "titulo": "Figuras de Linguagem no Texto Profético",
+          "topicos": [
+            "Linguagem judicial retratando o litígio da aliança em Jeremias",
+            "Metáforas da vida comum para transmitir realidades espirituais profundas",
+            "Hipérboles dramáticas usadas intencionalmente para forte ênfase",
+            "Reconhecimento pedagógico das figuras sem negar a veracidade bíblica"
+          ],
+          "nota": "Esclareça que identificar uma hipérbole não nega a verdade da Bíblia, mas reconhece a intenção pedagógica e cultural do autor."
+        },
+        {
+          "titulo": "Categorias da Revelação Profética",
+          "topicos": [
+            "Profecia clássica em verso com foco contemporâneo e ético",
+            "Profecia apocalíptica com panorama da história universal até o fim",
+            "Uso de visões, números simbólicos e representações figuradas",
+            "Símbolos que representam realidades históricas literais"
+          ],
+          "nota": "Sublinhe que a profecia apocalíptica deve ser interpretada à luz de suas regras próprias, sem literalismo ingênuo nem alegorização arbitrária."
+        },
+        {
+          "titulo": "Colaboradores na Produção do Texto Sagrado",
+          "topicos": [
+            "Uso de secretários como prática padrão no mundo antigo",
+            "Baruque registrando com tinta as palavras ditadas por Jeremias",
+            "Tércio identificado como escriba da Epístola aos Romanos",
+            "Silvano atuando como assistente na redação de 1 Pedro"
+          ],
+          "nota": "Destaque que a inspiração operava no profeta (o autor da mensagem), e o assistente atuava como a ferramenta de redação sob supervisão."
+        },
+        {
+          "titulo": "Como Funcionava o Trabalho dos Secretários?",
+          "topicos": [
+            "Amanuenses não criavam conteúdo nem eram coautores doutrinários",
+            "Colaboração voltada ao estilo gramatical e fluência de vocabulário",
+            "Autenticação apostólica com assinaturas e saudações de próprio punho",
+            "Diferenças de estilo explicadas pelo grau de assistência editorial"
+          ],
+          "nota": "Mostre que o uso de assistentes comprova que o Espírito Santo utiliza o planejamento e os talentos humanos na comunicação da verdade."
+        },
+        {
+          "titulo": "O Uso de Arquivos e Coleções de Sabedoria",
+          "topicos": [
+            "Citação de crônicas oficiais e arquivos públicos em Reis e Crônicas",
+            "Pesquisa, exame e compilação de provérbios por Salomão",
+            "Inclusão de decretos persas e genealogias em Esdras e Neemias",
+            "Inspiração que garante a seleção infalível sem exigir ineditismo absoluto"
+          ],
+          "nota": "Explique que a inspiração não exige originalidade absoluta, mas garante a seleção infalível e a apresentação fidedigna da verdade."
+        },
+        {
+          "titulo": "Um Evangelho Fruto de Investigação Cuidadosa",
+          "topicos": [
+            "Investigação cuidadosa de todos os fatos desde a origem por Lucas",
+            "Entrevistas com testemunhas oculares e análise de fontes escritas",
+            "Rigor histórico com contextualização de governantes e datas",
+            "O Espírito Santo conduzindo a pesquisa e a organização humana"
+          ],
+          "nota": "Enfatize que a inspiração não anula o estudo nem o esforço intelectual; ao contrário, o Espírito Santo orienta a pesquisa e a organização dos fatos."
+        },
+        {
+          "titulo": "Citações de Obras Não Canônicas e Poetas",
+          "topicos": [
+            "Judas citando profecia preservada no livro de 1 Enoque",
+            "Paulo citando poetas gregos para criar pontes de diálogo cultural",
+            "Citar um fato verdadeiro não confere inspiração a toda a fonte",
+            "Apropriação guiada pelo Espírito de verdades dispersas na cultura"
+          ],
+          "nota": "Deixe claro para a classe que o Espírito Santo capacitou os autores bíblicos a extrair pepitas de verdade presentes na cultura geral para comunicar o Evangelho."
+        },
+        {
+          "titulo": "A Natureza da Inspiração Bíblica",
+          "topicos": [
+            "O tesouro do evangelho guardado em vasos frágeis de barro",
+            "Diferenciação entre a perfeição da mensagem e as limitações do profeta",
+            "União do divino com o humano comparável à Encarnação de Cristo",
+            "Inspiração focada na mente e pensamento, não em ditado mecânico"
+          ],
+          "nota": "Reafirme a posição adventista: a inspiração é do pensamento do autor, e não um ditado mecânico de palavras."
+        },
+        {
+          "titulo": "Respeitando a Linguagem Humana do Texto",
+          "topicos": [
+            "Preservação do estilo pessoal e vocabulário de cada escritor bíblico",
+            "Disparidades periféricas resultantes de cópias e transmissões manuscritas, exemplo: Pequenas variações de números, idades de reis (ex: 2 Reis 8:26 vs. 2 Crônicas 22:2) ou detalhes de citações (ex: Mateus 27:9 atribuindo Zacarias 11:12-13 a Jeremias) resultam da transmissão manuscrita ou de idiossincrasias culturais",
+            "Fidelidade e inerrância plenamente mantidas na mensagem de salvação",
+            "Variações secundárias que não enfraquecem a autoridade das Escrituras"
+          ],
+          "nota": "Oriente os alunos a não tropeçarem em detalhes periféricos; a mensagem teológica e moral da Bíblia é totalmente fiel e confiável."
+        },
+        {
+          "titulo": "Paratexto e Harmonia do Dom Profético Moderno",
+          "topicos": [
+            "Instrução divina para que Ellen White registrasse suas visões",
+            "Uso de assistentes para datilografia e ajustes gramaticais",
+            "Utilização de historiadores confiáveis sob condução do Espírito",
+            "Escritos proféticos modernos como luz menor que aponta para a Bíblia"
+          ],
+          "nota": "Explique que os processos humanos vistos na compilação da Bíblia também se confirmam no ministério profético moderno de Ellen White."
+        },
+        {
+          "titulo": "Síntese do Aprendizado da Semana",
+          "topicos": [
+            "A palavra escrita como memorial permanente dos atos de redenção",
+            "O gênero literário como orientador essencial da interpretação",
+            "A cooperação humana que não anula a autoridade e origem divinas",
+            "Harmonia perfeita entre pesquisa, linguagem e inspiração celestial"
+          ],
+          "nota": "Recapitule os pontos centrais com a classe antes de passar para a aplicação pessoal."
+        },
+        {
+          "titulo": "Examinando Tudo com Rigor Teológico",
+          "topicos": [
+            "Orientação apostólica para examinar tudo e reter apenas o bem",
+            "Desenvolvimento do discernimento frente ao relativismo cultural",
+            "A Bíblia Sagrada como padrão supremo de aferição de ensinos",
+            "Importância de uma rotina diária e diligente de estudo bíblico"
+          ],
+          "nota": "Incentive os alunos a desenvolverem um hábito de estudo diário profundo, e não uma leitura superficial da Bíblia."
+        },
+        {
+          "titulo": "O Objetivo Final da Palavra Escrita",
+          "topicos": [
+            "A mensagem gravada no coração humano pelo Espírito Santo",
+            "Crentes como vasos de barro transformados em cartas vivas de Cristo",
+            "O testemunho prático da vida sendo lido pelas pessoas do mundo",
+            "Reflexo da integridade, verdade e graça divina no dia a dia"
+          ],
+          "nota": "Encerre a lição com uma oração consagradora, pedindo que o Espírito Santo faça da classe uma testemunha viva da Palavra."
+        }
+      ],
+      "aprofundamentos": [
+        {
+          "titulo": "A Teologia do Tesouro em Vasos de Barro (2Co 4:7) e a Inspiração do Pensamento",
+          "texto": "A compreensão adventista da inspiração bíblica fundamenta-se no modelo dinâmico ou do pensamento, em clara oposição tanto ao racionalismo crítico quanto ao verbalismo ou ditado mecânico. O apóstolo Paulo utiliza a metáfora do tesouro em vasos de barro em 2 Coríntios 4:7 para ilustrar que o conteúdo redentivo e doutrinário é inteiramente divino e inerrante, ao passo que os instrumentos humanos são falíveis e condicionados por seus vocabulários e culturas. Como expressou Ellen White, a Bíblia apresenta uma união inseparável entre o divino e o humano análoga à Encarnação de Cristo, onde a divindade vestiu-se de humanidade. O Espírito Santo comunica ideias e visões à mente do profeta, permitindo o uso de faculdades humanas na redação da mensagem."
+        },
+        {
+          "titulo": "Hermenêutica dos Gêneros Literários Bíblicos e a Prevenção de Erros de Interpretação",
+          "texto": "A Bíblia reúne gêneros variados como narrativas, leis, poesias, provérbios, epístolas e literatura apocalíptica. O reconhecimento de cada estilo impõe regras específicas de leitura que asseguram a correta compreensão da intenção do autor sagrado. No gênero poético, recursos como paralelismos, metáforas e hipérboles visam tocar as emoções e a imaginação, não devendo ser lidos como tratados jurídicos literais. Por sua vez, a profecia clássica foca em advertências éticas com elementos condicionais, enquanto a profecia apocalíptica emprega símbolos e animais proféticos que apontam para realidades históricas concretas. Ignorar o gênero textual induz a erros graves, como a alegorização indevida da história ou o literalismo simplista de visões apocalípticas."
+        },
+        {
+          "titulo": "O Fenômeno dos Assistentes Literários, Pesquisa de Fontes e Citações de Autores Externos",
+          "texto": "Os autores bíblicos utilizaram recursos humanos comuns à sua época, incluindo o auxílio de amanuenses e a pesquisa de registros históricos. Jeremias ditou suas mensagens a Baruque, Paulo utilizou Tércio para escrever a Epístola aos Romanos e Pedro contou com a colaboração editorial de Silvano, explicando variações estilísticas entre diferentes epístolas. Além disso, Lucas registra ter feito cuidadosa investigação consultando testemunhas oculares e relatos prévios. Citações de documentos estatais, coleções de provérbios, autores não canônicos como 1 Enoque e poetas pagãos demonstram que citar uma fonte verdadeira não significa canonizar a obra original inteira, mas reflete a atuação do Espírito Santo ao guiar o escritor a escolher materiais verdadeiros para compor o texto sagrado."
+        },
+        {
+          "titulo": "Paralelos Históricos e Hermenêuticos no Ministério Profético de Ellen G. White",
+          "texto": "O ministério de Ellen White reflete os mesmos princípios operantes na formação das Escrituras bíblicas. Tendo recebido a ordem de registrar suas visões, ela superou debilidades físicas e produziu uma vasta obra literária com a ajuda de secretárias e assistentes editoriais. Essas auxiliares cuidavam de tarefas gramaticais, datilografia e organização textual, sem interferir no conteúdo ou assumir coautoria. Ao redigir obras históricas, a autora selecionou descrições precisas de historiadores consagrados para retratar cenas vistas em visão. Ellen White rejeitou reivindicações de infalibilidade pessoal e definiu seus escritos como uma luz menor destinada a guiar os cristãos à luz maior da Bíblia Sagrada, a única regra suprema de fé e prática."
+        }
+      ],
+      "capa": "img/licoes/licao-2026-4t-6.png"
+    }
+
+  },
+  {
     id: 5,
     titulo: "Revelação e inspiração",
     data: "24 de Outubro de 2026",

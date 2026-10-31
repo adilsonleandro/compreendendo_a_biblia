@@ -1,6 +1,6 @@
 {
-  "gerado_em": "2026-10-24T14:23:02",
-  "total_estudos": 16,
+  "gerado_em": "2026-10-25T10:48:44",
+  "total_estudos": 20,
   "temas": [
     {
       "nome": "Escatologia",
@@ -77,15 +77,7 @@
           "versiculo": "Mateus 24:42",
           "arquivo": "js/estudos/como-me-preparar-para-a-volta-de-jesus.json"
         },
-        {
-          "id": "ec-12-7-o-que-a-biblia-fala-sobre-a-morte",
-          "tema": "Escatologia",
-          "titulo": "Ec 12.7 — O Que a Bíblia Fala Sobre a Morte",
-          "subtitulo": "Eclesiastes 12:7",
-          "ordem": 7,
-          "versiculo": "Eclesiastes 12:7",
-          "arquivo": "js/estudos/ec-12-7-o-que-a-biblia-fala-sobre-a-morte.json"
-        },
+
         {
           "id": "porque-deus-nao-destruiu-o-diabo",
           "tema": "Escatologia",
@@ -112,6 +104,15 @@
           "ordem": 13,
           "versiculo": "Daniel 8:14",
           "arquivo": "js/estudos/a-purificacao-do-santuario-celestial.json"
+        },
+        {
+          "id": "quando-ocorrera-a-tribulacao-final",
+          "tema": "Escatologia",
+          "titulo": "Quando Ocorrerá a Tribulação Final",
+          "subtitulo": "Daniel 12:1",
+          "ordem": 16,
+          "versiculo": "Daniel 12:1",
+          "arquivo": "js/estudos/quando-ocorrera-a-tribulacao-final.json"
         }
       ]
     },
@@ -126,6 +127,15 @@
           "ordem": 1,
           "versiculo": "Eclesiastes 9:5",
           "arquivo": "js/estudos/o-que-ocorre-na-morte.json"
+        },
+        {
+          "id": "ec-12-7-o-que-a-biblia-fala-sobre-a-morte",
+          "tema": "Estado dos mortos",
+          "titulo": "Ec 12.7 — O Que a Bíblia Fala Sobre a Morte",
+          "subtitulo": "Eclesiastes 12:7",
+          "ordem": 7,
+          "versiculo": "Eclesiastes 12:7",
+          "arquivo": "js/estudos/ec-12-7-o-que-a-biblia-fala-sobre-a-morte.json"
         },
         {
           "id": "alma-e-imortal-ou-nao",
@@ -149,20 +159,47 @@
           "ordem": 11,
           "versiculo": "Apocalipse 21:4",
           "arquivo": "js/estudos/porque-existe-o-sofrimento.json"
+        },
+        {
+          "id": "livre-arbitrio-para-aceitar-ou-nao-a-salvacao",
+          "tema": "Grande Conflito",
+          "titulo": "Livre-Arbítrio para Aceitar ou Não a Salvação",
+          "subtitulo": "Josué 24:15",
+          "ordem": 17,
+          "versiculo": "Josué 24:15",
+          "arquivo": "js/estudos/livre-arbitrio-para-aceitar-ou-nao-a-salvacao.json"
         }
       ]
     },
     {
-      "nome": "Posso escolher qualeur dia para guardar?",
+      "nome": "O Sábado",
       "estudos": [
         {
           "id": "posso-escolher-qualquer-dia",
-          "tema": "Posso escolher qualeur dia para guardar?",
+          "tema": "O Sábado",
           "titulo": "Posso Escolher Qualquer Dia Como Dia de Descanso e Adoração?",
           "subtitulo": "Êxodo 20:8-11",
           "ordem": 9,
           "versiculo": "Êxodo 20:11",
           "arquivo": "js/estudos/posso-escolher-qualquer-dia.json"
+        },
+        {
+          "id": "os-7-sabados-cerimoniais",
+          "tema": "O Sábado",
+          "titulo": "Os 7 Sábados Cerimoniais",
+          "subtitulo": "Levítico 23:32",
+          "ordem": 14,
+          "versiculo": "Levítico 23:32",
+          "arquivo": "js/estudos/os-7-sabados-cerimoniais.json"
+        },
+        {
+          "id": "senhor-do-sabado-colher-espigas",
+          "tema": "O Sábado",
+          "titulo": "Senhor do Sábado — Colher Espigas",
+          "subtitulo": "Marcos 2:27-28",
+          "ordem": 15,
+          "versiculo": "Marcos 2:27-28",
+          "arquivo": "js/estudos/senhor-do-sabado-colher-espigas.json"
         }
       ]
     }
