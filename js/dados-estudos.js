@@ -2153,6 +2153,199 @@ window.ESTUDOS_JSON = {
       "Bíblia Sagrada, versão Almeida Revista e Corrigida"
     ]
   },
+  "onde-iremos-morar-apos-a-descida-da-santa-cidade": {
+    "id": "onde-iremos-morar-apos-a-descida-da-santa-cidade",
+    "tema": "Escatologia",
+    "titulo": "Onde Iremos Morar Após a Descida da Santa Cidade",
+    "subtitulo": "Apocalipse 21:2-3",
+    "ordem": 19,
+    "versiculo_memorizar": {
+      "texto": "\"E eu, João, vi a santa cidade, a nova Jerusalém, que descia do céu, da parte de Deus, adereçada como uma noiva ataviada para o seu marido. E ouvi uma grande voz do trono, dizendo: Eis o tabernáculo de Deus com os homens, pois com eles habitará, e eles serão o seu povo, e o mesmo Deus estará com eles, e será o seu Deus.\"",
+      "referencia": "Apocalipse 21:2-3"
+    },
+    "secoes": [
+      {
+        "titulo": "Introdução",
+        "paragrafos": [
+          "Se Deus nos prometeu novos céus e nova terra, onde iremos morar quando descer a cidade Santa na terra transformada? Construiremos nossas próprias casas? Quem irá transformar a terra? Para responder a essas perguntas, é importante entender inicialmente duas questões: por que a Cidade Santa irá descer, e por que o reino de Deus não será estabelecido — cada pessoa com a sua casa e fazenda — antes da descida da Cidade Santa. Para entendermos isso, precisamos compreender as três fases do juízo de Deus. Este estudo apresenta, com base na Escritura e nos princípios da Igreja Adventista do Sétimo Dia, o que a Bíblia revela sobre o nosso lar eterno."
+        ]
+      },
+      {
+        "titulo": "Parte 1 — As três fases do juízo e a razão da descida",
+        "paragrafos": [],
+        "subsecoes": [
+          {
+            "titulo": "1.1 O juízo pré-advento (Daniel 7:9-10)",
+            "paragrafos": [
+              "O ensino uniforme em todas as Escrituras é de que o homem será julgado de acordo com aquilo que tiver feito: \"Eu, o SENHOR, esquadrinho o coração, eu provo os rins; e isto para dar a cada um segundo os seus caminhos e segundo o fruto das suas ações.\" (Jeremias 17:10) Vários textos bíblicos indicam que antes de Cristo vir a este mundo pela segunda vez haverá um juízo. O profeta Daniel menciona em uma de suas visões a presença de um tribunal com livros sendo abertos: \"Assentou-se o tribunal, e se abriram os livros.\" (Daniel 7:10) Logicamente todo julgamento envolve o que está nos relatos processuais."
+            ]
+          },
+          {
+            "titulo": "1.2 O juízo por ocasião da segunda vinda (Mateus 25:31-46)",
+            "paragrafos": [
+              "Na segunda vinda, Cristo vem em glória e separa as ovelhas dos bodes: \"Quando, pois, vier o Filho do homem na sua glória, e todos os santos anjos, se assentará no trono da sua glória; e diante dele se ajuntarão todas as nações; e apartará uns dos outros, como o pastor aparta dos bodes as ovelhas.\" (Mateus 25:31-32) Nesse momento os justos são levados para estar com o Senhor, e os ímpios são destruídos pela manifestação da Sua glória."
+            ]
+          },
+          {
+            "titulo": "1.3 O juízo durante o milênio (Apocalipse 20:4-6)",
+            "paragrafos": [
+              "Durante os mil anos, os santos reinam com Cristo e participam do julgamento: \"E vi tronos; e assentaram-se sobre eles, e foi-lhes dado o juízo... e viveram, e reinaram com Cristo durante mil anos.\" (Apocalipse 20:4) Somente depois de completadas essas fases é que a Cidade Santa desce, e o reino é estabelecido na Terra renovada. É por isso que o reino não pode ser estabelecido antes da descida da Cidade Santa."
+            ]
+          }
+        ]
+      },
+      {
+        "titulo": "Parte 2 — A Terra transformada e a segurança dos justos",
+        "paragrafos": [],
+        "subsecoes": [
+          {
+            "titulo": "2.1 A purificação pelo fogo (Malaquias 4:1-3; 2 Pedro 3:10-13)",
+            "paragrafos": [
+              "\"Porque eis que o dia vem, que arderá como um forno; e todos os soberbos, e todos os que cometem impiedade, serão como palha... E pisareis os ímpios, porque se farão cinza debaixo das plantas de vossos pés, naquele dia que estou preparando, diz o SENHOR dos Exércitos.\" (Malaquias 4:1, 3) \"Mas o dia do Senhor virá como o ladrão de noite, no qual os céus passarão com estrondo, e os elementos, ardendo, se desfarão, e a terra e as obras que nela haverão se queimarão... Mas nós, segundo a sua promessa, esperamos novos céus e nova terra, em que habita a justiça.\" (2 Pedro 3:10, 13)"
+            ]
+          },
+          {
+            "titulo": "2.2 Os justos em segurança na Cidade (Apocalipse 20:6)",
+            "paragrafos": [
+              "Enquanto a Terra está envolta nos fogos da destruição, os justos habitam em segurança na Santa Cidade. Sobre os que tiveram parte na primeira ressurreição, a segunda morte não tem poder: \"Bem-aventurado e santo aquele que tem parte na primeira ressurreição; sobre estes não tem poder a segunda morte; mas serão sacerdotes de Deus e de Cristo, e reinarão com ele mil anos.\" (Apocalipse 20:6)"
+            ]
+          },
+          {
+            "titulo": "2.3 Quem transforma a Terra (Apocalipse 21:5)",
+            "paragrafos": [
+              "Quem irá transformar a Terra é o próprio Deus: \"E o que estava assentado sobre o trono disse: Eis que faço novas todas as coisas. E disse-me: Escreve, porque estas palavras são verdadeiras e fiéis.\" (Apocalipse 21:5) A renovação não é obra humana, mas ato criador de Deus — o mesmo poder que formou o mundo no princípio."
+            ]
+          }
+        ]
+      },
+      {
+        "titulo": "Parte 3 — A Nova Jerusalém: a cidade preparada por Deus",
+        "paragrafos": [],
+        "subsecoes": [
+          {
+            "titulo": "3.1 A cidade de Hebreus 11:10 (Hebreus 11:10; João 14:1-3)",
+            "paragrafos": [
+              "\"Porque aguardava a cidade que tem fundamentos, da qual Deus é o arquiteto e edificador.\" (Hebreus 11:10) No verso 10 do capítulo 11 é dito que esta cidade foi arquitetada e edificada por Deus — imagine que maravilha deve ser, sendo planejada pelo próprio Criador! Com o auxílio de João 14:1-3 e Apocalipse 21:2 poderemos identificá-la ainda melhor: \"Na casa de meu Pai há muitas moradas... vou preparar-vos lugar. E quando eu for e vos preparar lugar, voltarei e vos receberei para mim mesmo, para que onde eu estiver estejais vós também.\" (João 14:2-3) \"E eu, João, vi a santa cidade, a nova Jerusalém, que descia do céu, da parte de Deus, adereçada como uma noiva ataviada para o seu marido.\" (Apocalipse 21:2)"
+            ]
+          },
+          {
+            "titulo": "3.2 Onde ela está agora (2 Coríntios 12:2; Gálatas 4:26; Hebreus 12:22)",
+            "paragrafos": [
+              "Portanto, a cidade mencionada em Hebreus 11:10, tão almejada por Abraão e outros heróis da fé, é a Cidade Santa, conhecida também como a Sião Celestial ou Nova Jerusalém (Gálatas 4:26; Hebreus 12:22), um paraíso que se encontra no terceiro céu (2 Coríntios 12:2), ou seja, além dos céus siderais, onde habita Deus e outros seres celestiais (1 Reis 8:30, 39; Salmo 11:4). É para este lugar que irão todos os salvos que aceitaram a Jesus como seu Salvador pessoal e também Sua Palavra, inclusive os justos mortos, por ocasião da ressurreição, na volta do Senhor (Mateus 25:34; Apocalipse 21:27; 1 Tessalonicenses 4:13-18)."
+            ]
+          },
+          {
+            "titulo": "3.3 A descrição da cidade (Apocalipse 21:10-25)",
+            "paragrafos": [
+              "\"E me transportou, em espírito, a uma grande e elevada montanha e me mostrou a santa cidade, Jerusalém, que descia do céu, da parte de Deus, a qual tem a glória de Deus. O seu fulgor era semelhante a uma pedra preciosíssima, como pedra de jaspe cristalina. Tinha grande e alta muralha, doze portas, e, junto às portas, doze anjos, e, sobre elas, nomes inscritos, que são os nomes das doze tribos dos filhos de Israel... A muralha da cidade tinha doze fundamentos, e estavam sobre estes os doze nomes dos doze apóstolos do Cordeiro.\" (Apocalipse 21:10-14)",
+              "\"A cidade é quadrangular, de comprimento e largura iguais. E mediu a cidade com a vara até doze mil estádios. O seu comprimento, largura e altura são iguais. Mediu também a sua muralha, cento e quarenta e quatro côvados, medida de homem, isto é, de anjo. A estrutura da muralha é de jaspe; também a cidade é de ouro puro, semelhante a vidro límpido. Os fundamentos da muralha da cidade estão adornados de toda espécie de pedras preciosas... As doze portas são doze pérolas, e cada uma dessas portas, de uma só pérola. A praça da cidade é de ouro puro, como vidro transparente. Nela, não vi santuário, porque o seu santuário é o Senhor, o Deus Todo-Poderoso, e o Cordeiro. A cidade não precisa nem do sol, nem da lua, para lhe darem claridade, pois a glória de Deus a iluminou, e o Cordeiro é a sua lâmpada. As nações andarão mediante a sua luz, e os reis da terra lhe trazem a sua glória. As suas portas nunca jamais se fecharão de dia, porque, nela, não haverá noite.\" (Apocalipse 21:16-25)"
+            ]
+          },
+          {
+            "titulo": "3.4 A medida da muralha (Apocalipse 21:17)",
+            "paragrafos": [
+              "A medida usada para a muralha da Nova Jerusalém, citada em Apocalipse 21:17, é côvado de anjo ou de homem? Na versão Almeida Revista e Atualizada está escrito: \"Mediu também a sua muralha, cento e quarenta e quatro côvados, medida de homem, isto é, de anjo.\" Na Nova Versão Internacional: \"Ele mediu o muro, e deu sessenta e cinco metros de espessura, segundo a medida humana que o anjo estava usando.\" Ficou claro: a medida era do tamanho do côvado — medida que vai da ponta do dedo mínimo ao cotovelo de um homem, aproximadamente 44,44 cm; olhando neste aspecto, a medida era humana. Tal medida estava sendo feita (usada) por um anjo; neste aspecto, o relatório da medição era do anjo. Um detalhe interessante é que esta medida da muralha, no texto original, não está clara se é a medida da altura ou da largura; pode ser de uma ou de outra, ou ainda de ambas. A lição que tiramos é que o que Deus está preparando para nós é algo muito imenso."
+            ]
+          }
+        ]
+      },
+      {
+        "titulo": "Parte 4 — A vida na Terra renovada",
+        "paragrafos": [],
+        "subsecoes": [
+          {
+            "titulo": "4.1 As casas dos santos (Isaías 65:21-22)",
+            "paragrafos": [
+              "\"Edificarão casas, e as habitarão; plantarão vinhas, e comerão o seu fruto. Não edificarão para que outros habitem; não plantarão para que outros comam; porque os dias do meu povo serão como os dias da árvore, e os meus eleitos gozarão das obras das suas mãos.\" (Isaías 65:21-22) Sim, construiremos nossas próprias casas. Ellen G. White descreve: \"Todos exclamamos: A cidade, a grande cidade, vem, vem de Deus descendo do céu, e ela veio e se pôs no lugar em que nos achávamos. Pusemo-nos então a observar as coisas gloriosas fora da cidade. Vi ali casas belíssimas, que tinham a aparência de prata, apoiadas por quatro colunas realçadas de pérolas preciosas, muito agradáveis à vista. Destinavam-se à habitação dos santos. Em cada uma havia uma prateleira de ouro. Vi muitos dos santos entrarem nas casas, tirarem sua coroa resplandecente, e pô-la na prateleira, saindo então para o campo ao lado das casas, para lidar com a terra; não como temos de fazer com a terra aqui, não, absolutamente. Uma gloriosa luz lhes resplandecia em redor da cabeça, e estavam continuamente louvando a Deus em altas vozes.\" (Primeiros Escritos, págs. 17-19)"
+            ]
+          },
+          {
+            "titulo": "4.2 A vida que Deus idealizou no Éden (Isaías 62:3; Apocalipse 21:11)",
+            "paragrafos": [
+              "A vida que Deus idealizou para nossos primeiros pais, Adão e Eva, os salvos haverão de desfrutar ao longo da eternidade. A Nova Jerusalém, a metrópole da nova terra glorificada, é como \"uma coroa de glória na mão do SENHOR e um diadema real na mão do teu Deus\" (Isaías 62:3). \"Sua luz era semelhante a uma pedra preciosíssima, como a pedra de jaspe, como cristal resplandecente.\" (Apocalipse 21:11) Diz o Senhor: \"Folgarei em Jerusalém, e exultarei no meu povo.\" (Isaías 65:19)"
+            ]
+          },
+          {
+            "titulo": "4.3 Sem doença, sem tristeza (Isaías 33:24; Apocalipse 21:4)",
+            "paragrafos": [
+              "As condições de vida neste lugar serão as melhores: \"Nenhum morador de Jerusalém dirá: Estou doente; porque ao povo que habita nela, perdoar-se-lhe-á a sua iniqüidade.\" (Isaías 33:24) A Nova Jerusalém é o nosso lugar de repouso. Não haverá tristeza na cidade de Deus. Nenhum véu de infortúnio, nenhuma lamentação de esperanças frustradas e afeições sepultadas serão jamais ouvidas: \"E Deus limpará de seus olhos toda lágrima; e não haverá mais morte, nem pranto, nem clamor, nem dor; porque já as primeiras coisas são passadas.\" (Apocalipse 21:4)"
+            ]
+          },
+          {
+            "titulo": "4.4 O privilégio de adorar na Cidade (Isaías 66:23; Apocalipse 22:2)",
+            "paragrafos": [
+              "Todos que somos a noiva do Cordeiro, a Jerusalém espiritual, teremos o privilégio de vir até a cidade da Nova Jerusalém para adorar a Deus. Todos nos uniremos numa só voz para exaltar a sabedoria, o amor e a justiça de Deus: \"E será que desde uma lua nova até à outra, e desde um sábado até ao outro, virá toda a carne a adorar perante mim, diz o SENHOR.\" (Isaías 66:23) O período de lua nova ocorre mensalmente; será o momento em que iremos até a Cidade Santa a fim de comermos da árvore da vida, para que nossa existência seja perpetuada: \"No meio da sua praça, e de um e de outro lado do rio, estava a árvore da vida, que produz doze frutos, dando seu fruto de mês em mês; e as folhas da árvore são para a saúde das nações.\" (Apocalipse 22:2)"
+            ]
+          }
+        ]
+      },
+      {
+        "titulo": "Conclusão",
+        "paragrafos": [
+          "Onde iremos morar após a descida da Santa Cidade? Na Terra transformada — o mundo novo que Deus mesmo fará, pois \"eis que faço novas todas as coisas\" (Apocalipse 21:5). A Nova Jerusalém, arquitetada e edificada por Deus, descerá do céu e será a metrópole da nova terra glorificada; e fora da cidade haverá casas belíssimas, com aparência de prata, destinadas à habitação dos santos, que edificarão casas e as habitarão, plantarão vinhas e comerão o seu fruto (Isaías 65:21). Ali não haverá doença, nem tristeza, nem morte, nem pranto, nem clamor, nem dor. A vida que Deus idealizou para Adão e Eva será restaurada, e teremos o privilégio de vir à Cidade Santa para adorar a Deus, de sábado a sábado e de lua nova a lua nova, e comer da árvore da vida. Aquele que nos amou de tal maneira que morreu por nós construiu para nós uma cidade. Aproveite esta oportunidade! A Cidade Santa é muitíssimo valiosa para que a percas! Entregue seu coração a Jesus agora mesmo e aceite Seu amor: \"Eis que estou à porta e bato; se alguém ouvir a minha voz e abrir a porta, entrarei em sua casa e cearei com ele, e ele, comigo.\" (Apocalipse 3:20)"
+        ]
+      }
+    ],
+    "linha_do_tempo": [],
+    "perguntas": [
+      {
+        "pergunta": "Onde iremos morar após a descida da Santa Cidade?",
+        "resposta": "Na Terra transformada, o mundo novo, e teremos casas belíssimas preparadas para os santos; a Nova Jerusalém é a metrópole da nova terra glorificada (Apocalipse 21:1-3; Isaías 65:21-22)."
+      },
+      {
+        "pergunta": "Por que a Cidade Santa irá descer?",
+        "resposta": "Porque a Terra será purificada pelo fogo e a Nova Jerusalém descerá do céu para ser a capital do reino eterno, onde Deus habitará com os homens (Apocalipse 21:2-3; 2 Pedro 3:10-13)."
+      },
+      {
+        "pergunta": "Por que o reino não será estabelecido antes da descida da Cidade Santa?",
+        "resposta": "Porque antes é necessário que se completem as três fases do juízo de Deus: o juízo pré-advento, o juízo por ocasião da segunda vinda e o juízo durante o milênio (Daniel 7:9-10; Apocalipse 20:4-6)."
+      },
+      {
+        "pergunta": "Onde os justos estarão enquanto a Terra estiver envolta em fogo?",
+        "resposta": "Habitam em segurança na Santa Cidade; sobre os que tiveram parte na primeira ressurreição, a segunda morte não tem poder (Apocalipse 20:6; Malaquias 4:1-3)."
+      },
+      {
+        "pergunta": "Construiremos nossas próprias casas?",
+        "resposta": "Sim. \"Edificarão casas, e as habitarão; plantarão vinhas, e comerão o seu fruto\" (Isaías 65:21); vi casas belíssimas, que tinham a aparência de prata, apoiadas por quatro colunas realçadas de pérolas preciosas, destinadas à habitação dos santos (Primeiros Escritos)."
+      },
+      {
+        "pergunta": "Quem irá transformar a Terra?",
+        "resposta": "Deus, que fará novas todas as coisas: \"Eis que faço novas todas as coisas\" (Apocalipse 21:5; 2 Pedro 3:13)."
+      },
+      {
+        "pergunta": "Qual é a cidade mencionada em Hebreus 11:10?",
+        "resposta": "A Cidade Santa, também conhecida como Sião Celestial ou Nova Jerusalém, arquitetada e edificada por Deus (Hebreus 11:10; Gálatas 4:26; Hebreus 12:22)."
+      },
+      {
+        "pergunta": "Onde está a Nova Jerusalém atualmente?",
+        "resposta": "No terceiro céu, além dos céus siderais, onde habita Deus e outros seres celestiais (2 Coríntios 12:2; 1 Reis 8:30, 39; Salmo 11:4)."
+      },
+      {
+        "pergunta": "Como é a Nova Jerusalém?",
+        "resposta": "Tem a glória de Deus, grande e alta muralha, doze portas de pérolas, doze fundamentos de pedras preciosas, é quadrangular com doze mil estádios, e não precisa do sol nem da lua, pois a glória de Deus a ilumina (Apocalipse 21:10-25)."
+      },
+      {
+        "pergunta": "Qual a medida da muralha da Nova Jerusalém?",
+        "resposta": "Cento e quarenta e quatro côvados, medida de homem, isto é, de anjo — o côvado era a medida humana (aproximadamente 44, 44 cm) usada pelo anjo na medição (Apocalipse 21:17)."
+      },
+      {
+        "pergunta": "Haverá doença na Nova Terra?",
+        "resposta": "Não. \"Nenhum morador de Jerusalém dirá: Estou doente; porque ao povo que habita nela, perdoar-se-lhe-á a sua iniqüidade\" (Isaías 33:24; Apocalipse 21:4)."
+      },
+      {
+        "pergunta": "Que privilégio teremos na eternidade?",
+        "resposta": "Vir até a cidade da Nova Jerusalém para adorar a Deus, de sábado a sábado e de lua nova a lua nova, e comer da árvore da vida (Isaías 66:23; Apocalipse 22:2)."
+      }
+    ],
+    "fontes": [
+      "CAT6046 — Onde iremos morar após a descida da Santa Cidade (Escola Bíblica Novo Tempo)",
+      "CAT6626 — Hebreus 11:10 — Cidade Santa (Escola Bíblica Novo Tempo; material de Leandro Soares de Quadros)",
+      "CAT8644 — A medida usada para a muralha da Nova Jerusalém (Escola Bíblica Novo Tempo)",
+      "Ellen G. White, Primeiros Escritos, págs. 17-19",
+      "Ellen G. White, O Grande Conflito, capítulo 42",
+      "Bíblia Sagrada, versão Almeida Revista e Corrigida"
+    ]
+  },
   "os-7-sabados-cerimoniais": {
     "id": "os-7-sabados-cerimoniais",
     "tema": "O Sábado",
@@ -2326,6 +2519,158 @@ window.ESTUDOS_JSON = {
       "CAT5370 — Os 7 Sábados Cerimoniais celebrados pelo povo de Israel (Escola Bíblica Novo Tempo)",
       "CAT6332 — Leis Morais, Cerimoniais, Dietéticas (Escola Bíblica Novo Tempo)",
       "CAT6677 — Lv 11 — Leis cerimoniais e sua relação com Lv 11 (Escola Bíblica Novo Tempo)",
+      "Bíblia Sagrada, versão Almeida Revista e Corrigida"
+    ]
+  },
+  "por-que-espero-a-volta-de-jesus": {
+    "id": "por-que-espero-a-volta-de-jesus",
+    "tema": "Escatologia",
+    "titulo": "Por Que Espero a Volta de Jesus",
+    "subtitulo": "Jó 19:25-27",
+    "ordem": 18,
+    "versiculo_memorizar": {
+      "texto": "\"Porque eu sei que o meu Redentor vive, e por fim se levantará sobre a terra. Depois, revestido este meu corpo da minha pele, em minha carne verei a Deus.\"",
+      "referencia": "Jó 19:25-26"
+    },
+    "secoes": [
+      {
+        "titulo": "Introdução",
+        "paragrafos": [
+          "O cumprimento da promessa da volta de Cristo marcará o fim de todos os males. Alguns órgãos de comunicação destacaram, nos primeiros dias de outubro passado, que um empresário paulista, sequestrado em abril, finalmente fora entregue à família. Morto. Notícias assim nos lembram por que a esperança cristã não é um detalhe doutrinário, mas a resposta ao sofrimento humano. Este estudo apresenta, com base na Escritura e nos princípios da Igreja Adventista do Sétimo Dia, as razões pelas quais esperamos a volta de Jesus: o fim de todos os males, o mundo novo, a justiça restaurada, o reencontro com os que dormem e, acima de tudo, a perspectiva de ver a Cristo."
+        ]
+      },
+      {
+        "titulo": "Parte 1 — Porque o cumprimento da promessa marcará o fim de todos os males",
+        "paragrafos": [],
+        "subsecoes": [
+          {
+            "titulo": "1.1 O fim da violência e do desamor (Apocalipse 21:4)",
+            "paragrafos": [
+              "Agarrado a essa promessa, espero a volta do meu Salvador e anseio o dia em que a violência e o desamor serão erradicados da Terra, e no qual a dor deixará de existir. Almejo o momento em que a vitória sobre a morte será sempre consumada, e as lágrimas cessarão: \"E Deus limpará de seus olhos toda lágrima; e não haverá mais morte, nem pranto, nem clamor, nem dor; porque já as primeiras coisas são passadas.\" (Apocalipse 21:4)"
+            ]
+          },
+          {
+            "titulo": "1.2 O reencontro com os que dormem no pó (1 Tessalonicenses 4:16-17)",
+            "paragrafos": [
+              "Queridos que hoje dormem no pó serão ressuscitados, protagonizando com os remidos vivos um reencontro que nunca mais será desfeito: \"Porque o mesmo Senhor descerá do céu com alarido, e voz de arcanjo, e com a trombeta de Deus; e os que morreram em Cristo ressuscitarão primeiro. Depois nós, os que ficarmos vivos, seremos arrebatados juntamente com eles nas nuvens, para o encontro com o Senhor nos ares, e assim estaremos para sempre com o Senhor.\" (1 Tessalonicenses 4:16-17) A morte não terá a última palavra: \"Tragada foi a morte na vitória.\" (1 Coríntios 15:54)"
+            ]
+          }
+        ]
+      },
+      {
+        "titulo": "Parte 2 — Porque desejo viver num mundo feito novo",
+        "paragrafos": [],
+        "subsecoes": [
+          {
+            "titulo": "2.1 Um mundo sem injustiça (2 Pedro 3:13)",
+            "paragrafos": [
+              "Espero a volta de Jesus, porque desejo viver num mundo feito novo. Onde não reine a injustiça. Sem discriminação de qualquer espécie. Onde não haja famintos, maltrapilhos ou sem-teto: \"Mas nós, segundo a sua promessa, esperamos novos céus e nova terra, em que habita a justiça.\" (2 Pedro 3:13) \"E vi um novo céu, e uma nova Terra. Porque já o primeiro céu e a primeira Terra passaram.\" (Apocalipse 21:1)"
+            ]
+          },
+          {
+            "titulo": "2.2 Um mundo de amor sincero (Isaías 65:17-25)",
+            "paragrafos": [
+              "Um mundo no qual as pessoas se amem desinteressadamente, e sorriam com sinceridade. Quero, sim, viver num mundo novo, onde todos se abracem desprovidos de qualquer sentimento manchado pela mesquinhez do orgulho, sem traições, isento de segundas intenções. Por isso, espero a volta de Jesus: \"Porque eis que eu crio novos céus e nova terra; e não haverá lembrança das coisas passadas, nem mais se recordarão.\" (Isaías 65:17)"
+            ]
+          },
+          {
+            "titulo": "2.3 A insuficiência dos sistemas humanos (Salmo 146:3-5; Jeremias 17:5)",
+            "paragrafos": [
+              "Ideologias políticas, sistemas de governo, partidos políticos, força física ou habilidades administrativas de quaisquer líderes humanos são importantes para construir uma sociedade tal. Portanto, não posso centralizar minha esperança senão no retorno de Cristo: \"Não confieis em príncipes, nem em filho de homem, em quem não há salvação.\" (Salmo 146:3) \"Assim diz o SENHOR: Maldito o homem que confia no homem, e faz da carne o seu braço, e aparta o seu coração do SENHOR.\" (Jeremias 17:5) Os sistemas humanos podem melhorar condições, mas não podem transformar o coração nem erradicar o mal."
+            ]
+          }
+        ]
+      },
+      {
+        "titulo": "Parte 3 — Porque quero ver a Jesus",
+        "paragrafos": [],
+        "subsecoes": [
+          {
+            "titulo": "3.1 A perspectiva de ver a Cristo (Jó 19:25-27)",
+            "paragrafos": [
+              "A perspectiva de ver a Cristo é também uma das razões pelas quais espero, com ansiedade, a Sua volta. Tal expectativa é um lenitivo para os ferimentos adquiridos ao longo da jornada terrestre. O patriarca Jó também experimentou seu benefício: \"Porque eu sei que o meu Redentor vive, e por fim se levantará sobre a terra. Depois, revestido este meu corpo da minha pele, em minha carne verei a Deus; a quem eu verei por mim mesmo, e os meus olhos o verão, e não outro; ainda que os meus rins se consumam no meu peito.\" (Jó 19:25-27)"
+            ]
+          },
+          {
+            "titulo": "3.2 Seremos semelhantes a Ele (1 João 3:2-3)",
+            "paragrafos": [
+              "\"Amados, agora somos filhos de Deus, e ainda não se manifestou o que hemos de ser; mas sabemos que, quando ele se manifestar, seremos semelhantes a ele, porque assim como está o veremos. E qualquer que nele tem esta esperança purifica-se a si mesmo, como também ele é puro.\" (1 João 3:2-3) A esperança de ver a Jesus não é apenas consolo futuro: ela purifica o presente, pois quem espera ver a Cristo vive de modo digno dEle."
+            ]
+          }
+        ]
+      },
+      {
+        "titulo": "Parte 4 — O fundamento da esperança",
+        "paragrafos": [],
+        "subsecoes": [
+          {
+            "titulo": "4.1 A promessa de Cristo (João 14:1-3)",
+            "paragrafos": [
+              "A esperança não se apoia em otimismo humano, mas na palavra do próprio Salvador: \"Não se turbe o vosso coração; credes em Deus, crede também em mim. Na casa de meu Pai há muitas moradas; se não fosse assim, eu vos teria dito. Vou preparar-vos lugar. E quando eu for e vos preparar lugar, voltarei e vos receberei para mim mesmo, para que onde eu estiver estejais vós também.\" (João 14:1-3)"
+            ]
+          },
+          {
+            "titulo": "4.2 A bendita esperança (Tito 2:13)",
+            "paragrafos": [
+              "\"Aguardando a bem-aventurada esperança e o aparecimento da glória do grande Deus e nosso Salvador Jesus Cristo.\" (Tito 2:13) A volta de Cristo é chamada de bem-aventurada esperança porque é a consumação de tudo o que Deus prometeu: a vitória sobre o pecado, a restauração da criação e a comunhão eterna com o Criador."
+            ]
+          }
+        ]
+      },
+      {
+        "titulo": "Conclusão",
+        "paragrafos": [
+          "Por que espero a volta de Jesus? Porque o cumprimento da promessa marcará o fim de todos os males: a violência e o desamor serão erradicados, a dor deixará de existir, as lágrimas cessarão e os que dormem no pó serão ressuscitados para um reencontro que nunca mais será desfeito. Espero porque desejo viver num mundo feito novo, sem injustiça, sem discriminação, sem famintos nem sem-teto, onde as pessoas se amem desinteressadamente e sorriam com sinceridade. Não centralizo minha esperança em ideologias, sistemas de governo ou líderes humanos, pois eles não podem transformar o coração. E, acima de tudo, espero porque quero ver a Jesus — como Jó declarou: \"eu sei que o meu Redentor vive, e por fim se levantará sobre a terra... em minha carne verei a Deus.\" (Jó 19:25-26) Essa esperança é um lenitivo para os ferimentos da jornada terrestre e, ao mesmo tempo, uma força que purifica o presente. \"Aguardando a bem-aventurada esperança e o aparecimento da glória do grande Deus e nosso Salvador Jesus Cristo.\" (Tito 2:13)"
+        ]
+      }
+    ],
+    "linha_do_tempo": [],
+    "perguntas": [
+      {
+        "pergunta": "Por que espero a volta de Jesus?",
+        "resposta": "Porque o cumprimento da promessa marcará o fim de todos os males; espero o dia em que a violência e o desamor serão erradicados da Terra e a dor deixará de existir (Apocalipse 21:4; Isaías 11:9)."
+      },
+      {
+        "pergunta": "Que mundo espero?",
+        "resposta": "Um mundo feito novo, onde não reine a injustiça, sem discriminação de qualquer espécie, onde não haja famintos, maltrapilhos ou sem-teto (2 Pedro 3:13; Apocalipse 21:1-5)."
+      },
+      {
+        "pergunta": "Como serão as relações nesse mundo novo?",
+        "resposta": "As pessoas se amarão desinteressadamente e sorrirão com sinceridade; todos se abraçarão desprovidos de qualquer sentimento manchado pela mesquinhez do orgulho, sem traições, isento de segundas intenções (Isaías 65:17-25; 1 Coríntios 13:13)."
+      },
+      {
+        "pergunta": "Por que não posso centralizar minha esperança em líderes ou sistemas humanos?",
+        "resposta": "Ideologias políticas, sistemas de governo, partidos políticos, força física ou habilidades administrativas de quaisquer líderes humanos não são suficientes para construir uma sociedade tal; portanto, não posso centralizar minha esperança senão no retorno de Cristo (Salmo 146:3-5; Jeremias 17:5)."
+      },
+      {
+        "pergunta": "Qual é a perspectiva que mais me anima?",
+        "resposta": "Ver a Jesus: \"Porque eu sei que o meu Redentor vive, e por fim se levantará sobre a terra. Depois, revestido este meu corpo da minha pele, em minha carne verei a Deus\" (Jó 19:25-26; 1 João 3:2)."
+      },
+      {
+        "pergunta": "O que acontecerá com os que dormem no pó?",
+        "resposta": "Serão ressuscitados, protagonizando com os remidos vivos um reencontro que nunca mais será desfeito (1 Tessalonicenses 4:16-17; João 5:28-29)."
+      },
+      {
+        "pergunta": "Quando a vitória sobre a morte será consumada?",
+        "resposta": "Na volta de Jesus, quando a mortalidade se revestir da imortalidade: \"Tragada foi a morte na vitória\" (1 Coríntios 15:54-55; Apocalipse 21:4)."
+      },
+      {
+        "pergunta": "Que benefício traz essa expectativa hoje?",
+        "resposta": "É um lenitivo para os ferimentos adquiridos ao longo da jornada terrestre, como experimentou Jó ao declarar que veria seu Redentor (Jó 19:25-27; Salmo 16:11)."
+      },
+      {
+        "pergunta": "A esperança da volta de Jesus é apenas futura?",
+        "resposta": "Não. Ela transforma o presente: \"Amados, agora somos filhos de Deus, e ainda não se manifestou o que hemos de ser; mas sabemos que, quando ele se manifestar, seremos semelhantes a ele, porque assim como está o veremos\" (1 João 3:2-3)."
+      },
+      {
+        "pergunta": "Qual é o fundamento dessa esperança?",
+        "resposta": "A promessa de Cristo: \"E quando eu for e vos preparar lugar, voltarei e vos receberei para mim mesmo, para que onde eu estiver estejais vós também\" (João 14:3; Tito 2:13)."
+      }
+    ],
+    "fontes": [
+      "CAT6018 — Por que espero a Volta de Jesus (Escola Bíblica Novo Tempo)",
+      "CAT4388 — Como me preparar para a volta de Jesus (Escola Bíblica Novo Tempo)",
+      "Ellen G. White, O Grande Conflito, capítulo 42",
       "Bíblia Sagrada, versão Almeida Revista e Corrigida"
     ]
   },
@@ -2694,6 +3039,222 @@ window.ESTUDOS_JSON = {
       "CAT5065 — Por que Deus não destruiu o Diabo? (Escola Bíblica Novo Tempo)",
       "CAT8746 — Qual é a origem de Satanás? por Alberto R. Timm, PhD (Escola Bíblica Novo Tempo)",
       "Ellen G. White, O Grande Conflito, capítulo 29 — A Origem do Mal",
+      "Bíblia Sagrada, versão Almeida Revista e Corrigida"
+    ]
+  },
+  "porque-os-adventistas-guardam-o-sabado": {
+    "id": "porque-os-adventistas-guardam-o-sabado",
+    "tema": "O Sábado",
+    "titulo": "Porque os Adventistas Guardam o Sábado",
+    "subtitulo": "Êxodo 20:8-11",
+    "ordem": 20,
+    "versiculo_memorizar": {
+      "texto": "\"Lembra-te do dia de sábado, para o santificar. Seis dias trabalharás e farás toda a tua obra, mas o sétimo dia é o sábado do SENHOR teu Deus.\"",
+      "referencia": "Êxodo 20:8-10"
+    },
+    "secoes": [
+      {
+        "titulo": "Introdução",
+        "paragrafos": [
+          "Nós, adventistas do sétimo dia, temos como um princípio a observância do sábado porque Deus, ao terminar o mundo em seis dias, estabeleceu um dia — e este é o sábado — para que o ser humano parasse com suas atividades e repousasse em Sua companhia. O sábado é um lembrete no tempo de que Deus é o nosso Criador. Este estudo apresenta, com base na Escritura e nos princípios da Igreja Adventista do Sétimo Dia, as razões bíblicas dessa convicção: a instituição na criação, o exemplo de Cristo e dos apóstolos, o significado do sábado como selo de Deus e as respostas às objeções mais comuns."
+        ]
+      },
+      {
+        "titulo": "Parte 1 — O sábado foi instituído na criação",
+        "paragrafos": [],
+        "subsecoes": [
+          {
+            "titulo": "1.1 O memorial do Criador (Gênesis 2:1-3)",
+            "paragrafos": [
+              "Dizem as Escrituras: \"Assim, pois, foram acabados os céus e a terra e todo o seu exército. E, havendo Deus terminado no dia sétimo a sua obra, que fizera, descansou nesse dia de toda a sua obra que tinha feito. E abençoou Deus o dia sétimo e o santificou; porque nele descansou de toda a obra que, como Criador, fizera.\" (Gênesis 2:1-3) Deus estabeleceu o sábado para que fosse um memorial do Criador e um memorial da Criação."
+            ]
+          },
+          {
+            "titulo": "1.2 O memorial da redenção (Deuteronômio 5:15)",
+            "paragrafos": [
+              "O sábado é também um memorial da redenção, de nossa libertação do pecado: \"Porque te lembrarás que foste servo na terra do Egito, e que o SENHOR teu Deus te tirou dali com mão forte e braço estendido; pelo que o SENHOR teu Deus te ordenou que guardasses o dia de sábado.\" (Deuteronômio 5:15) Quando guardamos o sábado, estamos lembrando de que há um Deus Criador e que não estamos no mundo por acaso; dizemos ao mundo que cremos no Eterno e que admiramos os Seus feitos na criação e na salvação do ser humano."
+            ]
+          },
+          {
+            "titulo": "1.3 O sábado não é instituição judaica (Gênesis 2:1-3; Êxodo 16:23-30)",
+            "paragrafos": [
+              "A fúria antilei de nossos oponentes concentra-se na tese de que o sábado é instituição exclusivamente judaica. Não lhes interessa saber que ele fora instituído ao tempo de Adão, antes que houvesse a divisão de raças, nações e tribos, nem que fora feito para o bem-estar físico e espiritual do homem, nem que os gentios o observavam no passado. A origem do sábado, 2.500 anos antes que houvesse a nação israelita, prova que não era judaico. Observado pelos patriarcas, foi transmitido às nações da antiguidade. Tornou-se mundial, mesmo entre as nações pagãs. O historiador judaico Flávio Josefo escreveu: \"não há cidade dos gregos, nem dos bárbaros, nem nação alguma, em que nosso costume de repousar no sétimo dia não tenha chegado.\" O Dr. George Smith, em Descobertas Assírias (1875), relata que em 1869 descobriu um curioso calendário dos assírios, no qual cada mês se divide em quatro semanas, e os sétimos dias, ou sábados, são marcados como dias nos quais nenhum trabalho se podia empreender."
+            ]
+          }
+        ]
+      },
+      {
+        "titulo": "Parte 2 — Jesus e os apóstolos guardaram o sábado",
+        "paragrafos": [],
+        "subsecoes": [
+          {
+            "titulo": "2.1 O costume de Jesus (Lucas 4:16; Marcos 6:3)",
+            "paragrafos": [
+              "\"Indo para Nazaré, onde fora criado, entrou, num sábado, na sinagoga, segundo o seu costume, e levantou-se para ler.\" (Lucas 4:16) Por esse texto podemos perceber que o Senhor Jesus tinha como costume ir à igreja todos os sábados, ao invés de trabalhar na carpintaria (Marcos 6:3)."
+            ]
+          },
+          {
+            "titulo": "2.2 O costume de Paulo (Atos 16:13; 17:2; 18:3-4, 11)",
+            "paragrafos": [
+              "\"No sábado, saímos da cidade para junto do rio, onde nos pareceu haver um lugar de oração; e, assentando-nos, falamos às mulheres que para ali tinham concorrido.\" (Atos 16:13) \"Paulo, segundo o seu costume, foi procurá-los e, por três sábados, arrazoou com eles acerca das Escrituras.\" (Atos 17:2) \"E todos os sábados discorria na sinagoga, persuadindo tanto judeus como gregos... E ali permaneceu um ano e seis meses, ensinando entre eles a palavra de Deus.\" (Atos 18:4, 11) Só na cidade de Corinto, onde permaneceu um ano e seis meses, ele guardou cerca de 78 sábados."
+            ]
+          },
+          {
+            "titulo": "2.3 Os primeiros cristãos e Maria (Lucas 23:54-56)",
+            "paragrafos": [
+              "Os primitivos cristãos, inclusive Maria, após a morte de Cristo, também observavam o sétimo dia: \"Era o dia da preparação, e começava o sábado. As mulheres que tinham vindo da Galileia com Jesus, seguindo, viram o túmulo e como o corpo fora ali depositado. Então, se retiraram para preparar aromas e bálsamos. E, no sábado, descansaram, segundo o mandamento.\" (Lucas 23:54-56) O sábado é um momento em que podemos ter um lindo encontro com o Senhor Jesus Cristo, e também estar por mais tempo na companhia da família e das pessoas que amamos."
+            ]
+          }
+        ]
+      },
+      {
+        "titulo": "Parte 3 — O sábado na Nova Terra",
+        "paragrafos": [],
+        "subsecoes": [
+          {
+            "titulo": "3.1 A adoração eterna (Isaías 66:22-23)",
+            "paragrafos": [
+              "\"Porque, como os novos céus e a nova terra, que hei de fazer, estarão diante de mim, diz o SENHOR, assim há de estar a vossa posteridade e o vosso nome. E será que, de uma Festa da Lua Nova à outra e de um sábado a outro, virá toda a carne a adorar perante mim, diz o SENHOR.\" (Isaías 66:22-23) Na Nova Terra, iremos guardar o sábado como um sinal do eterno reconhecimento de que Cristo criou o paraíso do Éden e criou os novos céus e a nova terra de justiça e santidade. Portanto, o ideal é nos acostumarmos a santificar o sétimo dia aqui, nesta vida."
+            ]
+          }
+        ]
+      },
+      {
+        "titulo": "Parte 4 — O sábado como selo de Deus",
+        "paragrafos": [],
+        "subsecoes": [
+          {
+            "titulo": "4.1 A controvérsia final sobre a adoração (Apocalipse 14:7; Êxodo 20:11)",
+            "paragrafos": [
+              "No livro do Apocalipse temos a descrição de como serão os últimos eventos da história de nosso mundo. Somos informados de que há uma batalha entre o bem e o mal (Apocalipse 12:7-9) e que o desfecho se dará na adoração. Deus faz um chamado em Apocalipse 14 para que todos adoremos a Ele e não ao poder político e religioso representado pela besta de Apocalipse 13: \"Temei a Deus e dai-lhe glória, pois é chegada a hora do seu juízo; e adorai aquele que fez o céu, e a terra, e o mar, e as fontes das águas.\" (Apocalipse 14:7) Compare esse convite com Êxodo 20:11: \"porque, em seis dias, fez o SENHOR os céus e a terra, o mar e tudo o que neles há e, ao sétimo dia, descansou; por isso, o SENHOR abençoou o dia de sábado e o santificou.\" (Êxodo 20:11) O texto de Apocalipse está parafraseando o quarto mandamento — é um convite para que adoremos a Deus no sábado, e esta mensagem é para os últimos dias e tem caráter urgente."
+            ]
+          },
+          {
+            "titulo": "4.2 As três características de um selo (Êxodo 20:8-11; Apocalipse 7:3)",
+            "paragrafos": [
+              "Para fazer a distinção entre quem irá servir a Deus e quem irá servir à besta, Deus estabeleceu um selo de identificação: \"Não danifiqueis nem a terra, nem o mar, nem as árvores, até selarmos na fronte os servos do nosso Deus.\" (Apocalipse 7:3) Um selo oficial tem três características: nome, função e domínio. O sábado contém estas três características: o NOME — \"o SENHOR teu Deus\"; a FUNÇÃO — Criador, \"porque em seis dias fez o SENHOR\"; e o DOMÍNIO — o Universo, \"os céus, a terra, o mar e tudo o que neles há\" (Êxodo 20:8-11). Portanto, a santificação do sábado irá distinguir os que adoram a Deus daqueles que não O adoram de verdade."
+            ]
+          },
+          {
+            "titulo": "4.3 A pedra de toque da lealdade (Apocalipse 14:12; Tiago 2:26)",
+            "paragrafos": [
+              "Ellen G. White escreveu: \"O sábado será a pedra de toque da lealdade; pois é o ponto da verdade especialmente controvertido. Quando sobrevier aos homens a prova final, traçar-se-á a linha divisória entre os que servem a Deus e os que não o servem.\" (O Grande Conflito, pág. 605) \"Aqui está a perseverança dos santos, os que guardam os mandamentos de Deus e a fé em Jesus.\" (Apocalipse 14:12) Os santos são os que guardam os mandamentos de Deus — e o sábado está incluído — e a fé em Jesus. Não basta dizermos que temos a fé e não obedecermos, pois \"a fé sem obras é morta\" (Tiago 2:26)."
+            ]
+          }
+        ]
+      },
+      {
+        "titulo": "Parte 5 — Respostas às objeções",
+        "paragrafos": [],
+        "subsecoes": [
+          {
+            "titulo": "5.1 \"O sábado era só para Israel\" (Deuteronômio 4:8; Romanos 9:4)",
+            "paragrafos": [
+              "Dizem que o sábado fora dado a Israel, e não ao mundo, e em abono de tal tese citam Êxodo 20:1-2; 34:27-28; Deuteronômio 4:8 e Romanos 9:4. Mas o sábado foi instituído no Éden, antes da existência de Israel. Strong, teólogo batista, afirma: \"O sábado é de obrigação perpétua como memorial instituído por Deus, de sua atividade criadora. A exigência do sábado é anterior à época do Decálogo, e forma uma parte da lei moral. Feito na criação, aplica-se ao homem como homem, em toda a parte e em qualquer tempo.\" Em Deuteronômio 5 temos o decálogo repetido com aplicação especial aos israelitas, e isto prova que a lei divina se aplica a todos os povos em todas as circunstâncias. O livramento dos israelitas constituiu uma razão adicional pela qual deveriam reverenciar o sábado."
+            ]
+          },
+          {
+            "titulo": "5.2 \"Colossenses 2:16-17 aboliu o sábado\" (Colossenses 2:16-17; Levítico 23:37-38)",
+            "paragrafos": [
+              "\"Ninguém, pois, vos julgue por causa de comida e bebida, ou dia de festa, ou lua nova, ou sábados, porque tudo isso tem sido sombra das coisas que haviam de vir; porém o corpo é de Cristo.\" (Colossenses 2:16-17) Comentaristas batistas, metodistas, presbiterianos e de outras denominações reconhecem que o sábado mencionado nestas passagens não se refere ao descanso do sétimo dia, mas aos sábados cerimoniais. A palavra \"sábado\" está no plural, indicando que se refere aos sábados cerimoniais, guardados uma vez ao ano. Em Levítico 23:38 Deus orienta o povo a guardar as festas fixas do Senhor \"além dos sábados do SENHOR\" — isto mostra que, além dos sábados do Senhor, havia outras cerimônias. Alberto R. Timm explica: \"O sábado semanal é um memorial de um evento do início da história da terra (Gênesis 2:2-3; Êxodo 20:8-11). Portanto, os sábados que Paulo declara serem sombras que apontam para Cristo não podem referir-se ao sábado semanal designado pelo quarto mandamento, mas devem indicar os dias de repouso cerimonial.\" Adam Clarke, erudito metodista, também afirma: \"Não há aqui indicação de que o sábado fosse abolido, ou que sua obrigação moral fosse superada pelo estabelecimento do cristianismo.\""
+            ]
+          },
+          {
+            "titulo": "5.3 \"Jesus aboliu o sábado\" (Mateus 5:17; 12:12; João 9:16)",
+            "paragrafos": [
+              "\"Não penseis que vim revogar a lei ou os profetas; não vim para revogar, vim para cumprir.\" (Mateus 5:17) Falou bem quem disse que Cristo não guardou o sábado como mandava a tradição — mas como Deus mandava! Deus não exigia uma observância do sábado do modo como os fariseus queriam; eles tinham fanatizado a guarda do sábado. Jesus guardou o sábado do modo correto: \"Ora, quanto mais vale um homem que uma ovelha? Logo, é lícito, nos sábados, fazer o bem.\" (Mateus 12:12) O objetivo de Jesus ao curar no sábado e permitir que os discípulos colhessem espigas não era abolir, mas ensinar o povo a guardar o sábado do modo correto."
+            ]
+          },
+          {
+            "titulo": "5.4 \"Marcos 2:27 mostra que o sábado foi feito para o homem\" (Marcos 2:27)",
+            "paragrafos": [
+              "\"E acrescentou: O sábado foi estabelecido por causa do homem, e não o homem por causa do sábado.\" (Marcos 2:27) Ao dizer isso, Jesus está afirmando que o dia de guarda foi santificado para beneficiar o homem, e não o homem beneficiar o sábado. Os judeus achavam o contrário. Este texto é muito favorável ao ensinamento de que o sábado deve ser guardado, pois foi feito por causa do homem: Deus viu no ser humano a necessidade de descansar no sábado e dedicar este dia em memória ao Seu poder criador."
+            ]
+          },
+          {
+            "titulo": "5.5 \"Oséias 2:11 profetiza a abolição do sábado\" (Oséias 2:11; Neemias 13:17)",
+            "paragrafos": [
+              "\"Farei cessar todo o seu gozo, as suas Festas de Lua Nova, os seus sábados e todas as suas solenidades.\" (Oséias 2:11) Deus não estava abolindo a guarda do sábado, dia que Ele estabeleceu para que santificássemos (Êxodo 20:8-11). Certa vez o profeta Neemias repreendeu os israelitas por não guardarem o sábado (Neemias 13:17) e, por ordem de Deus, restabeleceu a guarda (Neemias 10:31; 13:15-22). Como Deus iria abolir o sábado se Ele mesmo pediu que o povo fosse instruído a santificar este dia? O Senhor estava dizendo apenas que não suportava mais ver o povo misturar a guarda do sábado com a iniquidade — o povo estava queimando incenso aos baalins (Oséias 2:13). Ao dizer que iria cessar o gozo e os sábados, Deus estava profetizando que permitiria que o castigo viesse sobre eles: seriam escravizados e não mais poderiam comemorar suas festas."
+            ]
+          },
+          {
+            "titulo": "5.6 \"Não há mandamento no Novo Testamento\" (Mateus 5:17-19; Lucas 4:16; Atos 18:4)",
+            "paragrafos": [
+              "Sabe por que no Novo Testamento não se dá diretamente o mandamento \"Guarda o dia de sábado\"? Primeiro, porque manda guardar de modo indireto, através do exemplo dos apóstolos e de Jesus — os atos valem mais do que as palavras. Segundo, porque a Bíblia é uma só: o Velho e o Novo Testamento são um, e o Novo Testamento faz cerca de 637 referências ao Velho Testamento. Para Deus não existe Velho ou Novo Testamento, pois considera as Escrituras como uma só. Se Deus colocou o mandamento diretamente no Velho Testamento, isto basta para todo cristão que segue completamente Sua Palavra. Deus disse \"Lembra-te\" (Êxodo 20:8) porque já sabia que os seres humanos iriam esquecer seu dia de guarda."
+            ]
+          },
+          {
+            "titulo": "5.7 \"Não podemos provar que o sábado de hoje é o mesmo da criação\" (Êxodo 20:8-11)",
+            "paragrafos": [
+              "Existem vários calendários, feitos por homens e não pelas mãos de Deus. Mas quer observadores do domingo (católicos e protestantes), quer da sexta-feira (muçulmanos) ou do sábado (judeus e adventistas), na era cristã jamais houve entre eles a menor dúvida quanto ao dia que guardam. Os registros astronômicos e datas que remontam a séculos confirmam a continuidade da semana. O mandamento do sábado nada diz de ocorrer a guarda do dia de repouso no mesmo espaço de tempo em todos os lugares da Terra; simplesmente ordena guardar o sétimo dia — e este sétimo dia chega em todas as partes da Terra."
+            ]
+          }
+        ]
+      },
+      {
+        "titulo": "Conclusão",
+        "paragrafos": [
+          "Por essas e outras razões, nós, adventistas do sétimo dia, guardamos o sábado. É um memorial eterno do Criador e Redentor. Nos últimos dias, Deus está nos chamando para que O honremos por meio da adoração, e o dia que Ele escolheu para que guardássemos é o sábado, observado por Jesus, pelos primitivos cristãos, por Maria e pelos apóstolos. O sábado é o selo de Deus que deve estar em nossa mente, e o repouso no sétimo dia será o ponto que irá distinguir entre os que servem a Deus e os que não O servem. Sendo assim, podemos concluir que todos nós devemos guardar o sábado, pois cada um precisa obedecer a Deus. É importante para qualquer ser humano lembrar de Deus como Criador, recebendo o selo divino. Que possam ser nossas as palavras do apóstolo Pedro e dos demais apóstolos: \"Antes, importa obedecer a Deus do que aos homens.\" (Atos 5:29) E lembre-se: nossa maior motivação em guardar o sábado deve ser o amor ao Senhor Jesus: \"Se me amais, guardareis os meus mandamentos.\" (João 14:15) \"Bem-aventurado o homem que faz isto, e o filho do homem que nisto se firma, que se guarda de profanar o sábado e guarda a sua mão de cometer algum mal.\" (Isaías 56:2)"
+        ]
+      }
+    ],
+    "linha_do_tempo": [],
+    "perguntas": [
+      {
+        "pergunta": "Por que os adventistas guardam o sábado?",
+        "resposta": "Porque Deus, ao terminar o mundo em seis dias, estabeleceu um dia — o sábado — para que o ser humano parasse com suas atividades e repousasse em Sua companhia; o sábado é um lembrete no tempo de que Deus é o nosso Criador (Gênesis 2:1-3; Êxodo 20:8-11)."
+      },
+      {
+        "pergunta": "O que o sábado comemora?",
+        "resposta": "É memorial do Criador e da Criação, e também memorial da redenção, da libertação do pecado (Gênesis 2:1-3; Deuteronômio 5:15)."
+      },
+      {
+        "pergunta": "Jesus guardou o sábado?",
+        "resposta": "Sim. \"Indo para Nazaré, onde fora criado, entrou, num sábado, na sinagoga, segundo o seu costume, e levantou-se para ler\" (Lucas 4:16; Marcos 6:3)."
+      },
+      {
+        "pergunta": "Os apóstolos guardaram o sábado?",
+        "resposta": "Sim. Paulo, \"segundo o seu costume\", arrazoou por três sábados em Tessalônica e discorria todos os sábados em Corinto, onde permaneceu um ano e seis meses — cerca de 78 sábados (Atos 17:2; 18:3-4, 11; Atos 16:13)."
+      },
+      {
+        "pergunta": "Os primeiros cristãos guardaram o sábado após a morte de Cristo?",
+        "resposta": "Sim. As mulheres que vieram da Galileia com Jesus \"no sábado descansaram, segundo o mandamento\" (Lucas 23:54-56)."
+      },
+      {
+        "pergunta": "O sábado será guardado na Nova Terra?",
+        "resposta": "Sim. \"De uma Festa da Lua Nova à outra e de um sábado a outro, virá toda a carne a adorar perante mim, diz o SENHOR\" (Isaías 66:22-23)."
+      },
+      {
+        "pergunta": "O sábado é o selo de Deus?",
+        "resposta": "Sim. O sábado contém as três características de um selo: o nome (\"Senhor teu Deus\"), a função (\"Criador\") e o domínio (\"os céus, a terra, o mar e tudo o que neles há\") (Êxodo 20:8-11; Apocalipse 7:3)."
+      },
+      {
+        "pergunta": "O sábado era apenas para os judeus?",
+        "resposta": "Não. Foi instituído no Éden, 2.500 anos antes de existir a nação israelita; era observado pelos patriarcas e por nações da antiguidade, como testemunham Filo, Josefo e o calendário assírio (Gênesis 2:1-3; Êxodo 16:23-30)."
+      },
+      {
+        "pergunta": "Colossenses 2:16-17 aboliu o sábado?",
+        "resposta": "Não. O texto trata dos sábados cerimoniais, que eram sombras das coisas futuras; o sábado semanal é memorial de um evento do início da história da terra (Colossenses 2:16-17; Levítico 23:37-38)."
+      },
+      {
+        "pergunta": "Jesus aboliu o sábado?",
+        "resposta": "Não. \"Não penseis que vim revogar a lei ou os profetas; não vim para revogar, vim para cumprir\" (Mateus 5:17); Ele apenas combateu a forma farisaica de guardá-lo (Mateus 12:12)."
+      },
+      {
+        "pergunta": "Por que não há mandamento explícito no Novo Testamento?",
+        "resposta": "Porque o Novo Testamento manda guardar de modo indireto, pelo exemplo de Jesus e dos apóstolos, e porque a Bíblia é uma só — o Novo Testamento faz cerca de 637 referências ao Velho Testamento (Mateus 5:17-19; Lucas 4:16; Atos 18:4)."
+      },
+      {
+        "pergunta": "Qual deve ser a maior motivação para guardar o sábado?",
+        "resposta": "O amor a Jesus: \"Se me amais, guardareis os meus mandamentos\" (João 14:15; 1 João 5:3)."
+      }
+    ],
+    "fontes": [
+      "CAT6051 — Porque os Adventistas guardam o Sábado (Escola Bíblica Novo Tempo; material de Leandro Soares de Quadros)",
+      "CAT6359 — Resposta ao Folheto \"Porque Não Guardamos o Sábado\" (Escola Bíblica Novo Tempo)",
+      "Arnaldo B. Christianini, Sutilezas do Erro, Casa Publicadora Brasileira, págs. 179-188",
+      "Alberto R. Timm, comentário sobre Colossenses 2:16-17",
+      "Ellen G. White, O Grande Conflito, pág. 605",
       "Bíblia Sagrada, versão Almeida Revista e Corrigida"
     ]
   },

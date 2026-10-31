@@ -1,6 +1,6 @@
 {
-  "gerado_em": "2026-10-25T10:48:44",
-  "total_estudos": 20,
+  "gerado_em": "2026-10-31T18:04:32",
+  "total_estudos": 23,
   "temas": [
     {
       "nome": "Escatologia",
@@ -77,7 +77,15 @@
           "versiculo": "Mateus 24:42",
           "arquivo": "js/estudos/como-me-preparar-para-a-volta-de-jesus.json"
         },
-
+        {
+          "id": "ec-12-7-o-que-a-biblia-fala-sobre-a-morte",
+          "tema": "Escatologia",
+          "titulo": "Ec 12.7 — O Que a Bíblia Fala Sobre a Morte",
+          "subtitulo": "Eclesiastes 12:7",
+          "ordem": 7,
+          "versiculo": "Eclesiastes 12:7",
+          "arquivo": "js/estudos/ec-12-7-o-que-a-biblia-fala-sobre-a-morte.json"
+        },
         {
           "id": "porque-deus-nao-destruiu-o-diabo",
           "tema": "Escatologia",
@@ -113,6 +121,24 @@
           "ordem": 16,
           "versiculo": "Daniel 12:1",
           "arquivo": "js/estudos/quando-ocorrera-a-tribulacao-final.json"
+        },
+        {
+          "id": "por-que-espero-a-volta-de-jesus",
+          "tema": "Escatologia",
+          "titulo": "Por Que Espero a Volta de Jesus",
+          "subtitulo": "Jó 19:25-27",
+          "ordem": 18,
+          "versiculo": "Jó 19:25-26",
+          "arquivo": "js/estudos/por-que-espero-a-volta-de-jesus.json"
+        },
+        {
+          "id": "onde-iremos-morar-apos-a-descida-da-santa-cidade",
+          "tema": "Escatologia",
+          "titulo": "Onde Iremos Morar Após a Descida da Santa Cidade",
+          "subtitulo": "Apocalipse 21:2-3",
+          "ordem": 19,
+          "versiculo": "Apocalipse 21:2-3",
+          "arquivo": "js/estudos/onde-iremos-morar-apos-a-descida-da-santa-cidade.json"
         }
       ]
     },
@@ -127,15 +153,6 @@
           "ordem": 1,
           "versiculo": "Eclesiastes 9:5",
           "arquivo": "js/estudos/o-que-ocorre-na-morte.json"
-        },
-        {
-          "id": "ec-12-7-o-que-a-biblia-fala-sobre-a-morte",
-          "tema": "Estado dos mortos",
-          "titulo": "Ec 12.7 — O Que a Bíblia Fala Sobre a Morte",
-          "subtitulo": "Eclesiastes 12:7",
-          "ordem": 7,
-          "versiculo": "Eclesiastes 12:7",
-          "arquivo": "js/estudos/ec-12-7-o-que-a-biblia-fala-sobre-a-morte.json"
         },
         {
           "id": "alma-e-imortal-ou-nao",
@@ -200,6 +217,15 @@
           "ordem": 15,
           "versiculo": "Marcos 2:27-28",
           "arquivo": "js/estudos/senhor-do-sabado-colher-espigas.json"
+        },
+        {
+          "id": "porque-os-adventistas-guardam-o-sabado",
+          "tema": "O Sábado",
+          "titulo": "Porque os Adventistas Guardam o Sábado",
+          "subtitulo": "Êxodo 20:8-11",
+          "ordem": 20,
+          "versiculo": "Êxodo 20:8-10",
+          "arquivo": "js/estudos/porque-os-adventistas-guardam-o-sabado.json"
         }
       ]
     }
