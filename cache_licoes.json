@@ -118,5 +118,15 @@
     "titulo": "Os escritos proféticos",
     "trimestre": 4,
     "ano": 2026
+  },
+  "https://mais.cpb.com.br/licao/agora-oucam-isto-4o-trimestre-2026": {
+    "periodo": [
+      "2026-11-07",
+      "2026-11-13"
+    ],
+    "numero": 7,
+    "titulo": "Agora, ouçam isto!",
+    "trimestre": 4,
+    "ano": 2026
   }
 }
